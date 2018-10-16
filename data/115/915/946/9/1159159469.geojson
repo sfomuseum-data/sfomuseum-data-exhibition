@@ -1,0 +1,120 @@
+{
+  "id": 1159159469,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2005-01-24",
+    "date:cessation_upper":"2005-01-24",
+    "date:inception_lower":"2004-05-18",
+    "date:inception_upper":"2004-05-18",
+    "edtf:cessation":"2005-01-24",
+    "edtf:inception":"2004-05-18",
+    "geom:area":0.0,
+    "geom:area_square_m":723.824295,
+    "geom:bbox":"-122.389093561,37.615157822,-122.388790944,37.6156890196",
+    "geom:latitude":37.615424,
+    "geom:longitude":-122.388942,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"The S.S. Normandie was the most glamorous ocean liner of her day, and was furnished with outstanding art deco fittings by the best known French designers. The exhibition comprises decorative and utilitarian objects, such as china and ornamental elements, used on the \"Normandie.\" From the collection of John Miottel.",
+    "sfomuseum:exhibition_id":148,
+    "sfomuseum:exhibition_number":"L2003.23",
+    "sfomuseum:exhibition_type":"nonaviation",
+    "sfomuseum:gallery_id":[
+        18,
+        19,
+        20
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:terminal_id":"ITB",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        1360516189,
+        85922583,
+        102087579,
+        85688637,
+        1159396319,
+        1159396107,
+        1360516197,
+        1360516287
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949765,
+    "wof:geomhash":"5819476d77c04a1b83ab8614ba70c216",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396319,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516189,
+            "installation_id":1159159469,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396107
+        },
+        {
+            "building_id":1159396319,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516197,
+            "installation_id":1159159469,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396107
+        },
+        {
+            "building_id":1159396319,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516287,
+            "installation_id":1159159469,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396107
+        }
+    ],
+    "wof:id":1159159469,
+    "wof:is_current":0,
+    "wof:label":"S.S. Normandie (2004-05-18 - 2005-01-24)",
+    "wof:lastmodified":1539635328,
+    "wof:name":"S.S. Normandie",
+    "wof:parent_id":-4,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonaviation",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38909356109951,
+    37.61515782199906,
+    -122.38879094366311,
+    37.61568901962578
+],
+  "geometry": {"coordinates":[[[[-122.38909356109951,37.61565407241349],[-122.38895377225037,37.61568901962578],[-122.38879094366311,37.6151908099386],[-122.38892581448054,37.61515782199906],[-122.38909356109951,37.61565407241349]]]],"type":"MultiPolygon"}
+}

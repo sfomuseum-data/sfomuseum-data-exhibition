@@ -1,0 +1,91 @@
+{
+  "id": 1159159681,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2007-01-23",
+    "date:cessation_upper":"2007-01-23",
+    "date:inception_lower":"2006-08-15",
+    "date:inception_upper":"2006-08-15",
+    "edtf:cessation":"2007-01-23",
+    "edtf:inception":"2006-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":1011.733836,
+    "geom:bbox":"-122.389363069,37.6143758935,-122.388677931,37.6146893172",
+    "geom:latitude":37.614533,
+    "geom:longitude":-122.38902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"The Hopi people of Arizona have a long tradition of carving wooden effigies of katsinam, the supernatural beings who visit the Hopi during ceremonies throughout half of the year and serve a variety of functions. Hopi katsinam represent plants, animals, insects, humans, fertility, the sun, and perhaps most significantly for people living in the American Southwest, the rain. Costumed Hopi men, assuming the powers and prestige of specific katsinam, present these effigies to infants and young girls and they are properly displayed in the home to the benefit of the owner. From the late 19th century to the present, many \"dolls\" were carved as art objects and sold to people outside of the Hopi culture. This exhibition features more than one hundred katsina \"dolls\" from this period. They are on generous loan from the California Academy of Sciences, Department of Anthropology.",
+    "sfomuseum:exhibition_id":774,
+    "sfomuseum:exhibition_number":"NonAviation",
+    "sfomuseum:exhibition_type":"nonaviation",
+    "sfomuseum:gallery_id":[
+        17
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":0,
+    "sfomuseum:terminal_id":"ITB",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        1360516277,
+        85922583,
+        102087579,
+        85688637,
+        1159396337,
+        1159396147
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949799,
+    "wof:geomhash":"abac090f15706015b2b1f59827bd6cf0",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516277,
+            "installation_id":1159159681,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396147
+        }
+    ],
+    "wof:id":1159159681,
+    "wof:is_current":0,
+    "wof:label":"Following the Hopi Ceremonial Calendar: The Tradition of Katsinam (2006-08-15 - 2007-01-23)",
+    "wof:lastmodified":1539637524,
+    "wof:name":"Following the Hopi Ceremonial Calendar: The Tradition of Katsinam",
+    "wof:parent_id":1360516277,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38936306913051,
+    37.61437589351478,
+    -122.38867793122512,
+    37.61468931724495
+],
+  "geometry": {"coordinates":[[[-122.38936306913051,37.61452686186533],[-122.38872737416673,37.61468931724495],[-122.38867793122512,37.61454098842007],[-122.38930463790894,37.61437589351478],[-122.38936306913051,37.61452686186533]]],"type":"Polygon"}
+}

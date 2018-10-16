@@ -1,0 +1,91 @@
+{
+  "id": 1159160043,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2010-03-22",
+    "date:cessation_upper":"2010-03-22",
+    "date:inception_lower":"2009-10-12",
+    "date:inception_upper":"2009-10-12",
+    "edtf:cessation":"2010-03-22",
+    "edtf:inception":"2009-10-12",
+    "geom:area":0.0,
+    "geom:area_square_m":1128.729477,
+    "geom:bbox":"-122.390083523,37.6164325512,-122.389377196,37.6167588575",
+    "geom:latitude":37.616594,
+    "geom:longitude":-122.389725,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"Scenes depicted on Greek and Etruscan vases reveal many of the cultural practices and daily lives of these ancient peoples. Ceramic vessels explore a wide variety of subject matter including myths, gods and demons, warriors at battle, animals, social gatherings, athletics, and the roles of men and women in society.  With over forty ceramic vases on view, this exhibition explores black-and-red figure pottery of Ancient Greece and its colonies as well as Etruscan wares. From drinking cups meant to ward off the evil eye to vessels that depict famous Greek heroes and gods such as Herakles and Zeus, Ancient Mediterranean Painted Pottery showcases a spectacular range of vessels.",
+    "sfomuseum:exhibition_id":1002,
+    "sfomuseum:exhibition_number":"L2009.10",
+    "sfomuseum:exhibition_type":"nonaviation",
+    "sfomuseum:gallery_id":[
+        20
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":0,
+    "sfomuseum:terminal_id":"ITB",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        1360516285,
+        85922583,
+        102087579,
+        85688637,
+        1159396337,
+        1159396147
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949855,
+    "wof:geomhash":"da69d686407acbe846d0db0c09e2521a",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516285,
+            "installation_id":1159160043,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396147
+        }
+    ],
+    "wof:id":1159160043,
+    "wof:is_current":0,
+    "wof:label":"Scenes from Myths and Daily Life: Ancient Mediterranean Pottery (2009-10-12 - 2010-03-22)",
+    "wof:lastmodified":1539637508,
+    "wof:name":"Scenes from Myths and Daily Life: Ancient Mediterranean Pottery",
+    "wof:parent_id":1360516285,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonaviation",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.39008352342279,
+    37.61643255118801,
+    -122.38937719568526,
+    37.6167588575159
+],
+  "geometry": {"coordinates":[[[-122.39008352342279,37.61658933885889],[-122.38941957534951,37.6167588575159],[-122.38937719568526,37.61658933885889],[-122.39003419876099,37.61643255118801],[-122.39008352342279,37.61658933885889]]],"type":"Polygon"}
+}

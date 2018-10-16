@@ -1,0 +1,94 @@
+{
+  "id": 1159159799,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2006-07-19",
+    "date:cessation_upper":"2006-07-19",
+    "date:inception_lower":"2006-04-05",
+    "date:inception_upper":"2006-04-05",
+    "edtf:cessation":"2006-07-19",
+    "edtf:inception":"2006-04-05",
+    "geom:area":0.0,
+    "geom:area_square_m":397.817241,
+    "geom:bbox":"-122.387459278,37.6202482654,-122.387158871,37.6205626919",
+    "geom:latitude":37.620404,
+    "geom:longitude":-122.387308,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:boardingarea_id":"BOARDING AREA F",
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"In 1895, eleven years before the 1906 earthquake and fire, the West Coast's largest metropolis was on the cusp of great prosperity. After the post-depression years of the mid-1890s, the city grew in population and prominence to become the West Coast center for finance, manufacturing, and shipping.  \r\rPublished in 1895, these images from \"The Illustrated Directory\" include well-known San Francisco structures that housed the Ferry Building, the Wells Fargo Bank Building, the Crocker Building, and the Western Union Telegraph Company. The directory also listed saloons, private detective agencies, jewelers, dentists, photographers, shipping companies, clothiers, and fine candy shops. Today, this collection of rare and well-rendered illustrations captures the grandeur of \"the Paris of the West\" prior to the 1906 earthquake and fire.\r\rPre-Earthquake Images of San Francisco From \"The Illustrated Directory\" is presented in conjunction with San Francisco Rising-a series of events and programs established by Mayor Gavin Newsom to commemorate the great loss caused by the 1906 earthquake and fire, and to celebrate the tremendous progress achieved over the last one hundred years. These images are courtesy of the David Rumsey Map Collection, www.davidrumsey.com.",
+    "sfomuseum:exhibition_id":859,
+    "sfomuseum:exhibition_number":"and the Western Union Telegraph Company. The directory also listed saloons",
+    "sfomuseum:exhibition_type":"photography",
+    "sfomuseum:gallery_id":[
+        3
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":1,
+    "sfomuseum:terminal_id":"T3",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1159396221,
+        102527513,
+        102191575,
+        85633793,
+        1360516141,
+        85922583,
+        102087579,
+        85688637,
+        1159396337,
+        1159396167
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949810,
+    "wof:geomhash":"217d31b2ae6bde0de046e19381ed9ec2",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "concourse_id":1159396221,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516141,
+            "installation_id":1159159799,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396167
+        }
+    ],
+    "wof:id":1159159799,
+    "wof:is_current":0,
+    "wof:label":"Pre-Earthquake Images of San Francisco from \"The Illustrated Dictionary\" (2006-04-05 - 2006-07-19)",
+    "wof:lastmodified":1539635318,
+    "wof:name":"Pre-Earthquake Images of San Francisco from \"The Illustrated Dictionary\"",
+    "wof:parent_id":1360516141,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thecrockerbuilding",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38745927810668,
+    37.62024826536221,
+    -122.38715887069702,
+    37.62056269187256
+],
+  "geometry": {"coordinates":[[[-122.38745927810668,37.62028225748149],[-122.38733053207397,37.62024826536221],[-122.38715887069702,37.62052869988149],[-122.38727688789368,37.62056269187256],[-122.38745927810668,37.62028225748149]]],"type":"Polygon"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1159160021,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2009-05-25",
+    "date:cessation_upper":"2009-05-25",
+    "date:inception_lower":"2008-09-26",
+    "date:inception_upper":"2008-09-26",
+    "edtf:cessation":"2009-05-25",
+    "edtf:inception":"2008-09-26",
+    "geom:area":0.0,
+    "geom:area_square_m":1011.733836,
+    "geom:bbox":"-122.389363069,37.6143758935,-122.388677931,37.6146893172",
+    "geom:latitude":37.614533,
+    "geom:longitude":-122.38902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"Significant changes in preparing and cooking food took place during the Victorian Era (1837-1901), and the objects in this exhibition reflect the ongoing progression in kitchen technology during this period. The conversion from the open hearth to the cast-iron cooking range in the mid-nineteenth century revolutionized the Victorian kitchen. It also demanded an entirely new set of kitchenwares and prompted a variety of new menu items.",
+    "sfomuseum:exhibition_id":989,
+    "sfomuseum:exhibition_number":"L2008.29",
+    "sfomuseum:exhibition_type":"nonaviation",
+    "sfomuseum:gallery_id":[
+        17
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":0,
+    "sfomuseum:terminal_id":"ITB",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        1360516277,
+        85922583,
+        102087579,
+        85688637,
+        1159396337,
+        1159396147
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949851,
+    "wof:geomhash":"abac090f15706015b2b1f59827bd6cf0",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516277,
+            "installation_id":1159160021,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396147
+        }
+    ],
+    "wof:id":1159160021,
+    "wof:is_current":0,
+    "wof:label":"The Victorian Kitchen (2008-09-26 - 2009-05-25)",
+    "wof:lastmodified":1539637510,
+    "wof:name":"The Victorian Kitchen",
+    "wof:parent_id":1360516277,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonaviation",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38936306913051,
+    37.61437589351478,
+    -122.38867793122512,
+    37.61468931724495
+],
+  "geometry": {"coordinates":[[[-122.38936306913051,37.61452686186533],[-122.38872737416673,37.61468931724495],[-122.38867793122512,37.61454098842007],[-122.38930463790894,37.61437589351478],[-122.38936306913051,37.61452686186533]]],"type":"Polygon"}
+}

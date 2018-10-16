@@ -1,0 +1,93 @@
+{
+  "id": 1159160687,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2017-10-15",
+    "date:cessation_upper":"2017-10-15",
+    "date:inception_lower":"2016-09-14",
+    "date:inception_upper":"2016-09-14",
+    "edtf:cessation":"2017-10-15",
+    "edtf:inception":"2016-09-14",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.387989365,37.6143852836,-122.387989365,37.6143852836",
+    "geom:latitude":37.614385,
+    "geom:longitude":-122.387989,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"see R2016.03, Fashion in Flight for these records.",
+    "sfomuseum:exhibition_id":"1460",
+    "sfomuseum:exhibition_number":"R2016.03",
+    "sfomuseum:exhibition_type":"aviation",
+    "sfomuseum:gallery_id":[
+        42
+    ],
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":0,
+    "sfomuseum:terminal_id":"ITB",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1159157335,
+        1159157863,
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        85688637,
+        1159157271,
+        1159157333,
+        1360541677
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949940,
+    "wof:geomhash":"5b79a90681cd86bcef4068464608be37",
+    "wof:hierarchy":[
+        {
+            "building_id":1159157271,
+            "campus_id":102527513,
+            "concourse_id":1159157335,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1159157863,
+            "installation_id":1159160687,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "venue_id":1159157863,
+            "wing_id":1159157333
+        }
+    ],
+    "wof:id":1159160687,
+    "wof:is_current":0,
+    "wof:label":"Fashion In Flight: A Photo Album (2016-09-14 - 2017-10-15)",
+    "wof:lastmodified":1539637516,
+    "wof:name":"Fashion In Flight: A Photo Album",
+    "wof:parent_id":1360541677,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aviation",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38798936547909,
+    37.61438528355631,
+    -122.38798936547909,
+    37.61438528355631
+],
+  "geometry": {"coordinates":[-122.38798936547909,37.61438528355631],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1159159467,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2006-01-01",
+    "date:cessation_upper":"2006-01-01",
+    "date:inception_lower":"2000-04-25",
+    "date:inception_upper":"2000-04-25",
+    "edtf:cessation":"2006-01-01",
+    "edtf:inception":"2000-04-25",
+    "geom:area":0.0,
+    "geom:area_square_m":4771.257349,
+    "geom:bbox":"-122.387962586,37.6195730009,-122.386992234,37.6203037597",
+    "geom:latitude":37.61993,
+    "geom:longitude":-122.387496,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:boardingarea_id":"BOARDING AREA F",
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"Examples of World War and early aircraft, including the Halberstadt D.II, RAF B.E. 2c, RAF S.E.5a, de Havilland Tiger Moth, Stampe SV.4, Stearman Kaydet, Fokker Dr.I Triplane, and Bowers Fly Baby, from the Goosedale Aviation Model Collection are featured in the North Terminal United Hub. The displayed models range from monoplanes to triplanes, constructed from 1916 to 1960, and wingspans are from 80 inches to 260 incles. Most of the aircraft represented were used in World War I and World War II and in immediate post-war capacities.",
+    "sfomuseum:exhibition_id":147,
+    "sfomuseum:exhibition_number":"L2000.16",
+    "sfomuseum:exhibition_type":"aviation",
+    "sfomuseum:gallery_id":[
+        37
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":1,
+    "sfomuseum:terminal_id":"T3",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1159396205,
+        102527513,
+        102191575,
+        85633793,
+        1360516157,
+        85922583,
+        102087579,
+        85688637,
+        1159396319,
+        1159396123
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949765,
+    "wof:geomhash":"60782e8a7b0f612aa90ca90930f2983c",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396319,
+            "campus_id":102527513,
+            "concourse_id":1159396205,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516157,
+            "installation_id":1159159467,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396123
+        }
+    ],
+    "wof:id":1159159467,
+    "wof:is_current":0,
+    "wof:label":"Goosedale Aviation Models (2000-04-25 - 2006-01-01)",
+    "wof:lastmodified":1539635328,
+    "wof:name":"Goosedale Aviation Models",
+    "wof:parent_id":1360516157,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aviation",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38796258587749,
+    37.61957300085052,
+    -122.38699223402504,
+    37.62030375965297
+],
+  "geometry": {"coordinates":[[[-122.38748339977751,37.62030375965297],[-122.38719588811753,37.62019594278048],[-122.38699223402504,37.61975269563801],[-122.38748339977751,37.61957300085052],[-122.38761517595501,37.61959696015551],[-122.38786674865749,37.61970477702801],[-122.38796258587749,37.61992041077299],[-122.3877709114375,37.62024386139047],[-122.38748339977751,37.62030375965297]]],"type":"Polygon"}
+}

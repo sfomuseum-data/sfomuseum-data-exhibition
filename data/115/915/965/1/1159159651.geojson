@@ -1,0 +1,91 @@
+{
+  "id": 1159159651,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2013-01-31",
+    "date:cessation_upper":"2013-01-31",
+    "date:inception_lower":"2012-11-07",
+    "date:inception_upper":"2012-11-07",
+    "edtf:cessation":"2013-01-31",
+    "edtf:inception":"2012-11-07",
+    "geom:area":0.0,
+    "geom:area_square_m":319.866099,
+    "geom:bbox":"-122.387651989,37.6175639376,-122.3873794,37.6178085681",
+    "geom:latitude":37.617685,
+    "geom:longitude":-122.387515,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"Kenn Botto, author of \"Past Joys,\" is exhibiting works from his book in addition to selected new pieces. Botto photographs assemblage pieces of collected and constructed objects which form small surrealistic landscapes. Exhibition is located between Gate 72 and the Hub of the North Terminal.",
+    "sfomuseum:exhibition_id":713,
+    "sfomuseum:exhibition_number":"Photography",
+    "sfomuseum:exhibition_type":"photography",
+    "sfomuseum:gallery_id":[
+        60
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":0,
+    "sfomuseum:terminal_id":"T3",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        1360516163,
+        85922583,
+        102087579,
+        85688637,
+        1159396333,
+        1159396141
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949790,
+    "wof:geomhash":"e8ec31080767751c47f8ce8e6030e2fb",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396333,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516163,
+            "installation_id":1159159651,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396141
+        }
+    ],
+    "wof:id":1159159651,
+    "wof:is_current":0,
+    "wof:label":"Ken Botto: Robot Portraits (2012-11-07 - 2013-01-31)",
+    "wof:lastmodified":1539637523,
+    "wof:name":"Ken Botto: Robot Portraits",
+    "wof:parent_id":1360516163,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38765198859276,
+    37.61756393756484,
+    -122.38737940033695,
+    37.61780856805083
+],
+  "geometry": {"coordinates":[[[-122.38737940033695,37.61769673697152],[-122.38754015751346,37.61756393756484],[-122.38765198859276,37.61766877920169],[-122.38749123141626,37.61780856805083],[-122.38737940033695,37.61769673697152]]],"type":"Polygon"}
+}

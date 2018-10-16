@@ -1,0 +1,120 @@
+{
+  "id": 1159160179,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2010-10-25",
+    "date:cessation_upper":"2010-10-25",
+    "date:inception_lower":"2010-04-29",
+    "date:inception_upper":"2010-04-29",
+    "edtf:cessation":"2010-10-25",
+    "edtf:inception":"2010-04-29",
+    "geom:area":0.0,
+    "geom:area_square_m":87.445228,
+    "geom:bbox":"-122.389322465,37.6155859253,-122.389210634,37.6157029985",
+    "geom:latitude":37.615645,
+    "geom:longitude":-122.389267,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"Shanghai played a historic role as the cultural and economic center of East Asia throughout the first half of the 20th century. Beginning in 1990, the Chinese government launched an ambitious building program to make the city once again the financial hub for the region and a symbol of modernity and innovation.  Better City, Better Life: High-Rise Architecture and the Remaking of China\u2019s Gateway to the World is scheduled to coincide with the 2010 World\u2019s Fair hosted by Shanghai, San Francisco\u2019s sister city.  Models, drawings, photographs, and video components will illustrate ten architectural projects at the center of the dramatic transformation of Shanghai\u2019s skyline during the past two decades.  Iconic buildings from seven different architecture firms are represented.  A special emphasis is given to Gensler\u2019s Shanghai Tower, which incorporates a variety of innovative features necessary for sustainable urban development, and will stand as the centerpiece of Shanghai\u2019s skyline when completed in 2014.",
+    "sfomuseum:exhibition_id":1105,
+    "sfomuseum:exhibition_number":"L2009.34",
+    "sfomuseum:exhibition_type":"nonaviation",
+    "sfomuseum:gallery_id":[
+        18,
+        19,
+        59
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:terminal_id":"ITB",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        1360516187,
+        85922583,
+        102087579,
+        85688637,
+        1159396337,
+        1159396147,
+        1360516195,
+        1360516205
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949870,
+    "wof:geomhash":"bd952ad1cee145b6158907c51010827b",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516187,
+            "installation_id":1159160179,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396147
+        },
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516195,
+            "installation_id":1159160179,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396147
+        },
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516205,
+            "installation_id":1159160179,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396147
+        }
+    ],
+    "wof:id":1159160179,
+    "wof:is_current":0,
+    "wof:label":"Shanghai: High-Rise Architecture and the Remaking of China\u2019s Gateway to the World (2010-04-29 - 2010-10-25)",
+    "wof:lastmodified":1539635301,
+    "wof:name":"Shanghai: High-Rise Architecture and the Remaking of China\u2019s Gateway to the World",
+    "wof:parent_id":-4,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonaviation",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38932246533999,
+    37.61558592534954,
+    -122.38921063426066,
+    37.61570299851069
+],
+  "geometry": {"coordinates":[[[[-122.38932246533999,37.61568028282272],[-122.38923334994865,37.61570299851069],[-122.38921063426066,37.61561038839815],[-122.38930149701261,37.61558592534954],[-122.38932246533999,37.61568028282272]]]],"type":"MultiPolygon"}
+}

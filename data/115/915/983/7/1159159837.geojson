@@ -1,0 +1,91 @@
+{
+  "id": 1159159837,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2007-01-22",
+    "date:cessation_upper":"2007-01-22",
+    "date:inception_lower":"2006-07-26",
+    "date:inception_upper":"2006-07-26",
+    "edtf:cessation":"2007-01-22",
+    "edtf:inception":"2006-07-26",
+    "geom:area":0.0,
+    "geom:area_square_m":1128.729477,
+    "geom:bbox":"-122.390083523,37.6164325512,-122.389377196,37.6167588575",
+    "geom:latitude":37.616594,
+    "geom:longitude":-122.389725,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"\"Made In China: A Visual Feast of Color and Design\" chronicles how, in the twentieth century, each generation of artists, graphic designers, and illustrators interpreted historical myths and legends in innovative ways and combined them with new advertising techniques with striking results. Packaging labels, books, records, garments, statuettes, and fireworks labels convey a visual history of life in twentieth century China.",
+    "sfomuseum:exhibition_id":881,
+    "sfomuseum:exhibition_number":"graphic designers",
+    "sfomuseum:exhibition_type":"nonaviation",
+    "sfomuseum:gallery_id":[
+        20
+    ],
+    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":0,
+    "sfomuseum:terminal_id":"ITB",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        1360516285,
+        85922583,
+        102087579,
+        85688637,
+        1159396337,
+        1159396147
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949820,
+    "wof:geomhash":"da69d686407acbe846d0db0c09e2521a",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516285,
+            "installation_id":1159159837,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396147
+        }
+    ],
+    "wof:id":1159159837,
+    "wof:is_current":0,
+    "wof:label":"Made In China: A Visual Feast of Color and Design (2006-07-26 - 2007-01-22)",
+    "wof:lastmodified":1539637519,
+    "wof:name":"Made In China: A Visual Feast of Color and Design",
+    "wof:parent_id":1360516285,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eachgenerationofartists",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.39008352342279,
+    37.61643255118801,
+    -122.38937719568526,
+    37.6167588575159
+],
+  "geometry": {"coordinates":[[[-122.39008352342279,37.61658933885889],[-122.38941957534951,37.6167588575159],[-122.38937719568526,37.61658933885889],[-122.39003419876099,37.61643255118801],[-122.39008352342279,37.61658933885889]]],"type":"Polygon"}
+}

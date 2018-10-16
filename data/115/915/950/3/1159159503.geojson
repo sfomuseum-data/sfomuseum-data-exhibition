@@ -1,0 +1,91 @@
+{
+  "id": 1159159503,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2001-09-30",
+    "date:cessation_upper":"2001-09-30",
+    "date:inception_lower":"2001-05-17",
+    "date:inception_upper":"2001-05-17",
+    "edtf:cessation":"2001-09-30",
+    "edtf:inception":"2001-05-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.387989365,37.6143852836,-122.387989365,37.6143852836",
+    "geom:latitude":37.614385,
+    "geom:longitude":-122.387989,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"A selection of vintage airline posters from the 1950s and 1960s. The original offset lithographic prints evoke the allure of air travel.",
+    "sfomuseum:exhibition_id":"176",
+    "sfomuseum:exhibition_number":"L2001.19",
+    "sfomuseum:exhibition_type":"aviation",
+    "sfomuseum:gallery_id":[
+        30
+    ],
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"exhibition",
+    "sfomuseum:post_security":0,
+    "sfomuseum:terminal_id":"ITB",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1360521571,
+        102527513,
+        102191575,
+        85633793,
+        1360541563,
+        85922583,
+        102087579,
+        85688637,
+        1159396319,
+        1159396107
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522949769,
+    "wof:geomhash":"5b79a90681cd86bcef4068464608be37",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396319,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360541563,
+            "installation_id":1159159503,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "venue_id":1360521571,
+            "wing_id":1159396107
+        }
+    ],
+    "wof:id":1159159503,
+    "wof:is_current":0,
+    "wof:label":"Fly Overseas: Vintage Airline Posters (2001-05-17 - 2001-09-30)",
+    "wof:lastmodified":1539637524,
+    "wof:name":"Fly Overseas: Vintage Airline Posters",
+    "wof:parent_id":1360541563,
+    "wof:placetype":"installation",
+    "wof:placetype_alt":"exhibition",
+    "wof:repo":"sfomuseum-data-exhibition",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aviation",
+        "exhibition"
+    ]
+},
+  "bbox": [
+    -122.38798936547909,
+    37.61438528355631,
+    -122.38798936547909,
+    37.61438528355631
+],
+  "geometry": {"coordinates":[-122.38798936547909,37.61438528355631],"type":"Point"}
+}
