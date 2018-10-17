@@ -39,9 +39,9 @@
         1360541553,
         85922583,
         102087579,
-        85688637,
         1159554803,
-        1159554821
+        1159554821,
+        85688637
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -64,7 +64,7 @@
     ],
     "wof:id":1226617359,
     "wof:label":"Children's Art: French American School (1996-12-12 - 1997-01-22)",
-    "wof:lastmodified":1539635260,
+    "wof:lastmodified":1539738902,
     "wof:name":"Children's Art: French American School",
     "wof:parent_id":1360541553,
     "wof:placetype":"installation",

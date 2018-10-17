@@ -39,9 +39,9 @@
         1360541553,
         85922583,
         102087579,
-        85688637,
         1159554803,
-        1159554821
+        1159554821,
+        85688637
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -64,7 +64,7 @@
     ],
     "wof:id":1226604603,
     "wof:label":"Children's Art: San Francisco Arts Education Project (1997-05-30 - 1997-07-14)",
-    "wof:lastmodified":1539635286,
+    "wof:lastmodified":1539738900,
     "wof:name":"Children's Art: San Francisco Arts Education Project",
     "wof:parent_id":1360541553,
     "wof:placetype":"installation",

@@ -39,9 +39,9 @@
         1360541553,
         85922583,
         102087579,
-        85688637,
         1159554803,
-        1159554821
+        1159554821,
+        85688637
     ],
     "wof:breaches":[],
     "wof:country":"US",
@@ -64,7 +64,7 @@
     ],
     "wof:id":1226604001,
     "wof:label":"Children's Art: Creativity Explored 4 (1997-03-04 - 1997-05-29)",
-    "wof:lastmodified":1539635279,
+    "wof:lastmodified":1539738900,
     "wof:name":"Children's Art: Creativity Explored 4",
     "wof:parent_id":1360541553,
     "wof:placetype":"installation",
