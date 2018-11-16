@@ -17,6 +17,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "sfomuseum:building_id":"SFO",
+    "sfomuseum:description":"Director Samantha Casolari showcases a group of dancers from the DREAM Ring (Dancing Rules Everything Around Me) who demonstrate flexing on the streets of Brooklyn\u2019s Bedford-Stuyvesant neighborhood, where the dance form was created.",
     "sfomuseum:exhibition_id":1577,
     "sfomuseum:exhibition_type":"videoart",
     "sfomuseum:gallery_id":[
@@ -63,8 +64,8 @@
     ],
     "wof:id":1226620353,
     "wof:label":"Ophion (2018-04-12 - 2018-05-09)",
-    "wof:lastmodified":1539637485,
-    "wof:name":"Ophion",
+    "wof:lastmodified":1542331500,
+    "wof:name":"ophion",
     "wof:parent_id":1159157939,
     "wof:placetype":"installation",
     "wof:placetype_alt":"exhibition",

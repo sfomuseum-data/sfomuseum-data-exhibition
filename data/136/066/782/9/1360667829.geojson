@@ -16,6 +16,7 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "sfomuseum:description":"Melbourne-based filmmaker Luke Saunders creates a visually stunning world in which a young woman endeavors to complete the life\u2019s work of her father in a thoroughly electrified cityscape that supports a diverse ecosystem of strange creatures.",
     "sfomuseum:exhibition_id":1579,
     "sfomuseum:exhibition_type":"videoart",
     "sfomuseum:gallery_id":[
@@ -60,8 +61,8 @@
         }
     ],
     "wof:id":1360667829,
-    "wof:lastmodified":1539637500,
-    "wof:name":"Fisherman",
+    "wof:lastmodified":1542331502,
+    "wof:name":"The Fisherman",
     "wof:parent_id":1159157939,
     "wof:placetype":"installation",
     "wof:placetype_alt":"exhibition",
