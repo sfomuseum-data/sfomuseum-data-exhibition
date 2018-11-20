@@ -17,5 +17,5 @@ scrub: rm-empty prune
 
 stats:
 	if test ! -d docs/stats; then mkdir -p docs/stats; fi
-	utils/$(OS)/wof-stats-counts -pretty -out docs/stats/counts.json ./
+	utils/$(OS)/wof-stats-counts -pretty -custom 'properties.sfomuseum:placetype' -custom 'properties.sfomuseum:exhibition_type' -out docs/stats/counts.json ./
 	utils/$(OS)/wof-stats-du -pretty > docs/stats/diskusage.json ./
