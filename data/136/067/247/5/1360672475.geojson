@@ -8,6 +8,7 @@
     "date:inception_upper":"2018-10-16",
     "edtf:cessation":"2019-01-29",
     "edtf:inception":"2018-10-16",
+    "flysfo:url":"https://www.flysfo.com/museum/exhibitions/doug-fogelson-chemical-alterations",
     "geom:area":0.0,
     "geom:area_square_m":83.495225,
     "geom:bbox":"-122.384912127,37.6177334315,-122.384716423,37.6178417679",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1360672475,
-    "wof:lastmodified":1539738909,
+    "wof:lastmodified":1543429926,
     "wof:name":"Doug Fogelson | Chemical Alterations",
     "wof:parent_id":1159157065,
     "wof:placetype":"installation",
