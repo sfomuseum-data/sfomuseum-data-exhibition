@@ -8,6 +8,7 @@
     "date:inception_upper":"2018-09-14",
     "edtf:cessation":"2019-06-10",
     "edtf:inception":"2018-09-14",
+    "flysfo:node":24102,
     "flysfo:url":"https://www.flysfo.com/museum/exhibitions/down-home-music-story-arhoolie-records",
     "geom:area":0.0,
     "geom:area_square_m":504.394795,
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1360664647,
-    "wof:lastmodified":1543429927,
+    "wof:lastmodified":1543434586,
     "wof:name":"Down-Home Music: The Story of Arhoolie Records",
     "wof:parent_id":1159157067,
     "wof:placetype":"installation",
