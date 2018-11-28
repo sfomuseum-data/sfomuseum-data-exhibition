@@ -8,6 +8,7 @@
     "date:inception_upper":"2015-04-10",
     "edtf:cessation":"2015-11-16",
     "edtf:inception":"2015-04-10",
+    "flysfo:url":"http://www.flysfo.com/museum/exhibitions/tushanwan-pagodas-models-1915-panama-pacific-international-exposition",
     "geom:area":0.0,
     "geom:area_square_m":776.781935,
     "geom:bbox":"-122.38927831,37.6157449352,-122.388988719,37.6163068078",
@@ -39,9 +40,9 @@
         1360541665,
         85922583,
         102087579,
+        85688637,
         1159396321,
-        1159396153,
-        85688637
+        1159396153
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -69,7 +70,7 @@
     "wof:id":1159160547,
     "wof:is_current":0,
     "wof:label":"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition (2015-04-03 - 2015-11-02)",
-    "wof:lastmodified":1542331486,
+    "wof:lastmodified":1543428208,
     "wof:name":"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition",
     "wof:parent_id":1360541665,
     "wof:placetype":"installation",
