@@ -17,7 +17,7 @@
     "geom:longitude":-122.388951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:description":"The streets of San Francisco\u2019s Mission District come alive in Ramin Talaie\u2019s documentation of the city\u2019s annual celebration of D\u00eda de Muertos (Day of the Dead), a public holiday observed throughout Mexico and by people of Mexican ancestry everywhere.",
     "sfomuseum:exhibition_id":1702,
     "sfomuseum:exhibition_type":"videoart",
@@ -30,6 +30,7 @@
     "sfomuseum:on_display":1,
     "sfomuseum:placetype":"exhibition",
     "sfomuseum:post_security":0,
+    "src:geom":"unknown",
     "wof:belongsto":[
         1159157335,
         102527513,
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1360700729,
-    "wof:lastmodified":1543434585,
+    "wof:lastmodified":1543883361,
     "wof:name":"Dia de los Muerto",
     "wof:parent_id":1159157939,
     "wof:placetype":"installation",

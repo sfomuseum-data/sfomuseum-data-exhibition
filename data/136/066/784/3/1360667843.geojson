@@ -15,7 +15,7 @@
     "geom:longitude":-122.387308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:exhibition_id":1632,
     "sfomuseum:exhibition_type":"photography",
     "sfomuseum:gallery_id":[
@@ -28,6 +28,7 @@
     "sfomuseum:placetype":"exhibition",
     "sfomuseum:post_security":1,
     "sfomuseum:terminal_id":"T3",
+    "src:geom":"unknown",
     "wof:belongsto":[
         1159396301,
         102527513,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1360667843,
-    "wof:lastmodified":1539637501,
+    "wof:lastmodified":1543882982,
     "wof:name":"Sarina Finkelstein: The New Forty-Niners",
     "wof:parent_id":1159157057,
     "wof:placetype":"installation",
