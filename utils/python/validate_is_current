@@ -8,6 +8,9 @@ import edtf
 import datetime
 import logging
 
+import copy
+import deepdiff
+
 import mapzen.whosonfirst.utils
 import mapzen.whosonfirst.export
 
@@ -56,15 +59,18 @@ if __name__ == "__main__":
       if upper >= today:
          continue
 
-      is_current = props.get("mz:is_current", -1)
+      old_props = copy.deepcopy(props)
 
-      if is_current == 0:
+      props["mz:is_current"] = 0
+      # props["sfomuseum:on_display"] = 0
+
+      diff = deepdiff.DeepDiff(old_props, props)
+
+      if len(diff.keys()) == 0:
          continue
       
-      print "%s (%s) %s %s" % (props["wof:id"], props["wof:name"], ceased.upper_strict(), today) 
-      
-      props["mz:is_current"] = 0
-      feature["properties"] = props
+      # print "%s (%s) %s %s" % (props["wof:id"], props["wof:name"], ceased.upper_strict(), today) 
 
-      print exporter.export_feature(feature)
+      feature["properties"] = props
+      exporter.export_feature(feature)
       
