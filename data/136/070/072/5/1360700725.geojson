@@ -17,7 +17,7 @@
     "geom:longitude":-122.388951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:description":"Jon Chester\u2019s hand-drawn animated short for the song \u201cRudy with a Flashlight\u201d by the late, great Rainer Ptacek is a loving tribute to the Tucson-based guitarist, fatherhood, and the filmmaker\u2019s son, Chester Bliss.",
     "sfomuseum:exhibition_id":1703,
     "sfomuseum:exhibition_type":"videoart",
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1360700725,
-    "wof:lastmodified":1543434586,
+    "wof:lastmodified":1544141023,
     "wof:name":"Rudy with a Flashlight",
     "wof:parent_id":1159157939,
     "wof:placetype":"installation",

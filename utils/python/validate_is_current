@@ -1,0 +1,70 @@
+#!/usr/bin/env python
+# -*-python-*-
+
+import os
+import sys
+
+import edtf
+import datetime
+import logging
+
+import mapzen.whosonfirst.utils
+import mapzen.whosonfirst.export
+
+if __name__ == "__main__":
+
+   import optparse
+   opt_parser = optparse.OptionParser()
+   
+   opt_parser.add_option('-d', '--data', dest='data', action='store', default=None, help='...')
+   opt_parser.add_option('-v', '--verbose', dest='verbose', action='store_true', default=False, help='Be chatty (default is false)')
+   
+   options, args = opt_parser.parse_args()
+   
+   if options.verbose:
+      logging.basicConfig(level=logging.DEBUG)
+   else:
+      logging.basicConfig(level=logging.INFO)
+      
+   data = os.path.abspath(options.data)    
+      
+   crawl = mapzen.whosonfirst.utils.crawl(data, inflate=True)
+   exporter = mapzen.whosonfirst.export.flatfile(data)
+    
+   today = datetime.date.today()
+    
+   for feature in crawl:
+
+      props = feature["properties"]
+      str_ceased = props.get("edtf:cessation", None)
+
+      if not str_ceased:
+         logging.warning("%s (%s) has no edtf:cessation date, skipping" % (props["wof:name"], props["wof:id"]))
+         continue
+
+      if str_ceased == "open":
+         continue
+      
+      try:
+         ceased = edtf.parse_edtf(str_ceased)
+      except Exception, e:
+         logging.warning("%s (%s) has an invalid edtf:cessation date (%s), skipping" % (props["wof:name"], props["wof:id"], str_ceased))
+         continue
+
+      upper = ceased.upper_strict()
+
+      if upper >= today:
+         continue
+
+      is_current = props.get("mz:is_current", -1)
+
+      if is_current == 0:
+         continue
+      
+      print "%s (%s) %s %s" % (props["wof:id"], props["wof:name"], ceased.upper_strict(), today) 
+      
+      props["mz:is_current"] = 0
+      feature["properties"] = props
+
+      print exporter.export_feature(feature)
+      

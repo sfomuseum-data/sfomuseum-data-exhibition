@@ -17,7 +17,7 @@
     "geom:longitude":-122.388951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:description":"In the parlance of economic theory, \u201crandom walk\u201d references the daily volatility of stock market prices. Filmmaker Borb\u00e1la Tompa animates the fears, challenges, and aspirations of five immigrants in Budapest whose futures remain undetermined.",
     "sfomuseum:exhibition_id":1705,
     "sfomuseum:exhibition_type":"videoart",
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1360700727,
-    "wof:lastmodified":1543434585,
+    "wof:lastmodified":1544141023,
     "wof:name":"Random Walks",
     "wof:parent_id":1159157939,
     "wof:placetype":"installation",
