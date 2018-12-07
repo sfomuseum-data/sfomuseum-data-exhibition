@@ -15,6 +15,9 @@ rm-empty:
 
 scrub: rm-empty prune
 
+is_current:
+	python utils/python/validate_is_current -d data
+
 stats:
 	if test ! -d docs/stats; then mkdir -p docs/stats; fi
 	utils/$(OS)/wof-stats-counts -pretty -custom 'properties.sfomuseum:placetype' -custom 'properties.sfomuseum:exhibition_type' -out docs/stats/counts.json ./
