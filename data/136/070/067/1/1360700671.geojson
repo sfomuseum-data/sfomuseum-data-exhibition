@@ -18,6 +18,10 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "sfomuseum:depicts":[
+        85923517,
+        85633793
+    ],
     "sfomuseum:exhibition_id":1649,
     "sfomuseum:exhibition_type":"photography",
     "sfomuseum:gallery_id":[
@@ -29,6 +33,7 @@
     "sfomuseum:on_display":1,
     "sfomuseum:placetype":"exhibition",
     "sfomuseum:post_security":1,
+    "src:geom":"unknown",
     "wof:belongsto":[
         1159396301,
         102527513,
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1360700671,
-    "wof:lastmodified":1543434584,
+    "wof:lastmodified":1544229683,
     "wof:name":"Michael Light: Sidereal Rift",
     "wof:parent_id":1159157057,
     "wof:placetype":"installation",
