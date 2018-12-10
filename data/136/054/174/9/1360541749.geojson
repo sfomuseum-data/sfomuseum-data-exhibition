@@ -21,6 +21,7 @@
     "sfomuseum:building_id":"SFO",
     "sfomuseum:depicts":[
         85923303,
+        85688637,
         85633793
     ],
     "sfomuseum:exhibition_id":1634,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1360541749,
-    "wof:lastmodified":1544229757,
+    "wof:lastmodified":1544481085,
     "wof:name":"Noritaka Minami: California City, California",
     "wof:parent_id":1159157051,
     "wof:placetype":"installation",

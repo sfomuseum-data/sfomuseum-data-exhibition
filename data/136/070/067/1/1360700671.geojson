@@ -20,6 +20,7 @@
     "mz:is_current":1,
     "sfomuseum:depicts":[
         85923517,
+        85688637,
         85633793
     ],
     "sfomuseum:exhibition_id":1649,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1360700671,
-    "wof:lastmodified":1544229683,
+    "wof:lastmodified":1544481146,
     "wof:name":"Michael Light: Sidereal Rift",
     "wof:parent_id":1159157057,
     "wof:placetype":"installation",
