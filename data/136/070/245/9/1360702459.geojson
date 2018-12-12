@@ -18,6 +18,11 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "sfomuseum:depicts":[
+        85980597,
+        85688773,
+        85633793
+    ],
     "sfomuseum:exhibition_id":1636,
     "sfomuseum:exhibition_type":"photography",
     "sfomuseum:gallery_id":[
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":1360702459,
-    "wof:lastmodified":1544640425,
+    "wof:lastmodified":1544641512,
     "wof:name":"Eric William Carroll | Standard Stars",
     "wof:parent_id":1159157073,
     "wof:placetype":"installation",
