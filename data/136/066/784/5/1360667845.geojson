@@ -17,7 +17,7 @@
     "geom:longitude":-122.384119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:depicts":[
         85688637,
         85633793
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1360667845,
-    "wof:lastmodified":1544481306,
+    "wof:lastmodified":1544641252,
     "wof:name":"Kirk Crippens & Gretchen LeMaistre: Live Burls",
     "wof:parent_id":1159157073,
     "wof:placetype":"installation",

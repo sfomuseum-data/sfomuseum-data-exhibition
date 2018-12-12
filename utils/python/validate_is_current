@@ -7,6 +7,7 @@ import sys
 import edtf
 import datetime
 import logging
+import time
 
 import copy
 import deepdiff
@@ -55,8 +56,11 @@ if __name__ == "__main__":
          continue
 
       upper = ceased.upper_strict()
+      ts = time.mktime(upper)
 
-      if upper >= today:
+      then = datetime.date.fromtimestamp(ts)
+
+      if then >= today:
          continue
 
       old_props = copy.deepcopy(props)
