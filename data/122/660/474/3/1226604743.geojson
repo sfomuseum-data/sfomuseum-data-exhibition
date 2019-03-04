@@ -19,7 +19,7 @@
     "sfomuseum:building_id":"SFO",
     "sfomuseum:description":"Interactive children's exploration area featuring weather elements from the Exploratorium of San Francisco (Turbulent Orb, Aeolian Landscape, Fluvial Storm), as well as a crawling apparatus, and the Plasma Wall, which shoots arcs of energized color activated by sound. The Kids' Spot was developed to allow children to explore weather concepts and \"let off steam\" prior to their flights.",
     "sfomuseum:exhibition_id":56,
-    "sfomuseum:exhibition_type":"nonaviation",
+    "sfomuseum:exhibition_type":"kids'spot",
     "sfomuseum:gallery_id":[
         25
     ],
@@ -64,7 +64,7 @@
     ],
     "wof:id":1226604743,
     "wof:label":"Kids' Spot II (1998-10-01 - None)",
-    "wof:lastmodified":1543428206,
+    "wof:lastmodified":1551735330,
     "wof:name":"Kids' Spot II",
     "wof:parent_id":1360392591,
     "wof:placetype":"installation",

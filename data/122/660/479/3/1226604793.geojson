@@ -19,7 +19,7 @@
     "sfomuseum:building_id":"SFO",
     "sfomuseum:description":"The San Francisco Exploratorium at SFO:  interactive exhibition and play area about clouds and weather.",
     "sfomuseum:exhibition_id":58,
-    "sfomuseum:exhibition_type":"nonaviation",
+    "sfomuseum:exhibition_type":"kids'spot",
     "sfomuseum:gallery_id":[
         23
     ],
@@ -62,7 +62,7 @@
     ],
     "wof:id":1226604793,
     "wof:label":"Kids Spot (1997-08-01 - 2011-12-01)",
-    "wof:lastmodified":1539637493,
+    "wof:lastmodified":1551735329,
     "wof:name":"Kids Spot",
     "wof:parent_id":1159157893,
     "wof:placetype":"installation",
