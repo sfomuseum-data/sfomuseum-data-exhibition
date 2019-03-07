@@ -24,6 +24,9 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
+    "sfomuseum:hashtags":[
+        "drewnikonowicz"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":1,
     "sfomuseum:placetype":"exhibition",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360702871,
-    "wof:lastmodified":1548873262,
+    "wof:lastmodified":1551988282,
     "wof:name":"Drew Nikonowicz: This World and Othere Like It",
     "wof:parent_id":1159157051,
     "wof:placetype":"installation",

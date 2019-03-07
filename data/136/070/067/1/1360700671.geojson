@@ -25,6 +25,9 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
+    "sfomuseum:hashtags":[
+        "michaellight"
+    ],
     "sfomuseum:involves":[
         85923517,
         85688637,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1360700671,
-    "wof:lastmodified":1545438565,
+    "wof:lastmodified":1551988289,
     "wof:name":"Michael Light: Sidereal Rift",
     "wof:parent_id":1159157057,
     "wof:placetype":"installation",

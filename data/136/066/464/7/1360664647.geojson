@@ -27,6 +27,10 @@
     ],
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
+    "sfomuseum:hashtags":[
+        "arhoolie",
+        "arhoolierecords"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":1,
     "sfomuseum:placetype":"exhibition",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1360664647,
-    "wof:lastmodified":1550173675,
+    "wof:lastmodified":1551988281,
     "wof:name":"Down-Home Music: The Story of Arhoolie Records",
     "wof:parent_id":1159157067,
     "wof:placetype":"installation",
