@@ -26,7 +26,6 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#KerryMansfield",
     "sfomuseum:hashtags":[
         "KerryMansfield"
     ],
@@ -72,7 +71,7 @@
     "wof:id":1159160653,
     "wof:is_current":0,
     "wof:label":"Kerry Mansfield: Grounded (2016-08-01 - 2016-10-28)",
-    "wof:lastmodified":1551983527,
+    "wof:lastmodified":1552000343,
     "wof:name":"Kerry Mansfield: Grounded",
     "wof:parent_id":1360516249,
     "wof:placetype":"installation",

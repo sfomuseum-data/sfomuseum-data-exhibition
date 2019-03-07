@@ -27,7 +27,6 @@
     ],
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#MingeiFolkArt",
     "sfomuseum:hashtags":[
         "MingeiFolkArt"
     ],
@@ -73,7 +72,7 @@
     "wof:id":1159160579,
     "wof:is_current":0,
     "wof:label":"Mingei: Traditional Japanese Arts  (2015-07-31 - 2016-02-08)",
-    "wof:lastmodified":1551983528,
+    "wof:lastmodified":1552000344,
     "wof:name":"Mingei: Traditional Japanese Arts ",
     "wof:parent_id":1360516281,
     "wof:placetype":"installation",

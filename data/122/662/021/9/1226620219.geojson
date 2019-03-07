@@ -26,7 +26,6 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#PhotoAlliance",
     "sfomuseum:hashtags":[
         "PhotoAlliance"
     ],
@@ -69,7 +68,7 @@
     ],
     "wof:id":1226620219,
     "wof:label":"Photo Alliance | Home (2018-05-08 - 2018-08-14)",
-    "wof:lastmodified":1551983529,
+    "wof:lastmodified":1552000346,
     "wof:name":"Photo Alliance | Home",
     "wof:parent_id":1159157077,
     "wof:placetype":"installation",

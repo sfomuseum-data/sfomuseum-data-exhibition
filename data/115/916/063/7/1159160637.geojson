@@ -25,7 +25,6 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#JayTyrrell",
     "sfomuseum:hashtags":[
         "JayTyrrell"
     ],
@@ -71,7 +70,7 @@
     "wof:id":1159160637,
     "wof:is_current":0,
     "wof:label":"Jay Tyrrell: Atomic Mirrors (2016-05-27 - 2016-08-26)",
-    "wof:lastmodified":1551983528,
+    "wof:lastmodified":1552000343,
     "wof:name":"Jay Tyrrell: Atomic Mirrors",
     "wof:parent_id":1360516207,
     "wof:placetype":"installation",

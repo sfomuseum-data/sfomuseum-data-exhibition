@@ -25,7 +25,6 @@
     ],
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#SurfboardsAndShapers",
     "sfomuseum:hashtags":[
         "SurfboardsAndShapers"
     ],
@@ -81,7 +80,7 @@
         }
     ],
     "wof:id":1376812931,
-    "wof:lastmodified":1551983526,
+    "wof:lastmodified":1552000341,
     "wof:name":"Reflections in Wood \u2013 Surfboards & Shapers",
     "wof:parent_id":-4,
     "wof:placetype":"installation",

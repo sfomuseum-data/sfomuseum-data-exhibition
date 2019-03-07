@@ -26,7 +26,6 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#GailWight",
     "sfomuseum:hashtags":[
         "GailWight"
     ],
@@ -72,7 +71,7 @@
     "wof:id":1159160647,
     "wof:is_current":0,
     "wof:label":"Gail Wight: The Hexapodarium (2016-02-01 - 2016-04-29)",
-    "wof:lastmodified":1551983528,
+    "wof:lastmodified":1552000343,
     "wof:name":"Gail Wight: The Hexapodarium",
     "wof:parent_id":1360516249,
     "wof:placetype":"installation",

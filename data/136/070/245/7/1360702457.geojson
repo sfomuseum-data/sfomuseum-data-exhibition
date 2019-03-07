@@ -24,7 +24,6 @@
     ],
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#1950sConsumer",
     "sfomuseum:hashtags":[
         "1950sConsumer"
     ],
@@ -65,7 +64,7 @@
         }
     ],
     "wof:id":1360702457,
-    "wof:lastmodified":1551983526,
+    "wof:lastmodified":1552000341,
     "wof:name":"The Modern Consumer \u2013 1950s Products and Styles",
     "wof:parent_id":1159157053,
     "wof:placetype":"installation",

@@ -27,7 +27,6 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#JuliusShulman",
     "sfomuseum:hashtags":[
         "JuliusShulman"
     ],
@@ -73,7 +72,7 @@
     "wof:id":1159160773,
     "wof:is_current":0,
     "wof:label":"Julius Shulman: Case Study (2017-08-31 - 2017-12-07)",
-    "wof:lastmodified":1551983526,
+    "wof:lastmodified":1552000342,
     "wof:name":"Julius Shulman: Case Study",
     "wof:parent_id":1360516161,
     "wof:placetype":"installation",

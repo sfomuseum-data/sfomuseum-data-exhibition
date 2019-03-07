@@ -26,7 +26,6 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#BobCornelis",
     "sfomuseum:hashtags":[
         "BobCornelis"
     ],
@@ -69,7 +68,7 @@
     ],
     "wof:id":1226620095,
     "wof:label":"Bob Cornelis: Carta I (2017-01-04 - 2017-05-02)",
-    "wof:lastmodified":1551983529,
+    "wof:lastmodified":1552000346,
     "wof:name":"Bob Cornelis: Carta I",
     "wof:parent_id":1360516137,
     "wof:placetype":"installation",

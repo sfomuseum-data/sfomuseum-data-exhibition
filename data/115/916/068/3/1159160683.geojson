@@ -26,7 +26,6 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#JohnAlfano",
     "sfomuseum:hashtags":[
         "JohnAlfano"
     ],
@@ -72,7 +71,7 @@
     "wof:id":1159160683,
     "wof:is_current":0,
     "wof:label":"Waterlines: John C. Alfano  (2016-12-15 - 2017-03-15)",
-    "wof:lastmodified":1551983529,
+    "wof:lastmodified":1552000345,
     "wof:name":"Waterlines: John C. Alfano ",
     "wof:parent_id":1360516249,
     "wof:placetype":"installation",

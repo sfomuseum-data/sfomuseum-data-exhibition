@@ -28,7 +28,6 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
-    "sfomuseum:hashtag":"#PeterSteinhauer",
     "sfomuseum:hashtags":[
         "PeterSteinhauer"
     ],
@@ -76,7 +75,7 @@
     "wof:id":1159160737,
     "wof:is_current":0,
     "wof:label":"Peter Steinhauer: Cocoons (2017-05-02 - 2017-08-04)",
-    "wof:lastmodified":1551983528,
+    "wof:lastmodified":1552000344,
     "wof:name":"Peter Steinhauer: Cocoons",
     "wof:parent_id":1360516217,
     "wof:placetype":"installation",
