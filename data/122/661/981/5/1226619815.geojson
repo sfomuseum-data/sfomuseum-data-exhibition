@@ -28,6 +28,9 @@
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#NoguchiSFO",
+    "sfomuseum:hashtags":[
+        "NoguchiSFO"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":1,
     "sfomuseum:placetype":"exhibition",
@@ -81,7 +84,7 @@
     ],
     "wof:id":1226619815,
     "wof:label":"Isamu Noguchi: Inside and Out (2018-04-13 - 2019-01-14)",
-    "wof:lastmodified":1551735328,
+    "wof:lastmodified":1551983529,
     "wof:name":"Isamu Noguchi: Inside and Out",
     "wof:parent_id":-4,
     "wof:placetype":"installation",

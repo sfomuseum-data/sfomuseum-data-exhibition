@@ -26,6 +26,9 @@
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#RichardBarnes",
+    "sfomuseum:hashtags":[
+        "RichardBarnes"
+    ],
     "sfomuseum:involves":[
         101752607,
         85685461,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1360672521,
-    "wof:lastmodified":1551735330,
+    "wof:lastmodified":1551983526,
     "wof:name":"Richard Barnes: Murmur",
     "wof:parent_id":1159157063,
     "wof:placetype":"installation",

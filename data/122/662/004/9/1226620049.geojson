@@ -26,6 +26,9 @@
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#JosephFinkleman",
+    "sfomuseum:hashtags":[
+        "JosephFinkleman"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":0,
     "sfomuseum:placetype":"exhibition",
@@ -63,7 +66,7 @@
     ],
     "wof:id":1226620049,
     "wof:label":"Joseph Finkleman: Reflections in Glass (2016-11-04 - 2017-02-17)",
-    "wof:lastmodified":1551735329,
+    "wof:lastmodified":1551983530,
     "wof:name":"Joseph Finkleman: Reflections in Glass",
     "wof:parent_id":1360516161,
     "wof:placetype":"installation",

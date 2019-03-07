@@ -28,6 +28,9 @@
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#DeniseTarantino",
+    "sfomuseum:hashtags":[
+        "DeniseTarantino"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":0,
     "sfomuseum:placetype":"exhibition",
@@ -70,7 +73,7 @@
     "wof:id":1159160675,
     "wof:is_current":0,
     "wof:label":"Denise Tarantino: Roadside Americana (2016-08-01 - 2016-10-28)",
-    "wof:lastmodified":1551735330,
+    "wof:lastmodified":1551983529,
     "wof:name":"Denise Tarantino: Roadside Americana",
     "wof:parent_id":1360516161,
     "wof:placetype":"installation",

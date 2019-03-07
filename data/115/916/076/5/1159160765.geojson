@@ -27,6 +27,9 @@
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#CoinOperated",
+    "sfomuseum:hashtags":[
+        "CoinOperated"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":0,
     "sfomuseum:placetype":"exhibition",
@@ -71,7 +74,7 @@
     "wof:id":1159160765,
     "wof:is_current":1,
     "wof:label":"The Automatic Age: Coin-Operated Machines (2017-12-14 - 2018-08-05)",
-    "wof:lastmodified":1551735332,
+    "wof:lastmodified":1551983527,
     "wof:name":"The Automatic Age: Coin-Operated Machines",
     "wof:parent_id":1159157037,
     "wof:placetype":"installation",

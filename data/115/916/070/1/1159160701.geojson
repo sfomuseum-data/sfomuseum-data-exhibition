@@ -28,6 +28,9 @@
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#AnnuMatthew",
+    "sfomuseum:hashtags":[
+        "AnnuMatthew"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":0,
     "sfomuseum:placetype":"exhibition",
@@ -72,7 +75,7 @@
     "wof:id":1159160701,
     "wof:is_current":0,
     "wof:label":"Annu Palakunnathu Matthew: Memories of India (2017-11-08 - 2018-02-15)",
-    "wof:lastmodified":1551735335,
+    "wof:lastmodified":1551983527,
     "wof:name":"Annu Palakunnathu Matthew: Memories of India",
     "wof:parent_id":1159157057,
     "wof:placetype":"installation",

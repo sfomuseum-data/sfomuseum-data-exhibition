@@ -28,6 +28,9 @@
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#GamesofChance",
+    "sfomuseum:hashtags":[
+        "GamesofChance"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":0,
     "sfomuseum:placetype":"exhibition",
@@ -72,7 +75,7 @@
     "wof:id":1159160681,
     "wof:is_current":0,
     "wof:label":"Games of Chance: Gambling Devices of the Mechanical Age (2016-12-09 - 2017-06-26)",
-    "wof:lastmodified":1551735336,
+    "wof:lastmodified":1551983528,
     "wof:name":"Games of Chance: Gambling Devices of the Mechanical Age",
     "wof:parent_id":1360516119,
     "wof:placetype":"installation",

@@ -27,6 +27,9 @@
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#IntotheEther",
+    "sfomuseum:hashtags":[
+        "IntotheEther"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":1,
     "sfomuseum:placetype":"exhibition",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1360541747,
-    "wof:lastmodified":1551735330,
+    "wof:lastmodified":1551983526,
     "wof:name":"Into the Ether",
     "wof:parent_id":1360541641,
     "wof:placetype":"installation",

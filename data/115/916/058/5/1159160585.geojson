@@ -28,6 +28,9 @@
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtag":"#ILoveYouCA",
+    "sfomuseum:hashtags":[
+        "ILoveYouCA"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":0,
     "sfomuseum:placetype":"exhibition",
@@ -70,7 +73,7 @@
     "wof:id":1159160585,
     "wof:is_current":0,
     "wof:label":"I Love You California: A Natural History (2015-07-10 - 2016-01-18)",
-    "wof:lastmodified":1551735332,
+    "wof:lastmodified":1551983529,
     "wof:name":"I Love You California: A Natural History",
     "wof:parent_id":1360516271,
     "wof:placetype":"installation",
