@@ -17,6 +17,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "sfomuseum:exhibition_id":1663,
+    "sfomuseum:exhibition_type":"videoart",
     "sfomuseum:gallery_id":[
         70
     ],
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1360667847,
-    "wof:lastmodified":1539637501,
+    "wof:lastmodified":1553730470,
     "wof:name":"Through You",
     "wof:parent_id":1159157939,
     "wof:placetype":"installation",

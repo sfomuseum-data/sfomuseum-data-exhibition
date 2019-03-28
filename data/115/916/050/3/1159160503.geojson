@@ -28,6 +28,9 @@
     ],
     "sfomuseum:has_brochure":0,
     "sfomuseum:has_catalog":0,
+    "sfomuseum:hashtags":[
+        "IanvanColler"
+    ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":0,
     "sfomuseum:placetype":"exhibition",
@@ -72,7 +75,7 @@
     "wof:id":1159160503,
     "wof:is_current":0,
     "wof:label":"Ian van Coller: The Last Glacier (2015-09-01 - 2015-11-30)",
-    "wof:lastmodified":1543434616,
+    "wof:lastmodified":1553730473,
     "wof:name":"Ian van Coller: The Last Glacier",
     "wof:parent_id":1360516137,
     "wof:placetype":"installation",
