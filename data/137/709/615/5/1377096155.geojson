@@ -8,6 +8,7 @@
     "date:inception_upper":"2019-02-12",
     "edtf:cessation":"2019-05-06",
     "edtf:inception":"2019-02-12",
+    "flysfo:url":"https://www.flysfo.com/museum/exhibitions/peralta-elementary-school-modular-origami",
     "geom:area":0.0,
     "geom:area_square_m":467.367672,
     "geom:bbox":"-122.384635836,37.6146833179,-122.384247525,37.6149726474",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1377096155,
-    "wof:lastmodified":1551735338,
+    "wof:lastmodified":1555534842,
     "wof:name":"Peralta Elementary School: Modular Origami",
     "wof:parent_id":1159157075,
     "wof:placetype":"installation",

@@ -8,6 +8,7 @@
     "date:inception_upper":"2018-12-06",
     "edtf:cessation":"2019-01-02",
     "edtf:inception":"2018-12-06",
+    "flysfo:url":"https://www.flysfo.com/museum/video-arts/ari",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.388951,37.61628,-122.388951,37.61628",
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1376812941,
-    "wof:lastmodified":1548873265,
+    "wof:lastmodified":1555534842,
     "wof:name":"Ari",
     "wof:parent_id":1159157939,
     "wof:placetype":"installation",
