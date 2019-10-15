@@ -24,10 +24,11 @@
     "sfomuseum:gallery_id":[
         59
     ],
-    "sfomuseum:has_brochure":0,
+    "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
     "sfomuseum:hashtags":[
-        "gilbertbaker"
+        "gilbertbaker",
+        "RainbowFlagsSFO"
     ],
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":1,
@@ -68,7 +69,7 @@
     ],
     "wof:id":1226620561,
     "wof:label":"A Legacy of Pride: Gilbert Baker and the 40th Anniversary of the Rainbow Flag (2018-04-06 - 2019-01-14)",
-    "wof:lastmodified":1551988282,
+    "wof:lastmodified":1571177406,
     "wof:name":"A Legacy of Pride: Gilbert Baker and the 40th Anniversary of the Rainbow Flag",
     "wof:parent_id":1159157041,
     "wof:placetype":"installation",

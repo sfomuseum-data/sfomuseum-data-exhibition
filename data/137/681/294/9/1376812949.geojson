@@ -16,6 +16,7 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "sfomuseum:description":"Quilts by contempirary Los Angeles-based artist; Peter Alexander, Charles Arnoldi, Tony Berlant, Ron Cooper, Guy Dill, Laddie John Dill, Claire Falkenstein, Charles Garabedian, Craig Kauffman, and Ken Price. From the collection of Ludy Strauss.",
     "sfomuseum:exhibition_id":1726,
     "sfomuseum:exhibition_type":"nonaviation",
     "sfomuseum:gallery_id":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1376812949,
-    "wof:lastmodified":1548873264,
+    "wof:lastmodified":1571177412,
     "wof:name":"Artists Quilts",
     "wof:parent_id":1360516467,
     "wof:placetype":"installation",

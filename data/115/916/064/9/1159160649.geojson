@@ -8,6 +8,7 @@
     "date:inception_upper":"2018-02-02",
     "edtf:cessation":"2018-09-10",
     "edtf:inception":"2018-02-02",
+    "flysfo:url":"https://www.flysfo.com/museum/exhibitions/maneki-neko-japans-beckoning-cat",
     "geom:area":0.0,
     "geom:area_square_m":504.394795,
     "geom:bbox":"-122.382889557,37.6173184334,-122.38250792,37.6175185062",
@@ -18,12 +19,16 @@
     "mz:is_current":0,
     "sfomuseum:boardingarea_id":"BOARDING AREA D",
     "sfomuseum:building_id":"SFO",
-    "sfomuseum:description":"",
     "sfomuseum:exhibition_id":1434,
     "sfomuseum:exhibition_number":"L2017.32",
     "sfomuseum:exhibition_type":"nonaviation",
     "sfomuseum:gallery_id":[
         58
+    ],
+    "sfomuseum:has_brochure":1,
+    "sfomuseum:has_catalog":0,
+    "sfomuseum:hashtags":[
+        "BeckoningCat"
     ],
     "sfomuseum:involves":[
         85632429
@@ -71,7 +76,7 @@
     "wof:id":1159160649,
     "wof:is_current":1,
     "wof:label":"Maneki Neko: Japan\u2019s Beckoning Cat (2018-02-02 - 2018-09-10)",
-    "wof:lastmodified":1545440094,
+    "wof:lastmodified":1571177411,
     "wof:name":"Maneki Neko: Japan\u2019s Beckoning Cat",
     "wof:parent_id":1159157067,
     "wof:placetype":"installation",
