@@ -12,7 +12,7 @@
     "flysfo:url":"http://www.flysfo.com/museum/exhibitions/toy-story-twenty",
     "geom:area":0.0,
     "geom:area_square_m":504.394795,
-    "geom:bbox":"-122.382889557,37.6173184334,-122.38250792,37.6175185062",
+    "geom:bbox":"-122.38289,37.617318,-122.382508,37.617519",
     "geom:latitude":37.617422,
     "geom:longitude":-122.382712,
     "iso:country":"US",
@@ -24,8 +24,7 @@
     "sfomuseum:exhibition_type":"nonaviation",
     "sfomuseum:gallery_id":[
         18,
-        19,
-        58
+        19
     ],
     "sfomuseum:has_brochure":1,
     "sfomuseum:has_catalog":0,
@@ -38,19 +37,16 @@
     "sfomuseum:terminal_id":"ITB",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
+        1159396321,
         102527513,
         102191575,
         85633793,
+        102087579,
         1360516181,
         85922583,
-        102087579,
         85688637,
-        1159396321,
         1159396153,
-        1360516191,
-        1159396193,
-        1360516255,
-        1159157325
+        1360516191
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -58,7 +54,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522949915,
-    "wof:geomhash":"1e72e06bdc6af6510892f42d0043cf60",
+    "wof:geomhash":"5a16d64b64ebb46ad93a517215f36825",
     "wof:hierarchy":[
         {
             "building_id":1159396321,
@@ -85,26 +81,12 @@
             "neighbourhood_id":-1,
             "region_id":85688637,
             "wing_id":1159396153
-        },
-        {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396193,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1360516255,
-            "installation_id":1159160551,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157325
         }
     ],
     "wof:id":1159160551,
     "wof:is_current":0,
     "wof:label":"Pixar\u2019s Toy Story (2015-11-16 - 2016-05-26)",
-    "wof:lastmodified":1552000343,
+    "wof:lastmodified":1600805104,
     "wof:name":"Pixar\u2019s Toy Story",
     "wof:parent_id":-4,
     "wof:placetype":"installation",
@@ -118,10 +100,10 @@
     ]
 },
   "bbox": [
-    -122.38288955723878,
-    37.61731843339854,
-    -122.38250792026518,
-    37.61751850618887
+    -122.38289,
+    37.617318,
+    -122.382508,
+    37.617519
 ],
-  "geometry": {"coordinates":[[[[-122.38288955723878,37.61749316945996],[-122.38278034720035,37.61751850618887],[-122.38250792026518,37.61746510786793],[-122.38257765769958,37.61735038005604],[-122.38281966281421,37.61731843339854],[-122.38288955723878,37.61749316945996]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-122.38289,37.617493],[-122.38278,37.617519],[-122.382508,37.617465],[-122.382578,37.61735],[-122.38282,37.617318],[-122.38289,37.617493]]]],"type":"MultiPolygon"}
 }
