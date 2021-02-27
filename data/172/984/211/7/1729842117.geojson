@@ -1,0 +1,56 @@
+{
+  "id": 1729842117,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-02-21",
+    "date:cessation_upper": "2021-02-21",
+    "date:inception_lower": "2020-10-24",
+    "date:inception_upper": "2020-10-24",
+    "edtf:cessation": "2021-02-21",
+    "edtf:inception": "2020-10-24",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/amelia-konow-auras",
+    "geom:area": 0,
+    "geom:bbox": "-122.384119,37.615457,-122.384119,37.615457",
+    "geom:latitude": 37.6154571162206,
+    "geom:longitude": -122.38411942369108,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1869,
+    "sfomuseum:gallery_id": [
+      63
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Photography",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384156,
+    "wof:geomhash": "6e91278c0f7f93703e5df6805376ac33",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842117
+      }
+    ],
+    "wof:id": 1729842117,
+    "wof:lastmodified": 1614384156,
+    "wof:name": "Amelia Konow: Auras",
+    "wof:parent_id": 1729837321,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38411942369108, 
+    37.6154571162206, 
+    -122.38411942369108, 
+    37.6154571162206
+  ],
+  "geometry": {"coordinates":[[-122.38411942369108,37.6154571162206]],"type":"MultiPoint"}
+}

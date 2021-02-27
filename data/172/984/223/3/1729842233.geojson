@@ -1,0 +1,56 @@
+{
+  "id": 1729842233,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-03-07",
+    "date:cessation_upper": "2021-03-07",
+    "date:inception_lower": "2019-12-07",
+    "date:inception_upper": "2019-12-07",
+    "edtf:cessation": "2021-03-07",
+    "edtf:inception": "2019-12-07",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387797,37.614357,-122.387797,37.614357",
+    "geom:latitude": 37.61435718821211,
+    "geom:longitude": -122.38779703878699,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1807,
+    "sfomuseum:gallery_id": [
+      41
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Aviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384197,
+    "wof:geomhash": "53285d6eca2de9a843fb7a8ef42c003a",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842233
+      }
+    ],
+    "wof:id": 1729842233,
+    "wof:lastmodified": 1614384197,
+    "wof:name": "Special Collections Poster: Inman Bros. Flying Circus",
+    "wof:parent_id": 1729813685,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38779703878699, 
+    37.61435718821211, 
+    -122.38779703878699, 
+    37.61435718821211
+  ],
+  "geometry": {"coordinates":[[-122.38779703878699,37.61435718821211]],"type":"MultiPoint"}
+}

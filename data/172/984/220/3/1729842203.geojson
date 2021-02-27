@@ -1,0 +1,56 @@
+{
+  "id": 1729842203,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-03-04",
+    "date:cessation_upper": "2020-03-04",
+    "date:inception_lower": "2020-02-06",
+    "date:inception_upper": "2020-02-06",
+    "edtf:cessation": "2020-03-04",
+    "edtf:inception": "2020-02-06",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
+    "geom:latitude": 37.61628,
+    "geom:longitude": -122.388951,
+    "sfomuseum:description": "2018 Elham Ehsas and Azeem Bhati: A second-generation British-Afghan man becomes frustrated by Western-style dating and turns to traditional methods in this artful exploration of the cultural divide that persists in two people of shared heritage seeking human connection.",
+    "sfomuseum:exhibition_id": 1858,
+    "sfomuseum:gallery_id": [
+      70
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Video Art",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384187,
+    "wof:geomhash": "0dab03397934531573d1945b69e41d6f",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842203
+      }
+    ],
+    "wof:id": 1729842203,
+    "wof:lastmodified": 1614384187,
+    "wof:name": "Our Kind of Love",
+    "wof:parent_id": 1477855957,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.388951, 
+    37.61628, 
+    -122.388951, 
+    37.61628
+  ],
+  "geometry": {"coordinates":[[-122.388951,37.61628]],"type":"MultiPoint"}
+}

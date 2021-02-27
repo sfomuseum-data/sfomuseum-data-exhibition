@@ -2,90 +2,74 @@
   "id": 1159160393,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-01-31",
-    "date:cessation_upper":"2013-01-31",
-    "date:inception_lower":"2012-12-03",
-    "date:inception_upper":"2012-12-03",
-    "edtf:cessation":"2013-01-31",
-    "edtf:inception":"2012-12-03",
-    "geom:area":0.0,
-    "geom:area_square_m":467.367672,
-    "geom:bbox":"-122.384635836,37.6146833179,-122.384247525,37.6149726474",
-    "geom:latitude":37.614828,
-    "geom:longitude":-122.384442,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "sfomuseum:building_id":"SFO",
-    "sfomuseum:description":"Artwork from Glide\u2019s Family,Youth and Childcare Center",
-    "sfomuseum:exhibition_id":1242,
-    "sfomuseum:exhibition_number":"L2012.34",
-    "sfomuseum:exhibition_type":"studentart",
-    "sfomuseum:gallery_id":[
-        40
+    "date:cessation_lower": "2013-01-31",
+    "date:cessation_upper": "2013-01-31",
+    "date:inception_lower": "2012-12-03",
+    "date:inception_upper": "2012-12-03",
+    "edtf:cessation": "2013-01-31",
+    "edtf:inception": "2012-12-03",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:area_square_m": 467.367672,
+    "geom:bbox": "-122.384442,37.614828,-122.384442,37.614828",
+    "geom:latitude": 37.614828422481345,
+    "geom:longitude": -122.38444211236417,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sfomuseum:building_id": "SFO",
+    "sfomuseum:description": "Artwork from Glide’s Family, Youth and Childcare Center",
+    "sfomuseum:exhibition_id": 1242,
+    "sfomuseum:exhibition_number": "L2012.34",
+    "sfomuseum:exhibition_type": "studentart",
+    "sfomuseum:gallery_id": [
+      40
     ],
-    "sfomuseum:has_brochure":0,
-    "sfomuseum:has_catalog":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:on_display":0,
-    "sfomuseum:placetype":"exhibition",
-    "sfomuseum:post_security":0,
-    "sfomuseum:terminal_id":"T1",
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        1360516231,
-        85922583,
-        102087579,
-        85688637,
-        1159396333,
-        1159396163
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:terminal_id": "T1",
+    "sfomuseum:type": "Student Art",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy"
+    "wof:country": "US",
+    "wof:created": 1522949898,
+    "wof:geomhash": "be94e4fd816d22737d090dcaf004da92",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1159160393
+      }
     ],
-    "wof:country":"US",
-    "wof:created":1522949898,
-    "wof:geomhash":"658711f693f674327bdd131669f34e02",
-    "wof:hierarchy":[
-        {
-            "building_id":1159396333,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1360516231,
-            "installation_id":1159160393,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396163
-        }
-    ],
-    "wof:id":1159160393,
-    "wof:is_current":0,
-    "wof:label":"Children\u2019s Art: Glide Memorial Methodist Church; Family, Youth and Childcare Program (2012-12-03 - 2013-01-31)",
-    "wof:lastmodified":1539637510,
-    "wof:name":"Children\u2019s Art: Glide Memorial Methodist Church; Family, Youth and Childcare Program",
-    "wof:parent_id":1360516231,
-    "wof:placetype":"installation",
-    "wof:placetype_alt":"exhibition",
-    "wof:repo":"sfomuseum-data-exhibition",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "studentart",
-        "exhibition"
+    "wof:id": 1159160393,
+    "wof:is_current": 0,
+    "wof:label": "Children’s Art: Glide Memorial Methodist Church; Family, Youth and Childcare Program (2012-12-03 - 2013-01-31)",
+    "wof:lastmodified": 1614384146,
+    "wof:name": "Glide Memorial Methodist Church–Janice Mirikitani Family, Youth and Childcare Center (FYCC): The T-Shirt Identity Project: I Design My Identity",
+    "wof:parent_id": 1360516231,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "studentart", 
+      "exhibition"
     ]
-},
+  },
   "bbox": [
-    -122.38463583616665,
-    37.6146833178903,
-    -122.38424752549868,
-    37.61497264740772
-],
-  "geometry": {"coordinates":[[[-122.38439523583112,37.61497264740772],[-122.38424752549868,37.61491325871727],[-122.38438305353564,37.61478077625407],[-122.38452010435968,37.6146833178903],[-122.38463583616665,37.61473813821992],[-122.38439523583112,37.61497264740772]]],"type":"Polygon"}
+    -122.38444211236417, 
+    37.614828422481345, 
+    -122.38444211236417, 
+    37.614828422481345
+  ],
+  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
 }

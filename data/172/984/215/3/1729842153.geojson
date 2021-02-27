@@ -1,0 +1,56 @@
+{
+  "id": 1729842153,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2019-11-13",
+    "date:cessation_upper": "2019-11-13",
+    "date:inception_lower": "2019-10-17",
+    "date:inception_upper": "2019-10-17",
+    "edtf:cessation": "2019-11-13",
+    "edtf:inception": "2019-10-17",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
+    "geom:latitude": 37.61628,
+    "geom:longitude": -122.388951,
+    "sfomuseum:description": "Algonquin-French multidisciplinary artist and filmmaker Caroline Monnet presents a striking portrait of mixed martial artist Ashley Nichols, who joins the ceremonial traits of Muay Thai with the spiritual observances of her own Chippewa ancestry.",
+    "sfomuseum:exhibition_id": 1817,
+    "sfomuseum:gallery_id": [
+      70
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Video Art",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384169,
+    "wof:geomhash": "0dab03397934531573d1945b69e41d6f",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842153
+      }
+    ],
+    "wof:id": 1729842153,
+    "wof:lastmodified": 1614384169,
+    "wof:name": "Emptying the Tank",
+    "wof:parent_id": 1477855957,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.388951, 
+    37.61628, 
+    -122.388951, 
+    37.61628
+  ],
+  "geometry": {"coordinates":[[-122.388951,37.61628]],"type":"MultiPoint"}
+}

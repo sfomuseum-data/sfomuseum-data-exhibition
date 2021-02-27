@@ -1,0 +1,56 @@
+{
+  "id": 1729842143,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-08-31",
+    "date:cessation_upper": "2020-08-31",
+    "date:inception_lower": "2020-08-01",
+    "date:inception_upper": "2020-08-01",
+    "edtf:cessation": "2020-08-31",
+    "edtf:inception": "2020-08-01",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388534,37.616891,-122.388534,37.616891",
+    "geom:latitude": 37.616891106715705,
+    "geom:longitude": -122.38853385589063,
+    "sfomuseum:description": "Long-term aviation photography exhibit.",
+    "sfomuseum:exhibition_id": 1885,
+    "sfomuseum:gallery_id": [
+      68
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Aviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384166,
+    "wof:geomhash": "96f634d8eb561f0dc95561293bd8cfc9",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842143
+      }
+    ],
+    "wof:id": 1729842143,
+    "wof:lastmodified": 1614384166,
+    "wof:name": "Model Aircraft from the Aviation Collection",
+    "wof:parent_id": 1729813679,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38853385589063, 
+    37.616891106715705, 
+    -122.38853385589063, 
+    37.616891106715705
+  ],
+  "geometry": {"coordinates":[[-122.38853385589063,37.616891106715705]],"type":"MultiPoint"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 1729842189,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-12-13",
+    "date:cessation_upper": "2020-12-13",
+    "date:inception_lower": "2020-07-11",
+    "date:inception_upper": "2020-07-11",
+    "edtf:cessation": "2020-12-13",
+    "edtf:inception": "2020-07-11",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384879,37.612777,-122.384879,37.612777",
+    "geom:latitude": 37.61277678334095,
+    "geom:longitude": -122.38487887446351,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1752,
+    "sfomuseum:gallery_id": [
+      71
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "NonAviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384182,
+    "wof:geomhash": "4a31218ea469c5966b88fce6849994cf",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842189
+      }
+    ],
+    "wof:id": 1729842189,
+    "wof:lastmodified": 1614384182,
+    "wof:name": "Eclectic Taste: Victorian Silver Plate",
+    "wof:parent_id": 1729837315,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38487887446351, 
+    37.61277678334095, 
+    -122.38487887446351, 
+    37.61277678334095
+  ],
+  "geometry": {"coordinates":[[-122.38487887446351,37.61277678334095]],"type":"MultiPoint"}
+}

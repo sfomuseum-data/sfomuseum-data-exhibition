@@ -9,9 +9,9 @@
     "edtf:cessation": "..",
     "edtf:inception": "2017~",
     "flysfo:url": "http://www.flysfo.com/museum/exhibitions/masterworks-edward-chavez-nut-tree-restaurant-and-airfield-model-aircraft",
-    "geom:area": 7.982961589159585e-8,
+    "geom:area": 0,
     "geom:area_square_m": 781.898465,
-    "geom:bbox": "-122.388888,37.616756,-122.388176,37.617046",
+    "geom:bbox": "-122.388532,37.616901,-122.388532,37.616901",
     "geom:latitude": 37.61690119253437,
     "geom:longitude": -122.38853215754116,
     "iso:country": "US",
@@ -27,10 +27,14 @@
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "T3",
+    "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
@@ -50,7 +54,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949828,
-    "wof:geomhash": "aed5f57a3ca3645f504255a77c6cbfe1",
+    "wof:geomhash": "cf1e6c4c7eb2b7f610fd1706c2772b8d",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -69,7 +73,7 @@
     "wof:id": 1360521611,
     "wof:is_current": -1,
     "wof:label": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection (2006-05-08)",
-    "wof:lastmodified": 1614214863,
+    "wof:lastmodified": 1614384148,
     "wof:name": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection",
     "wof:parent_id": 1159157049,
     "wof:placetype": "installation",
@@ -85,10 +89,10 @@
     ]
   },
   "bbox": [
-    -122.3888884122538, 
-    37.61675620515132, 
-    -122.38817590282852, 
-    37.61704617991742
+    -122.38853215754116, 
+    37.61690119253437, 
+    -122.38853215754116, 
+    37.61690119253437
   ],
-  "geometry": {"coordinates":[[[-122.3888884122538,37.61686391006444],[-122.3882173277951,37.61704617991742],[-122.38817590282852,37.6169384750043],[-122.38884698728722,37.61675620515132],[-122.3888884122538,37.61686391006444]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.38853215754116,37.61690119253437]],"type":"MultiPoint"}
 }

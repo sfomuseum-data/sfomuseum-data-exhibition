@@ -1,0 +1,56 @@
+{
+  "id": 1729842241,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2019-11-27",
+    "date:cessation_upper": "2019-11-27",
+    "date:inception_lower": "2019-10-31",
+    "date:inception_upper": "2019-10-31",
+    "edtf:cessation": "2019-11-27",
+    "edtf:inception": "2019-10-31",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
+    "geom:latitude": 37.61628,
+    "geom:longitude": -122.388951,
+    "sfomuseum:description": "Filmmaker Anthony Florez examines native identity through the eyes of self-professed cowgirl Kellie Harry, a fellow member of the Pyramid Lake Paiute Tribe who returned to Northern Nevada to raise her children in their traditional lifestyle.",
+    "sfomuseum:exhibition_id": 1819,
+    "sfomuseum:gallery_id": [
+      70
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Video Art",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384200,
+    "wof:geomhash": "0dab03397934531573d1945b69e41d6f",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842241
+      }
+    ],
+    "wof:id": 1729842241,
+    "wof:lastmodified": 1614384200,
+    "wof:name": "Generations",
+    "wof:parent_id": 1477855957,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.388951, 
+    37.61628, 
+    -122.388951, 
+    37.61628
+  ],
+  "geometry": {"coordinates":[[-122.388951,37.61628]],"type":"MultiPoint"}
+}

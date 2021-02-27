@@ -1,0 +1,56 @@
+{
+  "id": 1729842151,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-11-08",
+    "date:cessation_upper": "2020-11-08",
+    "date:inception_lower": "2020-06-27",
+    "date:inception_upper": "2020-06-27",
+    "edtf:cessation": "2020-11-08",
+    "edtf:inception": "2020-06-27",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387361,37.620382,-122.387361,37.620382",
+    "geom:latitude": 37.62038231009875,
+    "geom:longitude": -122.38736148663139,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1773,
+    "sfomuseum:gallery_id": [
+      3
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Photography",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384169,
+    "wof:geomhash": "83a4a4cdf4d6e804815e5021c1465270",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842151
+      }
+    ],
+    "wof:id": 1729842151,
+    "wof:lastmodified": 1614384169,
+    "wof:name": "R.J. Waters: Golden Gate Park",
+    "wof:parent_id": 1729792777,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38736148663139, 
+    37.62038231009875, 
+    -122.38736148663139, 
+    37.62038231009875
+  ],
+  "geometry": {"coordinates":[[-122.38736148663139,37.62038231009875]],"type":"MultiPoint"}
+}

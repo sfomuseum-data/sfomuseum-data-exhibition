@@ -8,69 +8,53 @@
     "date:inception_upper": "2016-06-14",
     "edtf:cessation": "2017-02-26",
     "edtf:inception": "2016-06-14",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387989,37.614385,-122.387989,37.614385",
-    "geom:latitude": 37.61438528355631,
-    "geom:longitude": -122.38798936547909,
+    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
+    "geom:latitude": 37.614512,
+    "geom:longitude": -122.387939,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfomuseum:building_id": "SFO",
     "sfomuseum:description": "",
-    "sfomuseum:exhibition_id": "1445",
+    "sfomuseum:exhibition_id": 1445,
     "sfomuseum:exhibition_number": "R2016.18",
     "sfomuseum:exhibition_type": "aviation",
     "sfomuseum:gallery_id": [
       41
     ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
+    "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [
-      1360521571, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360541571, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396319, 
-      1159396107
-    ],
+    "wof:belongsto": [],
     "wof:breaches": [],
     "wof:controlled": [
       "wof:hierarchy"
     ],
     "wof:country": "US",
     "wof:created": 1522949938,
-    "wof:geomhash": "5b79a90681cd86bcef4068464608be37",
+    "wof:geomhash": "e29cf68e891156b51b715c504db9a5f4",
     "wof:hierarchy": [
       {
-        "building_id": 1159396319,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360541571,
-        "installation_id": 1159160669,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "venue_id": 1360521571,
-        "wing_id": 1159396107
+        "installation_id": 1159160669
       }
     ],
     "wof:id": 1159160669,
     "wof:is_current": -1,
     "wof:label": "Pan American World Airways, Special Collections (2016-06-14)",
-    "wof:lastmodified": 1614295951,
-    "wof:name": "Pan American World Airways, Special Collections",
-    "wof:parent_id": 1360541571,
+    "wof:lastmodified": 1614384149,
+    "wof:name": "Special Collections Poster: Pan American World Airways",
+    "wof:parent_id": 1360541703,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
@@ -82,10 +66,10 @@
     ]
   },
   "bbox": [
-    -122.38798936547909, 
-    37.61438528355631, 
-    -122.38798936547909, 
-    37.61438528355631
+    -122.387939, 
+    37.614512, 
+    -122.387939, 
+    37.614512
   ],
-  "geometry": {"coordinates":[-122.38798936547909,37.61438528355631],"type":"Point"}
+  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
 }

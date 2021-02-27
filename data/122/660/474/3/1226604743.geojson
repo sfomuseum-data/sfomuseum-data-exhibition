@@ -7,9 +7,9 @@
     "edtf:cessation": "..",
     "edtf:inception": "1998-10-01",
     "flysfo:url": "http://www.flysfo.com/museum/exhibitions/kids-spot",
-    "geom:area": 2.45018776505398e-8,
+    "geom:area": 0,
     "geom:area_square_m": 239.973087,
-    "geom:bbox": "-122.390221,37.620771,-122.389955,37.620957",
+    "geom:bbox": "-122.390087,37.620864,-122.390087,37.620864",
     "geom:latitude": 37.62086428382005,
     "geom:longitude": -122.39008706282495,
     "iso:country": "US",
@@ -25,14 +25,17 @@
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "kidsspot",
     "sfomuseum:hashtags": [
       "kidsspot"
     ],
+    "sfomuseum:is_current": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "NORTH",
+    "sfomuseum:type": "Kids' Spot",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159554855, 
@@ -49,7 +52,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614214863,
-    "wof:geomhash": "02b6f46bac56b7f49b2bf07595678405",
+    "wof:geomhash": "6ccc35b24613937e4a4b6578abec802a",
     "wof:hierarchy": [
       {
         "building_id": 1159554803,
@@ -68,7 +71,7 @@
     ],
     "wof:id": 1226604743,
     "wof:label": "Kids' Spot II (1998-10-01 - None)",
-    "wof:lastmodified": 1614214863,
+    "wof:lastmodified": 1614384147,
     "wof:name": "Kids' Spot II",
     "wof:parent_id": 1360392591,
     "wof:placetype": "installation",
@@ -79,10 +82,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39022116651056, 
-    37.6207714276922, 
-    -122.38995473604777, 
-    37.62095712165112
+    -122.39008706282495, 
+    37.62086428382005, 
+    -122.39008706282495, 
+    37.62086428382005
   ],
-  "geometry": {"coordinates":[[[-122.39017272460823,37.62095712165112],[-122.38995473604777,37.62086292906326],[-122.38999779551649,37.6207714276922],[-122.39022116651056,37.62086562028006],[-122.39017272460823,37.62095712165112]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.39008706282495,37.62086428382005]],"type":"MultiPoint"}
 }

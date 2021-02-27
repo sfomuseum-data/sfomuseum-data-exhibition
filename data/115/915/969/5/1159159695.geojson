@@ -6,27 +6,33 @@
     "date:inception_upper": "2004-02-17",
     "edtf:cessation": "..",
     "edtf:inception": "2004-02-17",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387989,37.614385,-122.387989,37.614385",
-    "geom:latitude": 37.61438528355631,
-    "geom:longitude": -122.38798936547909,
+    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
+    "geom:latitude": 37.614512,
+    "geom:longitude": -122.387939,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:building_id": "SFO",
     "sfomuseum:description": "",
-    "sfomuseum:exhibition_id": "785",
+    "sfomuseum:exhibition_id": 785,
     "sfomuseum:exhibition_number": "L2004.03",
     "sfomuseum:exhibition_type": "aviation",
     "sfomuseum:gallery_id": [
       55
     ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
+    "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360521565, 
@@ -46,7 +52,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949800,
-    "wof:geomhash": "5b79a90681cd86bcef4068464608be37",
+    "wof:geomhash": "e29cf68e891156b51b715c504db9a5f4",
     "wof:hierarchy": [
       {
         "building_id": 1159396333,
@@ -66,7 +72,7 @@
     "wof:id": 1159159695,
     "wof:is_current": -1,
     "wof:label": "San Francisco International Airport Schedule Board (2004-02-17)",
-    "wof:lastmodified": 1614214863,
+    "wof:lastmodified": 1614384147,
     "wof:name": "San Francisco International Airport Schedule Board",
     "wof:parent_id": 1360541689,
     "wof:placetype": "installation",
@@ -80,10 +86,10 @@
     ]
   },
   "bbox": [
-    -122.38798936547909, 
-    37.61438528355631, 
-    -122.38798936547909, 
-    37.61438528355631
+    -122.387939, 
+    37.614512, 
+    -122.387939, 
+    37.614512
   ],
-  "geometry": {"coordinates":[-122.38798936547909,37.61438528355631],"type":"Point"}
+  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
 }

@@ -2,104 +2,77 @@
   "id": 1159159787,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2006-07-31",
-    "date:cessation_upper":"2006-07-31",
-    "date:inception_lower":"2006-06-01",
-    "date:inception_upper":"2006-06-01",
-    "edtf:cessation":"2006-07-31",
-    "edtf:inception":"2006-06-01",
-    "geom:area":0.0,
-    "geom:area_square_m":467.367672,
-    "geom:bbox":"-122.384635836,37.6146833179,-122.384247525,37.6149726474",
-    "geom:latitude":37.614828,
-    "geom:longitude":-122.384442,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "sfomuseum:building_id":"SFO",
-    "sfomuseum:description":"This body of work from the American Indian Public Charter School represents a sampling from seventh through night grade art classes in acrylic painting.",
-    "sfomuseum:exhibition_id":852,
-    "sfomuseum:exhibition_number":"L2006.16",
-    "sfomuseum:exhibition_type":"studentart",
-    "sfomuseum:gallery_id":[
-        39,
-        40
+    "date:cessation_lower": "2006-07-31",
+    "date:cessation_upper": "2006-07-31",
+    "date:inception_lower": "2006-06-01",
+    "date:inception_upper": "2006-06-01",
+    "edtf:cessation": "2006-07-31",
+    "edtf:inception": "2006-06-01",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:area_square_m": 467.367672,
+    "geom:bbox": "-122.385472,37.613926,-122.384442,37.614828",
+    "geom:latitude": 37.61437721124067,
+    "geom:longitude": -122.38495705618209,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sfomuseum:building_id": "SFO",
+    "sfomuseum:description": "This body of work from the American Indian Public Charter School represents a sampling from seventh through ninth grade art classes in acrylic painting.",
+    "sfomuseum:exhibition_id": 852,
+    "sfomuseum:exhibition_number": "L2006.16",
+    "sfomuseum:exhibition_type": "studentart",
+    "sfomuseum:gallery_id": [
+      39, 
+      40
     ],
-    "sfomuseum:has_brochure":0,
-    "sfomuseum:has_catalog":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:on_display":0,
-    "sfomuseum:placetype":"exhibition",
-    "sfomuseum:terminal_id":"T1",
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        1360516435,
-        85922583,
-        102087579,
-        85688637,
-        1159396337,
-        1159396139,
-        1360516233
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:terminal_id": "T1",
+    "sfomuseum:type": "Student Art",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy"
+    "wof:country": "US",
+    "wof:created": 1522949809,
+    "wof:geomhash": "c4b96e91e04d63ffd7b29130fab44271",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1159159787
+      }, 
+      {
+        "installation_id": 1159159787
+      }
     ],
-    "wof:country":"US",
-    "wof:created":1522949809,
-    "wof:geomhash":"c575f07001c3436f623932da59bb4405",
-    "wof:hierarchy":[
-        {
-            "building_id":1159396337,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1360516435,
-            "installation_id":1159159787,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396139
-        },
-        {
-            "building_id":1159396337,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1360516233,
-            "installation_id":1159159787,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396139
-        }
-    ],
-    "wof:id":1159159787,
-    "wof:is_current":0,
-    "wof:label":"Children's Art: Academic and the Arts: Building a Better Foundation for Students from the American Indian Public Charter School and East Oakland Leadership Academy (2006-06-01 - 2006-07-31)",
-    "wof:lastmodified":1539635322,
-    "wof:name":"Children's Art: Academic and the Arts: Building a Better Foundation for Students from the American Indian Public Charter School and East Oakland Leadership Academy",
-    "wof:parent_id":-4,
-    "wof:placetype":"installation",
-    "wof:placetype_alt":"exhibition",
-    "wof:repo":"sfomuseum-data-exhibition",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "studentart",
-        "exhibition"
+    "wof:id": 1159159787,
+    "wof:is_current": 0,
+    "wof:label": "Children's Art: Academic and the Arts: Building a Better Foundation for Students from the American Indian Public Charter School and East Oakland Leadership Academy (2006-06-01 - 2006-07-31)",
+    "wof:lastmodified": 1614384145,
+    "wof:name": "American Indian Public Charter School and East Oakland Leadership Academy: Academic and the Arts: Building a Better Foundation for Students",
+    "wof:parent_id": -4,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "studentart", 
+      "exhibition"
     ]
-},
+  },
   "bbox": [
-    -122.38463583616665,
-    37.6146833178903,
-    -122.38424752549868,
-    37.61497264740772
-],
-  "geometry": {"coordinates":[[[[-122.38439523583112,37.61497264740772],[-122.38424752549868,37.61491325871727],[-122.38438305353564,37.61478077625407],[-122.38452010435968,37.6146833178903],[-122.38463583616665,37.61473813821992],[-122.38439523583112,37.61497264740772]]]],"type":"MultiPolygon"}
+    -122.385472, 
+    37.613926, 
+    -122.38444211236417, 
+    37.614828422481345
+  ],
+  "geometry": {"coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
 }

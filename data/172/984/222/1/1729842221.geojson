@@ -1,0 +1,77 @@
+{
+  "id": 1729842221,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2019-12-04",
+    "date:cessation_upper": "2019-12-04",
+    "date:inception_lower": "2019-11-01",
+    "date:inception_upper": "2019-11-01",
+    "edtf:cessation": "2019-12-04",
+    "edtf:inception": "2019-11-01",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.61939390848619,
+    "geom:longitude": -122.37385309950533,
+    "sfomuseum:description": "In collaboration with the San Francisco Arts Commission, SFO Museum is proud to present an exhibition of photographs in conjunction with a larger, citywide American Indian Initiate that celebrates the culture and contributions of local Indigenous People. Spanning three months, The Continuous Thread: Celebrating Our Interwoven Histories, Identities and Contributions will include over 14 public events including exhibitions, a temporary light-art project, community celebrations, concerts, a film festival, a fashion show, and more.\r\rThe exhibition on view in this gallery features photographs of members of the American Indian community by photographer Jean Melesain that were taken in April 2019 in a temporary studio space centered around the Pioneer Monument, specifically the empty plinth where the Early Days sculptural grouping once stood. In October 2018, after unanimous votes by the Board of Supervisors, San Francisco Arts Commission, Historic Preservation Committee and Board of Appeals, the Early Days sculpture was removed due to its racist and historically inaccurate depiction of an American Indian. The photo shoot, which included portraits taken on the empty plinth, studio headshots, and glass plate portraits, aimed to recast the Native American community in a contemporary light and overturn representations rooted in historical oppression and racism.",
+    "sfomuseum:exhibition_id": 1828,
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "NonAviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      102087579, 
+      85922583, 
+      554784711, 
+      85688637, 
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1614384193,
+    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "installation_id": 1729842221,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      }, 
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "installation_id": 1729842221,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1729842221,
+    "wof:lastmodified": 1614384193,
+    "wof:name": "The Continuous Thread: Celebrating Our Interwoven Histories, Identities and Contributions",
+    "wof:parent_id": 1729828959,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.37385309950533, 
+    37.61939390848619, 
+    -122.37385309950533, 
+    37.61939390848619
+  ],
+  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+}

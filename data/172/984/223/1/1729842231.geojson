@@ -1,0 +1,56 @@
+{
+  "id": 1729842231,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2000-11-30",
+    "date:cessation_upper": "2000-11-30",
+    "date:inception_lower": "2000-11-01",
+    "date:inception_upper": "2000-11-01",
+    "edtf:cessation": "2000-11-30",
+    "edtf:inception": "2000-11-01",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
+    "geom:latitude": 37.614512,
+    "geom:longitude": -122.387939,
+    "sfomuseum:description": "Scale model aircraft that played significant roles in developing West Cost, cross-country, and transpacific aviation. The art of the model maker is evident in these representations of history-making aircraft, including the quarter-scale Fokker FVII/3m \"Southern Cross,\" the first airplane to cross the Pacific, and the United Air Lines Douglas DC-3 \"City of San Francisco.\"",
+    "sfomuseum:exhibition_id": 153,
+    "sfomuseum:gallery_id": [
+      38
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Aviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384196,
+    "wof:geomhash": "e29cf68e891156b51b715c504db9a5f4",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842231
+      }
+    ],
+    "wof:id": 1729842231,
+    "wof:lastmodified": 1614384196,
+    "wof:name": "Legends of the Air",
+    "wof:parent_id": 1360541569,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.387939, 
+    37.614512, 
+    -122.387939, 
+    37.614512
+  ],
+  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+}

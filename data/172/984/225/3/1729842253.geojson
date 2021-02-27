@@ -1,0 +1,56 @@
+{
+  "id": 1729842253,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-08-23",
+    "date:cessation_upper": "2020-08-23",
+    "date:inception_lower": "2020-03-09",
+    "date:inception_upper": "2020-03-09",
+    "edtf:cessation": "2020-08-23",
+    "edtf:inception": "2020-03-09",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/pan-american-world-airways-travel-posters",
+    "geom:area": 0,
+    "geom:bbox": "-122.383591,37.617557,-122.383591,37.617557",
+    "geom:latitude": 37.61755664937602,
+    "geom:longitude": -122.38359129579024,
+    "sfomuseum:description": "Reproductions of Pan Am posters for glass fronts of D16 gallery as visual placeholder until Airline Identities can be installed March 2020.",
+    "sfomuseum:exhibition_id": 1827,
+    "sfomuseum:gallery_id": [
+      81
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Aviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384204,
+    "wof:geomhash": "7601ef437d6649c34077e90a52b21379",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842253
+      }
+    ],
+    "wof:id": 1729842253,
+    "wof:lastmodified": 1614384204,
+    "wof:name": "Pan American World Airways Travel Posters",
+    "wof:parent_id": 1729813701,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38359129579024, 
+    37.61755664937602, 
+    -122.38359129579024, 
+    37.61755664937602
+  ],
+  "geometry": {"coordinates":[[-122.38359129579024,37.61755664937602]],"type":"MultiPoint"}
+}

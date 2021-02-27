@@ -1,0 +1,56 @@
+{
+  "id": 1729842169,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-01-29",
+    "date:cessation_upper": "2020-01-29",
+    "date:inception_lower": "2019-10-05",
+    "date:inception_upper": "2019-10-05",
+    "edtf:cessation": "2020-01-29",
+    "edtf:inception": "2019-10-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387308,37.620404,-122.387308,37.620404",
+    "geom:latitude": 37.62040377299203,
+    "geom:longitude": -122.38730757726586,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1772,
+    "sfomuseum:gallery_id": [
+      3
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Photography",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384175,
+    "wof:geomhash": "b074f108c349c510539bdc52894c4914",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842169
+      }
+    ],
+    "wof:id": 1729842169,
+    "wof:lastmodified": 1614384175,
+    "wof:name": "Wynn Bullock: Color Light Abstractions",
+    "wof:parent_id": 1477855729,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38730757726586, 
+    37.62040377299203, 
+    -122.38730757726586, 
+    37.62040377299203
+  ],
+  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+}

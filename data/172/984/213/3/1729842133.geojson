@@ -1,0 +1,56 @@
+{
+  "id": 1729842133,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2019-12-31",
+    "date:cessation_upper": "2019-12-31",
+    "date:inception_lower": "2019-12-01",
+    "date:inception_upper": "2019-12-01",
+    "edtf:cessation": "2019-12-31",
+    "edtf:inception": "2019-12-01",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/pan-american-airways-central-america",
+    "geom:area": 0,
+    "geom:bbox": "-122.387515,37.617685,-122.387515,37.617685",
+    "geom:latitude": 37.61768511229672,
+    "geom:longitude": -122.38751545660425,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1809,
+    "sfomuseum:gallery_id": [
+      60
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Photography",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384162,
+    "wof:geomhash": "319ddbbae05503b868e7e9833b4e2935",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842133
+      }
+    ],
+    "wof:id": 1729842133,
+    "wof:lastmodified": 1614384162,
+    "wof:name": "Pan American Airways in Central America",
+    "wof:parent_id": 1477855821,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38751545660425, 
+    37.61768511229672, 
+    -122.38751545660425, 
+    37.61768511229672
+  ],
+  "geometry": {"coordinates":[[-122.38751545660425,37.61768511229672]],"type":"MultiPoint"}
+}

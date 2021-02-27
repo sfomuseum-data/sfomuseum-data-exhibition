@@ -1,0 +1,56 @@
+{
+  "id": 1729842217,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-04-30",
+    "date:cessation_upper": "2020-04-30",
+    "date:inception_lower": "2020-04-01",
+    "date:inception_upper": "2020-04-01",
+    "edtf:cessation": "2020-04-30",
+    "edtf:inception": "2020-04-01",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/harvey-milk-messenger-hope",
+    "geom:area": 0,
+    "geom:bbox": "-122.384374,37.613193,-122.384374,37.613193",
+    "geom:latitude": 37.613193362839176,
+    "geom:longitude": -122.38437419609423,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1826,
+    "sfomuseum:gallery_id": [
+      74
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Photography",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384192,
+    "wof:geomhash": "d1f4068bac734474a6aa5e52ddc64fa6",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842217
+      }
+    ],
+    "wof:id": 1729842217,
+    "wof:lastmodified": 1614384192,
+    "wof:name": "Harvey Milk: Messenger of Hope",
+    "wof:parent_id": 1729813693,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38437419609423, 
+    37.613193362839176, 
+    -122.38437419609423, 
+    37.613193362839176
+  ],
+  "geometry": {"coordinates":[[-122.38437419609423,37.613193362839176]],"type":"MultiPoint"}
+}

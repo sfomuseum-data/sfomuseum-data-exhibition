@@ -1,0 +1,56 @@
+{
+  "id": 1729842157,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2011-03-31",
+    "date:cessation_upper": "2011-03-31",
+    "date:inception_lower": "2011-03-01",
+    "date:inception_upper": "2011-03-01",
+    "edtf:cessation": "2011-03-31",
+    "edtf:inception": "2011-03-01",
+    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3312",
+    "geom:area": 0,
+    "geom:bbox": "-122.381495,37.617655,-122.381495,37.617655",
+    "geom:latitude": 37.61765503011678,
+    "geom:longitude": -122.3814947421135,
+    "sfomuseum:description": "Creating a delightful dance of rising and falling mechanical “butterflies,” Butterfly Wall is an interactive kinetic sculpture controlled by ten visitor operated hand-cranks. When cranked, the 20 butterflies continuously descend their belts at a rate dictated by the air resistance of their spinning iridescent wings. Cranking faster than the descent rate of the butterflies causes them to rise towards the ceiling; cranking slower than this rate causes the butterflies to flutter back down or hover in one place.",
+    "sfomuseum:exhibition_id": 1755,
+    "sfomuseum:gallery_id": [
+      66
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Kids' Spot",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384171,
+    "wof:geomhash": "6284176919d789e59f80009a150dcb86",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842157
+      }
+    ],
+    "wof:id": 1729842157,
+    "wof:lastmodified": 1614384171,
+    "wof:name": "Kids’ Spot: Butterfly Wall",
+    "wof:parent_id": 1360516245,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3814947421135, 
+    37.61765503011678, 
+    -122.3814947421135, 
+    37.61765503011678
+  ],
+  "geometry": {"coordinates":[[-122.3814947421135,37.61765503011678]],"type":"MultiPoint"}
+}

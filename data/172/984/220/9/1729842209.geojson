@@ -1,0 +1,56 @@
+{
+  "id": 1729842209,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-01-31",
+    "date:cessation_upper": "2020-01-31",
+    "date:inception_lower": "2020-01-01",
+    "date:inception_upper": "2020-01-01",
+    "edtf:cessation": "2020-01-31",
+    "edtf:inception": "2020-01-01",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
+    "geom:latitude": 37.619087399474104,
+    "geom:longitude": -122.3871972492055,
+    "sfomuseum:description": "Display of enlarged exhibition brochure covers.",
+    "sfomuseum:exhibition_id": 1886,
+    "sfomuseum:gallery_id": [
+      2
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:is_current": 1,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "NonAviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1614384190,
+    "wof:geomhash": "8ec94f2653acd2c8c469059b8c2d1ba4",
+    "wof:hierarchy": [
+      {
+        "installation_id": 1729842209
+      }
+    ],
+    "wof:id": 1729842209,
+    "wof:lastmodified": 1614384190,
+    "wof:name": "Fly \u0026 Explore",
+    "wof:parent_id": 1477855725,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3871972492055, 
+    37.619087399474104, 
+    -122.3871972492055, 
+    37.619087399474104
+  ],
+  "geometry": {"coordinates":[[-122.3871972492055,37.619087399474104]],"type":"MultiPoint"}
+}
