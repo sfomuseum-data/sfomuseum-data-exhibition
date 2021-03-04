@@ -2,11 +2,11 @@
   "id": 1495157223,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-12-03",
-    "date:cessation_upper": "2019-12-03",
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-12-31",
     "date:inception_lower": "2019-04-06",
     "date:inception_upper": "2019-04-06",
-    "edtf:cessation": "2019-12-03",
+    "edtf:cessation": "2017~",
     "edtf:inception": "2019-04-06",
     "flysfo:url": "",
     "geom:area": 0,
@@ -16,7 +16,7 @@
     "geom:longitude": -122.38796986270393,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1496,
     "sfomuseum:exhibition_type": "aviation",
@@ -83,13 +83,15 @@
       }
     ],
     "wof:id": 1495157223,
-    "wof:lastmodified": 1614384148,
+    "wof:lastmodified": 1614888922,
     "wof:name": "By the Book: Airliner Manuals",
     "wof:parent_id": 1477855955,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729859089
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

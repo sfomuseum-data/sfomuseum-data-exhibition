@@ -1,0 +1,95 @@
+{
+  "id": 1729842149,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-11-22",
+    "date:cessation_upper": "2020-11-22",
+    "date:inception_lower": "2020-05-01",
+    "date:inception_upper": "2020-05-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020-~05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.61939390848619,
+    "geom:longitude": -122.37385309950533,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1500,
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "x",
+    "sfomuseum:is_current": 0,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:type": "Aviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      102087579, 
+      85922583, 
+      554784711, 
+      85688637, 
+      102085387, 
+      1729792387, 
+      1729792697, 
+      1729813745, 
+      1729813675, 
+      1729792579
+    ],
+    "wof:country": "US",
+    "wof:created": 1614384168,
+    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:hierarchy": [
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792697,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729813745,
+        "installation_id": 1729859037,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729813675,
+        "wing_id": 1729792579
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792697,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729813745,
+        "installation_id": 1729859037,
+        "region_id": 85688637,
+        "venue_id": 1729813675,
+        "wing_id": 1729792579
+      }
+    ],
+    "wof:id": 1729859037,
+    "wof:label": "On Silent Wings: Published Works on Gliding and Soaring Flight (2020-~05)",
+    "wof:lastmodified": 1614888904,
+    "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
+    "wof:parent_id": 1729813745,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1729842149
+    ]
+  },
+  "bbox": [
+    -122.37385309950533, 
+    37.61939390848619, 
+    -122.37385309950533, 
+    37.61939390848619
+  ],
+  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+}

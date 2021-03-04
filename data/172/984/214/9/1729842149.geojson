@@ -2,17 +2,18 @@
   "id": 1729842149,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-11-22",
-    "date:cessation_upper": "2020-11-22",
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-12-07",
     "date:inception_upper": "2019-12-07",
-    "edtf:cessation": "2020-11-22",
+    "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-12-07",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
     "geom:longitude": -122.37385309950533,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1500,
     "sfomuseum:has_brochure": 0,
@@ -57,14 +58,16 @@
       }
     ],
     "wof:id": 1729842149,
-    "wof:lastmodified": 1614384168,
+    "wof:lastmodified": 1614888904,
     "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729859037
+    ],
     "wof:supersedes": []
   },
   "bbox": [

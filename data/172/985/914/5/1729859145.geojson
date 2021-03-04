@@ -1,0 +1,109 @@
+{
+  "id": 1376812931,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2017-01-01",
+    "date:cessation_upper": "2017-12-31",
+    "date:inception_lower": "2019-07-23",
+    "date:inception_upper": "2019-07-23",
+    "edtf:cessation": "2017~",
+    "edtf:inception": "2019-07-23",
+    "flysfo:url": "https://www.flysfo.com/museum/exhibitions/reflections-wood-surfboards-and-shapers",
+    "geom:area": 0,
+    "geom:area_square_m": 776.781935,
+    "geom:bbox": "-122.389131,37.615424,-122.388942,37.616029",
+    "geom:latitude": 37.61572679750064,
+    "geom:longitude": -122.38903626783697,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1397,
+    "sfomuseum:exhibition_type": "nonaviation",
+    "sfomuseum:gallery_id": [
+      18, 
+      19
+    ],
+    "sfomuseum:has_brochure": 1,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "#SurfboardsAndShapers",
+    "sfomuseum:hashtags": [
+      "SurfboardsAndShapers"
+    ],
+    "sfomuseum:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:type": "NonAviation",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      85688637, 
+      1477855605, 
+      1477855927, 
+      1477855929, 
+      554784711, 
+      1477855833, 
+      102085387
+    ],
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1614384149,
+    "wof:geomhash": "c1744a684ad5a8e5083251cead2ae8b4",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1477855929,
+        "installation_id": 1729859145,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1477855833
+      }, 
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1477855929,
+        "installation_id": 1729859145,
+        "region_id": 85688637,
+        "wing_id": 1477855833
+      }
+    ],
+    "wof:id": 1729859145,
+    "wof:label": "Reflections in Wood: Surfboards and Shapers (2019-07-23)",
+    "wof:lastmodified": 1614888944,
+    "wof:name": "Reflections in Wood: Surfboards and Shapers",
+    "wof:parent_id": 1477855929,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [
+      1729859147
+    ],
+    "wof:supersedes": [
+      1376812931
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.3891310124426, 
+    37.61542448763906, 
+    -122.38894152323134, 
+    37.61602910736223
+  ],
+  "geometry": {"coordinates":[[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223]],"type":"MultiPoint"}
+}

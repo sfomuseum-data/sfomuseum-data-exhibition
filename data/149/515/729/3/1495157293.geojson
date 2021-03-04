@@ -2,11 +2,11 @@
   "id": 1495157293,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-08-14",
-    "date:cessation_upper": "2019-08-14",
+    "date:cessation_lower": "2019-07-23",
+    "date:cessation_upper": "2019-07-23",
     "date:inception_lower": "2019-07-18",
     "date:inception_upper": "2019-07-18",
-    "edtf:cessation": "2019-08-14",
+    "edtf:cessation": "2019-07-23",
     "edtf:inception": "2019-07-18",
     "flysfo:url": "",
     "geom:area": 0,
@@ -80,13 +80,15 @@
       }
     ],
     "wof:id": 1495157293,
-    "wof:lastmodified": 1614384145,
+    "wof:lastmodified": 1614888901,
     "wof:name": "The Mayor of Ballarat",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729859029
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

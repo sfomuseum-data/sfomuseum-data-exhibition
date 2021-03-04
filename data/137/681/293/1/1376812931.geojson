@@ -2,11 +2,11 @@
   "id": 1376812931,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-08-12",
-    "date:cessation_upper": "2019-08-12",
+    "date:cessation_lower": "2019-07-23",
+    "date:cessation_upper": "2019-07-23",
     "date:inception_lower": "2019-01-11",
     "date:inception_upper": "2019-01-11",
-    "edtf:cessation": "2019-08-12",
+    "edtf:cessation": "2019-07-23",
     "edtf:inception": "2019-01-11",
     "flysfo:url": "https://www.flysfo.com/museum/exhibitions/reflections-wood-surfboards-and-shapers",
     "geom:area": 0,
@@ -16,7 +16,7 @@
     "geom:longitude": -122.38903626783697,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1397,
     "sfomuseum:exhibition_type": "nonaviation",
@@ -85,13 +85,15 @@
       }
     ],
     "wof:id": 1376812931,
-    "wof:lastmodified": 1614384149,
+    "wof:lastmodified": 1614888943,
     "wof:name": "Reflections in Wood: Surfboards and Shapers",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729859145
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

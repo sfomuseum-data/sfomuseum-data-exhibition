@@ -2,11 +2,11 @@
   "id": 1226604793,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2011-12-01",
-    "date:cessation_upper": "2011-12-01",
+    "date:cessation_lower": "2011-01-01",
+    "date:cessation_upper": "2011-12-31",
     "date:inception_lower": "1997-08-01",
     "date:inception_upper": "1997-08-01",
-    "edtf:cessation": "2011-12-01",
+    "edtf:cessation": "2011~",
     "edtf:inception": "1997-08-01",
     "flysfo:url": "",
     "geom:area": 0,
@@ -67,13 +67,15 @@
     ],
     "wof:id": 1226604793,
     "wof:label": "Kids Spot (1997-08-01 - 2011-12-01)",
-    "wof:lastmodified": 1614384145,
+    "wof:lastmodified": 1614888937,
     "wof:name": "Kids’ Spot",
     "wof:parent_id": 1159157893,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729859129
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

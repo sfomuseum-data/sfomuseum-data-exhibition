@@ -2,11 +2,11 @@
   "id": 1495157239,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-02-02",
-    "date:cessation_upper": "2020-02-02",
+    "date:cessation_lower": "2019-07-23",
+    "date:cessation_upper": "2019-07-23",
     "date:inception_lower": "2019-05-17",
     "date:inception_upper": "2019-05-17",
-    "edtf:cessation": "2020-02-02",
+    "edtf:cessation": "2019-07-23",
     "edtf:inception": "2019-05-17",
     "flysfo:url": "",
     "geom:area": 0,
@@ -16,7 +16,7 @@
     "geom:longitude": -122.38972520542025,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1656,
     "sfomuseum:exhibition_type": "nonaviation",
@@ -80,13 +80,15 @@
       }
     ],
     "wof:id": 1495157239,
-    "wof:lastmodified": 1614384149,
+    "wof:lastmodified": 1614888910,
     "wof:name": "The Style of Display: Victorian Pedestals",
     "wof:parent_id": 1477855961,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729859057
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

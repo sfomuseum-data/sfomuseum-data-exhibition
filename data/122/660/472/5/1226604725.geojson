@@ -2,11 +2,11 @@
   "id": 1226604725,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2013-10-31",
-    "date:cessation_upper": "2013-10-31",
+    "date:cessation_lower": "2000-01-01",
+    "date:cessation_upper": "2000-12-31",
     "date:inception_lower": "1995-11-13",
     "date:inception_upper": "1995-11-13",
-    "edtf:cessation": "2013-10-31",
+    "edtf:cessation": "2000~",
     "edtf:inception": "1995-11-13",
     "flysfo:url": "",
     "geom:area": 0,
@@ -67,13 +67,15 @@
     ],
     "wof:id": 1226604725,
     "wof:label": "Aquarium:  Underwater Planet (1995-11-13 - 2013-10-31)",
-    "wof:lastmodified": 1614384145,
+    "wof:lastmodified": 1614888907,
     "wof:name": "Aquarium: Underwater Planet",
     "wof:parent_id": 1159157891,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729859045
+    ],
     "wof:supersedes": [
       1360521581
     ],
