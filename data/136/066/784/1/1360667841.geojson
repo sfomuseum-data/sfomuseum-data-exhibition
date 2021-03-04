@@ -29,14 +29,13 @@
     "sfomuseum:hashtags": [
       "XiaoxiaoXu"
     ],
-    "sfomuseum:is_current": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:country": "US",
@@ -48,7 +47,7 @@
       }
     ],
     "wof:id": 1360667841,
-    "wof:lastmodified": 1614384149,
+    "wof:lastmodified": 1614897534,
     "wof:name": "Xiaoxiao Xu: Aeronautics in the Backyard",
     "wof:parent_id": 1159157077,
     "wof:placetype": "installation",

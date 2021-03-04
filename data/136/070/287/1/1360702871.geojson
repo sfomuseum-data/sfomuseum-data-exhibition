@@ -17,7 +17,7 @@
     "geom:longitude": -122.38751545660425,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1679,
     "sfomuseum:exhibition_type": "photography",
@@ -30,13 +30,12 @@
     "sfomuseum:hashtags": [
       "drewnikonowicz"
     ],
-    "sfomuseum:is_current": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:country": "US",
@@ -48,7 +47,7 @@
       }
     ],
     "wof:id": 1360702871,
-    "wof:lastmodified": 1614384146,
+    "wof:lastmodified": 1614897535,
     "wof:name": "Drew Nikonowicz: This World and Others Like It",
     "wof:parent_id": 1159157051,
     "wof:placetype": "installation",

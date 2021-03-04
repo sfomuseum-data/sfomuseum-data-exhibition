@@ -26,7 +26,7 @@
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:country": "US",
@@ -38,7 +38,7 @@
       }
     ],
     "wof:id": 1360667797,
-    "wof:lastmodified": 1614214863,
+    "wof:lastmodified": 1614897534,
     "wof:name": "Children’s Art: Gateway High School",
     "wof:parent_id": -1,
     "wof:placetype": "installation",

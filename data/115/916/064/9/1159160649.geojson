@@ -35,7 +35,6 @@
     "sfomuseum:involves": [
       85632429
     ],
-    "sfomuseum:is_current": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
@@ -59,7 +58,7 @@
     "wof:id": 1159160649,
     "wof:is_current": 1,
     "wof:label": "Maneki Neko: Japan’s Beckoning Cat (2018-02-02 - 2018-09-10)",
-    "wof:lastmodified": 1614384149,
+    "wof:lastmodified": 1614897534,
     "wof:name": "Maneki Neko: Japan’s Beckoning Cats",
     "wof:parent_id": 1159157067,
     "wof:placetype": "installation",

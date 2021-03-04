@@ -31,7 +31,6 @@
     "sfomuseum:hashtags": [
       "NickAlbertson"
     ],
-    "sfomuseum:is_current": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
@@ -55,7 +54,7 @@
     "wof:id": 1159160767,
     "wof:is_current": 0,
     "wof:label": "Nick Albertson: One Hundred Count (2017-12-05 - 2018-03-13)",
-    "wof:lastmodified": 1614384148,
+    "wof:lastmodified": 1614897535,
     "wof:name": "Nick Albertson: One Hundred Count",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",

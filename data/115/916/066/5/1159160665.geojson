@@ -32,7 +32,6 @@
     "sfomuseum:hashtags": [
       "ShoesInCulture"
     ],
-    "sfomuseum:is_current": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
@@ -56,7 +55,7 @@
     "wof:id": 1159160665,
     "wof:is_current": 0,
     "wof:label": "Stepping Out: Shoes in World Cultures (2017-03-31 - 2017-11-13)",
-    "wof:lastmodified": 1614384148,
+    "wof:lastmodified": 1614897534,
     "wof:name": "Stepping Out: Shoes in World Cultures",
     "wof:parent_id": 1159157039,
     "wof:placetype": "installation",
