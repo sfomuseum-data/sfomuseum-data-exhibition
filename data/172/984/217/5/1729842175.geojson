@@ -27,20 +27,80 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1729792387, 
+      102527513, 
+      1729792679, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1729792785, 
+      85922583, 
+      554784711, 
+      85688637, 
+      1729792579, 
+      102085387, 
+      1729792787
+    ],
     "wof:country": "US",
     "wof:created": 1614384178,
-    "wof:geomhash": "9cb9991a86aadef1a0494f76676e0645",
+    "wof:geomhash": "654bdf94f23d0b5a1f720af98098a55e",
     "wof:hierarchy": [
       {
-        "installation_id": 1729842175
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729792785,
+        "installation_id": 1729842175,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1729792579
       }, 
       {
-        "installation_id": 1729842175
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729792785,
+        "installation_id": 1729842175,
+        "region_id": 85688637,
+        "wing_id": 1729792579
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729792787,
+        "installation_id": 1729842175,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1729792579
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729792787,
+        "installation_id": 1729842175,
+        "region_id": 85688637,
+        "wing_id": 1729792579
       }
     ],
     "wof:id": 1729842175,
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1614900931,
     "wof:name": "Early American Motorcycle",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -56,5 +116,5 @@
     -122.38894004061187, 
     37.615942759671796
   ],
-  "geometry": {"coordinates":[[-122.38910542559212,37.615942759671796],[-122.38894004061187,37.61548487910218]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38894004061187,37.61548487910218],[-122.38910542559212,37.615942759671796]],"type":"MultiPoint"}
 }
