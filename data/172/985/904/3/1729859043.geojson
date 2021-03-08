@@ -7,13 +7,14 @@
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
+    "edtf:deprecated": "2021-03-09",
     "edtf:inception": "2020-~05",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.384903,37.613312,-122.384903,37.613312",
     "geom:latitude": 37.61331235630681,
     "geom:longitude": -122.38490266808739,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:description": "Temporary wall in BA/B.",
     "sfomuseum:exhibition_id": 1671,
@@ -68,17 +69,17 @@
     ],
     "wof:id": 1729859043,
     "wof:label": "Harvey Milk Legacy Wall  (2020-~05)",
-    "wof:lastmodified": 1615240678,
+    "wof:lastmodified": 1615240898,
     "wof:name": "Harvey Milk Legacy Wall ",
     "wof:parent_id": 1729792437,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
-    "wof:superseded_by": [],
-    "wof:supersedes": [
+    "wof:superseded_by": [
       1729859041
-    ]
+    ],
+    "wof:supersedes": []
   },
   "bbox": [
     -122.38490266808739, 
