@@ -25,6 +25,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [

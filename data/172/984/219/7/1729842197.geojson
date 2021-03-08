@@ -24,6 +24,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +73,7 @@
       }
     ],
     "wof:id": 1729842197,
-    "wof:lastmodified": 1614900627,
+    "wof:lastmodified": 1615246304,
     "wof:name": "Paula Riff: Blue Is Not The Sky",
     "wof:parent_id": 1729792777,
     "wof:placetype": "installation",

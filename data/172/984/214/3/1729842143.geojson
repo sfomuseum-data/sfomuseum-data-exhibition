@@ -24,6 +24,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -72,7 +73,7 @@
       }
     ],
     "wof:id": 1729842143,
-    "wof:lastmodified": 1614900649,
+    "wof:lastmodified": 1615246304,
     "wof:name": "Model Aircraft from the Aviation Collection",
     "wof:parent_id": 1729813679,
     "wof:placetype": "installation",
