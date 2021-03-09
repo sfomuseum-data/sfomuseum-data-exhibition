@@ -16,7 +16,7 @@
     "geom:longitude": -122.38911319289576,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1604,
     "sfomuseum:exhibition_type": "nonaviation",
@@ -51,7 +51,7 @@
       }
     ],
     "wof:id": 1495157231,
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1615251415,
     "wof:name": "Zuber: The Art of French Scenic Wallpaper",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
