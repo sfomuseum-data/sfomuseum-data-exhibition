@@ -37,20 +37,21 @@
       }
     ],
     "wof:id": 1729842217,
-    "wof:lastmodified": 1615246304,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Harvey Milk: Messenger of Hope",
     "wof:parent_id": 1729813693,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38437419609423, 
-    37.613193362839176, 
-    -122.38437419609423, 
+    -122.38437419609423,
+    37.613193362839176,
+    -122.38437419609423,
     37.613193362839176
   ],
   "geometry": {"coordinates":[[-122.38437419609423,37.613193362839176]],"type":"MultiPoint"}

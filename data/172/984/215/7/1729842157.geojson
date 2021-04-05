@@ -37,20 +37,21 @@
       }
     ],
     "wof:id": 1729842157,
-    "wof:lastmodified": 1615246304,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Kids’ Spot: Butterfly Wall",
     "wof:parent_id": 1360516245,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3814947421135, 
-    37.61765503011678, 
-    -122.3814947421135, 
+    -122.3814947421135,
+    37.61765503011678,
+    -122.3814947421135,
     37.61765503011678
   ],
   "geometry": {"coordinates":[[-122.3814947421135,37.61765503011678]],"type":"MultiPoint"}

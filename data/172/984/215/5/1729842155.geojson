@@ -37,20 +37,21 @@
       }
     ],
     "wof:id": 1729842155,
-    "wof:lastmodified": 1615246304,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Kids’ Spot: Spirogyrate",
     "wof:parent_id": 1360516117,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38445430994034, 
-    37.61866960803538, 
-    -122.38445430994034, 
+    -122.38445430994034,
+    37.61866960803538,
+    -122.38445430994034,
     37.61866960803538
   ],
   "geometry": {"coordinates":[[-122.38445430994034,37.61866960803538]],"type":"MultiPoint"}

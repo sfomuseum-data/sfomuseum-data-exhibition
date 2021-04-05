@@ -37,20 +37,21 @@
       }
     ],
     "wof:id": 1729842191,
-    "wof:lastmodified": 1615246304,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Kids’ Spot: Bay Area Bird Encounters",
     "wof:parent_id": 1360516253,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3812258897383, 
-    37.61753800404816, 
-    -122.3812258897383, 
+    -122.3812258897383,
+    37.61753800404816,
+    -122.3812258897383,
     37.61753800404816
   ],
   "geometry": {"coordinates":[[-122.3812258897383,37.61753800404816]],"type":"MultiPoint"}

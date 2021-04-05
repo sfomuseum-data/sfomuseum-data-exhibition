@@ -28,17 +28,17 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792577, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729813679, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792487, 
+      1729792387,
+      102527513,
+      1729792577,
+      102191575,
+      85633793,
+      102087579,
+      1729813679,
+      85922583,
+      554784711,
+      85688637,
+      1729792487,
       102085387
     ],
     "wof:country": "US",
@@ -58,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,20 +73,21 @@
       }
     ],
     "wof:id": 1729842143,
-    "wof:lastmodified": 1615246304,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Model Aircraft from the Aviation Collection",
     "wof:parent_id": 1729813679,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38853385589063, 
-    37.616891106715705, 
-    -122.38853385589063, 
+    -122.38853385589063,
+    37.616891106715705,
+    -122.38853385589063,
     37.616891106715705
   ],
   "geometry": {"coordinates":[[-122.38853385589063,37.616891106715705]],"type":"MultiPoint"}

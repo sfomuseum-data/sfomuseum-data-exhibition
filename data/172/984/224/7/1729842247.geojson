@@ -25,16 +25,16 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      102085387, 
-      1729792387, 
-      1729792437, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1729792387,
+      1729792437,
       1729792435
     ],
     "wof:country": "US",
@@ -53,7 +53,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -67,22 +67,23 @@
       }
     ],
     "wof:id": 1729842247,
-    "wof:lastmodified": 1615240678,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Harvey Milk Legacy Wall ",
     "wof:parent_id": 1729792437,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [
       1729859041
     ],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38490266808739, 
-    37.61331235630681, 
-    -122.38490266808739, 
+    -122.38490266808739,
+    37.61331235630681,
+    -122.38490266808739,
     37.61331235630681
   ],
   "geometry": {"coordinates":[-122.38490266808739,37.61331235630681],"type":"Point"}

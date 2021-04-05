@@ -36,20 +36,21 @@
       }
     ],
     "wof:id": 1729842107,
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Floreana",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.388951, 
-    37.61628, 
-    -122.388951, 
+    -122.388951,
+    37.61628,
+    -122.388951,
     37.61628
   ],
   "geometry": {"coordinates":[[-122.388951,37.61628]],"type":"MultiPoint"}

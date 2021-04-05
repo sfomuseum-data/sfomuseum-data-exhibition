@@ -37,20 +37,21 @@
       }
     ],
     "wof:id": 1729842209,
-    "wof:lastmodified": 1615246304,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Fly \u0026 Explore",
     "wof:parent_id": 1477855725,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3871972492055, 
-    37.619087399474104, 
-    -122.3871972492055, 
+    -122.3871972492055,
+    37.619087399474104,
+    -122.3871972492055,
     37.619087399474104
   ],
   "geometry": {"coordinates":[[-122.3871972492055,37.619087399474104]],"type":"MultiPoint"}

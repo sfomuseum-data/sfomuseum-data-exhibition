@@ -24,13 +24,13 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
       102085387
     ],
     "wof:country": "US",
@@ -46,7 +46,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637
-      }, 
+      },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -57,22 +57,23 @@
       }
     ],
     "wof:id": 1729842149,
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1617662666,
     "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [
       1729859037
     ],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37385309950533, 
-    37.61939390848619, 
-    -122.37385309950533, 
+    -122.37385309950533,
+    37.61939390848619,
+    -122.37385309950533,
     37.61939390848619
   ],
   "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}

@@ -36,20 +36,21 @@
       }
     ],
     "wof:id": 1729842169,
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Wynn Bullock: Color Light Abstractions",
     "wof:parent_id": 1477855729,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38730757726586, 
-    37.62040377299203, 
-    -122.38730757726586, 
+    -122.38730757726586,
+    37.62040377299203,
+    -122.38730757726586,
     37.62040377299203
   ],
   "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}

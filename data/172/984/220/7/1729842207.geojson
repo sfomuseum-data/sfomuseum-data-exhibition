@@ -28,17 +28,17 @@
     "sfomuseum:type": "Student Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792437, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729813697, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792435, 
+      1729792387,
+      102527513,
+      1729792437,
+      102191575,
+      85633793,
+      102087579,
+      1729813697,
+      85922583,
+      554784711,
+      85688637,
+      1729792435,
       102085387
     ],
     "wof:country": "US",
@@ -58,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,20 +73,21 @@
       }
     ],
     "wof:id": 1729842207,
-    "wof:lastmodified": 1615246304,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Alternative Process: San Francisco State University School of Art",
     "wof:parent_id": 1729813697,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3850680914518, 
-    37.61177834154026, 
-    -122.3850680914518, 
+    -122.3850680914518,
+    37.61177834154026,
+    -122.3850680914518,
     37.61177834154026
   ],
   "geometry": {"coordinates":[[-122.3850680914518,37.61177834154026]],"type":"MultiPoint"}

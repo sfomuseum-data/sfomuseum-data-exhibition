@@ -24,17 +24,17 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      102085387, 
-      1729792387, 
-      1729792391, 
-      1729792769, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1729792387,
+      1729792391,
+      1729792769,
       1729792389
     ],
     "wof:country": "US",
@@ -54,7 +54,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -70,22 +70,23 @@
     ],
     "wof:id": 1729859093,
     "wof:label": "Extra ‘O’! African Barbershop and Hairdressing Signs (2020-~05)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Extra ‘O’! African Barbershop and Hairdressing Signs",
     "wof:parent_id": 1729792769,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1729842185
     ]
   },
   "bbox": [
-    -122.37385309950533, 
-    37.61939390848619, 
-    -122.37385309950533, 
+    -122.37385309950533,
+    37.61939390848619,
+    -122.37385309950533,
     37.61939390848619
   ],
   "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}

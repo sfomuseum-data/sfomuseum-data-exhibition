@@ -36,20 +36,21 @@
       }
     ],
     "wof:id": 1729842151,
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1617662666,
     "wof:name": "R.J. Waters: Golden Gate Park",
     "wof:parent_id": 1729792777,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38736148663139, 
-    37.62038231009875, 
-    -122.38736148663139, 
+    -122.38736148663139,
+    37.62038231009875,
+    -122.38736148663139,
     37.62038231009875
   ],
   "geometry": {"coordinates":[[-122.38736148663139,37.62038231009875]],"type":"MultiPoint"}

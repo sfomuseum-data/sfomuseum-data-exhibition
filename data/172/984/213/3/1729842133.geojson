@@ -37,20 +37,21 @@
       }
     ],
     "wof:id": 1729842133,
-    "wof:lastmodified": 1615246304,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Pan American Airways in Central America",
     "wof:parent_id": 1477855821,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38751545660425, 
-    37.61768511229672, 
-    -122.38751545660425, 
+    -122.38751545660425,
+    37.61768511229672,
+    -122.38751545660425,
     37.61768511229672
   ],
   "geometry": {"coordinates":[[-122.38751545660425,37.61768511229672]],"type":"MultiPoint"}

@@ -36,20 +36,21 @@
       }
     ],
     "wof:id": 1729842193,
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1617662666,
     "wof:name": "Bryant Austin: Solar Transit",
     "wof:parent_id": 1729813677,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38411942369108, 
-    37.6154571162206, 
-    -122.38411942369108, 
+    -122.38411942369108,
+    37.6154571162206,
+    -122.38411942369108,
     37.6154571162206
   ],
   "geometry": {"coordinates":[[-122.38411942369108,37.6154571162206]],"type":"MultiPoint"}
