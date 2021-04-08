@@ -13,7 +13,7 @@
     "geom:bbox": "-122.384119,37.615457,-122.384119,37.615457",
     "geom:latitude": 37.6154571162206,
     "geom:longitude": -122.38411942369108,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1869,
     "sfomuseum:gallery_id": [
@@ -22,23 +22,23 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387,
-      102527513,
-      1729792483,
-      102191575,
-      85633793,
-      102087579,
-      1729837321,
-      85922583,
-      554784711,
-      85688637,
-      1729792435,
+      1729792387, 
+      102527513, 
+      1729792483, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1729837321, 
+      85922583, 
+      554784711, 
+      85688637, 
+      1729792435, 
       102085387
     ],
     "wof:country": "US",
@@ -58,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792435
-      },
+      }, 
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1729842117,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1617919627,
     "wof:name": "Amelia Konow: Auras",
     "wof:parent_id": 1729837321,
     "wof:placetype": "installation",
@@ -85,9 +85,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38411942369108,
-    37.6154571162206,
-    -122.38411942369108,
+    -122.38411942369108, 
+    37.6154571162206, 
+    -122.38411942369108, 
     37.6154571162206
   ],
   "geometry": {"coordinates":[[-122.38411942369108,37.6154571162206]],"type":"MultiPoint"}
