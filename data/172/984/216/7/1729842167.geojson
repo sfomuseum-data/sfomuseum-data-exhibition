@@ -13,7 +13,7 @@
     "geom:bbox": "-122.385068,37.611778,-122.385068,37.611778",
     "geom:latitude": 37.61177834154026,
     "geom:longitude": -122.3850680914518,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1881,
     "sfomuseum:gallery_id": [
@@ -22,23 +22,23 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "#monoprintsSFSU",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387,
-      102527513,
-      1729792437,
-      102191575,
-      85633793,
-      102087579,
-      1729813697,
-      85922583,
-      554784711,
-      85688637,
-      1729792435,
+      1729792387, 
+      102527513, 
+      1729792437, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1729813697, 
+      85922583, 
+      554784711, 
+      85688637, 
+      1729792435, 
       102085387
     ],
     "wof:country": "US",
@@ -58,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792435
-      },
+      }, 
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1729842167,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1624838449,
     "wof:name": "Impressions in Isolation: Monoprints from San Francisco State University",
     "wof:parent_id": 1729813697,
     "wof:placetype": "installation",
@@ -85,9 +85,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3850680914518,
-    37.61177834154026,
-    -122.3850680914518,
+    -122.3850680914518, 
+    37.61177834154026, 
+    -122.3850680914518, 
     37.61177834154026
   ],
   "geometry": {"coordinates":[[-122.3850680914518,37.61177834154026]],"type":"MultiPoint"}
