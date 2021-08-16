@@ -13,7 +13,7 @@
     "geom:bbox": "-122.384879,37.612777,-122.384879,37.612777",
     "geom:latitude": 37.61277678334095,
     "geom:longitude": -122.38487887446351,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1768,
     "sfomuseum:gallery_id": [
@@ -22,23 +22,23 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387,
-      102527513,
-      1729792437,
-      102191575,
-      85633793,
-      102087579,
-      1729837315,
-      85922583,
-      554784711,
-      85688637,
-      1729792435,
+      1729792387, 
+      102527513, 
+      1729792437, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1729837315, 
+      85922583, 
+      554784711, 
+      85688637, 
+      1729792435, 
       102085387
     ],
     "wof:country": "US",
@@ -58,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792435
-      },
+      }, 
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1729842179,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1629072049,
     "wof:name": "Hair Style",
     "wof:parent_id": 1729837315,
     "wof:placetype": "installation",
@@ -85,9 +85,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38487887446351,
-    37.61277678334095,
-    -122.38487887446351,
+    -122.38487887446351, 
+    37.61277678334095, 
+    -122.38487887446351, 
     37.61277678334095
   ],
   "geometry": {"coordinates":[[-122.38487887446351,37.61277678334095]],"type":"MultiPoint"}
