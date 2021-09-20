@@ -13,34 +13,34 @@
     "geom:bbox": "-122.389105,37.615485,-122.388940,37.615943",
     "geom:latitude": 37.61571381938699,
     "geom:longitude": -122.389022733102,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1720,
     "sfomuseum:gallery_id": [
-      19,
+      19, 
       18
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387,
-      102527513,
-      1729792679,
-      102191575,
-      85633793,
-      102087579,
-      1729792785,
-      85922583,
-      554784711,
-      85688637,
-      1729792579,
-      102085387,
+      1729792387, 
+      102527513, 
+      1729792679, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1729792785, 
+      85922583, 
+      554784711, 
+      85688637, 
+      1729792579, 
+      102085387, 
       1729792787
     ],
     "wof:country": "US",
@@ -60,7 +60,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792579
-      },
+      }, 
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -72,7 +72,7 @@
         "installation_id": 1729842175,
         "region_id": 85688637,
         "wing_id": 1729792579
-      },
+      }, 
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -86,7 +86,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792579
-      },
+      }, 
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -101,7 +101,7 @@
       }
     ],
     "wof:id": 1729842175,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1632096049,
     "wof:name": "Early American Motorcycle",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -113,9 +113,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38910542559212,
-    37.61548487910218,
-    -122.38894004061187,
+    -122.38910542559212, 
+    37.61548487910218, 
+    -122.38894004061187, 
     37.615942759671796
   ],
   "geometry": {"coordinates":[[-122.38894004061187,37.61548487910218],[-122.38910542559212,37.615942759671796]],"type":"MultiPoint"}
