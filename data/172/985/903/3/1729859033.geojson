@@ -8,7 +8,7 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-07-23",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/california-studio-craft-featuring-works-forrest-l-merrill-collection",
     "geom:area": 0,
     "geom:area_square_m": 504.394795,
     "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
@@ -25,7 +25,7 @@
     ],
     "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
-    "sfomuseum:hashtag": "",
+    "sfomuseum:hashtag": "#CaliforniaCrafts",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
@@ -33,23 +33,23 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855609, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      554784711, 
-      1477855627, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855607, 
+      1477855609,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      554784711,
+      1477855627,
+      85922583,
+      102087579,
+      1477855605,
+      1477855607,
       102085387
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384147,
-    "wof:geomhash": "e9c0522e9921b2bf9784be8aab286a96",
+    "wof:geomhash": "31e24bbf59822635ef94e1e09921284c",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -64,7 +64,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855607
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1729859033,
     "wof:label": "California Studio Craft: Featuring Works from the Forrest L. Merrill Collection (2019-07-23)",
-    "wof:lastmodified": 1614897536,
+    "wof:lastmodified": 1632347952,
     "wof:name": "California Studio Craft: Featuring Works from the Forrest L. Merrill Collection",
     "wof:parent_id": 1477855627,
     "wof:placetype": "installation",
@@ -93,10 +93,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38271164883223, 
-    37.6174220145607, 
-    -122.38271164883223, 
+    -122.38271164883223,
+    37.6174220145607,
+    -122.38271164883223,
     37.6174220145607
   ],
-  "geometry": {"coordinates":[[-122.38271164883223,37.6174220145607],[-122.38271164883223,37.6174220145607]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38271164883223,37.6174220145607]],"type":"MultiPoint"}
 }

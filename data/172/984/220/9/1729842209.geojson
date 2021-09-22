@@ -27,18 +27,54 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1477855605,
+      102527513,
+      1477855703,
+      102191575,
+      85633793,
+      102087579,
+      1477855725,
+      85922583,
+      554784711,
+      85688637,
+      1477855699,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1614384190,
     "wof:geomhash": "8ec94f2653acd2c8c469059b8c2d1ba4",
     "wof:hierarchy": [
       {
-        "installation_id": 1729842209
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855703,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1477855725,
+        "installation_id": 1729842209,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1477855699
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855703,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1477855725,
+        "installation_id": 1729842209,
+        "region_id": 85688637,
+        "wing_id": 1477855699
       }
     ],
     "wof:id": 1729842209,
-    "wof:lastmodified": 1617919631,
-    "wof:name": "Fly \u0026 Explore",
+    "wof:lastmodified": 1632347952,
+    "wof:name": "Pylon Essay: Fly \u0026 Explore",
     "wof:parent_id": 1477855725,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
@@ -49,9 +85,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3871972492055, 
-    37.619087399474104, 
-    -122.3871972492055, 
+    -122.3871972492055,
+    37.619087399474104,
+    -122.3871972492055,
     37.619087399474104
   ],
   "geometry": {"coordinates":[[-122.3871972492055,37.619087399474104]],"type":"MultiPoint"}

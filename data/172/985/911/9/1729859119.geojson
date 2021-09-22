@@ -36,15 +36,15 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1360521569, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360541661, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396337, 
+      1360521569,
+      102527513,
+      102191575,
+      85633793,
+      1360541661,
+      85922583,
+      102087579,
+      85688637,
+      1159396337,
       1159396147
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     "wof:id": 1729859119,
     "wof:is_current": 0,
     "wof:label": "Pan Am: Legacy of a Leader (2006~)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347951,
     "wof:name": "Pan Am: Legacy of a Leader",
     "wof:parent_id": 1360541661,
     "wof:placetype": "installation",
@@ -84,14 +84,14 @@
       1159159801
     ],
     "wof:tags": [
-      "aviation", 
+      "aviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
+    -122.387939,
+    37.614512,
+    -122.387939,
     37.614512
   ],
   "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}

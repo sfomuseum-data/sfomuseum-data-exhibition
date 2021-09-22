@@ -36,15 +36,15 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1360521569, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360541679, 
-      85922583, 
-      102087579, 
-      1159396337, 
-      1159396147, 
+      1360521569,
+      102527513,
+      102191575,
+      85633793,
+      1360541679,
+      85922583,
+      102087579,
+      1159396337,
+      1159396147,
       85688637
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     "wof:id": 1159160217,
     "wof:is_current": -1,
     "wof:label": "China Clipper: Opening of the Pacific (2010-10-01)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347951,
     "wof:name": "China Clipper: Opening of the Pacific",
     "wof:parent_id": 1360541679,
     "wof:placetype": "installation",
@@ -82,14 +82,14 @@
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "aviation", 
+      "aviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
+    -122.387939,
+    37.614512,
+    -122.387939,
     37.614512
   ],
   "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}

@@ -8,18 +8,18 @@
     "date:inception_upper": "2020-07-11",
     "edtf:cessation": "2020-12-13",
     "edtf:inception": "2020-07-11",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/eclectic-taste-victorian-silver-plate",
     "geom:area": 0,
     "geom:bbox": "-122.384879,37.612777,-122.384879,37.612777",
-    "geom:latitude": 37.61277678334095,
-    "geom:longitude": -122.38487887446351,
+    "geom:latitude": 37.61277678323716,
+    "geom:longitude": -122.38487887460676,
     "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1752,
     "sfomuseum:gallery_id": [
       71
     ],
-    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
@@ -28,22 +28,22 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792437, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729837315, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792435, 
+      1729792387,
+      102527513,
+      1729792437,
+      102191575,
+      85633793,
+      102087579,
+      1729837315,
+      85922583,
+      554784711,
+      85688637,
+      1729792435,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1614384182,
-    "wof:geomhash": "4a31218ea469c5966b88fce6849994cf",
+    "wof:geomhash": "e42d2a3b2b5aae0b0dcfeccc0dccaf46",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -58,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1729842189,
-    "wof:lastmodified": 1617919629,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Eclectic Taste: Victorian Silver Plate",
     "wof:parent_id": 1729837315,
     "wof:placetype": "installation",
@@ -85,10 +85,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38487887446351, 
-    37.61277678334095, 
-    -122.38487887446351, 
-    37.61277678334095
+    -122.38487887460676,
+    37.61277678323716,
+    -122.38487887460676,
+    37.61277678323716
   ],
-  "geometry": {"coordinates":[[-122.38487887446351,37.61277678334095]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38487887460676,37.61277678323716]],"type":"MultiPoint"}
 }

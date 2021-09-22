@@ -35,14 +35,14 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      1360516497, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159554803, 
+      102527513,
+      102191575,
+      85633793,
+      1360516497,
+      85922583,
+      102087579,
+      85688637,
+      1159554803,
       1159554829
     ],
     "wof:breaches": [],
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1226613013,
     "wof:label": "Chess Sets of the World (1998-01-01 - 1988-07-31)",
-    "wof:lastmodified": 1614897536,
+    "wof:lastmodified": 1632347950,
     "wof:name": "Chess Sets of the World",
     "wof:parent_id": 1360516497,
     "wof:placetype": "installation",
@@ -77,9 +77,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}

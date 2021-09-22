@@ -13,7 +13,7 @@
     "geom:bbox": "-122.381226,37.617538,-122.381226,37.617538",
     "geom:latitude": 37.61753800404816,
     "geom:longitude": -122.3812258897383,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfomuseum:description": "Walter Kitundu created a group of interactive artworks that were designed to offer travelers of all ages a playful oasis. Using high-quality veneer plywood, which he then hand-stained, Kitundu created two benches shaped like bird wings that double as musical instruments. Serving as the backdrop for these musical benches, is a mural made of inlaid wood featuring local birds such as Red-tailed Hawks, Anna’s Hummingbirds, herons, egrets, Northern Harriers, and Burrowing Owls. The birds, which are printed on wood and also inlaid, are derived from photographs that the artist took in San Francisco.",
     "sfomuseum:exhibition_id": 1756,
     "sfomuseum:gallery_id": [
@@ -22,22 +22,44 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Kids' Spot",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159396333,
+      102527513,
+      1159396261,
+      102191575,
+      85633793,
+      102087579,
+      1360516253,
+      85922583,
+      85688637,
+      1159396109
+    ],
     "wof:country": "US",
     "wof:created": 1614384183,
     "wof:geomhash": "38a9fdcbdfe9f48f2b9b51ca9c1c22b1",
     "wof:hierarchy": [
       {
-        "installation_id": 1729842191
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "concourse_id": 1159396261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516253,
+        "installation_id": 1729842191,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396109
       }
     ],
     "wof:id": 1729842191,
-    "wof:lastmodified": 1617919630,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Kids’ Spot: Bay Area Bird Encounters",
     "wof:parent_id": 1360516253,
     "wof:placetype": "installation",
@@ -49,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3812258897383, 
-    37.61753800404816, 
-    -122.3812258897383, 
+    -122.3812258897383,
+    37.61753800404816,
+    -122.3812258897383,
     37.61753800404816
   ],
   "geometry": {"coordinates":[[-122.3812258897383,37.61753800404816]],"type":"MultiPoint"}

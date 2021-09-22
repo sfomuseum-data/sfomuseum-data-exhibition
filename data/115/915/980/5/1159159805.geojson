@@ -36,15 +36,15 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1360521571, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360541561, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396319, 
+      1360521571,
+      102527513,
+      102191575,
+      85633793,
+      1360541561,
+      85922583,
+      102087579,
+      85688637,
+      1159396319,
       1159396107
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     "wof:id": 1159159805,
     "wof:is_current": 0,
     "wof:label": "PAA: China Clipper (2005-01-02 - 2010-01-01)",
-    "wof:lastmodified": 1614897534,
+    "wof:lastmodified": 1632347951,
     "wof:name": "PAA: China Clipper",
     "wof:parent_id": 1360541561,
     "wof:placetype": "installation",
@@ -84,14 +84,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "aviation", 
+      "aviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
+    -122.387939,
+    37.614512,
+    -122.387939,
     37.614512
   ],
   "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}

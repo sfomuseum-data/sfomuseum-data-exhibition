@@ -35,7 +35,17 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159396333,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1360516231,
+      85922583,
+      85688637,
+      1159396163
+    ],
     "wof:breaches": [],
     "wof:controlled": [
       "wof:hierarchy"
@@ -45,13 +55,23 @@
     "wof:geomhash": "be94e4fd816d22737d090dcaf004da92",
     "wof:hierarchy": [
       {
-        "installation_id": 1159160393
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516231,
+        "installation_id": 1159160393,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396163
       }
     ],
     "wof:id": 1159160393,
     "wof:is_current": 0,
     "wof:label": "Children’s Art: Glide Memorial Methodist Church; Family, Youth and Childcare Program (2012-12-03 - 2013-01-31)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347951,
     "wof:name": "Glide Memorial Methodist Church–Janice Mirikitani Family, Youth and Childcare Center (FYCC): The T-Shirt Identity Project: I Design My Identity",
     "wof:parent_id": 1360516231,
     "wof:placetype": "installation",
@@ -60,14 +80,14 @@
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "studentart", 
+      "studentart",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.38444211236417, 
-    37.614828422481345, 
-    -122.38444211236417, 
+    -122.38444211236417,
+    37.614828422481345,
+    -122.38444211236417,
     37.614828422481345
   ],
   "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}

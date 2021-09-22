@@ -23,7 +23,7 @@
     "sfomuseum:exhibition_number": "L2008.06",
     "sfomuseum:exhibition_type": "nonaviation",
     "sfomuseum:gallery_id": [
-      18, 
+      18,
       19
     ],
     "sfomuseum:has_brochure": 0,
@@ -35,7 +35,18 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159396337,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1360516187,
+      85922583,
+      85688637,
+      1159396147,
+      1360516195
+    ],
     "wof:breaches": [],
     "wof:controlled": [
       "wof:hierarchy"
@@ -45,16 +56,36 @@
     "wof:geomhash": "c1744a684ad5a8e5083251cead2ae8b4",
     "wof:hierarchy": [
       {
-        "installation_id": 1159159883
-      }, 
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516187,
+        "installation_id": 1159159883,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396147
+      },
       {
-        "installation_id": 1159159883
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516195,
+        "installation_id": 1159159883,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396147
       }
     ],
     "wof:id": 1159159883,
     "wof:is_current": 0,
     "wof:label": "Scandinavian Modernism: In Pursuit of Function and Beauty (2008-06-16 - 2008-11-03)",
-    "wof:lastmodified": 1614897534,
+    "wof:lastmodified": 1632347951,
     "wof:name": "Scandinavian Modernism: In Pursuit of Function and Beauty",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -63,14 +94,14 @@
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "nonaviation", 
+      "nonaviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.3891310124426, 
-    37.61542448763906, 
-    -122.38894152323134, 
+    -122.3891310124426,
+    37.61542448763906,
+    -122.38894152323134,
     37.61602910736223
   ],
   "geometry": {"coordinates":[[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223]],"type":"MultiPoint"}

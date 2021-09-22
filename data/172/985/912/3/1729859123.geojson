@@ -12,8 +12,8 @@
     "geom:area": 0,
     "geom:area_square_m": 467.367672,
     "geom:bbox": "-122.384379,37.614894,-122.384379,37.614894",
-    "geom:latitude": 37.61489427211271,
-    "geom:longitude": -122.38437920009163,
+    "geom:latitude": 37.61489427207149,
+    "geom:longitude": -122.38437920019275,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -33,23 +33,23 @@
     "sfomuseum:type": "Student Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      554784711, 
-      1477855663, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855657, 
-      102085387, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      554784711,
+      1477855663,
+      85922583,
+      102087579,
+      1477855605,
+      1477855657,
+      102085387,
       1477855667
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384147,
-    "wof:geomhash": "25b60d97474684aef4c2051d46584ba1",
+    "wof:geomhash": "d990ba48d4ca43c1f4ebd16379b1fae9",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -64,7 +64,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855657
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1729859123,
     "wof:label": "Greenleaf TK–8: Social Justice Posters (2019-07-23)",
-    "wof:lastmodified": 1614897536,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Greenleaf TK–8: Social Justice Posters",
     "wof:parent_id": 1477855663,
     "wof:placetype": "installation",
@@ -93,10 +93,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38437920009163, 
-    37.61489427211271, 
-    -122.38437920009163, 
-    37.61489427211271
+    -122.38437920019275,
+    37.61489427207149,
+    -122.38437920019275,
+    37.61489427207149
   ],
-  "geometry": {"coordinates":[[-122.38437920009163,37.61489427211271],[-122.38437920009163,37.61489427211271]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38437920019275,37.61489427207149]],"type":"MultiPoint"}
 }

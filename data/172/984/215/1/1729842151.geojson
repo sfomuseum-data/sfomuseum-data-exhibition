@@ -8,11 +8,11 @@
     "date:inception_upper": "2020-06-27",
     "edtf:cessation": "2020-11-08",
     "edtf:inception": "2020-06-27",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/rj-waters-golden-gate-park",
     "geom:area": 0,
-    "geom:bbox": "-122.387361,37.620382,-122.387361,37.620382",
-    "geom:latitude": 37.62038231009875,
-    "geom:longitude": -122.38736148663139,
+    "geom:bbox": "-122.387416,37.620174,-122.387416,37.620174",
+    "geom:latitude": 37.620173704195516,
+    "geom:longitude": -122.38741555362547,
     "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1773,
@@ -26,17 +26,53 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1729792387,
+      102527513,
+      1729792489,
+      102191575,
+      85633793,
+      102087579,
+      1729792777,
+      85922583,
+      554784711,
+      85688637,
+      1729792487,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1614384169,
-    "wof:geomhash": "83a4a4cdf4d6e804815e5021c1465270",
+    "wof:geomhash": "a626cf6e4d5299c4388bb9f9077acdc7",
     "wof:hierarchy": [
       {
-        "installation_id": 1729842151
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792489,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729792777,
+        "installation_id": 1729842151,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1729792487
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792489,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729792777,
+        "installation_id": 1729842151,
+        "region_id": 85688637,
+        "wing_id": 1729792487
       }
     ],
     "wof:id": 1729842151,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1632347952,
     "wof:name": "R.J. Waters: Golden Gate Park",
     "wof:parent_id": 1729792777,
     "wof:placetype": "installation",
@@ -48,10 +84,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38736148663139,
-    37.62038231009875,
-    -122.38736148663139,
-    37.62038231009875
+    -122.38741555362547,
+    37.620173704195516,
+    -122.38741555362547,
+    37.620173704195516
   ],
-  "geometry": {"coordinates":[[-122.38736148663139,37.62038231009875]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38741555362547,37.620173704195516]],"type":"MultiPoint"}
 }

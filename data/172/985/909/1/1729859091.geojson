@@ -13,8 +13,8 @@
     "geom:area": 0,
     "geom:area_square_m": 2123.229928,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
-    "geom:latitude": 37.61908725586695,
-    "geom:longitude": -122.38719725366178,
+    "geom:latitude": 37.619087399474104,
+    "geom:longitude": -122.3871972492055,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -37,23 +37,23 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1477855605, 
-      1477855703, 
-      1477855725, 
-      554784711, 
-      1477855699, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1477855605,
+      1477855703,
+      1477855725,
+      554784711,
+      1477855699,
       102085387
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384148,
-    "wof:geomhash": "6b2c72974f8430ad37a101bcc8221c37",
+    "wof:geomhash": "8ec94f2653acd2c8c469059b8c2d1ba4",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -68,7 +68,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855699
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -84,7 +84,7 @@
     ],
     "wof:id": 1729859091,
     "wof:label": "The Modern Consumer: 1950s Products and Styles (2019-07-23)",
-    "wof:lastmodified": 1614897536,
+    "wof:lastmodified": 1632347952,
     "wof:name": "The Modern Consumer: 1950s Products and Styles",
     "wof:parent_id": 1477855725,
     "wof:placetype": "installation",
@@ -97,10 +97,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38719725366178, 
-    37.61908725586695, 
-    -122.38719725366178, 
-    37.61908725586695
+    -122.3871972492055,
+    37.619087399474104,
+    -122.3871972492055,
+    37.619087399474104
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3871972492055,37.619087399474104]],"type":"MultiPoint"}
 }

@@ -8,7 +8,7 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "2019-10-28",
     "edtf:inception": "2019-07-23",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/clarissa-bonet-city-space",
     "geom:area": 0,
     "geom:area_square_m": 83.495225,
     "geom:bbox": "-122.384814,37.617787,-122.384814,37.617787",
@@ -33,22 +33,22 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      554784711, 
-      1477855653, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855607, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      554784711,
+      1477855653,
+      85922583,
+      102087579,
+      1477855605,
+      1477855607,
       102085387
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384148,
-    "wof:geomhash": "c4fa28e7f7d1e11cbb1c8944a7609d78",
+    "wof:geomhash": "6571ee6a1f7e38ba5b45861884674ee6",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -62,7 +62,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855607
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1729859053,
     "wof:label": "Clarissa Bonet: City Space (2019-07-23)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Clarissa Bonet: City Space",
     "wof:parent_id": 1477855653,
     "wof:placetype": "installation",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.3848138298103, 
-    37.61778735663957, 
-    -122.3848138298103, 
+    -122.3848138298103,
+    37.61778735663957,
+    -122.3848138298103,
     37.61778735663957
   ],
-  "geometry": {"coordinates":[[-122.3848138298103,37.61778735663957],[-122.3848138298103,37.61778735663957]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3848138298103,37.61778735663957]],"type":"MultiPoint"}
 }

@@ -8,11 +8,12 @@
     "date:inception_upper": "2019-09-28",
     "edtf:cessation": "2020-06-21",
     "edtf:inception": "2019-09-28",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/flying-freedom-birds",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
-    "geom:latitude": 37.614512,
-    "geom:longitude": -122.387939,
+    "geom:bbox": "-122.387696,37.614350,-122.387696,37.614350",
+    "geom:latitude": 37.61435019844274,
+    "geom:longitude": -122.38769587933402,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -24,30 +25,32 @@
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
+    "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855927, 
-      1477855937, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      554784711, 
-      1477855947, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855833, 
+      1477855927,
+      1477855937,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      554784711,
+      1477855947,
+      85922583,
+      102087579,
+      1477855605,
+      1477855833,
       102085387
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614897535,
-    "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
+    "wof:geomhash": "702997f28fd66c0dac64297c29309ae7",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -63,7 +66,7 @@
         "region_id": 85688637,
         "venue_id": 1477855937,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -79,7 +82,7 @@
       }
     ],
     "wof:id": 1495157221,
-    "wof:lastmodified": 1617919625,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Flying the Freedom Birds: Airlines and the Vietnam War",
     "wof:parent_id": 1477855947,
     "wof:placetype": "installation",
@@ -90,10 +93,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
-    37.614512
+    -122.38769587933402,
+    37.61435019844274,
+    -122.38769587933402,
+    37.61435019844274
   ],
-  "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38769587933402,37.61435019844274],[-122.38769587933402,37.61435019844274]],"type":"MultiPoint"}
 }

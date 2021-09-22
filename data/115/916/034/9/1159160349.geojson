@@ -24,8 +24,8 @@
     "sfomuseum:exhibition_number": "L2013.18",
     "sfomuseum:exhibition_type": "nonaviation",
     "sfomuseum:gallery_id": [
-      59, 
-      19, 
+      59,
+      19,
       18
     ],
     "sfomuseum:has_brochure": 1,
@@ -37,7 +37,19 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159396333,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1360516201,
+      85922583,
+      85688637,
+      1159396159,
+      1360516193,
+      1360516183
+    ],
     "wof:breaches": [],
     "wof:controlled": [
       "wof:hierarchy"
@@ -47,19 +59,49 @@
     "wof:geomhash": "504c931b52a5961d3987eb8bd9f24eaa",
     "wof:hierarchy": [
       {
-        "installation_id": 1159160349
-      }, 
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516201,
+        "installation_id": 1159160349,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396159
+      },
       {
-        "installation_id": 1159160349
-      }, 
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516193,
+        "installation_id": 1159160349,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396159
+      },
       {
-        "installation_id": 1159160349
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516183,
+        "installation_id": 1159160349,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396159
       }
     ],
     "wof:id": 1159160349,
     "wof:is_current": 0,
     "wof:label": "America’s Cup, Sailing for International Sport’s Greatest Trophy 1851-1937 (2013-08-20 - 2014-03-03)",
-    "wof:lastmodified": 1614897534,
+    "wof:lastmodified": 1632347951,
     "wof:name": "America’s Cup: Sailing for International Sport’s Greatest Trophy 1851-1937",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -68,14 +110,14 @@
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "nonaviation", 
+      "nonaviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.38926704301338, 
-    37.61542448763906, 
-    -122.38894152323134, 
+    -122.38926704301338,
+    37.61542448763906,
+    -122.38894152323134,
     37.61602910736223
   ],
   "geometry": {"coordinates":[[-122.38926704301338,37.61564469738159],[-122.3891310124426,37.61602910736223],[-122.38894152323134,37.61542448763906]],"type":"MultiPoint"}

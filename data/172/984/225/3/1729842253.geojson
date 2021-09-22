@@ -10,9 +10,9 @@
     "edtf:inception": "2020-03-09",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/pan-american-world-airways-travel-posters",
     "geom:area": 0,
-    "geom:bbox": "-122.383591,37.617557,-122.383591,37.617557",
-    "geom:latitude": 37.61755664937602,
-    "geom:longitude": -122.38359129579024,
+    "geom:bbox": "-122.383524,37.617391,-122.383524,37.617391",
+    "geom:latitude": 37.61739068236336,
+    "geom:longitude": -122.383523691015,
     "mz:is_current": 0,
     "sfomuseum:description": "Reproductions of Pan Am posters for glass fronts of D16 gallery as visual placeholder until Airline Identities can be installed March 2020.",
     "sfomuseum:exhibition_id": 1827,
@@ -26,17 +26,53 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1729792387,
+      102527513,
+      1729792433,
+      102191575,
+      85633793,
+      102087579,
+      1729813701,
+      85922583,
+      554784711,
+      85688637,
+      1729792389,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1614384204,
-    "wof:geomhash": "7601ef437d6649c34077e90a52b21379",
+    "wof:geomhash": "1c81ff9bb4b77f798f17a4c47e7476ee",
     "wof:hierarchy": [
       {
-        "installation_id": 1729842253
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792433,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729813701,
+        "installation_id": 1729842253,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1729792389
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792433,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729813701,
+        "installation_id": 1729842253,
+        "region_id": 85688637,
+        "wing_id": 1729792389
       }
     ],
     "wof:id": 1729842253,
-    "wof:lastmodified": 1617919633,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Pan American World Airways Travel Posters",
     "wof:parent_id": 1729813701,
     "wof:placetype": "installation",
@@ -48,10 +84,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38359129579024, 
-    37.61755664937602, 
-    -122.38359129579024, 
-    37.61755664937602
+    -122.383523691015,
+    37.61739068236336,
+    -122.383523691015,
+    37.61739068236336
   ],
-  "geometry": {"coordinates":[[-122.38359129579024,37.61755664937602]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.383523691015,37.61739068236336]],"type":"MultiPoint"}
 }

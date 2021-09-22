@@ -10,13 +10,13 @@
     "edtf:inception": "2020-~05",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:bbox": "-122.382112,37.617421,-122.382112,37.617421",
+    "geom:latitude": 37.617421155555235,
+    "geom:longitude": -122.38211197705529,
     "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1770,
-    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
@@ -39,7 +39,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384181,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "aec2afc174aa35a612b0782b89537d13",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1729859093,
     "wof:label": "Extra ‘O’! African Barbershop and Hairdressing Signs (2020-~05)",
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Extra ‘O’! African Barbershop and Hairdressing Signs",
     "wof:parent_id": 1729792769,
     "wof:placetype": "installation",
@@ -84,10 +84,10 @@
     ]
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38211197705529,
+    37.617421155555235,
+    -122.38211197705529,
+    37.617421155555235
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38211197705529,37.617421155555235],[-122.38211197705529,37.617421155555235]],"type":"MultiPoint"}
 }

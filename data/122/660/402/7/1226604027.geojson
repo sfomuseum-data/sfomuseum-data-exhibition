@@ -8,9 +8,10 @@
     "date:inception_upper": "1998-03-10",
     "edtf:cessation": "1999-01-04",
     "edtf:inception": "1998-03-10",
-    "geom:area": 2.1678210724231723e-7,
+    "flysfo:url": "",
+    "geom:area": 0,
     "geom:area_square_m": 2123.229928,
-    "geom:bbox": "-122.387489,37.618542,-122.386908,37.619625",
+    "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
     "geom:latitude": 37.61908725586695,
     "geom:longitude": -122.38719725366178,
     "iso:country": "US",
@@ -18,7 +19,7 @@
     "mz:is_current": 0,
     "sfomuseum:boardingarea_id": "BOARDING AREA F",
     "sfomuseum:building_id": "SFO",
-    "sfomuseum:description": "American icons.  The collection of Stephen Visakay.",
+    "sfomuseum:description": "American icons.  The collection of Stephen Visakay.   ",
     "sfomuseum:exhibition_id": 31,
     "sfomuseum:exhibition_type": "nonaviation",
     "sfomuseum:gallery_id": [
@@ -26,28 +27,30 @@
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "NORTH",
+    "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159554855, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360516127, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159554803, 
+      1159554855,
+      102527513,
+      102191575,
+      85633793,
+      1360516127,
+      85922583,
+      102087579,
+      85688637,
+      1159554803,
       1159554821
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384149,
-    "wof:geomhash": "1a13d6dcd3bacbe713a71693333ff659",
+    "wof:geomhash": "6b2c72974f8430ad37a101bcc8221c37",
     "wof:hierarchy": [
       {
         "building_id": 1159554803,
@@ -66,7 +69,7 @@
     ],
     "wof:id": 1226604027,
     "wof:label": "Shaken Not Stirred: Cocktail Shakers and Design (1998-03-10 - 1999-01-04)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347949,
     "wof:name": "Shaken Not Stirred: Cocktail Shakers and Design",
     "wof:parent_id": 1360516127,
     "wof:placetype": "installation",
@@ -77,10 +80,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38748861037539, 
-    37.61854158582849, 
-    -122.38690848665146, 
-    37.6196249494093
+    -122.38719725366178,
+    37.61908725586695,
+    -122.38719725366178,
+    37.61908725586695
   ],
-  "geometry": {"coordinates":[[[-122.38748861037539,37.61955505498473],[-122.38729989542905,37.6196249494093],[-122.38690848665146,37.61862545913797],[-122.38709021215534,37.61854158582849],[-122.38748861037539,37.61955505498473]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
 }

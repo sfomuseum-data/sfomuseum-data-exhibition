@@ -34,19 +34,39 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159396319,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1360516279,
+      85922583,
+      85688637,
+      1159396107
+    ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384149,
     "wof:geomhash": "e167e38e27ef020276422c2d65896e99",
     "wof:hierarchy": [
       {
-        "installation_id": 1226603815
+        "building_id": 1159396319,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516279,
+        "installation_id": 1226603815,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396107
       }
     ],
     "wof:id": 1226603815,
     "wof:label": "The Art and Utility of California Indian Basketry (2000-11-27 - 2001-06-25)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347949,
     "wof:name": "The Art and Utility of California Indian Basketry",
     "wof:parent_id": 1360516279,
     "wof:placetype": "installation",
@@ -57,9 +77,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38901990349568, 
-    37.61453299582842, 
-    -122.38901990349568, 
+    -122.38901990349568,
+    37.61453299582842,
+    -122.38901990349568,
     37.61453299582842
   ],
   "geometry": {"coordinates":[[-122.38901990349568,37.61453299582842]],"type":"MultiPoint"}

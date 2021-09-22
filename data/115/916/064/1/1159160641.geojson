@@ -8,38 +8,42 @@
     "date:inception_upper": "2015-12-11",
     "edtf:cessation": "2016-06-14",
     "edtf:inception": "2015-12-11",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387989,37.614385,-122.387989,37.614385",
-    "geom:latitude": 37.61438528355631,
-    "geom:longitude": -122.38798936547909,
+    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
+    "geom:latitude": 37.614512,
+    "geom:longitude": -122.387939,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfomuseum:building_id": "SFO",
     "sfomuseum:description": "",
-    "sfomuseum:exhibition_id": "1430",
+    "sfomuseum:exhibition_id": 1430,
     "sfomuseum:exhibition_number": "L2015.32",
     "sfomuseum:exhibition_type": "aviation",
     "sfomuseum:gallery_id": [
       41
     ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
+    "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1360521563, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360541701, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396321, 
+      102527513,
+      102191575,
+      85633793,
+      1360541701,
+      85922583,
+      102087579,
+      85688637,
+      1159396321,
       1159396153
     ],
     "wof:breaches": [],
@@ -48,7 +52,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949933,
-    "wof:geomhash": "5b79a90681cd86bcef4068464608be37",
+    "wof:geomhash": "e29cf68e891156b51b715c504db9a5f4",
     "wof:hierarchy": [
       {
         "building_id": 1159396321,
@@ -61,15 +65,14 @@
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "venue_id": 1360521563,
         "wing_id": 1159396153
       }
     ],
     "wof:id": 1159160641,
     "wof:is_current": 0,
     "wof:label": "Hughes Airwest, San Francisco poster, Special Collections (2015-12-11 - 2016-06-14)",
-    "wof:lastmodified": 1614897535,
-    "wof:name": "Hughes Airwest, San Francisco poster, Special Collections",
+    "wof:lastmodified": 1632347952,
+    "wof:name": "Special Collections Poster: Hughes Air West",
     "wof:parent_id": 1360541701,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
@@ -77,15 +80,15 @@
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "aviation", 
+      "aviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.38798936547909, 
-    37.61438528355631, 
-    -122.38798936547909, 
-    37.61438528355631
+    -122.387939,
+    37.614512,
+    -122.387939,
+    37.614512
   ],
-  "geometry": {"coordinates":[-122.38798936547909,37.61438528355631],"type":"Point"}
+  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
 }

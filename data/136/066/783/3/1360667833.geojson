@@ -8,7 +8,7 @@
     "date:inception_upper": "2017-05-10",
     "edtf:cessation": "2017-06-06",
     "edtf:inception": "2017-05-10",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/video-arts/powwow",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -34,15 +34,15 @@
     "sfomuseum:type": "Video Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159157335, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1159157939, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159157271, 
+      1159157335,
+      102527513,
+      102191575,
+      85633793,
+      1159157939,
+      85922583,
+      102087579,
+      85688637,
+      1159157271,
       1159157333
     ],
     "wof:breaches": [],
@@ -66,7 +66,7 @@
       }
     ],
     "wof:id": 1360667833,
-    "wof:lastmodified": 1614897534,
+    "wof:lastmodified": 1632347952,
     "wof:name": "POW WOW",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",
@@ -77,9 +77,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.388951, 
-    37.61628, 
-    -122.388951, 
+    -122.388951,
+    37.61628,
+    -122.388951,
     37.61628
   ],
   "geometry": {"coordinates":[[-122.388951,37.61628]],"type":"MultiPoint"}

@@ -36,15 +36,15 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1360521571, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360541573, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396319, 
+      1360521571,
+      102527513,
+      102191575,
+      85633793,
+      1360541573,
+      85922583,
+      102087579,
+      85688637,
+      1159396319,
       1159396107
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     "wof:id": 1159159705,
     "wof:is_current": 0,
     "wof:label": "Flying Boats of the Pacific: Photographs by Clyde Sunderland (2005-09-19 - 2007-04-30)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347950,
     "wof:name": "Flying Boats of the Pacific: Photographs by Clyde Sunderland",
     "wof:parent_id": 1360541573,
     "wof:placetype": "installation",
@@ -84,14 +84,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "aviation", 
+      "aviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
+    -122.387939,
+    37.614512,
+    -122.387939,
     37.614512
   ],
   "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}

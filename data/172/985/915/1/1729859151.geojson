@@ -11,12 +11,12 @@
     "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
-    "geom:latitude": 37.614512,
-    "geom:longitude": -122.387939,
+    "geom:bbox": "-122.387911,37.614502,-122.387911,37.614502",
+    "geom:latitude": 37.614502386613836,
+    "geom:longitude": -122.3879113760689,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfomuseum:building_id": "SFO",
     "sfomuseum:description": "Engine on loan from Fred Patterson",
     "sfomuseum:exhibition_id": 963,
@@ -29,25 +29,25 @@
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1729792387, 
-      1729792697, 
-      1729813733, 
-      554784711, 
-      1729813675, 
-      1729792579, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1729792387,
+      1729792697,
+      1729813733,
+      554784711,
+      1729813675,
+      1729792579,
       102085387
     ],
     "wof:breaches": [],
@@ -56,7 +56,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949847,
-    "wof:geomhash": "e29cf68e891156b51b715c504db9a5f4",
+    "wof:geomhash": "ccb0a600f3cd0b3bcd93c2315e4fb668",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -72,7 +72,7 @@
         "region_id": 85688637,
         "venue_id": 1729813675,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -90,7 +90,7 @@
     "wof:id": 1729859151,
     "wof:is_current": -1,
     "wof:label": "Wright Whirlwind J-5 Engine with Hub (2020-~05)",
-    "wof:lastmodified": 1617919643,
+    "wof:lastmodified": 1632347951,
     "wof:name": "Wright Whirlwind J-5 Engine with Hub",
     "wof:parent_id": 1729813733,
     "wof:placetype": "installation",
@@ -103,15 +103,15 @@
       1159159975
     ],
     "wof:tags": [
-      "aviation", 
+      "aviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
-    37.614512
+    -122.3879113760689,
+    37.614502386613836,
+    -122.3879113760689,
+    37.614502386613836
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3879113760689,37.614502386613836],[-122.3879113760689,37.614502386613836]],"type":"MultiPoint"}
 }

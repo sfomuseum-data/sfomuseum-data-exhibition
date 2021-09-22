@@ -35,7 +35,17 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159396321,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1360516161,
+      85922583,
+      85688637,
+      1159396157
+    ],
     "wof:breaches": [],
     "wof:controlled": [
       "wof:hierarchy"
@@ -45,13 +55,23 @@
     "wof:geomhash": "319ddbbae05503b868e7e9833b4e2935",
     "wof:hierarchy": [
       {
-        "installation_id": 1159160557
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516161,
+        "installation_id": 1159160557,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396157
       }
     ],
     "wof:id": 1159160557,
     "wof:is_current": 0,
     "wof:label": "Wayne Hoy: Twilight Series (2014-11-03 - 2015-01-30)",
-    "wof:lastmodified": 1614897534,
+    "wof:lastmodified": 1632347951,
     "wof:name": "Wayne Hoy: Twilight Series",
     "wof:parent_id": 1360516161,
     "wof:placetype": "installation",
@@ -60,14 +80,14 @@
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "photography", 
+      "photography",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.38751545660425, 
-    37.61768511229672, 
-    -122.38751545660425, 
+    -122.38751545660425,
+    37.61768511229672,
+    -122.38751545660425,
     37.61768511229672
   ],
   "geometry": {"coordinates":[[-122.38751545660425,37.61768511229672]],"type":"MultiPoint"}

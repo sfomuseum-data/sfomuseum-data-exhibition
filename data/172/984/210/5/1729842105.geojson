@@ -10,16 +10,16 @@
     "edtf:inception": "2020-10-31",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/surfs-up-instrumental-rock",
     "geom:area": 0,
-    "geom:bbox": "-122.382713,37.617412,-122.382713,37.617412",
-    "geom:latitude": 37.61741180848045,
-    "geom:longitude": -122.38271343030829,
+    "geom:bbox": "-122.382112,37.617421,-122.382112,37.617421",
+    "geom:latitude": 37.617421155555235,
+    "geom:longitude": -122.38211197705529,
     "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1775,
     "sfomuseum:gallery_id": [
       58
     ],
-    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
@@ -28,22 +28,22 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792391, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729792769, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792389, 
+      1729792387,
+      102527513,
+      1729792391,
+      102191575,
+      85633793,
+      102087579,
+      1729792769,
+      85922583,
+      554784711,
+      85688637,
+      1729792389,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1614384153,
-    "wof:geomhash": "e83016e38a09e82409a79a19907f4528",
+    "wof:geomhash": "aec2afc174aa35a612b0782b89537d13",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -58,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1729842105,
-    "wof:lastmodified": 1626652849,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Surf’s Up! Instrumental Rock n’ Roll",
     "wof:parent_id": 1729792769,
     "wof:placetype": "installation",
@@ -85,10 +85,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38271343030829, 
-    37.61741180848045, 
-    -122.38271343030829, 
-    37.61741180848045
+    -122.38211197705529,
+    37.617421155555235,
+    -122.38211197705529,
+    37.617421155555235
   ],
-  "geometry": {"coordinates":[[-122.38271343030829,37.61741180848045]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38211197705529,37.617421155555235],[-122.38211197705529,37.617421155555235]],"type":"MultiPoint"}
 }

@@ -10,12 +10,15 @@
     "edtf:inception": "2014~",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:bbox": "-122.384786,37.614336,-122.384786,37.614336",
+    "geom:latitude": 37.614336211275,
+    "geom:longitude": -122.38478634711926,
     "mz:is_current": 0,
     "sfomuseum:description": "Kids’ Spot play space designed by the T1 architects to resemble a redwoods forest. Includes an interactive video component of scattering leaves projected onto the floor.",
     "sfomuseum:exhibition_id": 1757,
+    "sfomuseum:gallery_id": [
+      69
+    ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
@@ -36,7 +39,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384159,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "bce8e524cdd3e46ff82f8b660acc5c3f",
     "wof:hierarchy": [
       {
         "building_id": 1159396321,
@@ -54,7 +57,7 @@
     ],
     "wof:id": 1729859039,
     "wof:label": "Kids’ Spot: Redwood Forest (2014~)",
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Kids’ Spot: Redwood Forest",
     "wof:parent_id": 1360516247,
     "wof:placetype": "installation",
@@ -68,10 +71,10 @@
     ]
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38478634711926,
+    37.614336211275,
+    -122.38478634711926,
+    37.614336211275
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38478634711926,37.614336211275]],"type":"MultiPoint"}
 }

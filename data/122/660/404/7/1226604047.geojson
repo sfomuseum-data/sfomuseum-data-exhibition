@@ -8,6 +8,7 @@
     "date:inception_upper": "1999-08-05",
     "edtf:cessation": "2000-06-05",
     "edtf:inception": "1999-08-05",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.382740,37.617227,-122.382740,37.617227",
@@ -25,27 +26,29 @@
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "INTL",
+    "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      1360516471, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159554803, 
+      102527513,
+      102191575,
+      85633793,
+      1360516471,
+      85922583,
+      102087579,
+      85688637,
+      1159554803,
       1159554829
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384148,
-    "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
+    "wof:geomhash": "dabda7094b618e1f27d33e0afb034467",
     "wof:hierarchy": [
       {
         "building_id": 1159554803,
@@ -63,7 +66,7 @@
     ],
     "wof:id": 1226604047,
     "wof:label": "East or West, Tea is Best (1999-08-05 - 2000-06-05)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347949,
     "wof:name": "East or West, Tea is Best",
     "wof:parent_id": 1360516471,
     "wof:placetype": "installation",
@@ -74,10 +77,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
-  "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}
 }

@@ -34,19 +34,39 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159396319,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1360516477,
+      85922583,
+      85688637,
+      1159396115
+    ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384146,
     "wof:geomhash": "9eee42949b0e8b3c9b84f7e092726495",
     "wof:hierarchy": [
       {
-        "installation_id": 1226605375
+        "building_id": 1159396319,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516477,
+        "installation_id": 1226605375,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396115
       }
     ],
     "wof:id": 1226605375,
     "wof:label": "Origami: The Art of Paper Folding (2001-09-05 - 2002-03-04)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347949,
     "wof:name": "Origami: The Art of Paper Folding",
     "wof:parent_id": 1360516477,
     "wof:placetype": "installation",
@@ -57,9 +77,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}

@@ -10,9 +10,9 @@
     "edtf:inception": "2020-~05",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/art-school-san-francisco-bays-manga-drawing-club",
     "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:bbox": "-122.384379,37.614894,-122.384379,37.614894",
+    "geom:latitude": 37.61489427207149,
+    "geom:longitude": -122.38437920019275,
     "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1830,
@@ -39,7 +39,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384188,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "5c028d4305ff775a8fc6e1dbf157974d",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1729859167,
     "wof:label": "Art School of San Francisco Bay’s Manga Drawing Club (2020-~05)",
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Art School of San Francisco Bay’s Manga Drawing Club",
     "wof:parent_id": 1729837319,
     "wof:placetype": "installation",
@@ -84,10 +84,10 @@
     ]
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38437920019275,
+    37.61489427207149,
+    -122.38437920019275,
+    37.61489427207149
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38437920019275,37.61489427207149],[-122.38437920019275,37.61489427207149]],"type":"MultiPoint"}
 }

@@ -8,11 +8,11 @@
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
     "edtf:inception": "2020-~05",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/silent-wings-published-works-gliding-and-soaring-flight",
     "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:bbox": "-122.387970,37.614314,-122.387970,37.614314",
+    "geom:latitude": 37.614313674666654,
+    "geom:longitude": -122.38796986286737,
     "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1500,
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384168,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "fd746e45a42268071b6f1446eb4d1522",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1729859037,
     "wof:label": "On Silent Wings: Published Works on Gliding and Soaring Flight (2020-~05)",
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1632347952,
     "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
     "wof:parent_id": 1729813745,
     "wof:placetype": "installation",
@@ -87,10 +87,10 @@
     ]
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38796986286737,
+    37.614313674666654,
+    -122.38796986286737,
+    37.614313674666654
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38796986286737,37.614313674666654],[-122.38796986286737,37.614313674666654]],"type":"MultiPoint"}
 }

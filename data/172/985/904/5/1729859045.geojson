@@ -35,14 +35,14 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396319, 
-      1360516461, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1159396319,
+      1360516461,
       1159396115
     ],
     "wof:breaches": [],
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1729859045,
     "wof:label": "Aquarium: Underwater Planet (2000~)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347949,
     "wof:name": "Aquarium: Underwater Planet",
     "wof:parent_id": 1360516461,
     "wof:placetype": "installation",
@@ -81,9 +81,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}

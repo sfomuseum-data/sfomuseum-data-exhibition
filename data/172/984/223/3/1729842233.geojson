@@ -11,8 +11,8 @@
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387797,37.614357,-122.387797,37.614357",
-    "geom:latitude": 37.61435718821211,
-    "geom:longitude": -122.38779703878699,
+    "geom:latitude": 37.61435718833335,
+    "geom:longitude": -122.38779703838323,
     "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1807,
@@ -26,17 +26,56 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1729792387,
+      102527513,
+      1729792679,
+      102191575,
+      85633793,
+      102087579,
+      1729813685,
+      85922583,
+      554784711,
+      85688637,
+      1729813675,
+      1729792579,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1614384197,
-    "wof:geomhash": "53285d6eca2de9a843fb7a8ef42c003a",
+    "wof:geomhash": "18b00c80306c62cdbcf2aeb8f5dcfd15",
     "wof:hierarchy": [
       {
-        "installation_id": 1729842233
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729813685,
+        "installation_id": 1729842233,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729813675,
+        "wing_id": 1729792579
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729813685,
+        "installation_id": 1729842233,
+        "region_id": 85688637,
+        "venue_id": 1729813675,
+        "wing_id": 1729792579
       }
     ],
     "wof:id": 1729842233,
-    "wof:lastmodified": 1617919633,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Special Collections Poster: Inman Bros. Flying Circus",
     "wof:parent_id": 1729813685,
     "wof:placetype": "installation",
@@ -48,10 +87,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38779703878699, 
-    37.61435718821211, 
-    -122.38779703878699, 
-    37.61435718821211
+    -122.38779703838323,
+    37.61435718833335,
+    -122.38779703838323,
+    37.61435718833335
   ],
-  "geometry": {"coordinates":[[-122.38779703878699,37.61435718821211]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38779703838323,37.61435718833335]],"type":"MultiPoint"}
 }

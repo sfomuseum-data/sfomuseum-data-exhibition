@@ -35,14 +35,14 @@
     "sfomuseum:type": "Student Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396319, 
-      1360516485, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1159396319,
+      1360516485,
       1159396123
     ],
     "wof:breaches": [],
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1729859097,
     "wof:label": "French American International School (2000~)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347950,
     "wof:name": "French American International School",
     "wof:parent_id": 1360516485,
     "wof:placetype": "installation",
@@ -79,9 +79,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386898, 
-    37.61903, 
-    -122.386898, 
+    -122.386898,
+    37.61903,
+    -122.386898,
     37.61903
   ],
   "geometry": {"coordinates":[[-122.386898,37.61903]],"type":"MultiPoint"}

@@ -11,9 +11,9 @@
     "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.382740,37.617227,-122.382740,37.617227",
-    "geom:latitude": 37.617227,
-    "geom:longitude": -122.38274,
+    "geom:bbox": "-122.384814,37.617227,-122.382740,37.617787",
+    "geom:latitude": 37.617507208905515,
+    "geom:longitude": -122.38377708323773,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -22,6 +22,7 @@
     "sfomuseum:exhibition_id": 797,
     "sfomuseum:exhibition_type": "nonaviation",
     "sfomuseum:gallery_id": [
+      6,
       10
     ],
     "sfomuseum:has_brochure": 0,
@@ -34,21 +35,35 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396333, 
-      1360516469, 
-      1159396109
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1159396333,
+      1360516469,
+      1159396109,
+      1360516263
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384146,
-    "wof:geomhash": "dabda7094b618e1f27d33e0afb034467",
+    "wof:geomhash": "886671ead01e587c9be2868793e1630b",
     "wof:hierarchy": [
+      {
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516263,
+        "installation_id": 1729859181,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396109
+      },
       {
         "building_id": 1159396333,
         "campus_id": 102527513,
@@ -65,9 +80,9 @@
     ],
     "wof:id": 1729859181,
     "wof:label": "Museum Posters (2011~)",
-    "wof:lastmodified": 1614897536,
+    "wof:lastmodified": 1632347951,
     "wof:name": "Museum Posters",
-    "wof:parent_id": 1360516469,
+    "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
@@ -78,10 +93,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
-    37.617227
+    -122.38481416647545,
+    37.617227,
+    -122.38274,
+    37.61778741781103
   ],
-  "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38481416647545,37.61778741781103],[-122.38274,37.617227]],"type":"MultiPoint"}
 }

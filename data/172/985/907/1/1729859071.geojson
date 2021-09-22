@@ -8,7 +8,7 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-07-23",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/keliy-anderson-staley-hyphen-americans",
     "geom:area": 0,
     "geom:area_square_m": 397.817241,
     "geom:bbox": "-122.387308,37.620404,-122.387308,37.620404",
@@ -33,23 +33,23 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855703, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      554784711, 
-      1477855729, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855699, 
+      1477855703,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      554784711,
+      1477855729,
+      85922583,
+      102087579,
+      1477855605,
+      1477855699,
       102085387
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384146,
-    "wof:geomhash": "eaa06fabe37923fbe95328028863e59a",
+    "wof:geomhash": "b074f108c349c510539bdc52894c4914",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -64,7 +64,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855699
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1729859071,
     "wof:label": "Keliy Anderson-Staley: [hyphen] Americans (2019-07-23)",
-    "wof:lastmodified": 1614897536,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Keliy Anderson-Staley: [hyphen] Americans",
     "wof:parent_id": 1477855729,
     "wof:placetype": "installation",
@@ -93,10 +93,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38730757726586, 
-    37.62040377299203, 
-    -122.38730757726586, 
+    -122.38730757726586,
+    37.62040377299203,
+    -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203],[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
 }

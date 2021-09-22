@@ -35,19 +35,41 @@
     "sfomuseum:terminal_id": "NORTH",
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159554801,
+      102527513,
+      1159554841,
+      102191575,
+      85633793,
+      102087579,
+      1360516147,
+      85922583,
+      85688637,
+      1159554819
+    ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384148,
     "wof:geomhash": "b074f108c349c510539bdc52894c4914",
     "wof:hierarchy": [
       {
-        "installation_id": 1226612219
+        "building_id": 1159554801,
+        "campus_id": 102527513,
+        "concourse_id": 1159554841,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516147,
+        "installation_id": 1226612219,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159554819
       }
     ],
     "wof:id": 1226612219,
     "wof:label": "Images of Mexico (1987-05-01 - 1987-06-17)",
-    "wof:lastmodified": 1614897536,
+    "wof:lastmodified": 1632347950,
     "wof:name": "Images of Mexico",
     "wof:parent_id": 1360516147,
     "wof:placetype": "installation",
@@ -58,9 +80,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38730757726586, 
-    37.62040377299203, 
-    -122.38730757726586, 
+    -122.38730757726586,
+    37.62040377299203,
+    -122.38730757726586,
     37.62040377299203
   ],
   "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}

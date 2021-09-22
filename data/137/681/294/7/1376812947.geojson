@@ -32,18 +32,40 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159554803,
+      102527513,
+      1159554855,
+      102191575,
+      85633793,
+      102087579,
+      1360516145,
+      85922583,
+      85688637,
+      1159554821
+    ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384146,
     "wof:geomhash": "b074f108c349c510539bdc52894c4914",
     "wof:hierarchy": [
       {
-        "installation_id": 1376812947
+        "building_id": 1159554803,
+        "campus_id": 102527513,
+        "concourse_id": 1159554855,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516145,
+        "installation_id": 1376812947,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159554821
       }
     ],
     "wof:id": 1376812947,
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347950,
     "wof:name": "Art Deco Miami",
     "wof:parent_id": 1360516145,
     "wof:placetype": "installation",
@@ -54,9 +76,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38730757726586, 
-    37.62040377299203, 
-    -122.38730757726586, 
+    -122.38730757726586,
+    37.62040377299203,
+    -122.38730757726586,
     37.62040377299203
   ],
   "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}

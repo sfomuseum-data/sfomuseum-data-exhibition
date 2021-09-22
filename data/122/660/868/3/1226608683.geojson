@@ -34,19 +34,39 @@
     "sfomuseum:terminal_id": "INTL",
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1159554803,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1360516467,
+      85922583,
+      85688637,
+      1159554829
+    ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384145,
     "wof:geomhash": "dabda7094b618e1f27d33e0afb034467",
     "wof:hierarchy": [
       {
-        "installation_id": 1226608683
+        "building_id": 1159554803,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516467,
+        "installation_id": 1226608683,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159554829
       }
     ],
     "wof:id": 1226608683,
     "wof:label": "Ancestor Figures from New Guinea (1993-08-15 - 1993-10-15)",
-    "wof:lastmodified": 1614897536,
+    "wof:lastmodified": 1632347950,
     "wof:name": "Ancestor Figures from New Guinea",
     "wof:parent_id": 1360516467,
     "wof:placetype": "installation",
@@ -57,9 +77,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}

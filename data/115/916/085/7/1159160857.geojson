@@ -36,15 +36,15 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1360521571, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360541571, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159396319, 
+      1360521571,
+      102527513,
+      102191575,
+      85633793,
+      1360541571,
+      85922583,
+      102087579,
+      85688637,
+      1159396319,
       1159396107
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     "wof:id": 1159160857,
     "wof:is_current": -1,
     "wof:label": "Poster, Special Collections, Braniff (2017-10-19)",
-    "wof:lastmodified": 1614897535,
+    "wof:lastmodified": 1632347952,
     "wof:name": "Special Collections Poster: Braniff",
     "wof:parent_id": 1360541571,
     "wof:placetype": "installation",
@@ -82,14 +82,14 @@
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "aviation", 
+      "aviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
+    -122.387939,
+    37.614512,
+    -122.387939,
     37.614512
   ],
   "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
