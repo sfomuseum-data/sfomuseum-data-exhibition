@@ -1,0 +1,92 @@
+{
+  "id": 1746382273,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-02-13",
+    "date:cessation_upper": "2022-02-13",
+    "date:inception_lower": "2021-05-29",
+    "date:inception_upper": "2021-05-29",
+    "edtf:cessation": "2022-02-13",
+    "edtf:inception": "2021-05-29",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388999,37.614603,-122.388999,37.614603",
+    "geom:latitude": 37.61460330113117,
+    "geom:longitude": -122.38899932815504,
+    "mz:is_current": 1,
+    "sfo:level": -1,
+    "sfomuseum:description": "Gallery will now have only 8 cases.",
+    "sfomuseum:exhibition_id": 1844,
+    "sfomuseum:gallery_id": [
+      85
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": -1,
+    "sfomuseum:type": "NonAviation",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1745882083,
+      102527513,
+      1745882437,
+      102191575,
+      85633793,
+      102087579,
+      1745887097,
+      85922583,
+      554784711,
+      85688637,
+      1745882335,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1632339550,
+    "wof:geomhash": "0e69dfd791622aa5c71f5b11945f622a",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882437,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1745887097,
+        "installation_id": 1746382273,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1745882335
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882437,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1745887097,
+        "installation_id": 1746382273,
+        "region_id": 85688637,
+        "wing_id": 1745882335
+      }
+    ],
+    "wof:id": 1746382273,
+    "wof:lastmodified": 1632339550,
+    "wof:name": "Stoneware Stories: Folk Pottery of Edgefield, South Carolina",
+    "wof:parent_id": 1745887097,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38899932815504,
+    37.61460330113117,
+    -122.38899932815504,
+    37.61460330113117
+  ],
+  "geometry": {"coordinates":[[-122.38899932815504,37.61460330113117]],"type":"MultiPoint"}
+}

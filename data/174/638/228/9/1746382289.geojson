@@ -1,0 +1,92 @@
+{
+  "id": 1746382289,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-10-31",
+    "date:cessation_upper": "2021-10-31",
+    "date:inception_lower": "2021-07-03",
+    "date:inception_upper": "2021-07-03",
+    "edtf:cessation": "2021-10-31",
+    "edtf:inception": "2021-07-03",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385068,37.611778,-122.385068,37.611778",
+    "geom:latitude": 37.61177834167635,
+    "geom:longitude": -122.38506809129578,
+    "mz:is_current": 1,
+    "sfo:level": -1,
+    "sfomuseum:description": "Artwork by students at City College of San Francisco, from Drawing, Watercolor, and Illustration classes; exhibit theme will be Covid-related.",
+    "sfomuseum:exhibition_id": 1889,
+    "sfomuseum:gallery_id": [
+      79
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": -1,
+    "sfomuseum:type": "Student Art",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1745882083,
+      102527513,
+      1745882139,
+      102191575,
+      85633793,
+      102087579,
+      1745882471,
+      85922583,
+      554784711,
+      85688637,
+      1745882137,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1632339556,
+    "wof:geomhash": "0688f948d1afc236d5b4bfa7a888e5b5",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882139,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1745882471,
+        "installation_id": 1746382289,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1745882137
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882139,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1745882471,
+        "installation_id": 1746382289,
+        "region_id": 85688637,
+        "wing_id": 1745882137
+      }
+    ],
+    "wof:id": 1746382289,
+    "wof:lastmodified": 1632339556,
+    "wof:name": "Belong and Be Safe: City College of San Francisco, Art Department",
+    "wof:parent_id": 1745882471,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38506809129578,
+    37.61177834167635,
+    -122.38506809129578,
+    37.61177834167635
+  ],
+  "geometry": {"coordinates":[[-122.38506809129578,37.61177834167635]],"type":"MultiPoint"}
+}
