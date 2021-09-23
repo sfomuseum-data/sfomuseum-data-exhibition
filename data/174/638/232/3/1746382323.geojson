@@ -2,12 +2,12 @@
   "id": 1729842167,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-05-25",
-    "date:cessation_upper": "2021-05-25",
-    "date:inception_lower": "2021-02-27",
-    "date:inception_upper": "2021-02-27",
-    "edtf:cessation": "2021-05-25",
-    "edtf:inception": "2021-02-27",
+    "date:cessation_lower": "2021-06-27",
+    "date:cessation_upper": "2021-06-27",
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/impressions-isolation-monoprints-sfsu",
     "geom:area": 0,
     "geom:bbox": "-122.385068,37.611778,-122.385068,37.611778",
@@ -28,63 +28,64 @@
     "sfomuseum:type": "Student Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387,
       102527513,
-      1729792437,
       102191575,
       85633793,
       102087579,
-      1729813697,
       85922583,
       554784711,
       85688637,
-      1729792435,
-      102085387
+      102085387,
+      1745882083,
+      1745882139,
+      1745882471,
+      1745882137
     ],
     "wof:country": "US",
     "wof:created": 1614384174,
     "wof:geomhash": "0688f948d1afc236d5b4bfa7a888e5b5",
     "wof:hierarchy": [
       {
-        "building_id": 1729792387,
+        "building_id": 1745882083,
         "campus_id": 102527513,
-        "concourse_id": 1729792437,
+        "concourse_id": 1745882139,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1729813697,
-        "installation_id": 1729842167,
+        "enclosure_id": 1745882471,
+        "installation_id": 1746382323,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "wing_id": 1729792435
+        "wing_id": 1745882137
       },
       {
-        "building_id": 1729792387,
+        "building_id": 1745882083,
         "campus_id": 102527513,
-        "concourse_id": 1729792437,
+        "concourse_id": 1745882139,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "enclosure_id": 1729813697,
-        "installation_id": 1729842167,
+        "enclosure_id": 1745882471,
+        "installation_id": 1746382323,
         "region_id": 85688637,
-        "wing_id": 1729792435
+        "wing_id": 1745882137
       }
     ],
-    "wof:id": 1729842167,
+    "wof:id": 1746382323,
+    "wof:label": "Impressions in Isolation: Monoprints from San Francisco State University (2021-05-25)",
     "wof:lastmodified": 1632356309,
     "wof:name": "Impressions in Isolation: Monoprints from San Francisco State University",
-    "wof:parent_id": 1729813697,
+    "wof:parent_id": 1745882471,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
     ],
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [
-      1746382323
-    ],
-    "wof:supersedes": []
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1729842167
+    ]
   },
   "bbox": [
     -122.38506809129578,
