@@ -13,27 +13,27 @@
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
     "geom:longitude": -122.37385309950533,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": -1,
     "sfomuseum:description": "This reproduction exhibition will consist of large-scale black and white images depicting the history of SFO terminal and is to be located in T2 Sky Terrace areas: STAIR WELL, ELEVATOR AREA, CAFE",
     "sfomuseum:exhibition_id": 1831,
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513,
-      102191575,
-      85633793,
-      102087579,
-      1729828959,
-      85922583,
-      554784711,
-      85688637,
+      102527513, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1729828959, 
+      85922583, 
+      554784711, 
+      85688637, 
       102085387
     ],
     "wof:country": "US",
@@ -50,7 +50,7 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637
-      },
+      }, 
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1746382271,
-    "wof:lastmodified": 1632347952,
+    "wof:lastmodified": 1632873670,
     "wof:name": "Special Exhibit: T2 Sky Terrace",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
@@ -71,9 +71,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
+    -122.37385309950533, 
+    37.61939390848619, 
+    -122.37385309950533, 
     37.61939390848619
   ],
   "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
