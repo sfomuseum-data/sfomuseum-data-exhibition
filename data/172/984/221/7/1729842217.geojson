@@ -13,7 +13,7 @@
     "geom:bbox": "-122.384374,37.613193,-122.384374,37.613193",
     "geom:latitude": 37.613193362839176,
     "geom:longitude": -122.38437419609423,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "Permanent exhibit. ShipArt installed this gallery. Installation completed 2/20/20. Area opened to the public on 4/28/20, when JetBlue began operating out of their new ticketing counter in HMT1.",
     "sfomuseum:exhibition_id": 1826,
     "sfomuseum:gallery_id": [
@@ -22,7 +22,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
@@ -37,7 +37,7 @@
       }
     ],
     "wof:id": 1729842217,
-    "wof:lastmodified": 1632347952,
+    "wof:lastmodified": 1632873657,
     "wof:name": "Harvey Milk: Messenger of Hope",
     "wof:parent_id": 1729813693,
     "wof:placetype": "installation",
@@ -49,9 +49,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38437419609423,
-    37.613193362839176,
-    -122.38437419609423,
+    -122.38437419609423, 
+    37.613193362839176, 
+    -122.38437419609423, 
     37.613193362839176
   ],
   "geometry": {"coordinates":[[-122.38437419609423,37.613193362839176]],"type":"MultiPoint"}
