@@ -23,7 +23,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "NonAviation",
@@ -74,7 +74,7 @@
       }
     ],
     "wof:id": 1746382297,
-    "wof:lastmodified": 1632355230,
+    "wof:lastmodified": 1634245648,
     "wof:name": "Pylon Essay: The American Motorcycle Girls",
     "wof:parent_id": 1729792771,
     "wof:placetype": "installation",

@@ -73,7 +73,7 @@
     ],
     "wof:id": 1746382339,
     "wof:label": "Art School of San Francisco Bay’s Manga Drawing Club (2020-~05)",
-    "wof:lastmodified": 1632356636,
+    "wof:lastmodified": 1634245648,
     "wof:name": "Art School of San Francisco Bay’s Manga Drawing Club",
     "wof:parent_id": 1729837319,
     "wof:placetype": "installation",
@@ -84,8 +84,7 @@
     "wof:superseded_by": [
       1746382341
     ],
-    "wof:supersedes": [
-    ]
+    "wof:supersedes": []
   },
   "bbox": [
     -122.38437920019275,

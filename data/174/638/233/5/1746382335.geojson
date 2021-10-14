@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384186,
-    "wof:geomhash": "a626cf6e4d5299c4388bb9f9077acdc7",
+    "wof:geomhash": "001f0f3cec45f255a0fa2ee05142da1c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1746382335,
     "wof:label": "Stanley Greene: Shadows of Change (2021-05-25)",
-    "wof:lastmodified": 1632356568,
+    "wof:lastmodified": 1634245648,
     "wof:name": "Stanley Greene: Shadows of Change",
     "wof:parent_id": 1745882483,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38741555362547,
     37.620173704195516
   ],
-  "geometry": {"coordinates":[[-122.38741555362547,37.620173704195516]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38741555362547,37.620173704195516],[-122.38741555362547,37.620173704195516]],"type":"MultiPoint"}
 }

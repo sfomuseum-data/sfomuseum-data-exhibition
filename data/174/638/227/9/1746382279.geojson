@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1632339552,
-    "wof:geomhash": "7f4eb4ac03fda2ca747d67c574d65586",
+    "wof:geomhash": "86c0f1a1569bc3ad01945fad990e7e26",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1746382279,
-    "wof:lastmodified": 1632348641,
+    "wof:lastmodified": 1634245648,
     "wof:name": "Flight Patterns: Airline Uniforms from the 1960s–70s",
     "wof:parent_id": 1745882463,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.38520847545882,
     37.61268608757595
   ],
-  "geometry": {"coordinates":[-122.38520847545882,37.61268608757595],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38520847545882,37.61268608757595],[-122.38520847545882,37.61268608757595]],"type":"MultiPoint"}
 }

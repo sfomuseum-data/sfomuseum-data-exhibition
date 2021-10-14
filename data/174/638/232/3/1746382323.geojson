@@ -43,7 +43,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384174,
-    "wof:geomhash": "0688f948d1afc236d5b4bfa7a888e5b5",
+    "wof:geomhash": "829da7ddb9a00e6c1644b66a11682103",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1746382323,
     "wof:label": "Impressions in Isolation: Monoprints from San Francisco State University (2021-05-25)",
-    "wof:lastmodified": 1632356309,
+    "wof:lastmodified": 1634245648,
     "wof:name": "Impressions in Isolation: Monoprints from San Francisco State University",
     "wof:parent_id": 1745882471,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38506809129578,
     37.61177834167635
   ],
-  "geometry": {"coordinates":[[-122.38506809129578,37.61177834167635]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38506809129578,37.61177834167635],[-122.38506809129578,37.61177834167635]],"type":"MultiPoint"}
 }

@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1632339553,
-    "wof:geomhash": "1ad0cc8e1b5fc58d09cd41b288bd47bc",
+    "wof:geomhash": "d2a01edc3ff48402f69479b6b0971e59",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1746382281,
-    "wof:lastmodified": 1632348678,
+    "wof:lastmodified": 1634245648,
     "wof:name": "Luca Tombolini: Vistas Paradossales",
     "wof:parent_id": 1729837321,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.3841194237983,
     37.61545711615287
   ],
-  "geometry": {"coordinates":[-122.3841194237983,37.61545711615287],"type":"Point"}
+  "geometry": {"coordinates":[[-122.3841194237983,37.61545711615287],[-122.3841194237983,37.61545711615287]],"type":"MultiPoint"}
 }
