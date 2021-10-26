@@ -74,11 +74,12 @@
       }
     ],
     "wof:id": 1746382295,
-    "wof:lastmodified": 1634245648,
+    "wof:lastmodified": 1635284031,
     "wof:name": "Special Exhibit: Chinese New Year in San Francisco",
     "wof:parent_id": 1729792789,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
