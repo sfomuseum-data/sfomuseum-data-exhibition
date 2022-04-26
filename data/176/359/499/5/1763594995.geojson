@@ -1,0 +1,93 @@
+{
+  "id": 1763594995,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-11-13",
+    "date:cessation_upper": "2022-11-13",
+    "date:inception_lower": "2022-04-16",
+    "date:inception_upper": "2022-04-16",
+    "edtf:cessation": "2022-11-13",
+    "edtf:inception": "2022-04-16",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385208,37.612686,-122.385208,37.612686",
+    "geom:latitude": 37.61268608757595,
+    "geom:longitude": -122.38520847545882,
+    "mz:is_current": 1,
+    "sfo:level": -1,
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1848,
+    "sfomuseum:gallery_id": [
+      77
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": -1,
+    "sfomuseum:type": "NonAviation",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588177,
+      102191575,
+      85633793,
+      102087579,
+      1763588501,
+      85922583,
+      554784711,
+      85688637,
+      1763588175,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1651003435,
+    "wof:geomhash": "02ca203a59067c03dc96fc6d7e9d6d4a",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588177,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588501,
+        "installation_id": 1763594995,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588175
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588177,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588501,
+        "installation_id": 1763594995,
+        "region_id": 85688637,
+        "wing_id": 1763588175
+      }
+    ],
+    "wof:id": 1763594995,
+    "wof:lastmodified": 1651003435,
+    "wof:name": "From Pineapple to Piña: A Philippine Textile Treasure",
+    "wof:parent_id": 1763588501,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38520847545882,
+    37.61268608757595,
+    -122.38520847545882,
+    37.61268608757595
+  ],
+  "geometry": {"coordinates":[[-122.38520847545882,37.61268608757595]],"type":"MultiPoint"}
+}

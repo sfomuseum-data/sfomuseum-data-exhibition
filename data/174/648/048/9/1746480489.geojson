@@ -8,14 +8,14 @@
     "date:inception_upper": "2021-10-02",
     "edtf:cessation": "2022-01-30",
     "edtf:inception": "2021-10-02",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/celebrating-75th-anniversary-49ers",
     "geom:area": 0,
     "geom:bbox": "-122.387193,37.619103,-122.387193,37.619103",
     "geom:latitude": 37.61910271972509,
     "geom:longitude": -122.38719319835137,
     "mz:is_current": 0,
     "sfo:level": -1,
-    "sfomuseum:description": "",
+    "sfomuseum:description": "Pylon Essay in Fall-Winter 2021-2022.",
     "sfomuseum:exhibition_id": 1940,
     "sfomuseum:gallery_id": [
       2
@@ -29,22 +29,22 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1745882083, 
-      102527513, 
-      1745882237, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1745882479, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1745882233, 
+      1745882083,
+      102527513,
+      1745882237,
+      102191575,
+      85633793,
+      102087579,
+      1745882479,
+      85922583,
+      554784711,
+      85688637,
+      1745882233,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1634245655,
-    "wof:geomhash": "bf3649991ea87bb63405427ab13ce67f",
+    "wof:geomhash": "abff9d53c2a48d7f08229e3bf6e3132e",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -59,7 +59,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1745882233
-      }, 
+      },
       {
         "building_id": 1745882083,
         "campus_id": 102527513,
@@ -74,8 +74,8 @@
       }
     ],
     "wof:id": 1746480489,
-    "wof:lastmodified": 1643587251,
-    "wof:name": "From Kezar to Candlestick: The Photography of Frank Rippon (2021 exhibit)",
+    "wof:lastmodified": 1651003434,
+    "wof:name": "Pylon Essay: From Kezar to Candlestick: The Photography of Frank Rippon ",
     "wof:parent_id": 1745882479,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
@@ -84,10 +84,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38719319835137, 
-    37.61910271972509, 
-    -122.38719319835137, 
+    -122.38719319835137,
+    37.61910271972509,
+    -122.38719319835137,
     37.61910271972509
   ],
-  "geometry": {"coordinates":[[-122.38719319835137,37.61910271972509]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38719319835137,37.61910271972509],[-122.38719319835137,37.61910271972509]],"type":"MultiPoint"}
 }

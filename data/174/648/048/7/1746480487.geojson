@@ -8,14 +8,14 @@
     "date:inception_upper": "2021-10-09",
     "edtf:cessation": "2022-09-25",
     "edtf:inception": "2021-10-09",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/victorian-papered-wall",
     "geom:area": 0,
     "geom:bbox": "-122.389032,37.615513,-122.388916,37.615813",
     "geom:latitude": 37.61566316540981,
     "geom:longitude": -122.38897382834584,
     "mz:is_current": 1,
     "sfo:level": -1,
-    "sfomuseum:description": "",
+    "sfomuseum:description": "v",
     "sfomuseum:exhibition_id": 1873,
     "sfomuseum:gallery_id": [
       18,
@@ -46,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1634245654,
-    "wof:geomhash": "63b9835c73c471c027fa2ac8d6fa82c9",
+    "wof:geomhash": "36a27cbd4208a47921a3bc441b82e5ee",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -102,7 +102,7 @@
       }
     ],
     "wof:id": 1746480487,
-    "wof:lastmodified": 1635284031,
+    "wof:lastmodified": 1651003434,
     "wof:name": "The Victorian Papered Wall",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -117,5 +117,5 @@
     -122.38891566199469,
     37.61581306005303
   ],
-  "geometry": {"coordinates":[[-122.38891566199469,37.6155132707666],[-122.38903199469699,37.61581306005303]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38891566199469,37.6155132707666],[-122.38891566199469,37.6155132707666],[-122.38903199469699,37.61581306005303],[-122.38903199469699,37.61581306005303]],"type":"MultiPoint"}
 }
