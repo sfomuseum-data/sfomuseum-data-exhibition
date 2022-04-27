@@ -9,10 +9,10 @@
     "edtf:cessation": "2022-05-08",
     "edtf:inception": "2021-11-09",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/arko-datto-rail-diwali",
-    "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:area": 4.294380651619424e-10,
+    "geom:bbox": "-122.387450,37.620123,-122.387376,37.620233",
+    "geom:latitude": 37.620173704195516,
+    "geom:longitude": -122.38741555362547,
     "id": 1763595175,
     "mz:is_current": 1,
     "sfo:level": -1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003443,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "f66ff5a839afc164cc8cd4e35800a17c",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1763595175,
-    "wof:lastmodified": 1651020113,
+    "wof:lastmodified": 1651098139,
     "wof:name": "Arko Datto: Rail Diwali",
     "wof:parent_id": 1763588523,
     "wof:placetype": "installation",
@@ -84,10 +84,10 @@
     ]
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38745010399998,
+    37.620122917,
+    -122.38737608399998,
+    37.62023276399998
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38745010399998,37.620124670999985],[-122.38744634800003,37.620122917],[-122.38737608399998,37.62023169399998],[-122.38737839999999,37.62023276399998],[-122.38745010399998,37.620124670999985]]],"type":"Polygon"}
 }

@@ -9,10 +9,10 @@
     "edtf:cessation": "2021-12-01",
     "edtf:inception": "2021-11-09",
     "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/swift-current-native-american-cowboy",
-    "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:area": 1.1099805985643597e-8,
+    "geom:bbox": "-122.389131,37.615951,-122.388991,37.616080",
+    "geom:latitude": 37.61601515922952,
+    "geom:longitude": -122.38906143130441,
     "id": 1763595183,
     "mz:is_current": 1,
     "sfo:level": -1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003446,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "c1b960bec9f257b46a5cf696df7e6c73",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1763595183,
-    "wof:lastmodified": 1651020448,
+    "wof:lastmodified": 1651097969,
     "wof:name": "Swift Current: A Native American Cowboy (2021)",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",
@@ -84,10 +84,10 @@
     ]
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38913086500003,
+    37.615950698000006,
+    -122.38899137700002,
+    37.61607976900001
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38908798,37.615950698000006],[-122.38899137700002,37.615975161999984],[-122.38903576799999,37.61607976900001],[-122.38913086500003,37.61605552200001],[-122.38908798,37.615950698000006]]],"type":"Polygon"}
 }

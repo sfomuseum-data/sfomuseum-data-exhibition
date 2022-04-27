@@ -9,10 +9,10 @@
     "edtf:cessation": "2022-03-31",
     "edtf:inception": "2022-03-01",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/above-sfo-aerial-photography-marshall-moxom",
-    "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:area": 5.7355375901178056e-8,
+    "geom:bbox": "-122.384291,37.615300,-122.383952,37.615616",
+    "geom:latitude": 37.61545711615287,
+    "geom:longitude": -122.3841194237983,
     "mz:is_current": 1,
     "sfo:level": -1,
     "sfomuseum:description": "",
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003453,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "d74820c38d626b8dbacc98a1134c022c",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1763595075,
-    "wof:lastmodified": 1651010723,
+    "wof:lastmodified": 1651098077,
     "wof:name": "Marshall Moxom: Four Views of San Francisco International Airport",
     "wof:parent_id": 1763588515,
     "wof:placetype": "installation",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38429078899998,
+    37.61529954600002,
+    -122.38395197900002,
+    37.61561625899998
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38413979799998,37.61561625899998],[-122.38429078899998,37.61538056500001],[-122.38409192199998,37.61529954600002],[-122.38395197900002,37.615535239999986],[-122.38413979799998,37.61561625899998]]],"type":"Polygon"}
 }

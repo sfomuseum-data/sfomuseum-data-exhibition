@@ -9,10 +9,10 @@
     "edtf:cessation": "2022-04-03",
     "edtf:inception": "2021-11-09",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/tabitha-soren-surface-tension-0",
-    "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:area": 4.2702999999139225e-8,
+    "geom:bbox": "-122.385020,37.617845,-122.384713,37.618151",
+    "geom:latitude": 37.61799686233598,
+    "geom:longitude": -122.3848643553068,
     "id": 1763595191,
     "mz:is_current": 1,
     "sfo:level": -1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003439,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "a789cf182272e164509b00d28e86266e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1763595191,
-    "wof:lastmodified": 1651021534,
+    "wof:lastmodified": 1651098162,
     "wof:name": "Tabitha Soren: Surface Tension (2021)",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",
@@ -84,10 +84,10 @@
     ]
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38502,
+    37.617845,
+    -122.384713,
+    37.618151
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.384837,37.618151],[-122.384713,37.618097],[-122.384881,37.617845],[-122.38502,37.617903],[-122.384837,37.618151]]],"type":"Polygon"}
 }
