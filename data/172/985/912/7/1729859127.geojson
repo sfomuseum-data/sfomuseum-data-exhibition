@@ -16,7 +16,7 @@
     "geom:longitude": -122.38853215754116,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:building_id": "SFO",
     "sfomuseum:description": "Examples of the master model maker's art are presented in the ten scale models by Edward Chavez that were originally commissioned by California's renowned Nut Tree Restaurant.",
     "sfomuseum:exhibition_id": 890,
@@ -29,26 +29,26 @@
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513,
-      102191575,
-      85633793,
-      85922583,
-      102087579,
-      85688637,
-      1159396321,
-      1360516173,
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      85688637, 
+      1159396321, 
+      1360516173, 
       1159396157
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:hierarchy",
+      "wof:hierarchy", 
       "wof:label"
     ],
     "wof:country": "US",
@@ -72,7 +72,7 @@
     "wof:id": 1729859127,
     "wof:is_current": -1,
     "wof:label": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection (2014~)",
-    "wof:lastmodified": 1651003433,
+    "wof:lastmodified": 1651104062,
     "wof:name": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection",
     "wof:parent_id": 1360516173,
     "wof:placetype": "installation",
@@ -85,14 +85,14 @@
       1729859125
     ],
     "wof:tags": [
-      "aviation",
+      "aviation", 
       "exhibition"
     ]
   },
   "bbox": [
-    -122.38853215754116,
-    37.61690119253437,
-    -122.38853215754116,
+    -122.38853215754116, 
+    37.61690119253437, 
+    -122.38853215754116, 
     37.61690119253437
   ],
   "geometry": {"coordinates":[[-122.38853215754116,37.61690119253437]],"type":"MultiPoint"}
