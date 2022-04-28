@@ -13,7 +13,7 @@
     "geom:bbox": "-122.388534,37.616891,-122.388534,37.616891",
     "geom:latitude": 37.61689110703526,
     "geom:longitude": -122.38853385581962,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:description": "Long-term aviation photography exhibit.",
     "sfomuseum:exhibition_id": 1885,
     "sfomuseum:gallery_id": [
@@ -22,23 +22,23 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387,
-      102527513,
-      1729792577,
-      102191575,
-      85633793,
-      102087579,
-      1729813679,
-      85922583,
-      554784711,
-      85688637,
-      1729792487,
+      1729792387, 
+      102527513, 
+      1729792577, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1729813679, 
+      85922583, 
+      554784711, 
+      85688637, 
+      1729792487, 
       102085387
     ],
     "wof:country": "US",
@@ -58,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792487
-      },
+      }, 
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1729842143,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1651104055,
     "wof:name": "Model Aircraft from the Aviation Collection",
     "wof:parent_id": 1729813679,
     "wof:placetype": "installation",
@@ -85,9 +85,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38853385581962,
-    37.61689110703526,
-    -122.38853385581962,
+    -122.38853385581962, 
+    37.61689110703526, 
+    -122.38853385581962, 
     37.61689110703526
   ],
   "geometry": {"coordinates":[[-122.38853385581962,37.61689110703526]],"type":"MultiPoint"}
