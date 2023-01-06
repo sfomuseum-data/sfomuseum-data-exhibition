@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2020-11-29",
+    "sfomuseum:date_start": "2019-09-21",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1488,
     "sfomuseum:exhibition_type": "aviation",
@@ -82,7 +84,7 @@
       }
     ],
     "wof:id": 1495157219,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044445,
     "wof:name": "Widebody: The Launch of the Jumbojets in the Early 1970s",
     "wof:parent_id": 1477855949,
     "wof:placetype": "installation",

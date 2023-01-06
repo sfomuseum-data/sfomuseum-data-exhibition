@@ -2,8 +2,6 @@
   "id": 1495157237,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-06-24",
-    "date:cessation_upper": "2020-06-24",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
@@ -11,12 +9,14 @@
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/above-bay-aerial-photography-stanley-page",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.388017,37.614279,-122.388017,37.614279",
-    "geom:latitude": 37.61427924119855,
-    "geom:longitude": -122.38801717827252,
+    "geom:bbox": "-122.388191,37.614417,-122.388191,37.614417",
+    "geom:latitude": 37.61441704389456,
+    "geom:longitude": -122.38819101441787,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2021-02-22",
+    "sfomuseum:date_start": "2019-09-28",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1653,
     "sfomuseum:exhibition_type": "aviation",
@@ -50,7 +50,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384146,
-    "wof:geomhash": "224dbebbe0c108a5c7d11815b2925306",
+    "wof:geomhash": "f10cd94d261efad95e72d43d40cceff7",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1729859165,
     "wof:label": "Above the Bay: The Aerial Photography of Stanley Page (2020-~05)",
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Above the Bay: The Aerial Photography of Stanley Page",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",
@@ -96,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38801717827252,
-    37.61427924119855,
-    -122.38801717827252,
-    37.61427924119855
+    -122.38819101441787,
+    37.61441704389456,
+    -122.38819101441787,
+    37.61441704389456
   ],
-  "geometry": {"coordinates":[[-122.38801717827252,37.61427924119855],[-122.38801717827252,37.61427924119855]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38819101441787,37.61441704389456],[-122.38819101441787,37.61441704389456]],"type":"MultiPoint"}
 }

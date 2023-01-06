@@ -14,6 +14,8 @@
     "geom:latitude": 37.617806617631246,
     "geom:longitude": -122.38765054099173,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2022-02-06",
+    "sfomuseum:date_start": "2019-12-07",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1809,
     "sfomuseum:gallery_id": [
@@ -28,16 +30,16 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855605, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1477855821, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1477855699, 
+      1477855605,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1477855821,
+      85922583,
+      554784711,
+      85688637,
+      1477855699,
       102085387
     ],
     "wof:country": "US",
@@ -56,7 +58,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855699
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -70,7 +72,7 @@
       }
     ],
     "wof:id": 1729842133,
-    "wof:lastmodified": 1651104055,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Pan American Airways in Central America",
     "wof:parent_id": 1477855821,
     "wof:placetype": "installation",
@@ -82,9 +84,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38765054099173, 
-    37.617806617631246, 
-    -122.38765054099173, 
+    -122.38765054099173,
+    37.617806617631246,
+    -122.38765054099173,
     37.617806617631246
   ],
   "geometry": {"coordinates":[[-122.38765054099173,37.617806617631246]],"type":"MultiPoint"}

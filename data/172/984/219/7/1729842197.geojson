@@ -10,10 +10,12 @@
     "edtf:inception": "2020-11-21",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/paula-riff-blue-not-sky",
     "geom:area": 0,
-    "geom:bbox": "-122.387361,37.620382,-122.387361,37.620382",
-    "geom:latitude": 37.62038231009875,
-    "geom:longitude": -122.38736148663139,
+    "geom:bbox": "-122.387416,37.620174,-122.387416,37.620174",
+    "geom:latitude": 37.620173704195516,
+    "geom:longitude": -122.38741555362547,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2021-03-28",
+    "sfomuseum:date_start": "2020-11-21",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1870,
     "sfomuseum:gallery_id": [
@@ -28,22 +30,22 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792489, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729792777, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792487, 
+      1729792387,
+      102527513,
+      1729792489,
+      102191575,
+      85633793,
+      102087579,
+      1729792777,
+      85922583,
+      554784711,
+      85688637,
+      1729792487,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1614384186,
-    "wof:geomhash": "83a4a4cdf4d6e804815e5021c1465270",
+    "wof:geomhash": "a626cf6e4d5299c4388bb9f9077acdc7",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -58,7 +60,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,7 +75,7 @@
       }
     ],
     "wof:id": 1729842197,
-    "wof:lastmodified": 1617919630,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Paula Riff: Blue Is Not The Sky",
     "wof:parent_id": 1729792777,
     "wof:placetype": "installation",
@@ -85,10 +87,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38736148663139, 
-    37.62038231009875, 
-    -122.38736148663139, 
-    37.62038231009875
+    -122.38741555362547,
+    37.620173704195516,
+    -122.38741555362547,
+    37.620173704195516
   ],
-  "geometry": {"coordinates":[[-122.38736148663139,37.62038231009875]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38741555362547,37.620173704195516]],"type":"MultiPoint"}
 }

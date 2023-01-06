@@ -18,6 +18,8 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfomuseum:building_id": "SFO",
+    "sfomuseum:date_end": "2007-04-22",
+    "sfomuseum:date_start": "2006-11-04",
     "sfomuseum:description": "\"Airline Design\" chronicles how Continental Airlines modernized its image, introduced new services, and updated its corporate identity to generate customer preference, maintain competitiveness, and build brand equity in the airline industry.",
     "sfomuseum:exhibition_id": 828,
     "sfomuseum:exhibition_type": "aviation",
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1360541739,
-    "wof:lastmodified": 1651003433,
+    "wof:lastmodified": 1673044444,
     "wof:name": "Airline Design: Continental's New Look",
     "wof:parent_id": 1360541651,
     "wof:placetype": "installation",

@@ -18,6 +18,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2007-12-02",
+    "sfomuseum:date_start": "2007-09-22",
     "sfomuseum:description": "\"Artists in their Studios\" by Leo Holub are black-and-white photographs of famous artists like minimalist painter Agnes Martin and pop artist Roy Lichtenstein. Whether in their studio, home, or gallery, Holub's calm and engaging persona allowed his famous sitters to relax, which resulted in the creation of revealing and unguarded portraits.",
     "sfomuseum:exhibition_id": 945,
     "sfomuseum:gallery_id": [
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1360667789,
-    "wof:lastmodified": 1651003433,
+    "wof:lastmodified": 1673044445,
     "wof:name": "Leo Holub: Artists in their Studios",
     "wof:parent_id": 1360521555,
     "wof:placetype": "installation",

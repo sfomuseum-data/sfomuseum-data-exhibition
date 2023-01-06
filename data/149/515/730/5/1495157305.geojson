@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-09-11",
+    "sfomuseum:date_start": "2019-08-15",
     "sfomuseum:description": "Artist Marco Brambilla employs digital technology to re-envision Marcel Duchamp’s Modernist painting, Nude Descending a Staircase, No. 2., to “complete the circle and pay homage to the deconstructed image” in a kinetic rendering of the figure’s descent. \r",
     "sfomuseum:exhibition_id": 1800,
     "sfomuseum:exhibition_type": "videoart",
@@ -79,7 +81,7 @@
       }
     ],
     "wof:id": 1495157305,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Nude Descending a Staircase No. 3",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

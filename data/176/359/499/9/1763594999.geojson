@@ -10,11 +10,13 @@
     "edtf:inception": "2021-12-11",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/flying-southern-cross-route",
     "geom:area": 0,
-    "geom:bbox": "-122.387696,37.614350,-122.387696,37.614350",
-    "geom:latitude": 37.61435019844274,
-    "geom:longitude": -122.38769587933402,
-    "mz:is_current": 0,
+    "geom:bbox": "-122.388003,37.614495,-122.388003,37.614495",
+    "geom:latitude": 37.61449504184901,
+    "geom:longitude": -122.38800316685777,
+    "mz:is_current": 1,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2023-03-12",
+    "sfomuseum:date_start": "2021-12-11",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1850,
     "sfomuseum:gallery_id": [
@@ -23,29 +25,29 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792679, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729813739, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729813675, 
-      1729792579, 
+      1729792387,
+      102527513,
+      1729792679,
+      102191575,
+      85633793,
+      102087579,
+      1729813739,
+      85922583,
+      554784711,
+      85688637,
+      1729813675,
+      1729792579,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1651003436,
-    "wof:geomhash": "707b7f859453cd0ca926f7127d189d12",
+    "wof:geomhash": "1bdf8a926f0e7d56f49d14a34e6bcc95",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -61,7 +63,7 @@
         "region_id": 85688637,
         "venue_id": 1729813675,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -77,7 +79,7 @@
       }
     ],
     "wof:id": 1763594999,
-    "wof:lastmodified": 1671408051,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Flying the Southern Cross Route: Seventy-five Years of Australian Commercial Air Service to North America",
     "wof:parent_id": 1729813739,
     "wof:placetype": "installation",
@@ -87,10 +89,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38769587933402, 
-    37.61435019844274, 
-    -122.38769587933402, 
-    37.61435019844274
+    -122.38800316685777,
+    37.61449504184901,
+    -122.38800316685777,
+    37.61449504184901
   ],
-  "geometry": {"coordinates":[[-122.38769587933402,37.61435019844274]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38800316685777,37.61449504184901]],"type":"MultiPoint"}
 }

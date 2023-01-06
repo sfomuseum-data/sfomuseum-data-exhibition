@@ -14,6 +14,8 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-11-20",
+    "sfomuseum:date_start": "2019-10-24",
     "sfomuseum:description": "Toronto-based filmmaker Chrisann Hessing profiles Joshua DePerry, aka DJ Classic Roots, who merges the sounds and dance of his Anishinaabe culture with techno music as he inspires indigenous youths to look to the future without forgetting their past.",
     "sfomuseum:exhibition_id": 1818,
     "sfomuseum:gallery_id": [
@@ -72,7 +74,7 @@
       }
     ],
     "wof:id": 1729842249,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Turning Tables",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

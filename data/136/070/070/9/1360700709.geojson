@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-10-03",
+    "sfomuseum:date_start": "2018-09-06",
     "sfomuseum:description": "Elizabeth Ito’s animated short features a soft-spoken teenage monster named T-Kesh who is forced to navigate the drama of being different in a story that addresses a commonly held fear of outsiders.\r",
     "sfomuseum:exhibition_id": 1695,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1360700709,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Welcome to My Life",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

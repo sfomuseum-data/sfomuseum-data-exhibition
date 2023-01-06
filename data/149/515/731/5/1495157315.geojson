@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-10-02",
+    "sfomuseum:date_start": "2019-09-05",
     "sfomuseum:description": "When a pet bird appears to drop dead in its cage, the good intentions of a hapless housecat set off a chain reaction of calamitous events in this tightly paced masterpiece of animated chaos by Dutch filmmaker Jamille van Wijngaarden.",
     "sfomuseum:exhibition_id": 1805,
     "sfomuseum:exhibition_type": "videoart",
@@ -79,7 +81,7 @@
       }
     ],
     "wof:id": 1495157315,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Catastrophe",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

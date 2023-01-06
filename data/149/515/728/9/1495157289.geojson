@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-07-31",
+    "sfomuseum:date_start": "2019-07-04",
     "sfomuseum:description": "A streetlamp, traffic signal, and stoplight perform a choreography at a lonely intersection of rural byways in San Pasqual High School student Howard Kung’s award-winning film for Walt Disney Family Museum’s 2019 Teen Animation International Festival.\r",
     "sfomuseum:exhibition_id": 1792,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1495157289,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "The Lonely Stoplight",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

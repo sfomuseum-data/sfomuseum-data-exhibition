@@ -10,13 +10,18 @@
     "edtf:inception": "2021-11-04",
     "flysfo:url": "https://www.sfomuseum.org/video-arts/powwow",
     "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:bbox": "-122.389061,37.616015,-122.389061,37.616015",
+    "geom:latitude": 37.61601515922952,
+    "geom:longitude": -122.38906143130441,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2021-12-01",
+    "sfomuseum:date_start": "2021-11-04",
     "sfomuseum:description": "British-born filmmaker Keeley Gould produces a neon-hued portrait of the diverse participants attending the Gathering of Nations Powwow, an annual celebration of Native American culture held in Albuquerque, New Mexico.",
     "sfomuseum:exhibition_id": 1993,
+    "sfomuseum:gallery_id": [
+      70
+    ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
@@ -41,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003444,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "17c364ca182546def8dfdda56b8d313c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -71,7 +76,7 @@
       }
     ],
     "wof:id": 1763595035,
-    "wof:lastmodified": 1651020312,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Pow Wow (2021-2)",
     "wof:parent_id": 1745882507,
     "wof:placetype": "installation",
@@ -83,10 +88,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.38906143130441,
+    37.61601515922952,
+    -122.38906143130441,
+    37.61601515922952
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38906143130441,37.61601515922952]],"type":"MultiPoint"}
 }

@@ -9,15 +9,20 @@
     "edtf:cessation": "2022-05-08",
     "edtf:inception": "2021-11-09",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/arko-datto-rail-diwali",
-    "geom:area": 4.294380651619424e-10,
-    "geom:bbox": "-122.387450,37.620123,-122.387376,37.620233",
-    "geom:latitude": 37.620173704195516,
-    "geom:longitude": -122.38741555362547,
+    "geom:area": 0,
+    "geom:bbox": "-122.387401,37.620173,-122.387401,37.620173",
+    "geom:latitude": 37.620173005536714,
+    "geom:longitude": -122.38740094564245,
     "id": 1763595175,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-05-08",
+    "sfomuseum:date_start": "2021-10-23",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1926,
+    "sfomuseum:gallery_id": [
+      3
+    ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
@@ -27,22 +32,22 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      102085387, 
-      1763588121, 
-      1763588271, 
-      1763588523, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1763588121,
+      1763588271,
+      1763588523,
       1763588269
     ],
     "wof:country": "US",
     "wof:created": 1651003443,
-    "wof:geomhash": "f66ff5a839afc164cc8cd4e35800a17c",
+    "wof:geomhash": "997dc27db1c94e8cfdfd6b3941604429",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -57,7 +62,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588269
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -72,7 +77,7 @@
       }
     ],
     "wof:id": 1763595175,
-    "wof:lastmodified": 1652054451,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Arko Datto: Rail Diwali",
     "wof:parent_id": 1763588523,
     "wof:placetype": "installation",
@@ -84,10 +89,10 @@
     ]
   },
   "bbox": [
-    -122.38745010399998, 
-    37.620122917, 
-    -122.38737608399998, 
-    37.62023276399998
+    -122.38740094564245,
+    37.620173005536714,
+    -122.38740094564245,
+    37.620173005536714
   ],
-  "geometry": {"coordinates":[[[-122.38745010399998,37.620124670999985],[-122.38744634800003,37.620122917],[-122.38737608399998,37.62023169399998],[-122.38737839999999,37.62023276399998],[-122.38745010399998,37.620124670999985]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.38740094564245,37.620173005536714]],"type":"MultiPoint"}
 }

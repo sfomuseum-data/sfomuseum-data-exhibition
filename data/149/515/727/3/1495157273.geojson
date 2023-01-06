@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-12-01",
+    "sfomuseum:date_start": "2019-08-03",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1767,
     "sfomuseum:exhibition_type": "photography",
@@ -79,7 +81,7 @@
       }
     ],
     "wof:id": 1495157273,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Jaclyn Wright: The Two-Dimensional Shadow",
     "wof:parent_id": 1729813677,
     "wof:placetype": "installation",

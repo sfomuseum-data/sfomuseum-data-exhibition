@@ -15,6 +15,8 @@
     "geom:longitude": -122.38899932815504,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-02-13",
+    "sfomuseum:date_start": "2021-05-29",
     "sfomuseum:description": "Gallery will now have only 8 cases.",
     "sfomuseum:exhibition_id": 1844,
     "sfomuseum:gallery_id": [
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1746382273,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Stoneware Stories: Folk Pottery of Edgefield, South Carolina",
     "wof:parent_id": 1745887097,
     "wof:placetype": "installation",

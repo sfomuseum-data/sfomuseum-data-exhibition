@@ -9,14 +9,19 @@
     "edtf:cessation": "2022-08-07",
     "edtf:inception": "2022-04-09",
     "flysfo:url": "",
-    "geom:area": 4.2702999999139225e-8,
-    "geom:bbox": "-122.385020,37.617845,-122.384713,37.618151",
-    "geom:latitude": 37.61799686233598,
-    "geom:longitude": -122.3848643553068,
+    "geom:area": 0,
+    "geom:bbox": "-122.384921,37.617924,-122.384921,37.617924",
+    "geom:latitude": 37.617923793113434,
+    "geom:longitude": -122.3849209067321,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-08-07",
+    "sfomuseum:date_start": "2022-04-09",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1925,
+    "sfomuseum:gallery_id": [
+      64
+    ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
@@ -26,22 +31,22 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      102085387, 
-      1763588121, 
-      1763588365, 
-      1763595139, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1763588121,
+      1763588365,
+      1763595139,
       1763588269
     ],
     "wof:country": "US",
     "wof:created": 1651003442,
-    "wof:geomhash": "a789cf182272e164509b00d28e86266e",
+    "wof:geomhash": "479516ee048cc0d3a63c59028d12b3f1",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -56,7 +61,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588269
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -71,7 +76,7 @@
       }
     ],
     "wof:id": 1763595025,
-    "wof:lastmodified": 1659916851,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Laura Plageman",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",
@@ -81,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38502, 
-    37.617845, 
-    -122.384713, 
-    37.618151
+    -122.3849209067321,
+    37.617923793113434,
+    -122.3849209067321,
+    37.617923793113434
   ],
-  "geometry": {"coordinates":[[[-122.384837,37.618151],[-122.384713,37.618097],[-122.384881,37.617845],[-122.38502,37.617903],[-122.384837,37.618151]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[-122.3849209067321,37.617923793113434]],"type":"MultiPoint"}
 }

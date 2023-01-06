@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-09-08",
+    "sfomuseum:date_start": "2019-05-11",
     "sfomuseum:description": "Our Land: Photographs by Students of The Urban School of San Francisco: Our Land",
     "sfomuseum:exhibition_id": 1765,
     "sfomuseum:exhibition_type": "studentart",
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1495157269,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "The Urban School of San Francisco: Our Land: Student Photography",
     "wof:parent_id": 1159157937,
     "wof:placetype": "installation",

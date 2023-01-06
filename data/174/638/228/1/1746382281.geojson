@@ -15,6 +15,8 @@
     "geom:longitude": -122.3841194237983,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2020-10-18",
+    "sfomuseum:date_start": "2020-03-07",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1856,
     "sfomuseum:has_brochure": 0,
@@ -71,7 +73,7 @@
       }
     ],
     "wof:id": 1746382281,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Luca Tombolini: Vistas Paradossales",
     "wof:parent_id": 1729837321,
     "wof:placetype": "installation",

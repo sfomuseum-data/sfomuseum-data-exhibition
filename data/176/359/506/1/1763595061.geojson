@@ -10,11 +10,13 @@
     "edtf:inception": "2022-02-03",
     "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/one-mans-trash",
     "geom:area": 0,
-    "geom:bbox": "-122.389061,37.616015,-122.389061,37.616015",
-    "geom:latitude": 37.61601515922952,
-    "geom:longitude": -122.38906143130441,
+    "geom:bbox": "-122.389011,37.616017,-122.389011,37.616017",
+    "geom:latitude": 37.616016744082586,
+    "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-03-02",
+    "sfomuseum:date_start": "2022-02-03",
     "sfomuseum:description": "New York-based filmmakers and brothers Alex and Aaron Craig profile Brooklyn’s Peter Kokis, whose passion is creating life-size robots out of trash. \r",
     "sfomuseum:exhibition_id": 2012,
     "sfomuseum:gallery_id": [
@@ -44,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003450,
-    "wof:geomhash": "17c364ca182546def8dfdda56b8d313c",
+    "wof:geomhash": "95b1e05bc426d1965056ca089466f616",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595061,
-    "wof:lastmodified": 1651003450,
+    "wof:lastmodified": 1673044446,
     "wof:name": "One Man’s Trash",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38906143130441,
-    37.61601515922952,
-    -122.38906143130441,
-    37.61601515922952
+    -122.38901058368137,
+    37.616016744082586,
+    -122.38901058368137,
+    37.616016744082586
   ],
-  "geometry": {"coordinates":[[-122.38906143130441,37.61601515922952]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38901058368137,37.616016744082586]],"type":"MultiPoint"}
 }

@@ -11,10 +11,12 @@
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/red-tails-ramitelli",
     "geom:area": 0,
     "geom:bbox": "-122.387193,37.619103,-122.387193,37.619103",
-    "geom:latitude": 37.61910271972509,
+    "geom:latitude": 37.619102719725085,
     "geom:longitude": -122.38719319835137,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-04-24",
+    "sfomuseum:date_start": "2022-02-05",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1900,
     "sfomuseum:gallery_id": [
@@ -29,22 +31,22 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1763588121, 
-      102527513, 
-      1763588271, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1763588519, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1763588269, 
+      1763588121,
+      102527513,
+      1763588271,
+      102191575,
+      85633793,
+      102087579,
+      1763588519,
+      85922583,
+      554784711,
+      85688637,
+      1763588269,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1651003439,
-    "wof:geomhash": "bf3649991ea87bb63405427ab13ce67f",
+    "wof:geomhash": "672dae1aeb41cb279a0954ed3d85b319",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -59,7 +61,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588269
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595013,
-    "wof:lastmodified": 1651104071,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Pylon Essay: Tuskegee Airmen: Red Tails at Ramitelli 1945",
     "wof:parent_id": 1763588519,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38719319835137, 
-    37.61910271972509, 
-    -122.38719319835137, 
-    37.61910271972509
+    -122.38719319835137,
+    37.619102719725085,
+    -122.38719319835137,
+    37.619102719725085
   ],
-  "geometry": {"coordinates":[[-122.38719319835137,37.61910271972509]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38719319835137,37.619102719725085]],"type":"MultiPoint"}
 }

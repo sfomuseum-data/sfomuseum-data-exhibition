@@ -10,11 +10,13 @@
     "edtf:inception": "2021-11-20",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383225,37.617472,-122.383225,37.617472",
-    "geom:latitude": 37.61747248176512,
-    "geom:longitude": -122.38322548671273,
-    "mz:is_current": 0,
+    "geom:bbox": "-122.383211,37.617470,-122.383211,37.617470",
+    "geom:latitude": 37.61746970213145,
+    "geom:longitude": -122.38321119664555,
+    "mz:is_current": 1,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-12-04",
+    "sfomuseum:date_start": "2021-11-20",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2016,
     "sfomuseum:gallery_id": [
@@ -23,28 +25,28 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1763588121, 
-      102527513, 
-      1763588125, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1763594985, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1763588123, 
+      1763588121,
+      102527513,
+      1763588125,
+      102191575,
+      85633793,
+      102087579,
+      1763594985,
+      85922583,
+      554784711,
+      85688637,
+      1763588123,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1651003452,
-    "wof:geomhash": "95a2f4ab9252df3912c369517797b3f8",
+    "wof:geomhash": "cd750177ff93250b95fe72696e81457f",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -59,7 +61,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588123
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595071,
-    "wof:lastmodified": 1670198451,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Community / Documentary",
     "wof:parent_id": 1763594985,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38322548671273, 
-    37.61747248176512, 
-    -122.38322548671273, 
-    37.61747248176512
+    -122.38321119664555,
+    37.61746970213145,
+    -122.38321119664555,
+    37.61746970213145
   ],
-  "geometry": {"coordinates":[[-122.38322548671273,37.61747248176512]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38321119664555,37.61746970213145]],"type":"MultiPoint"}
 }

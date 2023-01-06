@@ -10,11 +10,13 @@
     "edtf:inception": "2021-11-01",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.387956,37.614285,-122.387956,37.614285",
-    "geom:latitude": 37.61428515730374,
-    "geom:longitude": -122.38795590148604,
-    "mz:is_current": 0,
+    "geom:bbox": "-122.388036,37.614455,-122.388036,37.614455",
+    "geom:latitude": 37.61445519279513,
+    "geom:longitude": -122.38803563510608,
+    "mz:is_current": 1,
     "sfo:level": -1,
+    "sfomuseum:date_end": "",
+    "sfomuseum:date_start": "2021-11-19",
     "sfomuseum:description": "Hamilton Standard 3E 50-97 Constant Speed Propeller, part of the “AML Lobby Pan American Airways” long term exhibit with 3 hanging airline models (see exhibit L2022.08).",
     "sfomuseum:exhibition_id": 1880,
     "sfomuseum:gallery_id": [
@@ -23,29 +25,29 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792679, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729813737, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729813675, 
-      1729792579, 
+      1729792387,
+      102527513,
+      1729792679,
+      102191575,
+      85633793,
+      102087579,
+      1729813737,
+      85922583,
+      554784711,
+      85688637,
+      1729813675,
+      1729792579,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1651003437,
-    "wof:geomhash": "8ebb50eaab45b8bcd3c6ff5119e353b7",
+    "wof:geomhash": "cdff11012b2ab08e3c8bbfc2b8616a72",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -61,7 +63,7 @@
         "region_id": 85688637,
         "venue_id": 1729813675,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -77,7 +79,7 @@
       }
     ],
     "wof:id": 1763595003,
-    "wof:lastmodified": 1651104071,
+    "wof:lastmodified": 1673044446,
     "wof:name": "China Clipper (Propeller)",
     "wof:parent_id": 1729813737,
     "wof:placetype": "installation",
@@ -87,10 +89,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38795590148604, 
-    37.61428515730374, 
-    -122.38795590148604, 
-    37.61428515730374
+    -122.38803563510608,
+    37.61445519279513,
+    -122.38803563510608,
+    37.61445519279513
   ],
-  "geometry": {"coordinates":[[-122.38795590148604,37.61428515730374]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38803563510608,37.61445519279513]],"type":"MultiPoint"}
 }

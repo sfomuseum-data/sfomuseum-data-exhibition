@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-01-09",
+    "sfomuseum:date_start": "2018-12-13",
     "sfomuseum:description": "Clichés abound when a retro comic book superhero meets his darker and more modern counterpart in this animated short created by Sagar Arun and Rachel Kral as their thesis film while attending Ringling College of Art and Design.\r",
     "sfomuseum:exhibition_id": 1710,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1376812943,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Rebooted",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

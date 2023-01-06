@@ -14,6 +14,8 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2020-01-01",
+    "sfomuseum:date_start": "2019-12-05",
     "sfomuseum:description": "Berkeley-based filmmaker Kevin Gordon profiles Stockton, California’s Michael Chicago, the son of a Filipino immigrant mother and an alcoholic father, who escaped a difficult home life through Turfing, a form of street dancing with roots in Oakland.\r",
     "sfomuseum:exhibition_id": 1835,
     "sfomuseum:gallery_id": [
@@ -72,7 +74,7 @@
       }
     ],
     "wof:id": 1729842239,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "TURF Fever",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-07-28",
+    "sfomuseum:date_start": "2019-03-23",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1638,
     "sfomuseum:exhibition_type": "photography",
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1377271549,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Jock McDonald: The Light of Water",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",

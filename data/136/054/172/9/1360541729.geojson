@@ -18,6 +18,8 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfomuseum:building_id": "SFO",
+    "sfomuseum:date_end": "2004-08-04",
+    "sfomuseum:date_start": "2000-11-20",
     "sfomuseum:description": "Flight crews, maintenance operations, ticketing procedures, and other aspects of airline operation are depicted in photographs from the 1920s to the modern age of air travel.",
     "sfomuseum:exhibition_id": 78,
     "sfomuseum:exhibition_type": "aviation",
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1360541729,
-    "wof:lastmodified": 1651003432,
+    "wof:lastmodified": 1673044443,
     "wof:name": "Air to Air: A Photographic Record of Flight",
     "wof:parent_id": 1360541573,
     "wof:placetype": "installation",

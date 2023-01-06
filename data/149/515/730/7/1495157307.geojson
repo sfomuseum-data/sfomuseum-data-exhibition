@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-09-18",
+    "sfomuseum:date_start": "2019-08-22",
     "sfomuseum:description": "From the filmmaker’s documentary series on craft methods employed in the state of Michoacán, artisan Carlos Hernández and three generations of his family demonstrate their method for producing exquisite pottery in the town of San José de Gracia.\r",
     "sfomuseum:exhibition_id": 1801,
     "sfomuseum:exhibition_type": "videoart",
@@ -79,7 +81,7 @@
       }
     ],
     "wof:id": 1495157307,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Mexican Handcraft Masters: Glazed Pottery",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

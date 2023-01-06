@@ -18,6 +18,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-01-27",
+    "sfomuseum:date_start": "2018-10-20",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1635,
     "sfomuseum:exhibition_type": "photography",
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 1360672475,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Doug Fogelson: Chemical Alterations",
     "wof:parent_id": 1159157065,
     "wof:placetype": "installation",

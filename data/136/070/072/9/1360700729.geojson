@@ -18,6 +18,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-11-21",
+    "sfomuseum:date_start": "2018-10-25",
     "sfomuseum:description": "The streets of San Francisco’s Mission District come alive in Ramin Talaie’s documentation of the city’s annual celebration of Día de Muertos (Day of the Dead), a public holiday observed throughout Mexico and by people of Mexican ancestry everywhere.\r",
     "sfomuseum:exhibition_id": 1702,
     "sfomuseum:exhibition_type": "videoart",
@@ -66,7 +68,7 @@
       }
     ],
     "wof:id": 1360700729,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Dia de los Muerto",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

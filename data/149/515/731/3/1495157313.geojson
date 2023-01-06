@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2020-01-26",
+    "sfomuseum:date_start": "2019-09-14",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1804,
     "sfomuseum:exhibition_type": "studentart",
@@ -79,7 +81,7 @@
       }
     ],
     "wof:id": 1495157313,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Parks in Focus: Ten Years at Yosemite",
     "wof:parent_id": 1477855663,
     "wof:placetype": "installation",

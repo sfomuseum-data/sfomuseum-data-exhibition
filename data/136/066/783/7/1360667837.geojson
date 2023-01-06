@@ -18,6 +18,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-05-12",
+    "sfomuseum:date_start": "2018-10-06",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1589,
     "sfomuseum:exhibition_type": "nonaviation",
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1360667837,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "A Sterling Renaissance: British Silver Design 1957-2018",
     "wof:parent_id": 1159157037,
     "wof:placetype": "installation",
