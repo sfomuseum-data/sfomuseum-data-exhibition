@@ -10,11 +10,13 @@
     "edtf:inception": "2021-03-06",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/australian-airliners-across-pacific",
     "geom:area": 0,
-    "geom:bbox": "-122.388017,37.614279,-122.388017,37.614279",
-    "geom:latitude": 37.61427924119855,
-    "geom:longitude": -122.38801717827252,
+    "geom:bbox": "-122.388191,37.614417,-122.388191,37.614417",
+    "geom:latitude": 37.61441704389456,
+    "geom:longitude": -122.38819101441787,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-11-27",
+    "sfomuseum:date_start": "2021-03-06",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1779,
     "sfomuseum:gallery_id": [
@@ -29,23 +31,23 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792679, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729813735, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729813675, 
-      1729792579, 
+      1729792387,
+      102527513,
+      1729792679,
+      102191575,
+      85633793,
+      102087579,
+      1729813735,
+      85922583,
+      554784711,
+      85688637,
+      1729813675,
+      1729792579,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1632339548,
-    "wof:geomhash": "550937090359382ce4cb3d6110c4f7fe",
+    "wof:geomhash": "c45add82ad2a2812c44b7aca2366d2b9",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -61,7 +63,7 @@
         "region_id": 85688637,
         "venue_id": 1729813675,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -77,7 +79,7 @@
       }
     ],
     "wof:id": 1746382267,
-    "wof:lastmodified": 1653264051,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Australian Airliners Across the Pacific",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",
@@ -87,10 +89,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38801717827252, 
-    37.61427924119855, 
-    -122.38801717827252, 
-    37.61427924119855
+    -122.38819101441787,
+    37.61441704389456,
+    -122.38819101441787,
+    37.61441704389456
   ],
-  "geometry": {"coordinates":[[-122.38801717827252,37.61427924119855]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38819101441787,37.61441704389456]],"type":"MultiPoint"}
 }

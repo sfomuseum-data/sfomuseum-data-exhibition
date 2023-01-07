@@ -2,18 +2,18 @@
   "id": 1729842149,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-11-22",
-    "date:cessation_upper": "2020-11-22",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
     "edtf:inception": "2020-~05",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/silent-wings-published-works-gliding-and-soaring-flight",
     "geom:area": 0,
-    "geom:bbox": "-122.387970,37.614314,-122.387970,37.614314",
-    "geom:latitude": 37.614313674666654,
-    "geom:longitude": -122.38796986286737,
+    "geom:bbox": "-122.388114,37.614436,-122.388114,37.614436",
+    "geom:latitude": 37.614435579369285,
+    "geom:longitude": -122.38811414961698,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2020-11-22",
+    "sfomuseum:date_start": "2019-12-07",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1500,
     "sfomuseum:has_brochure": 0,
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384168,
-    "wof:geomhash": "fd746e45a42268071b6f1446eb4d1522",
+    "wof:geomhash": "5d510ee96ff1dc31dff8ec23ef2a1f00",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1729859037,
     "wof:label": "On Silent Wings: Published Works on Gliding and Soaring Flight (2020-~05)",
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044445,
     "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
     "wof:parent_id": 1729813745,
     "wof:placetype": "installation",
@@ -87,10 +87,10 @@
     ]
   },
   "bbox": [
-    -122.38796986286737,
-    37.614313674666654,
-    -122.38796986286737,
-    37.614313674666654
+    -122.38811414961698,
+    37.614435579369285,
+    -122.38811414961698,
+    37.614435579369285
   ],
-  "geometry": {"coordinates":[[-122.38796986286737,37.614313674666654],[-122.38796986286737,37.614313674666654]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38811414961698,37.614435579369285],[-122.38811414961698,37.614435579369285]],"type":"MultiPoint"}
 }

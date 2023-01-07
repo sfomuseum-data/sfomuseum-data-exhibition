@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-10-09",
+    "sfomuseum:date_start": "2019-09-12",
     "sfomuseum:description": "Aurélien Rubod is a French music composer and producer based in Los Angeles and Michaël Stroudinsky is a Swiss filmmaker.\r",
     "sfomuseum:exhibition_id": 1806,
     "sfomuseum:exhibition_type": "videoart",
@@ -79,7 +81,7 @@
       }
     ],
     "wof:id": 1495157317,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Dan les Vagues Noires des Premiers Oceans",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

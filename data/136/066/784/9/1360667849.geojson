@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-06-20",
+    "sfomuseum:date_start": "2018-05-24",
     "sfomuseum:description": "Oakland-based filmmaker Ivan Cash profiles William Cromartie, a Bay Area Rapid Transit (BART) station agent who finds meaning in the simple act of saying hello to the thousands of commuters he encounters each day.",
     "sfomuseum:exhibition_id": 1666,
     "sfomuseum:exhibition_type": "videoart",
@@ -66,7 +68,7 @@
       }
     ],
     "wof:id": 1360667849,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Agent of Connection",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

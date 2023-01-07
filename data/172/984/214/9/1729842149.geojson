@@ -14,6 +14,8 @@
     "geom:latitude": 37.614313674666654,
     "geom:longitude": -122.38796986286737,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2020-11-22",
+    "sfomuseum:date_start": "2019-12-07",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1500,
     "sfomuseum:gallery_id": [
@@ -75,7 +77,7 @@
       }
     ],
     "wof:id": 1729842149,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044445,
     "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
     "wof:parent_id": 1477855955,
     "wof:placetype": "installation",

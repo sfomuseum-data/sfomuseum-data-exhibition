@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-05-30",
+    "sfomuseum:date_start": "2018-05-03",
     "sfomuseum:description": "Paris-based filmmaker Xavier Chassaing teams with musician Thomas Vaquié to create a surreal, dream-like voyage through a series of site-specific art installations in the vast and varied landscape of Oaxaca’s ethnobotanical garden in southern Mexico.\r",
     "sfomuseum:exhibition_id": 1580,
     "sfomuseum:exhibition_type": "videoart",
@@ -66,7 +68,7 @@
       }
     ],
     "wof:id": 1360667831,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Dry Lights",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

@@ -14,6 +14,8 @@
     "geom:latitude": 37.61939390848619,
     "geom:longitude": -122.37385309950533,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-08-31",
+    "sfomuseum:date_start": "2018-06-20",
     "sfomuseum:description": "In September 2017, San Francisco and the city of Kiel, located in northern Germany, became official sister cities.  In partnership with the San Francisco - Kiel Sister City Committee, SFO Museum is proud to present a special exhibition of event posters celebrating Kiel’s annual regatta.",
     "sfomuseum:exhibition_id": 1648,
     "sfomuseum:has_brochure": 0,
@@ -66,7 +68,7 @@
       }
     ],
     "wof:id": 1729842159,
-    "wof:lastmodified": 1651014552,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Kieler Woche Posters",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

@@ -14,6 +14,8 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2020-04-01",
+    "sfomuseum:date_start": "2020-03-05",
     "sfomuseum:description": "Filmmaker Naghmeh Farzaneh, who left Iran for the United States during the Arab Spring of 2010–12, communicates the anxiety, alienation, and complex range of emotions shared with other immigrants in this beautifully composed, hand-drawn animation.\r",
     "sfomuseum:exhibition_id": 1864,
     "sfomuseum:gallery_id": [
@@ -72,7 +74,7 @@
       }
     ],
     "wof:id": 1729842171,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Scent of Geranium",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

@@ -10,13 +10,18 @@
     "edtf:inception": "2021-10-23",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/arko-datto-rail-diwali",
     "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:bbox": "-122.387416,37.620174,-122.387416,37.620174",
+    "geom:latitude": 37.620173704195516,
+    "geom:longitude": -122.38741555362547,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-05-08",
+    "sfomuseum:date_start": "2021-10-23",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1926,
+    "sfomuseum:gallery_id": [
+      3
+    ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
@@ -26,22 +31,22 @@
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      102085387, 
-      1745882083, 
-      1745882237, 
-      1745882483, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1745882083,
+      1745882237,
+      1745882483,
       1745882233
     ],
     "wof:country": "US",
     "wof:created": 1651003443,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "a626cf6e4d5299c4388bb9f9077acdc7",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -56,7 +61,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1745882233
-      }, 
+      },
       {
         "building_id": 1745882083,
         "campus_id": 102527513,
@@ -71,7 +76,7 @@
       }
     ],
     "wof:id": 1763595029,
-    "wof:lastmodified": 1651104073,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Arko Datto: Rail Diwali",
     "wof:parent_id": 1745882483,
     "wof:placetype": "installation",
@@ -83,10 +88,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37385309950533, 
-    37.61939390848619, 
-    -122.37385309950533, 
-    37.61939390848619
+    -122.38741555362547,
+    37.620173704195516,
+    -122.38741555362547,
+    37.620173704195516
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[-122.38741555362547,37.620173704195516]],"type":"MultiPoint"}
 }

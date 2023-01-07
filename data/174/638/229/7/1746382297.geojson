@@ -15,6 +15,8 @@
     "geom:longitude": -122.38719319835137,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2021-09-26",
+    "sfomuseum:date_start": "2021-03-06",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1895,
     "sfomuseum:gallery_id": [
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1746382297,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Pylon Essay: The American Motorcycle Girls",
     "wof:parent_id": 1729792771,
     "wof:placetype": "installation",

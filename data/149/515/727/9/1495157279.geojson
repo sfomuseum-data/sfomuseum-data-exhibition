@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-07-03",
+    "sfomuseum:date_start": "2019-06-06",
     "sfomuseum:description": "An introverted young man finds comfort, confidence, and freedom while dressing in women’s clothing until coming upon his father in a chance encounter on a busy street in this beautifully composed and restrained film by Yuchao Feng.\r",
     "sfomuseum:exhibition_id": 1788,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1495157279,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Red",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

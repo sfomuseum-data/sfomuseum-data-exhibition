@@ -14,6 +14,8 @@
     "geom:latitude": 37.61435718833335,
     "geom:longitude": -122.38779703838323,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2021-03-07",
+    "sfomuseum:date_start": "2019-12-07",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1807,
     "sfomuseum:gallery_id": [
@@ -43,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384197,
-    "wof:geomhash": "18b00c80306c62cdbcf2aeb8f5dcfd15",
+    "wof:geomhash": "78c279e5948682f9cdd00a0e489ee727",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -75,7 +77,7 @@
       }
     ],
     "wof:id": 1729842233,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Special Collections Poster: Inman Bros. Flying Circus",
     "wof:parent_id": 1729813685,
     "wof:placetype": "installation",
@@ -92,5 +94,5 @@
     -122.38779703838323,
     37.61435718833335
   ],
-  "geometry": {"coordinates":[[-122.38779703838323,37.61435718833335]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38779703838323,37.61435718833335],[-122.38779703838323,37.61435718833335]],"type":"MultiPoint"}
 }

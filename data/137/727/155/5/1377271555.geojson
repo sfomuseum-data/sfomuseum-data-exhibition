@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-02-20",
+    "sfomuseum:date_start": "2019-01-24",
     "sfomuseum:description": "Tomoki Misato’s first film, made while attending Tokyo’s Musashino Art University, explores themes of romance, jealousy, and the deleterious effects of technology through the eyes of a young man who rediscovers the true object of his affection.\r",
     "sfomuseum:exhibition_id": 1732,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1377271555,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Look at Me Only",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

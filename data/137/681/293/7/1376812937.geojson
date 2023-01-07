@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-12-19",
+    "sfomuseum:date_start": "2018-11-22",
     "sfomuseum:description": "Filmmaker Redha Medjellekh finds inspiration in the City of Lights with costumed dancer Brice Larrieu navigating the streets—and rooftops—of Paris to Sergei Prokofiev’s “Dance of the Knights.”\r",
     "sfomuseum:exhibition_id": 1707,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1376812937,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Am I Paris?",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

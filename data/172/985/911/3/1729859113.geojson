@@ -12,15 +12,17 @@
     "flysfo:url": "http://www.flysfo.com/museum/exhibitions/airplane-models-goosedale-collection-1915-1950",
     "geom:area": 0,
     "geom:area_square_m": 4771.257349,
-    "geom:bbox": "-122.387496,37.619930,-122.387496,37.619930",
-    "geom:latitude": 37.61992999943579,
-    "geom:longitude": -122.38749588292009,
+    "geom:bbox": "-122.387478,37.619978,-122.387478,37.619978",
+    "geom:latitude": 37.619977782395054,
+    "geom:longitude": -122.38747765549817,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfomuseum:boardingarea_id": "BOARDING AREA F",
     "sfomuseum:building_id": "SFO",
-    "sfomuseum:description": "A static display of selected models from the Goosedale Model Aviation\rCollection includes 1:6 scale replicas of famous World War I biplanes such as the\r\"Pfalz D.XII.\" Each scratch-built model was originally created for remote\rcontrol flying.\r",
+    "sfomuseum:date_end": "2021-04-18",
+    "sfomuseum:date_start": "2001-07-28",
+    "sfomuseum:description": "A static display of selected models from the Goosedale Model Aviation Collection includes 1:6 scale replicas of famous World War I biplanes such as the \"Pfalz D.XII.\" Each scratch-built model was originally created for remote control flying.\r",
     "sfomuseum:exhibition_id": 451,
     "sfomuseum:exhibition_number": "L2001.26",
     "sfomuseum:exhibition_type": "aviation",
@@ -38,27 +40,27 @@
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792489, 
-      1729792779, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      554784711,
+      102085387,
+      1729792387,
+      1729792489,
+      1729792779,
       1729792487
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:hierarchy", 
+      "wof:hierarchy",
       "wof:label"
     ],
     "wof:country": "US",
     "wof:created": 1522949771,
-    "wof:geomhash": "694cfe03d2a361e7d63207fc0aa85a21",
+    "wof:geomhash": "a2d5b5e58bbc0dd9f88786a78d22b769",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -73,7 +75,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -90,7 +92,7 @@
     "wof:id": 1729859113,
     "wof:is_current": -1,
     "wof:label": "Airplane Models from the Goosedale Collection, 1915-1950 (2020-~05)",
-    "wof:lastmodified": 1617919638,
+    "wof:lastmodified": 1673044444,
     "wof:name": "Airplane Models from the Goosedale Collection, 1915-1950",
     "wof:parent_id": 1729792779,
     "wof:placetype": "installation",
@@ -103,15 +105,15 @@
       1729859111
     ],
     "wof:tags": [
-      "aviation", 
+      "aviation",
       "exhibition"
     ]
   },
   "bbox": [
-    -122.38749588292009, 
-    37.61992999943579, 
-    -122.38749588292009, 
-    37.61992999943579
+    -122.38747765549817,
+    37.619977782395054,
+    -122.38747765549817,
+    37.619977782395054
   ],
-  "geometry": {"coordinates":[[-122.38749588292009,37.61992999943579]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38747765549817,37.619977782395054],[-122.38747765549817,37.619977782395054]],"type":"MultiPoint"}
 }

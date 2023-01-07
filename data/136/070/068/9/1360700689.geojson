@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-08-01",
+    "sfomuseum:date_start": "2018-07-05",
     "sfomuseum:description": "From the filmmaker’s documentary series on craft methods employed in the state of Michoacán, artisan Abono Punzo and his crew demonstrate their method for producing beautiful works of copper from waste material in the town of Santa Clara del Cobre.\r",
     "sfomuseum:exhibition_id": 1685,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1360700689,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Mexican Handcraft Masters: Copper",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

@@ -10,11 +10,13 @@
     "edtf:inception": "2021-10-01",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385140,37.614058,-122.385140,37.614058",
-    "geom:latitude": 37.614057551488116,
-    "geom:longitude": -122.38514028429077,
-    "mz:is_current": 0,
+    "geom:bbox": "-122.385111,37.614106,-122.385111,37.614106",
+    "geom:latitude": 37.614105592105886,
+    "geom:longitude": -122.38511066563744,
+    "mz:is_current": 1,
     "sfo:level": -1,
+    "sfomuseum:date_end": "",
+    "sfomuseum:date_start": "2021-10-16",
     "sfomuseum:description": "Permanent display using metal panels that were originally used on Temporary Wall in HMT1 (see L2019.02).",
     "sfomuseum:exhibition_id": 1923,
     "sfomuseum:gallery_id": [
@@ -23,28 +25,28 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1763588121, 
-      102527513, 
-      1763588265, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1763594987, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1763588175, 
+      1763588121,
+      102527513,
+      1763588265,
+      102191575,
+      85633793,
+      102087579,
+      1763594987,
+      85922583,
+      554784711,
+      85688637,
+      1763588175,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1651003442,
-    "wof:geomhash": "060979eafa01e76bf0aa6c28164e3093",
+    "wof:geomhash": "51d7dfeaff28b662801c76c40f640764",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -59,7 +61,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588175
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595023,
-    "wof:lastmodified": 1651104072,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Harvey Milk Sterile Connector",
     "wof:parent_id": 1763594987,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38514028429077, 
-    37.614057551488116, 
-    -122.38514028429077, 
-    37.614057551488116
+    -122.38511066563744,
+    37.614105592105886,
+    -122.38511066563744,
+    37.614105592105886
   ],
-  "geometry": {"coordinates":[[-122.38514028429077,37.614057551488116]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38511066563744,37.614105592105886]],"type":"MultiPoint"}
 }

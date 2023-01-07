@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-08-04",
+    "sfomuseum:date_start": "2019-01-26",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1397,
     "sfomuseum:exhibition_type": "nonaviation",
@@ -84,7 +86,7 @@
       }
     ],
     "wof:id": 1376812931,
-    "wof:lastmodified": 1651003433,
+    "wof:lastmodified": 1673044445,
     "wof:name": "Reflections in Wood: Surfboards and Shapers",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

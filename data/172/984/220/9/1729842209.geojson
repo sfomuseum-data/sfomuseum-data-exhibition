@@ -14,6 +14,8 @@
     "geom:latitude": 37.619087399474104,
     "geom:longitude": -122.3871972492055,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2021-02-26",
+    "sfomuseum:date_start": "2020-01-13",
     "sfomuseum:description": "Display of enlarged exhibition brochure covers.",
     "sfomuseum:exhibition_id": 1886,
     "sfomuseum:gallery_id": [
@@ -73,7 +75,7 @@
       }
     ],
     "wof:id": 1729842209,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Pylon Essay: Fly \u0026 Explore",
     "wof:parent_id": 1477855725,
     "wof:placetype": "installation",

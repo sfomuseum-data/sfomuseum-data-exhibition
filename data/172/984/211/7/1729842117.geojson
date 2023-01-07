@@ -14,6 +14,8 @@
     "geom:latitude": 37.61545711615287,
     "geom:longitude": -122.3841194237983,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2021-02-21",
+    "sfomuseum:date_start": "2020-10-24",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1869,
     "sfomuseum:gallery_id": [
@@ -73,7 +75,7 @@
       }
     ],
     "wof:id": 1729842117,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Amelia Konow: Auras",
     "wof:parent_id": 1729837321,
     "wof:placetype": "installation",

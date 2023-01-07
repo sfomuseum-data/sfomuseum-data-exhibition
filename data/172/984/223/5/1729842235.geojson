@@ -10,12 +10,17 @@
     "edtf:inception": "2019-03-23",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
+    "geom:latitude": 37.614512,
+    "geom:longitude": -122.387939,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-12-01",
+    "sfomuseum:date_start": "2019-03-23",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1758,
+    "sfomuseum:gallery_id": [
+      41
+    ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
@@ -37,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384198,
-    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:geomhash": "e29cf68e891156b51b715c504db9a5f4",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -54,7 +59,7 @@
       }
     ],
     "wof:id": 1729842235,
-    "wof:lastmodified": 1651088476,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Special Collections Poster: Finnair",
     "wof:parent_id": 1763601211,
     "wof:placetype": "installation",
@@ -68,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37385309950533,
-    37.61939390848619,
-    -122.37385309950533,
-    37.61939390848619
+    -122.387939,
+    37.614512,
+    -122.387939,
+    37.614512
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
 }

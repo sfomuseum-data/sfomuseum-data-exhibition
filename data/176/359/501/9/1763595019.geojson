@@ -10,11 +10,13 @@
     "edtf:inception": "2021-11-20",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/nimisha-doongarwal-identity",
     "geom:area": 0,
-    "geom:bbox": "-122.385068,37.611778,-122.385068,37.611778",
-    "geom:latitude": 37.61177834167635,
-    "geom:longitude": -122.38506809129578,
+    "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
+    "geom:latitude": 37.614635906352255,
+    "geom:longitude": -122.3871579788049,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-03-06",
+    "sfomuseum:date_start": "2021-11-20",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1921,
     "sfomuseum:gallery_id": [
@@ -44,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003441,
-    "wof:geomhash": "0688f948d1afc236d5b4bfa7a888e5b5",
+    "wof:geomhash": "c87c570dc505cf2a1bf597855c3f752c",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595019,
-    "wof:lastmodified": 1651003441,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Nimisha Doongarwal: Identity",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38506809129578,
-    37.61177834167635,
-    -122.38506809129578,
-    37.61177834167635
+    -122.3871579788049,
+    37.614635906352255,
+    -122.3871579788049,
+    37.614635906352255
   ],
-  "geometry": {"coordinates":[[-122.38506809129578,37.61177834167635]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3871579788049,37.614635906352255]],"type":"MultiPoint"}
 }

@@ -10,11 +10,13 @@
     "edtf:inception": "2021-05-28",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383225,37.617472,-122.383225,37.617472",
-    "geom:latitude": 37.61747248176512,
-    "geom:longitude": -122.38322548671273,
+    "geom:bbox": "-122.383211,37.617470,-122.383211,37.617470",
+    "geom:latitude": 37.61746970213145,
+    "geom:longitude": -122.38321119664555,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2021-10-24",
+    "sfomuseum:date_start": "2021-05-28",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1922,
     "sfomuseum:gallery_id": [
@@ -44,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003441,
-    "wof:geomhash": "95a2f4ab9252df3912c369517797b3f8",
+    "wof:geomhash": "cd750177ff93250b95fe72696e81457f",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595021,
-    "wof:lastmodified": 1651003441,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Kadish Gallery Temporary Loan",
     "wof:parent_id": 1763594985,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38322548671273,
-    37.61747248176512,
-    -122.38322548671273,
-    37.61747248176512
+    -122.38321119664555,
+    37.61746970213145,
+    -122.38321119664555,
+    37.61746970213145
   ],
-  "geometry": {"coordinates":[[-122.38322548671273,37.61747248176512]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38321119664555,37.61746970213145]],"type":"MultiPoint"}
 }

@@ -18,6 +18,8 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfomuseum:building_id": "SFO",
+    "sfomuseum:date_end": "2007-04-29",
+    "sfomuseum:date_start": "2006-12-02",
     "sfomuseum:description": "\"For Your Comfort\" is an exhibition of items produced by various commerical airlines for the convenience, amusement, and comfort of passengers during airline travel.",
     "sfomuseum:exhibition_id": 907,
     "sfomuseum:exhibition_type": "aviation",
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1360541741,
-    "wof:lastmodified": 1651003433,
+    "wof:lastmodified": 1673044444,
     "wof:name": "For Your Comfort: A Survey of Passenger Amenities for Airline Travel",
     "wof:parent_id": 1360541633,
     "wof:placetype": "installation",

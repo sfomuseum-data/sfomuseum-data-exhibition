@@ -10,11 +10,13 @@
     "edtf:inception": "2021-12-30",
     "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/com-forca",
     "geom:area": 0,
-    "geom:bbox": "-122.389652,37.616555,-122.389652,37.616555",
-    "geom:latitude": 37.6165546529427,
-    "geom:longitude": -122.38965212381375,
+    "geom:bbox": "-122.389718,37.616529,-122.389718,37.616529",
+    "geom:latitude": 37.616528705005116,
+    "geom:longitude": -122.38971793359582,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-02-02",
+    "sfomuseum:date_start": "2021-12-30",
     "sfomuseum:description": "Dancer Juan Duarte defies stereotypical definitions of masculinity and gender in the realms of of dance and fashion in this short film by Vancouver-based award-winning director and producer Morgan Inglis.",
     "sfomuseum:exhibition_id": 2006,
     "sfomuseum:gallery_id": [
@@ -44,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003450,
-    "wof:geomhash": "81a99303c4f253b4928d8d8a6c5663f9",
+    "wof:geomhash": "7a1b801c5a488a26f4b699e2744aa0a3",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595059,
-    "wof:lastmodified": 1651003450,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Com Força",
     "wof:parent_id": 1763588553,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38965212381375,
-    37.6165546529427,
-    -122.38965212381375,
-    37.6165546529427
+    -122.38971793359582,
+    37.616528705005116,
+    -122.38971793359582,
+    37.616528705005116
   ],
-  "geometry": {"coordinates":[[-122.38965212381375,37.6165546529427]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38971793359582,37.616528705005116]],"type":"MultiPoint"}
 }

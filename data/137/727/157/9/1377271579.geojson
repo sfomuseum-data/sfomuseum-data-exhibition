@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-02-06",
+    "sfomuseum:date_start": "2019-01-10",
     "sfomuseum:description": "Inspired by memories of his own family vacations, Amsterdam-based filmmaker Jeroen Houben has crafted a sweet and dreamlike meditation on summer holidays, first crushes, and the courage required to reach out to someone who may care about you.\r",
     "sfomuseum:exhibition_id": 1760,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1377271579,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Gips (Plaster)",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

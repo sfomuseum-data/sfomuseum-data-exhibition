@@ -15,6 +15,8 @@
     "geom:longitude": -122.38490266808739,
     "mz:is_current": 0,
     "sfo:level": 2,
+    "sfomuseum:date_end": "2021-04-04",
+    "sfomuseum:date_start": "2019-07-08",
     "sfomuseum:description": "TEMPORARY wall in BA/B, wall removed April 2021, art panels stored in T1 Mezzanine Storage (May-Sep 2021) and re-installed in Sterile Connector Corridor Sep 2021.",
     "sfomuseum:exhibition_id": 1671,
     "sfomuseum:has_brochure": 0,
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1729842247,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Harvey Milk: Messenger of Hope",
     "wof:parent_id": 1729792437,
     "wof:placetype": "installation",

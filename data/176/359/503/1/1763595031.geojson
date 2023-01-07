@@ -10,11 +10,13 @@
     "edtf:inception": "2022-03-12",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/fashion-illustration-city-college-san-francisco",
     "geom:area": 0,
-    "geom:bbox": "-122.385068,37.611778,-122.385068,37.611778",
-    "geom:latitude": 37.61177834167635,
-    "geom:longitude": -122.38506809129578,
+    "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
+    "geom:latitude": 37.614635906352255,
+    "geom:longitude": -122.3871579788049,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-07-10",
+    "sfomuseum:date_start": "2022-03-12",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1938,
     "sfomuseum:gallery_id": [
@@ -29,22 +31,22 @@
     "sfomuseum:type": "Student Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1763588121, 
-      102527513, 
-      1763588177, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1763588503, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1763588175, 
+      1763588121,
+      102527513,
+      1763588177,
+      102191575,
+      85633793,
+      102087579,
+      1763588503,
+      85922583,
+      554784711,
+      85688637,
+      1763588175,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1651003443,
-    "wof:geomhash": "0688f948d1afc236d5b4bfa7a888e5b5",
+    "wof:geomhash": "c87c570dc505cf2a1bf597855c3f752c",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -59,7 +61,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588175
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595031,
-    "wof:lastmodified": 1657497651,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Fashion Illustration -- City College of San Francisco",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38506809129578, 
-    37.61177834167635, 
-    -122.38506809129578, 
-    37.61177834167635
+    -122.3871579788049,
+    37.614635906352255,
+    -122.3871579788049,
+    37.614635906352255
   ],
-  "geometry": {"coordinates":[[-122.38506809129578,37.61177834167635]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3871579788049,37.614635906352255]],"type":"MultiPoint"}
 }

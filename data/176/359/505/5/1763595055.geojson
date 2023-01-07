@@ -10,11 +10,13 @@
     "edtf:inception": "2021-12-30",
     "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/particles",
     "geom:area": 0,
-    "geom:bbox": "-122.389061,37.616015,-122.389061,37.616015",
-    "geom:latitude": 37.61601515922952,
-    "geom:longitude": -122.38906143130441,
+    "geom:bbox": "-122.389011,37.616017,-122.389011,37.616017",
+    "geom:latitude": 37.616016744082586,
+    "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2022-02-02",
+    "sfomuseum:date_start": "2021-12-30",
     "sfomuseum:description": "German filmmaker Sylvia Borges was inspired by choir rehearsals in an empty parking lot during the COVID-19 pandemic to produce a film that speaks to forced separation, but also to unity and resilience during these difficult times. ",
     "sfomuseum:exhibition_id": 2004,
     "sfomuseum:gallery_id": [
@@ -44,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003449,
-    "wof:geomhash": "17c364ca182546def8dfdda56b8d313c",
+    "wof:geomhash": "95b1e05bc426d1965056ca089466f616",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1763595055,
-    "wof:lastmodified": 1651003449,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Particles",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",
@@ -84,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38906143130441,
-    37.61601515922952,
-    -122.38906143130441,
-    37.61601515922952
+    -122.38901058368137,
+    37.616016744082586,
+    -122.38901058368137,
+    37.616016744082586
   ],
-  "geometry": {"coordinates":[[-122.38906143130441,37.61601515922952]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38901058368137,37.616016744082586]],"type":"MultiPoint"}
 }

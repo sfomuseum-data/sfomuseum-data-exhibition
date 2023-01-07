@@ -18,6 +18,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-11-28",
+    "sfomuseum:date_start": "2018-11-01",
     "sfomuseum:description": "Jon Chester’s hand-drawn animated short for the song “Rudy with a Flashlight” by the late, great Rainer Ptacek is a loving tribute to the Tucson-based guitarist, fatherhood, and the filmmaker’s son, Chester Bliss. \r",
     "sfomuseum:exhibition_id": 1703,
     "sfomuseum:exhibition_type": "videoart",
@@ -66,7 +68,7 @@
       }
     ],
     "wof:id": 1360700725,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Rudy with a Flashlight",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

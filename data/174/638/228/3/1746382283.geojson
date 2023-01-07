@@ -15,6 +15,8 @@
     "geom:longitude": -122.38506809129578,
     "mz:is_current": 0,
     "sfo:level": -1,
+    "sfomuseum:date_end": "2020-10-18",
+    "sfomuseum:date_start": "2020-05-02",
     "sfomuseum:description": "Gateway HS artwork from previous F12 exhibit (L2019.31) was retained after end of exhibit on 1/8/2020 and per lender permission given to Nicole, these artwork from Gateway High School will now be used for new B14 exhibit.",
     "sfomuseum:exhibition_id": 1861,
     "sfomuseum:gallery_id": [
@@ -74,7 +76,7 @@
       }
     ],
     "wof:id": 1746382283,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Gateway High School: The Treehouse: A Sanctuary",
     "wof:parent_id": 1729813697,
     "wof:placetype": "installation",

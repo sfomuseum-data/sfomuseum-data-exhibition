@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2018-07-04",
+    "sfomuseum:date_start": "2018-06-07",
     "sfomuseum:description": "In Uganda, where citizens face discrimination, violence, and arbitrary arrests simply because of who they love, filmmakers Katie G. Nelson and Joshua Carlon present the voices of gay and transgender Ugandans expressing what love means to them.\r",
     "sfomuseum:exhibition_id": 1681,
     "sfomuseum:exhibition_type": "videoart",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1360700679,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Love Is",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

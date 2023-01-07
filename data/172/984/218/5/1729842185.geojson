@@ -14,6 +14,8 @@
     "geom:latitude": 37.6174220145607,
     "geom:longitude": -122.38271164883223,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2020-10-25",
+    "sfomuseum:date_start": "2020-02-29",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1770,
     "sfomuseum:gallery_id": [
@@ -72,7 +74,7 @@
       }
     ],
     "wof:id": 1729842185,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Extra ‘O’! African Barbershop and Hairdressing Signs",
     "wof:parent_id": 1477855627,
     "wof:placetype": "installation",

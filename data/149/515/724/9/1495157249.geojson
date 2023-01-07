@@ -17,6 +17,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfomuseum:date_end": "2019-09-29",
+    "sfomuseum:date_start": "2019-06-01",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1724,
     "sfomuseum:exhibition_type": "photography",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1495157249,
-    "wof:lastmodified": 1651003434,
+    "wof:lastmodified": 1673044446,
     "wof:name": "Keliy Anderson-Staley: [hyphen] Americans",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",
