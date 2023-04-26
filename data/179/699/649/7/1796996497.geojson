@@ -10,12 +10,12 @@
     "edtf:inception": "2022-12-10",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383211,37.617470,-122.383211,37.617470",
-    "geom:latitude": 37.61746970213145,
-    "geom:longitude": -122.38321119664555,
+    "geom:bbox": "-122.383466,37.617599,-122.383466,37.617599",
+    "geom:latitude": 37.617598890046914,
+    "geom:longitude": -122.38346599781815,
     "mz:is_current": 1,
     "sfo:level": -1,
-    "sfomuseum:date_end": "2023-07-09",
+    "sfomuseum:date_end": "2023-12-03",
     "sfomuseum:date_start": "2022-12-10",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1931,
@@ -46,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1673044451,
-    "wof:geomhash": "cd750177ff93250b95fe72696e81457f",
+    "wof:geomhash": "d73f192fa046af92be5920623b8f7318",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996497,
-    "wof:lastmodified": 1673044451,
+    "wof:lastmodified": 1682543895,
     "wof:name": "Jess T. Dugan and Vanessa Fabbre: To Survive on this Shore",
     "wof:parent_id": 1763594985,
     "wof:placetype": "installation",
@@ -86,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38321119664555,
-    37.61746970213145,
-    -122.38321119664555,
-    37.61746970213145
+    -122.38346599781815,
+    37.617598890046914,
+    -122.38346599781815,
+    37.617598890046914
   ],
-  "geometry": {"coordinates":[[-122.38321119664555,37.61746970213145]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38346599781815,37.617598890046914]],"type":"MultiPoint"}
 }

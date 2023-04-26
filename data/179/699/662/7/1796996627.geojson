@@ -10,17 +10,17 @@
     "edtf:inception": "2021-11-09",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/victorian-papered-wall",
     "geom:area": 0,
-    "geom:bbox": "-122.389032,37.615513,-122.388916,37.615813",
-    "geom:latitude": 37.61566316540981,
-    "geom:longitude": -122.38897382834584,
+    "geom:bbox": "-122.389019,37.615509,-122.388903,37.615809",
+    "geom:latitude": 37.61565856860682,
+    "geom:longitude": -122.38896089727054,
     "mz:is_current": 0,
     "sfo:level": 4,
-    "sfomuseum:date_end": "2023-01-29",
+    "sfomuseum:date_end": "2023-02-12",
     "sfomuseum:date_start": "2021-10-09",
     "sfomuseum:description": "v",
     "sfomuseum:exhibition_id": 1873,
     "sfomuseum:gallery_id": [
-      18, 
+      18,
       19
     ],
     "sfomuseum:has_brochure": 0,
@@ -32,23 +32,23 @@
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      102085387, 
-      1763588121, 
-      1763588469, 
-      1763588543, 
-      1763588369, 
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1763588121,
+      1763588469,
+      1763588543,
+      1763588369,
       1763588545
     ],
     "wof:country": "US",
     "wof:created": 1634245654,
-    "wof:geomhash": "36a27cbd4208a47921a3bc441b82e5ee",
+    "wof:geomhash": "1a81ecdf2e85aa7a9cebd79e36a6d6bb",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -63,7 +63,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588369
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -75,7 +75,7 @@
         "installation_id": 1796996627,
         "region_id": 85688637,
         "wing_id": 1763588369
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -89,7 +89,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588369
-      }, 
+      },
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
@@ -105,7 +105,7 @@
     ],
     "wof:id": 1796996627,
     "wof:label": "The Victorian Papered Wall (2021-11-09)",
-    "wof:lastmodified": 1675036852,
+    "wof:lastmodified": 1682543895,
     "wof:name": "The Victorian Papered Wall",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -117,10 +117,10 @@
     ]
   },
   "bbox": [
-    -122.38903199469699, 
-    37.6155132707666, 
-    -122.38891566199469, 
-    37.61581306005303
+    -122.38901919979469,
+    37.61550857237398,
+    -122.38890259474638,
+    37.61580856483965
   ],
-  "geometry": {"coordinates":[[-122.38891566199469,37.6155132707666],[-122.38891566199469,37.6155132707666],[-122.38903199469699,37.61581306005303],[-122.38903199469699,37.61581306005303]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38890259474638,37.61550857237398],[-122.38890259474638,37.61550857237398],[-122.38901919979469,37.61580856483965],[-122.38901919979469,37.61580856483965]],"type":"MultiPoint"}
 }

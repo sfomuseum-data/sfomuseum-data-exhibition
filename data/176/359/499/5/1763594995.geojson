@@ -10,9 +10,9 @@
     "edtf:inception": "2022-04-16",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385138,37.613912,-122.385138,37.613912",
-    "geom:latitude": 37.61391178302569,
-    "geom:longitude": -122.38513752621864,
+    "geom:bbox": "-122.385157,37.613893,-122.385157,37.613893",
+    "geom:latitude": 37.613892603964324,
+    "geom:longitude": -122.38515721248761,
     "mz:is_current": 0,
     "sfo:level": -1,
     "sfomuseum:date_end": "2022-11-06",
@@ -46,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003435,
-    "wof:geomhash": "2bbb4821e123beb57ab836e0bfd6b2e5",
+    "wof:geomhash": "aed012bfe62428ede6cfaafd904041a0",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763594995,
-    "wof:lastmodified": 1673044446,
+    "wof:lastmodified": 1682543894,
     "wof:name": "From Pineapple to Piña: A Philippine Textile Treasure",
     "wof:parent_id": 1763588501,
     "wof:placetype": "installation",
@@ -86,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38513752621864,
-    37.61391178302569,
-    -122.38513752621864,
-    37.61391178302569
+    -122.38515721248761,
+    37.613892603964324,
+    -122.38515721248761,
+    37.613892603964324
   ],
-  "geometry": {"coordinates":[[-122.38513752621864,37.61391178302569]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38515721248761,37.613892603964324]],"type":"MultiPoint"}
 }
