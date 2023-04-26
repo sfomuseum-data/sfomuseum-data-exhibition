@@ -26,6 +26,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "Video Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1729842249,
-    "wof:lastmodified": 1682543894,
+    "wof:lastmodified": 1682544613,
     "wof:name": "Turning Tables (2019)",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

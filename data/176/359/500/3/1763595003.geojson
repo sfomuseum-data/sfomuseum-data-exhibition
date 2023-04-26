@@ -27,7 +27,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1763595003,
-    "wof:lastmodified": 1682543895,
+    "wof:lastmodified": 1682544613,
     "wof:name": "China Clipper (Propeller)",
     "wof:parent_id": 1729813737,
     "wof:placetype": "installation",

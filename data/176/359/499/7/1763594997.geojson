@@ -27,7 +27,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763594997,
-    "wof:lastmodified": 1682543894,
+    "wof:lastmodified": 1682544613,
     "wof:name": "Zimbabwe Stone Sculpture",
     "wof:parent_id": 1763588551,
     "wof:placetype": "installation",

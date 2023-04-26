@@ -26,6 +26,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1729842199,
-    "wof:lastmodified": 1682543894,
+    "wof:lastmodified": 1682544613,
     "wof:name": "Stanley Greene: Shadows of Change",
     "wof:parent_id": 1477855729,
     "wof:placetype": "installation",

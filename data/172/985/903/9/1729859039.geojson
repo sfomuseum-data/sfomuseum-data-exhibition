@@ -26,6 +26,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 1,
     "sfomuseum:type": "Kids' Spot",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -59,7 +60,7 @@
     ],
     "wof:id": 1729859039,
     "wof:label": "Kids’ Spot: Redwood Forest (2014~)",
-    "wof:lastmodified": 1682543894,
+    "wof:lastmodified": 1682544613,
     "wof:name": "Kids’ Spot: Redwood Forest",
     "wof:parent_id": 1360516247,
     "wof:placetype": "installation",

@@ -26,6 +26,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "Video Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1729842239,
-    "wof:lastmodified": 1682543894,
+    "wof:lastmodified": 1682544613,
     "wof:name": "TURF Fever",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

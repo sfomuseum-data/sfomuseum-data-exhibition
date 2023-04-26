@@ -27,7 +27,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1796996495,
-    "wof:lastmodified": 1682543895,
+    "wof:lastmodified": 1682544613,
     "wof:name": "Supersonic Time Machine: Documenting the Concorde",
     "wof:parent_id": 1729813745,
     "wof:placetype": "installation",

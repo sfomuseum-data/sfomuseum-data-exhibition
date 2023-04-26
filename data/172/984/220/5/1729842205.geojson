@@ -26,6 +26,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "Student Art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1729842205,
-    "wof:lastmodified": 1682543894,
+    "wof:lastmodified": 1682544613,
     "wof:name": "Art School of San Francisco Bay’s Manga Drawing Club",
     "wof:parent_id": 1477855663,
     "wof:placetype": "installation",
