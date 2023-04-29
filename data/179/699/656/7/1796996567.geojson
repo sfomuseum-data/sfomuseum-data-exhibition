@@ -2,11 +2,11 @@
   "id": 1796996567,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-04-09",
-    "date:cessation_upper": "2023-04-09",
+    "date:cessation_lower": "2023-04-23",
+    "date:cessation_upper": "2023-04-23",
     "date:inception_lower": "2022-12-24",
     "date:inception_upper": "2022-12-24",
-    "edtf:cessation": "2023-04-09",
+    "edtf:cessation": "2023-04-23",
     "edtf:inception": "2022-12-24",
     "flysfo:url": "",
     "geom:area": 0,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996567,
-    "wof:lastmodified": 1682553807,
+    "wof:lastmodified": 1682729015,
     "wof:name": "Kacper Kowalski: Event Horizon",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",
