@@ -74,17 +74,17 @@
     "wof:id": 1360521607,
     "wof:is_current": -1,
     "wof:label": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection (2006-05-08)",
-    "wof:lastmodified": 1682551636,
+    "wof:lastmodified": 1682981899,
     "wof:name": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection",
     "wof:parent_id": 1360516175,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [
-      1159159849
+      1360521609
     ],
     "wof:supersedes": [
-      1360521609
+      1159159849
     ],
     "wof:tags": [
       "aviation",
