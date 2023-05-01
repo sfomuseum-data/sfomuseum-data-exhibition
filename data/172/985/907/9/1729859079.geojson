@@ -74,15 +74,13 @@
     ],
     "wof:id": 1729859079,
     "wof:label": "Kids' Spot II (2011~)",
-    "wof:lastmodified": 1682551636,
+    "wof:lastmodified": 1682967149,
     "wof:name": "Kids' Spot II: Exploratorium",
     "wof:parent_id": 1360392587,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [
-      1729859081
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1729859077
     ],
