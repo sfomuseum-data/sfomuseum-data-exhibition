@@ -82,14 +82,16 @@
     ],
     "wof:id": 1226614569,
     "wof:label": "Children's Art: FAMSF Education Program (1989-10-03 - 1989-11-20)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075772,
     "wof:name": "FAMSF Education Program",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226614525
+    ],
     "wof:tags": []
   },
   "bbox": [
