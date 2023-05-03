@@ -7,6 +7,7 @@
     "date:inception_lower": "2003-10-01",
     "date:inception_upper": "2003-10-01",
     "edtf:cessation": "2003-11-30",
+    "edtf:deprecated": "2023-05-02",
     "edtf:inception": "2003-10-01",
     "flysfo:url": "",
     "geom:area": 0,
@@ -83,13 +84,15 @@
     ],
     "wof:id": 1226618665,
     "wof:label": "Children's Art: Phat Chance - Urban Art (2003-10-01 - 2003-11-30)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075437,
     "wof:name": "The Imagine Bus Project: Phat Chance - Urban Art",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1226618697
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },
