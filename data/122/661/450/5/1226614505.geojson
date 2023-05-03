@@ -82,14 +82,16 @@
     ],
     "wof:id": 1226614505,
     "wof:label": "Children's Art: Children's Post Cards (1989-08-22 - 1989-10-02)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075836,
     "wof:name": "Children's Post Cards",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226614465
+    ],
     "wof:tags": []
   },
   "bbox": [

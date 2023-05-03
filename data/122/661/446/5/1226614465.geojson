@@ -7,6 +7,7 @@
     "date:inception_lower": "1989-08-22",
     "date:inception_upper": "1989-08-22",
     "edtf:cessation": "1989-10-02",
+    "edtf:deprecated": "2023-05-02",
     "edtf:inception": "1989-08-22",
     "flysfo:url": "",
     "geom:area": 0,
@@ -83,13 +84,15 @@
     ],
     "wof:id": 1226614465,
     "wof:label": "Children's Art: Children's Post Cards (1989-08-22 - 1989-10-02)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075836,
     "wof:name": "Children's Post Cards",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1226614505
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },
