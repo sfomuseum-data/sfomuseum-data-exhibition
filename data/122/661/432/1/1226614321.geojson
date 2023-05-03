@@ -7,6 +7,7 @@
     "date:inception_lower": "1989-05-28",
     "date:inception_upper": "1989-05-28",
     "edtf:cessation": "1989-07-10",
+    "edtf:deprecated": "2023-05-02",
     "edtf:inception": "1989-05-28",
     "flysfo:url": "",
     "geom:area": 0,
@@ -83,13 +84,15 @@
     ],
     "wof:id": 1226614321,
     "wof:label": "World Children's Art Exhibition: Friends on Our Borders (1989-05-28 - 1989-07-10)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075901,
     "wof:name": "World Children's Art Exhibition: Friends on Our Borders",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1226614351
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },
