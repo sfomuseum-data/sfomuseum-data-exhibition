@@ -137,14 +137,16 @@
       }
     ],
     "wof:id": 1495157227,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683075220,
     "wof:name": "Zuber: The Art of French Scenic Wallpaper",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1495157231
+    ],
     "wof:tags": []
   },
   "bbox": [
