@@ -2,12 +2,13 @@
   "id": 1360521611,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-05-01",
-    "date:cessation_upper": "2020-05-31",
-    "date:inception_lower": "2017-01-01",
-    "date:inception_upper": "2017-12-31",
-    "edtf:cessation": "2020-~05",
-    "edtf:inception": "2017~",
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
+    "date:inception_lower": "2020-05-01",
+    "date:inception_upper": "2020-05-31",
+    "edtf:cessation": "2021-05-25",
+    "edtf:deprecated": "2023-05-03",
+    "edtf:inception": "2020-~05",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/masterworks-edward-chavez-model-aircraft-collection",
     "geom:area": 0,
     "geom:area_square_m": 781.898465,
@@ -90,7 +91,7 @@
     "wof:id": 1360521611,
     "wof:is_current": -1,
     "wof:label": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection (2006-05-08)",
-    "wof:lastmodified": 1682981899,
+    "wof:lastmodified": 1683140660,
     "wof:name": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection",
     "wof:parent_id": 1159157049,
     "wof:placetype": "installation",
@@ -99,9 +100,7 @@
     "wof:superseded_by": [
       1729859125
     ],
-    "wof:supersedes": [
-      1360521609
-    ],
+    "wof:supersedes": [],
     "wof:tags": [
       "aviation",
       "exhibition"
