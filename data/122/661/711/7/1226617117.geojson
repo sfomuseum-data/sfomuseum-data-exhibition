@@ -82,14 +82,16 @@
     ],
     "wof:id": 1226617117,
     "wof:label": "Vintage Ukuleles (1995-08-18 - 1996-02-15)",
-    "wof:lastmodified": 1682544610,
+    "wof:lastmodified": 1683076123,
     "wof:name": "Vintage Ukuleles",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226617077
+    ],
     "wof:tags": []
   },
   "bbox": [
