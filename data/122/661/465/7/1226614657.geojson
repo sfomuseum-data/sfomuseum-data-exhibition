@@ -83,14 +83,16 @@
     ],
     "wof:id": 1226614657,
     "wof:label": "Children's Art: Student League of San Francisco (1990-01-09 - 1990-02-19)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075696,
     "wof:name": "Student League of San Francisco",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226614691
+    ],
     "wof:tags": []
   },
   "bbox": [
