@@ -83,14 +83,16 @@
     ],
     "wof:id": 1226614723,
     "wof:label": "Children's Art: James Denman Middle School of the Arts (1990-02-20 - 1990-04-02)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075651,
     "wof:name": "James Denman Middle School of the Arts",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226614695
+    ],
     "wof:tags": []
   },
   "bbox": [
