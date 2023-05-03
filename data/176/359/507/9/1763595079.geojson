@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-03-30",
     "sfomuseum:date_start": "2022-03-03",
     "sfomuseum:description": "Canadian director Nathan Boey orchestrates forty animators from forty countries uniting with the same directive—the creation of a 3-second animation of a ball that is then passed to a fellow animator in another country and to pick up where you left off.  \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595079,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Pass the Ball",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

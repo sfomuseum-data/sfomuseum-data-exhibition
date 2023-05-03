@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-02-02",
     "sfomuseum:date_start": "2021-12-30",
     "sfomuseum:description": "British documentary filmmaker Ellen Evans profiles Kath Holden, who reflects on her life and art in the precious world of miniatures, where her creations stand apart from the genteel museum pieces of her contemporaries.  ",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595057,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Life in Miniature ",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

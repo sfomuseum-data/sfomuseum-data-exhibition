@@ -8,9 +8,9 @@
     "edtf:inception": "2021-11-09",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/kids-spot-spirogyrate",
     "geom:area": 0,
-    "geom:bbox": "-122.384454,37.618670,-122.384454,37.618670",
-    "geom:latitude": 37.61866960803538,
-    "geom:longitude": -122.38445430994034,
+    "geom:bbox": "-122.384415,37.618784,-122.384415,37.618784",
+    "geom:latitude": 37.618784301572546,
+    "geom:longitude": -122.38441465047205,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:date_end": "",
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384170,
-    "wof:geomhash": "ffe87401a72d68815b8d1ed5499b092e",
+    "wof:geomhash": "c983168e402add15de2d6dc59697b6c4",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1863490107,
     "wof:label": "Kids’ Spot: Spirogyrate (2021-11-09)",
-    "wof:lastmodified": 1683136644,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Kids’ Spot: Spirogyrate",
     "wof:parent_id": 1763588527,
     "wof:placetype": "installation",
@@ -89,10 +89,10 @@
     ]
   },
   "bbox": [
-    -122.38445430994034,
-    37.61866960803538,
-    -122.38445430994034,
-    37.61866960803538
+    -122.38441465047205,
+    37.618784301572546,
+    -122.38441465047205,
+    37.618784301572546
   ],
-  "geometry": {"coordinates":[[-122.38445430994034,37.61866960803538]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38441465047205,37.618784301572546],[-122.38441465047205,37.618784301572546]],"type":"MultiPoint"}
 }

@@ -14,7 +14,7 @@
     "geom:latitude": 37.619102719725085,
     "geom:longitude": -122.38719319835137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2022-12-04",
     "sfomuseum:date_start": "2022-10-15",
     "sfomuseum:description": "In 2021, SFO’s employee-led Motivating Volunteer Participation (MVP) Committee organized an initiative to make blankets for immigrants to the San Francisco Bay Area. From September to October, SFO employees knitted, crocheted, and sewed “Welcome Blankets”—throw blankets for families or individuals who are refugees, asylees, victims of human trafficking, or survivors of torture. Employees attended weekly workshops in crocheting/knitting and sewing and were encouraged to continue their practice at home. Each blanket was accompanied by a personalized welcome card, many of them made by employees who shared their own immigration experiences. SFO’s Welcome Blanket project was part of the MVP Committee’s annual Hooked on Helping Program, launched in 2015 to combine SFO employees’ passion for knitting and crocheting with their desire to help people in need. \r\rCompleted blankets and note cards were collected in November 2021 and distributed to the larger Welcome Blanket organization founded by multi-disciplinary artist and Pussyhat Project and Masks for Humanity co-founder Jayna Zweiman. Welcome Blanket is a non-profit that aims to connect people who are already living in the United States with recent immigrants through stories and handmade blankets that provide both symbolic and literal comfort and warmth. According to Zweiman, Welcome Blanket “celebrates our complex individual and collective narratives. It stitches our individual histories to our shared future. Stitch by stitch, it knits us together.” For more information on Welcome Blanket including how to participate, please visit welcomeblanket.org.",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996555,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Hooked on Helping: SFO MVP’s Welcome Blanket",
     "wof:parent_id": 1763588519,
     "wof:placetype": "installation",

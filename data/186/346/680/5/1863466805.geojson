@@ -8,9 +8,9 @@
     "edtf:inception": "2021-11-09",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385020,37.613345,-122.385020,37.613345",
-    "geom:latitude": 37.6133449408613,
-    "geom:longitude": -122.38502042073,
+    "geom:bbox": "-122.386308,37.614287,-122.386308,37.614287",
+    "geom:latitude": 37.614287042553194,
+    "geom:longitude": -122.38630763829786,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:date_end": "",
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1632339559,
-    "wof:geomhash": "bd385a15183353bc1ed42595ae597b42",
+    "wof:geomhash": "c8cad00935d5d30d3e38971455d4edf5",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1863466805,
     "wof:label": "Harvey Milk Temporary Concession Walls (2021-11-09)",
-    "wof:lastmodified": 1682967552,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Harvey Milk Temporary Concession Walls",
     "wof:parent_id": 1763588499,
     "wof:placetype": "installation",
@@ -87,10 +87,10 @@
     ]
   },
   "bbox": [
-    -122.38502042073,
-    37.6133449408613,
-    -122.38502042073,
-    37.6133449408613
+    -122.38630763829786,
+    37.614287042553194,
+    -122.38630763829786,
+    37.614287042553194
   ],
-  "geometry": {"coordinates":[[-122.38502042073,37.6133449408613],[-122.38502042073,37.6133449408613]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38630763829786,37.614287042553194],[-122.38630763829786,37.614287042553194]],"type":"MultiPoint"}
 }

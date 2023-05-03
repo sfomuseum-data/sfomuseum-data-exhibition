@@ -14,7 +14,7 @@
     "geom:latitude": 37.61441704389456,
     "geom:longitude": -122.38819101441787,
     "mz:is_current": 1,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2023-09-10",
     "sfomuseum:date_start": "2022-12-03",
     "sfomuseum:description": "",
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1796996491,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Pushing the Envelope: NASA’s Ames Research Center Wind Tunnel Models",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",

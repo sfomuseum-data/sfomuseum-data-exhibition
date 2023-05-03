@@ -14,7 +14,7 @@
     "geom:latitude": 37.619102719725085,
     "geom:longitude": -122.38719319835137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2022-04-24",
     "sfomuseum:date_start": "2022-02-05",
     "sfomuseum:description": "",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595013,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Pylon Essay: Tuskegee Airmen: Red Tails at Ramitelli 1945",
     "wof:parent_id": 1763588519,
     "wof:placetype": "installation",

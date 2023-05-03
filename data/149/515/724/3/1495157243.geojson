@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 1,
     "sfomuseum:date_end": "2019-09-08",
     "sfomuseum:date_start": "2019-05-11",
     "sfomuseum:description": "",
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1495157243,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Greenleaf TK–8: Social Justice Posters",
     "wof:parent_id": 1159157075,
     "wof:placetype": "installation",

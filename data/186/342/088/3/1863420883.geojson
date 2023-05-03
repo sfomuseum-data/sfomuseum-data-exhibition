@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2023-02-01",
     "sfomuseum:date_start": "2022-12-29",
     "sfomuseum:description": "Patagonia-based animation director and illustrator Leo Garcia Franchi explores the balance between positive and negative spaces with abstract paper shapes. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1863420883,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Supervielle",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

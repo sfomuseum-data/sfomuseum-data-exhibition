@@ -14,7 +14,7 @@
     "geom:latitude": 37.614635906352255,
     "geom:longitude": -122.3871579788049,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2022-03-06",
     "sfomuseum:date_start": "2021-11-20",
     "sfomuseum:description": "",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595019,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Nimisha Doongarwal: Identity",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",

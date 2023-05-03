@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-06-19",
     "sfomuseum:date_start": "2019-05-23",
     "sfomuseum:description": "Filmmaker Paloma Martinez sensitively captures a bittersweet moment in the life of wide-eyed, eight-year-old Geovany Cesario, who documents his final day in the Crisanto Street neighborhood that is home to many who work in the shadows of Silicon Valley.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157267,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Crisanto Street",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

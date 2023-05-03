@@ -8,9 +8,9 @@
     "edtf:inception": "2021-11-09",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/mills-field-and-san-francisco-airport",
     "geom:area": 0,
-    "geom:bbox": "-122.383524,37.617391,-122.383524,37.617391",
-    "geom:latitude": 37.61739068236336,
-    "geom:longitude": -122.383523691015,
+    "geom:bbox": "-122.383511,37.617387,-122.383511,37.617387",
+    "geom:latitude": 37.6173867757363,
+    "geom:longitude": -122.3835114813095,
     "mz:is_current": 1,
     "sfo:level": 4,
     "sfomuseum:date_end": "",
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1632339548,
-    "wof:geomhash": "1c81ff9bb4b77f798f17a4c47e7476ee",
+    "wof:geomhash": "6972014a9f06e3943cbd35d823c7cfaa",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1863490071,
     "wof:label": "From Mills Field to SFO (2021-11-09)",
-    "wof:lastmodified": 1683135122,
+    "wof:lastmodified": 1683144908,
     "wof:name": "From Mills Field to SFO",
     "wof:parent_id": 1763588495,
     "wof:placetype": "installation",
@@ -87,10 +87,10 @@
     ]
   },
   "bbox": [
-    -122.383523691015,
-    37.61739068236336,
-    -122.383523691015,
-    37.61739068236336
+    -122.3835114813095,
+    37.6173867757363,
+    -122.3835114813095,
+    37.6173867757363
   ],
-  "geometry": {"coordinates":[[-122.383523691015,37.61739068236336]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3835114813095,37.6173867757363],[-122.3835114813095,37.6173867757363]],"type":"MultiPoint"}
 }

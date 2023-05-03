@@ -10,10 +10,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/kids-spot-spirogyrate",
     "geom:area": 0,
-    "geom:bbox": "-122.384454,37.618670,-122.384454,37.618670",
-    "geom:latitude": 37.61866960803538,
-    "geom:longitude": -122.38445430994034,
-    "mz:is_current": 0,
+    "geom:bbox": "-122.384291,37.618851,-122.384291,37.618851",
+    "geom:latitude": 37.61885149637373,
+    "geom:longitude": -122.38429054806446,
+    "mz:is_current": 1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2014-01-07",
     "sfomuseum:description": "Kids’ Spot in Terminal 3 Boarding Area E is an interactive children’s exploration area featuring artwork by Bay Area artist Eric Staller.\r\rMesmerizing, transporting, stimulating and soothing are some of the sensations that Staller expects the art installation Spirogyrate to inspire. Located in an alcove adjacent to the food court, Spirogyrate features 6 foot circular rotating spiral discs inset into the floor and the wall. The lighting pattern is activated by motion sensors; as people walk over the glass the colors change in the discs.\r\rLocated post-security in Terminal 3, Boarding Area E near Gate 62, Spirogyrate is sure to delight kids and adults alike.",
@@ -24,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "#Spirogyrate",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Kids' Spot",
@@ -45,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384170,
-    "wof:geomhash": "ffe87401a72d68815b8d1ed5499b092e",
+    "wof:geomhash": "dce9c1c4230a3691ba753a777c419dcd",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -76,7 +77,7 @@
     ],
     "wof:id": 1863490103,
     "wof:label": "Kids’ Spot: Spirogyrate (2020-~05)",
-    "wof:lastmodified": 1683136547,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Kids’ Spot: Spirogyrate",
     "wof:parent_id": 1729792781,
     "wof:placetype": "installation",
@@ -92,10 +93,10 @@
     ]
   },
   "bbox": [
-    -122.38445430994034,
-    37.61866960803538,
-    -122.38445430994034,
-    37.61866960803538
+    -122.38429054806446,
+    37.61885149637373,
+    -122.38429054806446,
+    37.61885149637373
   ],
-  "geometry": {"coordinates":[[-122.38445430994034,37.61866960803538]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38429054806446,37.61885149637373]],"type":"MultiPoint"}
 }

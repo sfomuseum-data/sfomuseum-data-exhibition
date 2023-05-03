@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-04-17",
     "sfomuseum:date_start": "2019-03-21",
     "sfomuseum:description": "Filmmaker Jamie Hancock trains his lens on Cape Town, South Africa, where the successful management of a severe water crisis is critical to the future of that city and may serve as a global blueprint to address one of the planet’s existential threats. \r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1377271571,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Day Zero",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-05-15",
     "sfomuseum:date_start": "2019-04-18",
     "sfomuseum:description": "Kenya’s bold approach to combating plastic waste is illuminated through the words and deeds of that nation’s activists, merchants, entrepreneurs, and innovators, including a shipbuilder making a sailing vessel completely of recycled plastic.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157253,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Plastic: A Second Life",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

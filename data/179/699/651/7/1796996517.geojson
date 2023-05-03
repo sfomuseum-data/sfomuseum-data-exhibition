@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-06-01",
     "sfomuseum:date_start": "2022-04-28",
     "sfomuseum:description": "Austin-based filmmaker Kayla Abuda Galang offers instruction for English to Tagalog translation of conversational phrases and common expressions, while humorously communicating what it feels like to be sad and bored within the confines of your home. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996517,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Learning Tagalog with Kayla",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-08-31",
     "sfomuseum:date_start": "2022-08-03",
     "sfomuseum:description": "In Marcello Hutchison-Trujillo’s undergraduate thesis film at San Francisco State University, he compassionately explores the family tension caused by his father’s long-time friendship with an artist experiencing homelessness during the pandemic.  \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996549,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "A Garden for George",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

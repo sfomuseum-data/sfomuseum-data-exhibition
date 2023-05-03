@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-11-02",
     "sfomuseum:date_start": "2022-09-29",
     "sfomuseum:description": "San Francisco based filmmaker Adam Warmington immerses us in the day-to-day struggles of Anthony Stepney from the City’s Hunters Point neighborhood, who discovers his love of the ocean and finds inner peace. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996575,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Float",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

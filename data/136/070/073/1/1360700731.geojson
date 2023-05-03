@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2018-03-21",
     "sfomuseum:date_start": "2018-02-22",
     "sfomuseum:description": "Artist and filmmaker Marco Brambilla pays tribute to the golden age of cinema in his reworking of the well-known scene of Gene Kelly and Leslie Caron during the musical finale of the 1951 film, An American in Paris.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1360700731,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Celluloid (An American in Paris, 1951)",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

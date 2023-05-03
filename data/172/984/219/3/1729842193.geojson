@@ -14,6 +14,7 @@
     "geom:latitude": 37.6154571162206,
     "geom:longitude": -122.38411942369108,
     "mz:is_current": 0,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2020-03-01",
     "sfomuseum:date_start": "2019-12-07",
     "sfomuseum:description": "",
@@ -75,7 +76,7 @@
       }
     ],
     "wof:id": 1729842193,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Bryant Austin: Solar Transit",
     "wof:parent_id": 1729813677,
     "wof:placetype": "installation",

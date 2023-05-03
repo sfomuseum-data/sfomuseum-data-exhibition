@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-04-10",
     "sfomuseum:date_start": "2019-03-14",
     "sfomuseum:description": "Filmmaker Olivier Bernier profiles professional trash collector Nick DiMola who, in the process of clearing material from the homes of the deceased, retains those items he finds meaningful, offering insights into the people who once possessed them. \r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1377271569,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "A Garbage Story",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

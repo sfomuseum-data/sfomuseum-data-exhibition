@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2018-10-10",
     "sfomuseum:date_start": "2018-09-13",
     "sfomuseum:description": "Maxim Zhestkov presents a series of experiments with black and white spheres in confined spaces to express laws of nature and demonstrate that all matter is composed of simple elements in complex arrangements and relationships.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1360700711,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Elements",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

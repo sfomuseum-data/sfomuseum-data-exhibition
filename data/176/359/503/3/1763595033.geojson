@@ -14,7 +14,7 @@
     "geom:latitude": 37.61777614067629,
     "geom:longitude": -122.38483628191317,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2021-11-03",
     "sfomuseum:date_start": "2021-10-30",
     "sfomuseum:description": "Total of 16 panels depicting Views of North America, installed in C3C gallery October 2021 by SFOM art handlers.",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595033,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Zuber: Views of North America",
     "wof:parent_id": 1763594989,
     "wof:placetype": "installation",

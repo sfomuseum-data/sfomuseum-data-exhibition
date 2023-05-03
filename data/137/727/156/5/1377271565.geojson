@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-03-27",
     "sfomuseum:date_start": "2019-02-28",
     "sfomuseum:description": "Inspired by her own travels, Paris-based filmmaker Mélody Boulissière vividly animates the tale of a young man setting out for new adventures in a film that addresses themes of overconsumption, digital fatigue, and the value of connecting with nature.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1377271565,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Ailleurs (Somewhere)",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

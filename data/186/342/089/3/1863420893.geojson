@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2023-03-01",
     "sfomuseum:date_start": "2023-02-02",
     "sfomuseum:description": "Oakland-based filmmaker Alba Roland Mejia celebrates the diversity of the Black diaspora in the San Francisco Bay Area. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1863420893,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Blackness is Everything",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

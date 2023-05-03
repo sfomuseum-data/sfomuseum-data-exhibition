@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-01-02",
     "sfomuseum:date_start": "2018-12-06",
     "sfomuseum:description": "Alex Murawski presents a fresh interpretation of a “coming-of-age” story with a script written from the protagonist’s perspective that encourages self-acceptance, invites compassion, and celebrates the courage it takes to be who you truly are.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1376812941,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Ari",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

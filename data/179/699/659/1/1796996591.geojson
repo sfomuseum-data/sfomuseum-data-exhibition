@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-12-28",
     "sfomuseum:date_start": "2022-12-01",
     "sfomuseum:description": "In this experimental film capturing fluid dynamics under high-magnification, Italian filmmaker Sandro Bocci produces mind-bending visuals, like a painting in motion, accompanied by a hypnotic score from musician Mishikatomo. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996591,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Halo",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

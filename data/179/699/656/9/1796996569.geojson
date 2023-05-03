@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-11-02",
     "sfomuseum:date_start": "2022-09-29",
     "sfomuseum:description": "In this story of four extraordinary beings of dual male and female spirits from Tahiti, filmmakers Hinaleimoana Wong-Kalu, Dean Hamer, and Joe Wilson reveal how these beings passed their healing arts to the people of Hawai’i.  \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996569,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Kapaemahu",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

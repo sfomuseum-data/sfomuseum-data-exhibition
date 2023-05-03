@@ -8,9 +8,9 @@
     "edtf:inception": "2021-11-09",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.388534,37.616891,-122.388534,37.616891",
-    "geom:latitude": 37.61689110703526,
-    "geom:longitude": -122.38853385581962,
+    "geom:bbox": "-122.388100,37.617116,-122.388100,37.617116",
+    "geom:latitude": 37.617116154235454,
+    "geom:longitude": -122.38809991573606,
     "mz:is_current": 1,
     "sfo:level": 1,
     "sfomuseum:date_end": "",
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384166,
-    "wof:geomhash": "da4f7ea39cf11f3778a7a5a6928d6c9b",
+    "wof:geomhash": "4d5ea27dc8572d47863e41747d63f53f",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1863490181,
     "wof:label": "Model Aircraft from the Aviation Collection (2021-11-09)",
-    "wof:lastmodified": 1683139436,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Model Aircraft from the Aviation Collection",
     "wof:parent_id": 1763588535,
     "wof:placetype": "installation",
@@ -89,10 +89,10 @@
     ]
   },
   "bbox": [
-    -122.38853385581962,
-    37.61689110703526,
-    -122.38853385581962,
-    37.61689110703526
+    -122.38809991573606,
+    37.617116154235454,
+    -122.38809991573606,
+    37.617116154235454
   ],
-  "geometry": {"coordinates":[[-122.38853385581962,37.61689110703526]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38809991573606,37.617116154235454],[-122.38809991573606,37.617116154235454]],"type":"MultiPoint"}
 }

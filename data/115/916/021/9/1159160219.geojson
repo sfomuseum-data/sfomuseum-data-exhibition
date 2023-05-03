@@ -43,13 +43,13 @@
       102191575,
       85633793,
       102087579,
-      1360516435,
       85922583,
       85688637,
       1159396139,
       1159396333,
-      1360516231,
-      1159396163
+      1159396163,
+      1360516439,
+      1360516233
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -60,36 +60,36 @@
     "wof:geomhash": "c4b96e91e04d63ffd7b29130fab44271",
     "wof:hierarchy": [
       {
-        "building_id": 1159396337,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516435,
-        "installation_id": 1159160219,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159396139
-      },
-      {
         "building_id": 1159396333,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516231,
+        "enclosure_id": 1360516439,
         "installation_id": 1159160219,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396163
+      },
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516233,
+        "installation_id": 1159160219,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396139
       }
     ],
     "wof:id": 1159160219,
     "wof:is_current": 0,
     "wof:label": "Children’s Art: Starlight Christian Preschool (2011-08-01 - 2011-09-30)",
-    "wof:lastmodified": 1682544612,
+    "wof:lastmodified": 1683144906,
     "wof:name": "Starlight Christian Preschool: Our World - A Beautiful Creation",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

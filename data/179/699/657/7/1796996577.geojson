@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-11-30",
     "sfomuseum:date_start": "2022-11-03",
     "sfomuseum:description": "In this short by Gwich’in filmmakers Princess Daazhraii Johnson and Alisha Carlson, a grandfather’s lesson demonstrates how reciprocity is embedded in all aspects of their lives through an exploration of the vital connections between the caribou and their community. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996577,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Diiyeghan naii Taii Tr’eedaa (We Will Walk the Trail of our Ancestors)\r",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

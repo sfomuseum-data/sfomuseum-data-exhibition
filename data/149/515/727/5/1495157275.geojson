@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2020-01-05",
     "sfomuseum:date_start": "2019-09-14",
     "sfomuseum:description": "Artwork retained after end of exhibit on 1/8/2020; to be used for new B14 exhibit 3/3/2020 – 7/6/2020.",
@@ -78,7 +79,7 @@
       }
     ],
     "wof:id": 1495157275,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Gateway High School: The Treehouse: A Sanctuary",
     "wof:parent_id": 1477855831,
     "wof:placetype": "installation",

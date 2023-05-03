@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-06-29",
     "sfomuseum:date_start": "2022-06-02",
     "sfomuseum:description": "Filmmaker Nicole Teeny celebrates one of the world’s first Queer-affirming and gender-equal mosques in Toronto, co-founded by Imam El-Farouk and his husband Troy. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996525,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Unity Mosque",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

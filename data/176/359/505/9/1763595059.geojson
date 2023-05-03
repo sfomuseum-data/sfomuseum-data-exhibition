@@ -14,7 +14,7 @@
     "geom:latitude": 37.616528705005116,
     "geom:longitude": -122.38971793359582,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-02-02",
     "sfomuseum:date_start": "2021-12-30",
     "sfomuseum:description": "Dancer Juan Duarte defies stereotypical definitions of masculinity and gender in the realms of of dance and fashion in this short film by Vancouver-based award-winning director and producer Morgan Inglis.",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595059,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Com Força",
     "wof:parent_id": 1763588553,
     "wof:placetype": "installation",

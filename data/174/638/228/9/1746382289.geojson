@@ -14,7 +14,7 @@
     "geom:latitude": 37.61177834167635,
     "geom:longitude": -122.38506809129578,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2021-11-14",
     "sfomuseum:date_start": "2021-07-03",
     "sfomuseum:description": "Artwork by students at City College of San Francisco, from Drawing, Watercolor, and Illustration classes; exhibit theme will be Covid-related.",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1746382289,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Belong and Be Safe: City College of San Francisco, Art Department",
     "wof:parent_id": 1745882471,
     "wof:placetype": "installation",
