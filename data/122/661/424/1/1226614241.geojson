@@ -83,14 +83,16 @@
     ],
     "wof:id": 1226614241,
     "wof:label": "Children's Art: Palo Alto Unified School District (1989-04-17 - 1989-05-27)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075932,
     "wof:name": "Palo Alto Unified School District",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226614277
+    ],
     "wof:tags": []
   },
   "bbox": [
