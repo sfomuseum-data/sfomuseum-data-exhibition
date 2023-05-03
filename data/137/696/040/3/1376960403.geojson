@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2019-09-15",
     "sfomuseum:date_start": "2019-02-02",
     "sfomuseum:description": "",
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1376960403,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "David Shannon Lier: Of Heaven and Earth",
     "wof:parent_id": 1159157063,
     "wof:placetype": "installation",

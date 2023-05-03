@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-08-03",
     "sfomuseum:date_start": "2022-06-30",
     "sfomuseum:description": "As a reminder of the eternal life of plastic in this all-cardboard short film, award-winning theater and film director Robin Frohardt illustrates the journey of a plastic bag from the present day to the distant future. ",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996539,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "BAG",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

@@ -9,9 +9,9 @@
     "flysfo:url": "http://www.flysfo.com/museum/exhibitions/kids-spot",
     "geom:area": 0,
     "geom:area_square_m": 239.973087,
-    "geom:bbox": "-122.390129,37.620871,-122.390129,37.620871",
-    "geom:latitude": 37.62087062990487,
-    "geom:longitude": -122.39012914081665,
+    "geom:bbox": "-122.390217,37.620889,-122.390217,37.620889",
+    "geom:latitude": 37.62088851568356,
+    "geom:longitude": -122.39021662629338,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -56,7 +56,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614214863,
-    "wof:geomhash": "bba060ce97eff89b7b4bfe659a80af58",
+    "wof:geomhash": "717118d94273292bf0f3a65e706b349e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -87,7 +87,7 @@
     ],
     "wof:id": 1863490177,
     "wof:label": "Kids' Spot II: Exploratorium (2021-11-09)",
-    "wof:lastmodified": 1683138930,
+    "wof:lastmodified": 1683144904,
     "wof:name": "Kids' Spot II: Exploratorium",
     "wof:parent_id": 1763588521,
     "wof:placetype": "installation",
@@ -100,10 +100,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39012914081665,
-    37.62087062990487,
-    -122.39012914081665,
-    37.62087062990487
+    -122.39021662629338,
+    37.62088851568356,
+    -122.39021662629338,
+    37.62088851568356
   ],
-  "geometry": {"coordinates":[[-122.39012914081665,37.62087062990487],[-122.39012914081665,37.62087062990487]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.39021662629338,37.62088851568356],[-122.39021662629338,37.62088851568356]],"type":"MultiPoint"}
 }

@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-11-30",
     "sfomuseum:date_start": "2022-11-03",
     "sfomuseum:description": "Diné filmmaker Fritz Bitsoie follows Nigel James, a 17-year-old mountain biker who hosts the first Enduro race in the Navajo Nation, revealing his community’s deep connection with their land and culture. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996585,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "The Trails Before Us",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

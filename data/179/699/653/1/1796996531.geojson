@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-06-29",
     "sfomuseum:date_start": "2022-06-02",
     "sfomuseum:description": "Multi-disciplinary artist and filmmaker Amy K. Jenkins reveals the secret yearnings of a child for an alternate identity by tracing a decade of birthday wishes.",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996531,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Wishes",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

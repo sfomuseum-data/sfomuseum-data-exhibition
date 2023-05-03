@@ -14,7 +14,7 @@
     "geom:latitude": 37.61555253244348,
     "geom:longitude": -122.38385859134475,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2022-09-07",
     "sfomuseum:date_start": "2022-03-19",
     "sfomuseum:description": "",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595075,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Marshall Moxom: Four Views of San Francisco International Airport",
     "wof:parent_id": 1763588515,
     "wof:placetype": "installation",

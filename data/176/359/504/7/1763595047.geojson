@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2021-12-29",
     "sfomuseum:date_start": "2021-12-02",
     "sfomuseum:description": "Jane Chow, a Los Angeles-based filmmaker from Hong Kong, produces this award-winning film about a lonely teenager who tries to help her parents keep their restaurant afloat during the COVID-19 pandemic in Los Angeles Chinatown.\r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595047,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Sorry for the Inconvenience ",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

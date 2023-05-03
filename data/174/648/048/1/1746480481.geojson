@@ -14,7 +14,7 @@
     "geom:latitude": 37.614502386613836,
     "geom:longitude": -122.3879113760689,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2019-11-07",
     "sfomuseum:date_start": "2019-11-07",
     "sfomuseum:description": "",
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1746480481,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Aeronautical Society Gala 2019",
     "wof:parent_id": 1477855941,
     "wof:placetype": "installation",

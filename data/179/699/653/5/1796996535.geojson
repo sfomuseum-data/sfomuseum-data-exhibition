@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-08-03",
     "sfomuseum:date_start": "2022-06-30",
     "sfomuseum:description": "Australian filmmaker Michael Fletcher follows West Papuan fisherman Abdul Aziz as he captures small bait while forming a special bond with the whale sharks around his boat, teaching us how we can coexist peacefully with nature. ",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996535,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "The Star Sharks",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

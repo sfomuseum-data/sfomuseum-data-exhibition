@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-08-31",
     "sfomuseum:date_start": "2022-08-04",
     "sfomuseum:description": "In Ray de Mesa’s first-year graduate film at San Francisco State University, a drag artist discovers an unexpectedly deep connection with a woman in exchange for a free dress. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996543,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Get Free",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

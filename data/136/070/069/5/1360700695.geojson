@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2018-08-22",
     "sfomuseum:date_start": "2018-07-26",
     "sfomuseum:description": "During a particularly warm winter, thousands of starlings remained in the Netherlands instead of migrating southwards, providing an opportunity for filmmaker Jan van IJken to capture one of the most spectacular natural phenomena on earth.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1360700695,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "The Art of Flying",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

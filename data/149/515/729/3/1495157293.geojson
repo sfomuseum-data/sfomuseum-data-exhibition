@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-08-14",
     "sfomuseum:date_start": "2019-07-18",
     "sfomuseum:description": "Filmmakers Mickey Todiwala and Monika Delgado profile Rock Novak, the idiosyncratic caretaker of a California ghost town, who offers simple truths and keen observations of the human condition during the divisive and tech-addled times in which we live.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157293,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "The Mayor of Ballarat",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

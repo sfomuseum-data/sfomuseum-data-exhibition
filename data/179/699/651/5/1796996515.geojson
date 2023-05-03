@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-04-27",
     "sfomuseum:date_start": "2022-03-31",
     "sfomuseum:description": "Choreographers Peter Walker and Emily Kikta collaborate with forty-six dancers across twenty different countries during the pandemic to remind us that dance is a universal language—not bound by theater walls or limited by borders.\r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996515,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Match",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

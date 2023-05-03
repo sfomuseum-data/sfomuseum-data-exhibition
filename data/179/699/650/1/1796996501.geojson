@@ -14,7 +14,7 @@
     "geom:latitude": 37.614635906352255,
     "geom:longitude": -122.3871579788049,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2023-02-26",
     "sfomuseum:date_start": "2022-11-05",
     "sfomuseum:description": "",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996501,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Lions Clubs International Peace Poster Contest",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",

@@ -14,6 +14,7 @@
     "geom:latitude": 37.61739068236336,
     "geom:longitude": -122.383523691015,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2020-08-23",
     "sfomuseum:date_start": "2020-03-09",
     "sfomuseum:description": "Reproductions of Pan Am posters for glass fronts of D16 gallery as visual placeholder until Airline Identities can be installed March 2020.",
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1729842253,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Pan American World Airways Travel Posters",
     "wof:parent_id": 1729813701,
     "wof:placetype": "installation",

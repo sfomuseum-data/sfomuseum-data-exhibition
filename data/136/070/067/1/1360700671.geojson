@@ -18,6 +18,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2019-02-24",
     "sfomuseum:date_start": "2018-11-06",
     "sfomuseum:description": "",
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1360700671,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Michael Light: Sidereal Rift",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",

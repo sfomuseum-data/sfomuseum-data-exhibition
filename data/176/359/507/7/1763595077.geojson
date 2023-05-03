@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-03-30",
     "sfomuseum:date_start": "2022-03-03",
     "sfomuseum:description": "London-based directors Simon + Ben follow one of the last few remaining Haenyeo from Jeju Island in South Korea. She dives to a depth of fifty feet on a single breath to harvest seafood from the ocean floor in a centuries-old Korean tradition. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595077,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Haenyeo – The Last of the Korean Mermaids",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

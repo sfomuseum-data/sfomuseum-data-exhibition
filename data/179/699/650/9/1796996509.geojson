@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-04-27",
     "sfomuseum:date_start": "2022-03-31",
     "sfomuseum:description": "Venezuelan-born multimedia artist Maria Constanza Ferreira explores the nature of light moving through a city as it reflects and refracts into an abstract kaleidoscope of colors. \r\r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996509,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Righteous Energy",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

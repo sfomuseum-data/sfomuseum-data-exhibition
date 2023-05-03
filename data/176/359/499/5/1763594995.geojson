@@ -14,7 +14,7 @@
     "geom:latitude": 37.613892603964324,
     "geom:longitude": -122.38515721248761,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2022-11-06",
     "sfomuseum:date_start": "2022-04-16",
     "sfomuseum:description": "",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763594995,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "From Pineapple to Piña: A Philippine Textile Treasure",
     "wof:parent_id": 1763588501,
     "wof:placetype": "installation",

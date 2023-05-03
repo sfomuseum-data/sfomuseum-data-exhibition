@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-04-03",
     "sfomuseum:date_start": "2019-03-07",
     "sfomuseum:description": "Auckland-based filmmaker Felicity Morgan-Rhind and producer Arani Cuthbert share the story of Fay and Joe Gock, who found an unlikely but enduring way to repay the country that granted them citizenship after escaping Japanese-occupied China in the 1940s.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1377271567,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "How Mr. and Mrs. Gock Saved the Kumara",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

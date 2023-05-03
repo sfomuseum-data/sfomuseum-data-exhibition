@@ -14,7 +14,7 @@
     "geom:latitude": 37.616528705005116,
     "geom:longitude": -122.38971793359582,
     "mz:is_current": 1,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2023-10-15",
     "sfomuseum:date_start": "2022-10-22",
     "sfomuseum:description": "More than a Meal | Airline Meal Service Sets, 1960s–80s",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996505,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "More than a Meal: Airline Meal Service Sets, 1960s–80s",
     "wof:parent_id": 1763588553,
     "wof:placetype": "installation",

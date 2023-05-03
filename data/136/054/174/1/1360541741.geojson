@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 4,
     "sfomuseum:building_id": "SFO",
     "sfomuseum:date_end": "2007-04-29",
     "sfomuseum:date_start": "2006-12-02",
@@ -69,7 +70,7 @@
       }
     ],
     "wof:id": 1360541741,
-    "wof:lastmodified": 1682544612,
+    "wof:lastmodified": 1683144906,
     "wof:name": "For Your Comfort: A Survey of Passenger Amenities for Airline Travel",
     "wof:parent_id": 1360541633,
     "wof:placetype": "installation",

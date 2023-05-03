@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-06-05",
     "sfomuseum:date_start": "2019-05-09",
     "sfomuseum:description": "German filmmaker Thilo Gundelach travels to northwest Montana to profile Swift Current, an Amskapi Pikuni tribal member of the Blackfeet Nation who maintains an intimate connection with “the old ways” of his culture through rodeo bronc riding.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157261,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Swift Current: A Native American Cowboy",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

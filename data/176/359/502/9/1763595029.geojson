@@ -14,7 +14,7 @@
     "geom:latitude": 37.620173704195516,
     "geom:longitude": -122.38741555362547,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2022-05-08",
     "sfomuseum:date_start": "2021-10-23",
     "sfomuseum:description": "",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595029,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Arko Datto: Rail Diwali",
     "wof:parent_id": 1745882483,
     "wof:placetype": "installation",

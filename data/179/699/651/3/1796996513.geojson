@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-04-27",
     "sfomuseum:date_start": "2022-03-31",
     "sfomuseum:description": "Student filmmakers Marion Philippe, Kayu Leung, Théo Jamin, Jean-Géraud Blanc from France’s MoPA School of Animation immerse us in the life of eight-and-a-half-year-old Louis, allowing us to step into his shoes and understand his unique perspective of the world. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996513,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Louis’ Shoes",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

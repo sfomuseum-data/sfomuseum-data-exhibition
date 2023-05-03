@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-07-24",
     "sfomuseum:date_start": "2019-06-27",
     "sfomuseum:description": "Alex Bohs’ commemoration of San Francisco’s 2018 Pride Parade features Supervisor Harvey Milk’s words of hope, recorded days before his assassination in 1978, as a potent reminder of the struggle that has led to where the LGBTQ community is today.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157287,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Hope",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

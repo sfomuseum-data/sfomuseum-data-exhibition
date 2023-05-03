@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2021-02-22",
     "sfomuseum:date_start": "2019-09-28",
     "sfomuseum:description": "",
@@ -84,7 +85,7 @@
       }
     ],
     "wof:id": 1495157237,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Above the Bay: The Aerial Photography of Stanley Page",
     "wof:parent_id": 1477855943,
     "wof:placetype": "installation",

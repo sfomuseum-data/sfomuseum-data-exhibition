@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-06-29",
     "sfomuseum:date_start": "2022-06-02",
     "sfomuseum:description": "London-based filmmaker Balan Evans reveals the fierce determination, resilience, and hope of the LGBTQ community in Sierra Leone, where homosexuality is illegal. ",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996533,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Queen Harold",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

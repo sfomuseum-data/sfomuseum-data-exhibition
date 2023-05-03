@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-12-28",
     "sfomuseum:date_start": "2022-12-01",
     "sfomuseum:description": "Australian filmmaker Adam Anthony follows Diana, who qualified for two Olympics as a boxer but was excluded because of her gender. She now runs a boxing program for Ugandan girls, dreaming of one day seeing a woman represent her country in Olympic boxing. \r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996589,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Diana-The Only Female Professional Boxer in Uganda",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

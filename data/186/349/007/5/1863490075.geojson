@@ -8,9 +8,9 @@
     "edtf:inception": "2021-11-09",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/1954-san-francisco-international-airport-terminal",
     "geom:area": 0,
-    "geom:bbox": "-122.383401,37.617338,-122.383401,37.617338",
-    "geom:latitude": 37.617337537490705,
-    "geom:longitude": -122.38340108065063,
+    "geom:bbox": "-122.383388,37.617333,-122.383388,37.617333",
+    "geom:latitude": 37.617332580454836,
+    "geom:longitude": -122.3833879255378,
     "mz:is_current": 1,
     "sfo:level": 4,
     "sfomuseum:date_end": "",
@@ -43,7 +43,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614384156,
-    "wof:geomhash": "5a0b1d5e905713867d980232a7f7fb96",
+    "wof:geomhash": "01f6cebabaa56519aa919ab0a461c0c9",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1863490075,
     "wof:label": "The 1954 San Francisco International Airport Terminal (2021-11-09)",
-    "wof:lastmodified": 1683142190,
+    "wof:lastmodified": 1683144907,
     "wof:name": "The 1954 San Francisco International Airport Terminal",
     "wof:parent_id": 1763588491,
     "wof:placetype": "installation",
@@ -88,10 +88,10 @@
     ]
   },
   "bbox": [
-    -122.38340108065063,
-    37.617337537490705,
-    -122.38340108065063,
-    37.617337537490705
+    -122.3833879255378,
+    37.617332580454836,
+    -122.3833879255378,
+    37.617332580454836
   ],
-  "geometry": {"coordinates":[[-122.38340108065063,37.617337537490705]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3833879255378,37.617332580454836],[-122.3833879255378,37.617332580454836]],"type":"MultiPoint"}
 }

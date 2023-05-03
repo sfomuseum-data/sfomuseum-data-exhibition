@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2021-12-29",
     "sfomuseum:date_start": "2021-12-02",
     "sfomuseum:description": "In her self-described “confined dance short,” French filmmaker Julie Rohart features choreographer Tamara Fernando and dancer Matthew Totaro, who find inspiration in the personal intimacy resulting from Paris’ second lockdown during the winter of 2020.\r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595051,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Dancers in the Loop",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

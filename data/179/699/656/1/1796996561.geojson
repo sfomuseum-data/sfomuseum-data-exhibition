@@ -14,7 +14,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2022-09-28",
     "sfomuseum:date_start": "2022-09-01",
     "sfomuseum:description": "In this offbeat comedy set in Australia, Sydney-based filmmaker Alex Feggans tells a story of a backpacker who stops by a remote gas station and is confronted with a bizarre situation. ",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996561,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144908,
     "wof:name": "Jackrabbit",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

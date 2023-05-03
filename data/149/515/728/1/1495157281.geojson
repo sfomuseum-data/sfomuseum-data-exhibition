@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-07-10",
     "sfomuseum:date_start": "2019-06-13",
     "sfomuseum:description": "Filmmakers Ben Joyner and Dumaine Babcock profile Adrain Chesser, who photographs loved ones at the moment he reveals his AIDS diagnosis, thus demonstrating the power of his artwork and a determination to proceed through life on his terms.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157281,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "I Have Something To Tell You",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

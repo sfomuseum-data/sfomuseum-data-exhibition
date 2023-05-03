@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-05-29",
     "sfomuseum:date_start": "2019-05-02",
     "sfomuseum:description": "Colorful line drawings morph from one posture to another in this animated short, which was created by filmmaker Alex Moy as an exercise to find perspective and embrace change during a particularly anxious period after graduating from film school.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157257,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Idle, Torrent",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

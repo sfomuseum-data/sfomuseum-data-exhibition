@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-01-16",
     "sfomuseum:date_start": "2018-12-20",
     "sfomuseum:description": "With deadpan humor, filmmaker James P. Gannon profiles his friend, a decidedly grinchy Jimmy Cochran, whose seasonal job is to turn out the lights along a two-mile stretch of “winter wonderland” in a small suburb of Philadelphia.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1377462847,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Christmas Light Killer",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

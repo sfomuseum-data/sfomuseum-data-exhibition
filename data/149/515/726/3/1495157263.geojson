@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-06-12",
     "sfomuseum:date_start": "2019-05-16",
     "sfomuseum:description": "London-based filmmaker Annlin Chao’s stop-motion animated short features a shapeshifting character who journeys through a sequence of landscapes representing four masterpieces of Chinese painting held in Taiwan’s National Palace Museum.\r",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157263,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683144907,
     "wof:name": "Traveling Through Brush and Ink",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",
