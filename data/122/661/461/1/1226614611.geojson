@@ -7,6 +7,7 @@
     "date:inception_lower": "1989-11-21",
     "date:inception_upper": "1989-11-21",
     "edtf:cessation": "1990-01-08",
+    "edtf:deprecated": "2023-05-02",
     "edtf:inception": "1989-11-21",
     "flysfo:url": "",
     "geom:area": 0,
@@ -82,13 +83,15 @@
     ],
     "wof:id": 1226614611,
     "wof:label": "Children's Art: San Mateo French American International School (1989-11-21 - 1990-01-08)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075739,
     "wof:name": "San Mateo French American International School",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1226614645
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },
