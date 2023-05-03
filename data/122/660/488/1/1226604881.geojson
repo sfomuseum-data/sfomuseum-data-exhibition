@@ -7,6 +7,7 @@
     "date:inception_lower": "1998-07-27",
     "date:inception_upper": "1998-07-27",
     "edtf:cessation": "1998-10-31",
+    "edtf:deprecated": "2023-05-02",
     "edtf:inception": "1998-07-27",
     "flysfo:url": "",
     "geom:area": 0,
@@ -84,13 +85,15 @@
     ],
     "wof:id": 1226604881,
     "wof:label": "Japan 2000 - New Architecture (1998-07-27 - 1998-10-31)",
-    "wof:lastmodified": 1682544610,
+    "wof:lastmodified": 1683076156,
     "wof:name": "Japan 2000 - New Architecture",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1226605013
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },
