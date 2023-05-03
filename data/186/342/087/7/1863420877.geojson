@@ -14,7 +14,7 @@
     "geom:latitude": 37.61449504184901,
     "geom:longitude": -122.38800316685777,
     "mz:is_current": 1,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2024-03-31",
     "sfomuseum:date_start": "2023-04-08",
     "sfomuseum:description": "",
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1863420877,
-    "wof:lastmodified": 1682544613,
+    "wof:lastmodified": 1683143501,
     "wof:name": "Remain Seated: Airliner Passenger Chairs",
     "wof:parent_id": 1729813739,
     "wof:placetype": "installation",
