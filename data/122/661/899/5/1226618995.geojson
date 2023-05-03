@@ -82,14 +82,16 @@
     ],
     "wof:id": 1226618995,
     "wof:label": "Five Centuries of Swedish Silver (2006-01-13 - 2006-08-07)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075385,
     "wof:name": "Five Centuries of Swedish Silver",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226618965
+    ],
     "wof:tags": []
   },
   "bbox": [
