@@ -83,14 +83,16 @@
     ],
     "wof:id": 1226616739,
     "wof:label": "San Francisco Ballet at Seventy-Five (2007-10-29 - 2008-06-15)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075512,
     "wof:name": "San Francisco Ballet at Seventy-Five",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226616735
+    ],
     "wof:tags": []
   },
   "bbox": [
