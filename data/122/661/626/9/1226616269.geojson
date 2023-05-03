@@ -83,14 +83,16 @@
     ],
     "wof:id": 1226616269,
     "wof:label": "Children's Art: Mount Zion Hospital Art for Recovery (1990-08-01 - 1990-09-01)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683076085,
     "wof:name": "UCSF Mount Zion Hospital: Art for Recovery",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226616245
+    ],
     "wof:tags": []
   },
   "bbox": [
