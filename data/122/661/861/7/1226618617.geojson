@@ -7,6 +7,7 @@
     "date:inception_lower": "2003-06-12",
     "date:inception_upper": "2003-06-12",
     "edtf:cessation": "2003-07-31",
+    "edtf:deprecated": "2023-05-02",
     "edtf:inception": "2003-06-12",
     "flysfo:url": "",
     "geom:area": 0,
@@ -83,13 +84,15 @@
     ],
     "wof:id": 1226618617,
     "wof:label": "Children's Art: Faces of First Grade (2003-06-12 - 2003-07-31)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075474,
     "wof:name": "McKinley Elementary School: Faces of First Grade",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1226618635
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },
