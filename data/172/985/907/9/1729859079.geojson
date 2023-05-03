@@ -2,12 +2,12 @@
   "id": 1226604743,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2006-01-01",
-    "date:cessation_upper": "2006-12-31",
-    "date:inception_lower": "2011-01-01",
-    "date:inception_upper": "2011-12-31",
-    "edtf:cessation": "2006~",
-    "edtf:inception": "2011~",
+    "date:cessation_lower": "2011-01-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2006-01-01",
+    "date:inception_upper": "2006-12-31",
+    "edtf:cessation": "2011~",
+    "edtf:inception": "2006~",
     "flysfo:url": "http://www.flysfo.com/museum/exhibitions/kids-spot",
     "geom:area": 0,
     "geom:area_square_m": 239.973087,
@@ -74,15 +74,17 @@
     ],
     "wof:id": 1729859079,
     "wof:label": "Kids' Spot II (2011~)",
-    "wof:lastmodified": 1682967149,
+    "wof:lastmodified": 1683138426,
     "wof:name": "Kids' Spot II: Exploratorium",
     "wof:parent_id": 1360392587,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
-    "wof:supersedes": [
+    "wof:superseded_by": [
       1729859077
+    ],
+    "wof:supersedes": [
+      1729859081
     ],
     "wof:tags": []
   },

@@ -7,6 +7,7 @@
     "date:inception_lower": "1988-01-01",
     "date:inception_upper": "1988-12-31",
     "edtf:cessation": "2000~",
+    "edtf:deprecated": "2023-05-03",
     "edtf:inception": "1988~",
     "flysfo:url": "http://www.flysfo.com/museum/exhibitions/kids-spot",
     "geom:area": 0,
@@ -74,16 +75,16 @@
     ],
     "wof:id": 1729859087,
     "wof:label": "Kids' Spot II (1988~)",
-    "wof:lastmodified": 1682553697,
+    "wof:lastmodified": 1683139024,
     "wof:name": "Kids' Spot II: Exploratorium",
     "wof:parent_id": 1360392591,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
-    "wof:supersedes": [
-      1729859083
+    "wof:superseded_by": [
+      1226604743
     ],
+    "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
