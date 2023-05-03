@@ -83,14 +83,16 @@
     ],
     "wof:id": 1226619231,
     "wof:label": "Collecting by Design: Silver and Metalwork of the Twentieth Century (2007-01-24 - 2007-08-10)",
-    "wof:lastmodified": 1682544612,
+    "wof:lastmodified": 1683075303,
     "wof:name": "Collecting by Design: Silver and Metalwork of the Twentieth Century",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226619187
+    ],
     "wof:tags": []
   },
   "bbox": [
