@@ -83,14 +83,16 @@
     ],
     "wof:id": 1226614379,
     "wof:label": "Children's Art: Mission YMCA (1989-07-11 - 1989-08-21)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075869,
     "wof:name": "Mission YMCA",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226614421
+    ],
     "wof:tags": []
   },
   "bbox": [

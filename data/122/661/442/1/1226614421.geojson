@@ -7,6 +7,7 @@
     "date:inception_lower": "1989-07-11",
     "date:inception_upper": "1989-07-11",
     "edtf:cessation": "1989-08-21",
+    "edtf:deprecated": "2023-05-02",
     "edtf:inception": "1989-07-11",
     "flysfo:url": "",
     "geom:area": 0,
@@ -82,13 +83,15 @@
     ],
     "wof:id": 1226614421,
     "wof:label": "Children's Art: Mission YMCA (1989-07-11 - 1989-08-21)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075869,
     "wof:name": "Mission YMCA",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1226614379
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },
