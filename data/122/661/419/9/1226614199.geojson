@@ -83,14 +83,16 @@
     ],
     "wof:id": 1226614199,
     "wof:label": "Children's Art: Paintbrush Diplomacy (1989-01-01 - 1989-04-15)",
-    "wof:lastmodified": 1682544611,
+    "wof:lastmodified": 1683075969,
     "wof:name": "Paintbrush Diplomacy",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [],
-    "wof:supersedes": [],
+    "wof:supersedes": [
+      1226614163
+    ],
     "wof:tags": []
   },
   "bbox": [
