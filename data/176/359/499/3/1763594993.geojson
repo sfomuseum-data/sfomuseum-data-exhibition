@@ -10,11 +10,13 @@
     "edtf:inception": "2021-11-27",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/airmail-down-under",
     "geom:area": 0,
-    "geom:bbox": "-122.387970,37.614314,-122.387970,37.614314",
-    "geom:latitude": 37.614313674666654,
-    "geom:longitude": -122.38796986286737,
-    "mz:is_current": 0,
-    "sfo:level": -1,
+    "geom:bbox": "-122.388114,37.614436,-122.388114,37.614436",
+    "geom:latitude": 37.614435579369285,
+    "geom:longitude": -122.38811414961698,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:date_end": "2022-11-27",
+    "sfomuseum:date_start": "2021-11-27",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1778,
     "sfomuseum:gallery_id": [
@@ -23,29 +25,29 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792679, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729813745, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729813675, 
-      1729792579, 
+      1729792387,
+      102527513,
+      1729792679,
+      102191575,
+      85633793,
+      102087579,
+      1729813745,
+      85922583,
+      554784711,
+      85688637,
+      1729813675,
+      1729792579,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1651003435,
-    "wof:geomhash": "ea700b70fc3d45c089e8f79bca50c02f",
+    "wof:geomhash": "fe3e6e60565064257d9f9609d0612ed7",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -61,7 +63,7 @@
         "region_id": 85688637,
         "venue_id": 1729813675,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -77,7 +79,7 @@
       }
     ],
     "wof:id": 1763594993,
-    "wof:lastmodified": 1669593651,
+    "wof:lastmodified": 1683879749,
     "wof:name": "Airmail Down Under",
     "wof:parent_id": 1729813745,
     "wof:placetype": "installation",
@@ -87,10 +89,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38796986286737, 
-    37.614313674666654, 
-    -122.38796986286737, 
-    37.614313674666654
+    -122.38811414961698,
+    37.614435579369285,
+    -122.38811414961698,
+    37.614435579369285
   ],
-  "geometry": {"coordinates":[[-122.38796986286737,37.614313674666654]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38811414961698,37.614435579369285]],"type":"MultiPoint"}
 }
