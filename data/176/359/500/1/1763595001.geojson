@@ -10,11 +10,13 @@
     "edtf:inception": "2021-12-18",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/jet-mainliner-miniature-dc-8",
     "geom:area": 0,
-    "geom:bbox": "-122.387716,37.614387,-122.387716,37.614387",
-    "geom:latitude": 37.61438704894156,
-    "geom:longitude": -122.38771606556722,
-    "mz:is_current": 0,
-    "sfo:level": -1,
+    "geom:bbox": "-122.388025,37.614552,-122.388025,37.614552",
+    "geom:latitude": 37.61455159013738,
+    "geom:longitude": -122.38802501835971,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:date_end": "2022-12-11",
+    "sfomuseum:date_start": "2021-12-18",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1872,
     "sfomuseum:gallery_id": [
@@ -23,29 +25,29 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792679, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1729813741, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729813675, 
-      1729792579, 
+      1729792387,
+      102527513,
+      1729792679,
+      102191575,
+      85633793,
+      102087579,
+      1729813741,
+      85922583,
+      554784711,
+      85688637,
+      1729813675,
+      1729792579,
       102085387
     ],
     "wof:country": "US",
     "wof:created": 1651003437,
-    "wof:geomhash": "daf44be1e5bb7a0cb9f4b046ff9e247e",
+    "wof:geomhash": "b063ce95be8103d57897670f98642f77",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -61,7 +63,7 @@
         "region_id": 85688637,
         "venue_id": 1729813675,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -77,7 +79,7 @@
       }
     ],
     "wof:id": 1763595001,
-    "wof:lastmodified": 1673395271,
+    "wof:lastmodified": 1683879749,
     "wof:name": "DC-8 Model and Its Conservation",
     "wof:parent_id": 1729813741,
     "wof:placetype": "installation",
@@ -87,10 +89,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38771606556722, 
-    37.61438704894156, 
-    -122.38771606556722, 
-    37.61438704894156
+    -122.38802501835971,
+    37.61455159013738,
+    -122.38802501835971,
+    37.61455159013738
   ],
-  "geometry": {"coordinates":[[-122.38771606556722,37.61438704894156]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38802501835971,37.61455159013738]],"type":"MultiPoint"}
 }
