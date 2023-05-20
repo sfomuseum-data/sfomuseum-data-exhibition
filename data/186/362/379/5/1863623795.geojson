@@ -16,7 +16,7 @@
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:date_end": "2024-03-10",
-    "sfomuseum:date_start": "2023-05-06",
+    "sfomuseum:date_start": "2023-05-20",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2009,
     "sfomuseum:gallery_id": [
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1863623795,
-    "wof:lastmodified": 1684398036,
+    "wof:lastmodified": 1684570621,
     "wof:name": "Recollections... from the Unknown Museum",
     "wof:parent_id": 1763588487,
     "wof:placetype": "installation",
