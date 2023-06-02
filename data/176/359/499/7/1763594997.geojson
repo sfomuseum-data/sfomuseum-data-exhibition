@@ -15,7 +15,7 @@
     "geom:longitude": -122.38897295514269,
     "mz:is_current": 1,
     "sfo:level": 3,
-    "sfomuseum:date_end": "2023-05-21",
+    "sfomuseum:date_end": "2023-06-04",
     "sfomuseum:date_start": "2022-02-19",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1849,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763594997,
-    "wof:lastmodified": 1685350215,
+    "wof:lastmodified": 1685693994,
     "wof:name": "Zimbabwe Stone Sculpture",
     "wof:parent_id": 1763588551,
     "wof:placetype": "installation",
