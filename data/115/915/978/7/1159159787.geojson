@@ -47,9 +47,7 @@
       1159396319,
       1159157909,
       1159396115,
-      1159396337,
-      1360516233,
-      1159396139
+      1360516235
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -73,23 +71,23 @@
         "wing_id": 1159396115
       },
       {
-        "building_id": 1159396337,
+        "building_id": 1159396319,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516233,
+        "enclosure_id": 1360516235,
         "installation_id": 1159159787,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159396139
+        "wing_id": 1159396115
       }
     ],
     "wof:id": 1159159787,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Academic and the Arts: Building a Better Foundation for Students from the American Indian Public Charter School and East Oakland Leadership Academy (2006-06-01 - 2006-07-31)",
-    "wof:lastmodified": 1685780297,
+    "wof:lastmodified": 1686039473,
     "wof:name": "American Indian Public Charter School and East Oakland Leadership Academy: Academic and the Arts: Building a Better Foundation for Students",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
