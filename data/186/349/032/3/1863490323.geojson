@@ -15,7 +15,7 @@
     "geom:longitude": -122.3849209067321,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2023-08-27",
+    "sfomuseum:date_end": "2023-10-29",
     "sfomuseum:date_start": "2023-04-29",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2081,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1863490323,
-    "wof:lastmodified": 1686730674,
+    "wof:lastmodified": 1686817277,
     "wof:name": "Jonathan Marquis: Downwaste",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",
