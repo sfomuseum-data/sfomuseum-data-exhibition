@@ -27,7 +27,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595021,
-    "wof:lastmodified": 1686817276,
+    "wof:lastmodified": 1686990139,
     "wof:name": "Kadish Gallery Temporary Loan",
     "wof:parent_id": 1763594985,
     "wof:placetype": "installation",
