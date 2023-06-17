@@ -27,7 +27,7 @@
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996497,
-    "wof:lastmodified": 1686817276,
+    "wof:lastmodified": 1686990139,
     "wof:name": "Jess T. Dugan and Vanessa Fabbre: To Survive on this Shore",
     "wof:parent_id": 1763594985,
     "wof:placetype": "installation",
