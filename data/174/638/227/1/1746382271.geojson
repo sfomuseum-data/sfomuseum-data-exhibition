@@ -22,7 +22,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "Aviation",
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1746382271,
-    "wof:lastmodified": 1687250274,
+    "wof:lastmodified": 1687291160,
     "wof:name": "Special Exhibit: T2 Sky Terrace",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",

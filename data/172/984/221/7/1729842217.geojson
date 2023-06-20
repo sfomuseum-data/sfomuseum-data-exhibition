@@ -24,7 +24,7 @@
     "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 1,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
@@ -39,7 +39,7 @@
       }
     ],
     "wof:id": 1729842217,
-    "wof:lastmodified": 1687250274,
+    "wof:lastmodified": 1687291160,
     "wof:name": "Harvey Milk: Messenger of Hope",
     "wof:parent_id": 1729813693,
     "wof:placetype": "installation",
