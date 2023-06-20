@@ -35,7 +35,7 @@
       "kidsspot"
     ],
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "NORTH",
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1863490171,
     "wof:label": "Kids' Spot II: Exploratorium (2014~)",
-    "wof:lastmodified": 1687250270,
+    "wof:lastmodified": 1687291156,
     "wof:name": "Kids' Spot II: Exploratorium",
     "wof:parent_id": 1360392583,
     "wof:placetype": "installation",
