@@ -13,8 +13,8 @@
     "geom:area": 0,
     "geom:area_square_m": 88.966289,
     "geom:bbox": "-122.385605,37.612580,-122.385605,37.612580",
-    "geom:latitude": 37.612579503649634,
-    "geom:longitude": -122.38560464919266,
+    "geom:latitude": 37.612579621116986,
+    "geom:longitude": -122.38560462151302,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -50,10 +50,10 @@
       102087579,
       85922583,
       85688637,
-      1159157271,
-      1159396217,
-      1159157077,
-      1159157317
+      1159396321,
+      1159396237,
+      1360516217,
+      1159396151
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -61,29 +61,29 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949952,
-    "wof:geomhash": "77219436af413c237cd6faa585a6c3c8",
+    "wof:geomhash": "2163e1c051ec96dd3ff523be87f13a93",
     "wof:hierarchy": [
       {
-        "building_id": 1159157271,
+        "building_id": 1159396321,
         "campus_id": 102527513,
-        "concourse_id": 1159396217,
+        "concourse_id": 1159396237,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1159157077,
+        "enclosure_id": 1360516217,
         "installation_id": 1159160741,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159157317
+        "wing_id": 1159396151
       }
     ],
     "wof:id": 1159160741,
     "wof:is_current": 0,
     "wof:label": "Mustafah Abdulaziz: Water  (2017-08-07 - 2017-10-26)",
-    "wof:lastmodified": 1689668413,
+    "wof:lastmodified": 1689754974,
     "wof:name": "Mustafah Abdulaziz: Water ",
-    "wof:parent_id": 1159157077,
+    "wof:parent_id": 1360516217,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
@@ -95,10 +95,10 @@
     ]
   },
   "bbox": [
-    -122.38560464919266,
-    37.612579503649634,
-    -122.38560464919266,
-    37.612579503649634
+    -122.38560462151302,
+    37.612579621116986,
+    -122.38560462151302,
+    37.612579621116986
   ],
-  "geometry": {"coordinates":[[-122.38560464919266,37.612579503649634]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38560462151302,37.612579621116986]],"type":"MultiPoint"}
 }
