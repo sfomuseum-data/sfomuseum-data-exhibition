@@ -48,9 +48,9 @@
       102087579,
       85922583,
       85688637,
-      1159396321,
-      1360516249,
-      1159396157
+      1159157271,
+      1159157063,
+      1159157307
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -61,25 +61,25 @@
     "wof:geomhash": "936013bd1489b857b527e1fd1d24f491",
     "wof:hierarchy": [
       {
-        "building_id": 1159396321,
+        "building_id": 1159157271,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516249,
+        "enclosure_id": 1159157063,
         "installation_id": 1159160699,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159396157
+        "wing_id": 1159157307
       }
     ],
     "wof:id": 1159160699,
     "wof:is_current": 0,
     "wof:label": "Pavlina Ecclesiarhou: Epitaphs: Silent Stories (2017-03-08 - 2017-06-14)",
-    "wof:lastmodified": 1689754974,
+    "wof:lastmodified": 1689927634,
     "wof:name": "Pavlina Ecclesiarhou: Epitaphs: Silent Stories",
-    "wof:parent_id": 1360516249,
+    "wof:parent_id": 1159157063,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
