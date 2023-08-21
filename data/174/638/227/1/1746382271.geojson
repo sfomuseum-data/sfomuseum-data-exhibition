@@ -13,7 +13,7 @@
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
     "geom:longitude": -122.37385309950533,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": -1,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2019-12-20",
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1746382271,
-    "wof:lastmodified": 1692605942,
+    "wof:lastmodified": 1692639512,
     "wof:name": "Special Exhibit: T2 Sky Terrace",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
