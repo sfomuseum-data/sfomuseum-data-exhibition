@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": -1,
     "sfomuseum:date_end": "2019-11-06",
     "sfomuseum:date_start": "2019-10-10",
     "sfomuseum:description": "Pride in family and culture among Navajo Nation members in Shiprock, New Mexico, is the focus of this documentary produced by high school students enrolled in a film making class offered by Spy Hop, a youth mentorship program in Salt Lake City, Utah.\r",
@@ -81,7 +82,7 @@
       }
     ],
     "wof:id": 1495157327,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "Native",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

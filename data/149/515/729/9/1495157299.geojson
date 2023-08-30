@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": -1,
     "sfomuseum:date_end": "2019-10-27",
     "sfomuseum:date_start": "2019-09-21",
     "sfomuseum:description": "",
@@ -78,7 +79,7 @@
       }
     ],
     "wof:id": 1495157299,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
     "wof:parent_id": 1477855653,
     "wof:placetype": "installation",

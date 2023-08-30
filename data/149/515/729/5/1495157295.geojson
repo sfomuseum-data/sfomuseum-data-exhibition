@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": -1,
     "sfomuseum:date_end": "2019-08-21",
     "sfomuseum:date_start": "2019-07-25",
     "sfomuseum:description": "Born in Lebanon to Palestinian refugees, Imad Khachan, an immigrant without a family, found a way to create his own while operating New York City’s last remaining chess shop as a welcoming place to sit, converse, and create community.\r",
@@ -81,7 +82,7 @@
       }
     ],
     "wof:id": 1495157295,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "King of the Night",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

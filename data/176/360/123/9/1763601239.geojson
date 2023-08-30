@@ -15,6 +15,7 @@
     "geom:longitude": -122.387939,
     "id": 1763601239,
     "mz:is_current": 0,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-12-01",
     "sfomuseum:date_start": "2019-03-23",
     "sfomuseum:description": "",
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1763601239,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "Special Collections Poster: Finnair",
     "wof:parent_id": 1763601213,
     "wof:placetype": "installation",

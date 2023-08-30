@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": -1,
     "sfomuseum:date_end": "1989-07-28",
     "sfomuseum:date_start": "1989-05-01",
     "sfomuseum:description": "",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1376812947,
-    "wof:lastmodified": 1693340187,
+    "wof:lastmodified": 1693383588,
     "wof:name": "Art Deco Miami",
     "wof:parent_id": 1360516145,
     "wof:placetype": "installation",

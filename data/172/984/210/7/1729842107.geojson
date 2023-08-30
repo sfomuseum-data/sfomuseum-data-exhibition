@@ -14,6 +14,7 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "mz:is_current": 0,
+    "sfo:level": -1,
     "sfomuseum:date_end": "2020-02-12",
     "sfomuseum:date_start": "2020-01-16",
     "sfomuseum:description": "Inspired by a nature exhibit that allows visitors to experience the world through the eyes of difference species, filmmaker Louis Morton presents a future world in which climate change survivors turn to animals to return the planet to livable shape.\r",
@@ -75,7 +76,7 @@
       }
     ],
     "wof:id": 1729842107,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "Floreana",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",
