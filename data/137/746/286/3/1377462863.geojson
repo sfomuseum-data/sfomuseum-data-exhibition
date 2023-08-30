@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": -1,
     "sfomuseum:date_end": "2019-09-22",
     "sfomuseum:date_start": "2019-03-16",
     "sfomuseum:description": "",
@@ -69,7 +70,7 @@
       }
     ],
     "wof:id": 1377462863,
-    "wof:lastmodified": 1693340189,
+    "wof:lastmodified": 1693383590,
     "wof:name": "American Airliner Cockpits: 1925–1975",
     "wof:parent_id": 1360541677,
     "wof:placetype": "installation",

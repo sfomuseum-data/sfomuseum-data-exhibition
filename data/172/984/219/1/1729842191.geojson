@@ -14,6 +14,7 @@
     "geom:latitude": 37.61753800404816,
     "geom:longitude": -122.3812258897383,
     "mz:is_current": 1,
+    "sfo:level": -1,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2011-03-31",
     "sfomuseum:description": "Walter Kitundu created a group of interactive artworks that were designed to offer travelers of all ages a playful oasis. Using high-quality veneer plywood, which he then hand-stained, Kitundu created two benches shaped like bird wings that double as musical instruments. Serving as the backdrop for these musical benches, is a mural made of inlaid wood featuring local birds such as Red-tailed Hawks, Anna’s Hummingbirds, herons, egrets, Northern Harriers, and Burrowing Owls. The birds, which are printed on wood and also inlaid, are derived from photographs that the artist took in San Francisco.",
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1729842191,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "Kids’ Spot: Bay Area Bird Encounters",
     "wof:parent_id": 1360516253,
     "wof:placetype": "installation",

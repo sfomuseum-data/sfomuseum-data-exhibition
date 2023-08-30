@@ -14,6 +14,7 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "mz:is_current": 0,
+    "sfo:level": -1,
     "sfomuseum:date_end": "2020-01-15",
     "sfomuseum:date_start": "2019-12-19",
     "sfomuseum:description": "Captain Millipede and his crew embark on a final expedition to the Moon to harvest its milk in Oakland-based filmmaker Ri Crawford’s stop-motion animated short, inspired by an Italo Calvino fable and narrated by the inimitable Tom Waits.\r",
@@ -75,7 +76,7 @@
       }
     ],
     "wof:id": 1729842251,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "The Moon’s Milk",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

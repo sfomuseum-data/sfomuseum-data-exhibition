@@ -14,7 +14,7 @@
     "geom:latitude": 37.61799686233598,
     "geom:longitude": -122.3848643553068,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:date_end": "2022-04-03",
     "sfomuseum:date_start": "2021-10-23",
     "sfomuseum:description": "",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595011,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "Tabitha Soren: Surface Tension (2021)",
     "wof:parent_id": 1763595133,
     "wof:placetype": "installation",

@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": -1,
     "sfomuseum:date_end": "2019-10-30",
     "sfomuseum:date_start": "2019-10-03",
     "sfomuseum:description": "London-based actor, director, and activist Jake Graf gives voice to transgender youths who are often either disregarded or vilified when trying to communicate their daily struggles against bullying and persecution by classmates and family alike.\r",
@@ -81,7 +82,7 @@
       }
     ],
     "wof:id": 1495157325,
-    "wof:lastmodified": 1693340190,
+    "wof:lastmodified": 1693383590,
     "wof:name": "Listen",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",
