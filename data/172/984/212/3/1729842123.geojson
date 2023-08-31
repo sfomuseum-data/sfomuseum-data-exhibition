@@ -14,7 +14,7 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2020-02-26",
     "sfomuseum:date_start": "2020-01-30",
     "sfomuseum:description": "Brooklyn-based filmmaker Eugene Kolb recalls love at first sight in this charming animated short that illustrates the story of how he and his partner Clara met and fell for each other while riding a subway train.\r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1729842123,
-    "wof:lastmodified": 1693383590,
+    "wof:lastmodified": 1693470621,
     "wof:name": "A Subway Story",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

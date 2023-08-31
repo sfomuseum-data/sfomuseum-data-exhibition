@@ -17,7 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-12-01",
     "sfomuseum:date_start": "2019-04-06",
     "sfomuseum:description": "",
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1495157223,
-    "wof:lastmodified": 1693383590,
+    "wof:lastmodified": 1693470621,
     "wof:name": "By the Book: Airliner Manuals",
     "wof:parent_id": 1360541641,
     "wof:placetype": "installation",

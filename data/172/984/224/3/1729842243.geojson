@@ -14,7 +14,7 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2019-12-18",
     "sfomuseum:date_start": "2019-11-21",
     "sfomuseum:description": "Filmmaker Ben-Alex Dupris delivers an inspiring profile of Sean and Adrian, a Ute and Navajo two-spirit couple who are challenging perceptions of identity through their participation in Sweetheart Dance competitions at powwows across the United States.",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1729842243,
-    "wof:lastmodified": 1693383590,
+    "wof:lastmodified": 1693470621,
     "wof:name": "Sweetheart Dancers",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",
