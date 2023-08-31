@@ -14,7 +14,7 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "mz:is_current": 0,
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:date_end": "2020-03-11",
     "sfomuseum:date_start": "2020-02-13",
     "sfomuseum:description": "London-based filmmaker Hannah Jacobs interprets Tim Seibles’ poem “First Kiss” by animating a seamless transition of visual metaphors describing how the poet experienced a kiss that opened his heart to unforeseen possibilities.\r",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1729842225,
-    "wof:lastmodified": 1693383590,
+    "wof:lastmodified": 1693470621,
     "wof:name": "First Kiss",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",
