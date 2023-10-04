@@ -15,7 +15,7 @@
     "geom:longitude": -122.38826746081209,
     "mz:is_current": 1,
     "sfo:level": 3,
-    "sfomuseum:date_end": "2024-11-17",
+    "sfomuseum:date_end": "2024-10-20",
     "sfomuseum:date_start": "2022-05-28",
     "sfomuseum:description": "Wright Whirlwind J5 engine (Patterson)\rCurtiss OXX-6 engine (Patterson)\rMonte Chase propeller\rWings of History propeller",
     "sfomuseum:exhibition_id": 1874,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1796996487,
-    "wof:lastmodified": 1696357003,
+    "wof:lastmodified": 1696405050,
     "wof:name": "Going the Distance",
     "wof:parent_id": 1796989589,
     "wof:placetype": "installation",
