@@ -46,10 +46,10 @@
       102087579,
       85922583,
       85688637,
-      1159396333,
-      1159396211,
-      1360516219,
-      1159396163
+      1159396321,
+      1159396237,
+      1360516217,
+      1159396151
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -60,26 +60,26 @@
     "wof:geomhash": "2163e1c051ec96dd3ff523be87f13a93",
     "wof:hierarchy": [
       {
-        "building_id": 1159396333,
+        "building_id": 1159396321,
         "campus_id": 102527513,
-        "concourse_id": 1159396211,
+        "concourse_id": 1159396237,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516219,
+        "enclosure_id": 1360516217,
         "installation_id": 1159160479,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159396163
+        "wing_id": 1159396151
       }
     ],
     "wof:id": 1159160479,
     "wof:is_current": 0,
     "wof:label": "Sharon Beals, Nests (2014-02-03 - 2014-05-30)",
-    "wof:lastmodified": 1696405049,
+    "wof:lastmodified": 1696491862,
     "wof:name": "Sharon Beals: Nests",
-    "wof:parent_id": 1360516219,
+    "wof:parent_id": 1360516217,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
