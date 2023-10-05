@@ -13,7 +13,7 @@
     "geom:bbox": "-122.388114,37.614436,-122.388114,37.614436",
     "geom:latitude": 37.614435579369285,
     "geom:longitude": -122.38811414961698,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2023-09-17",
     "sfomuseum:date_start": "2022-12-03",
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1796996495,
-    "wof:lastmodified": 1696405050,
+    "wof:lastmodified": 1696491863,
     "wof:name": "Supersonic Time Machine: Documenting the Concorde",
     "wof:parent_id": 1729813745,
     "wof:placetype": "installation",

@@ -15,7 +15,7 @@
     "geom:longitude": -122.38819101441787,
     "mz:is_current": 1,
     "sfo:level": 3,
-    "sfomuseum:date_end": "2025-09-21",
+    "sfomuseum:date_end": "2025-09-07",
     "sfomuseum:date_start": "2023-09-16",
     "sfomuseum:description": "Note: there are two Bixby Collection exhibits; Book Show and AML Photo Show",
     "sfomuseum:exhibition_id": 1853,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1880380113,
-    "wof:lastmodified": 1696405050,
+    "wof:lastmodified": 1696491863,
     "wof:name": "Bixby Collection (Photo Show)",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",

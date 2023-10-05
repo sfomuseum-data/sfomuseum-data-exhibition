@@ -15,7 +15,7 @@
     "geom:longitude": -122.38811414961698,
     "mz:is_current": 1,
     "sfo:level": 3,
-    "sfomuseum:date_end": "2025-09-21",
+    "sfomuseum:date_end": "2025-09-07",
     "sfomuseum:date_start": "2023-09-23",
     "sfomuseum:description": "Note: there are two Bixby Collection exhibits; Book Show and AML Photo Show",
     "sfomuseum:exhibition_id": 1852,
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1880431449,
-    "wof:lastmodified": 1696405050,
+    "wof:lastmodified": 1696491863,
     "wof:name": "The Harold Bixby Collection: Unlocking an Archival Treasure",
     "wof:parent_id": 1729813745,
     "wof:placetype": "installation",
