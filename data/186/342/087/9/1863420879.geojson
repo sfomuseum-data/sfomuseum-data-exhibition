@@ -13,7 +13,7 @@
     "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
     "geom:latitude": 37.614635906352255,
     "geom:longitude": -122.3871579788049,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2023-07-09",
     "sfomuseum:date_start": "2023-03-04",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1863420879,
-    "wof:lastmodified": 1697096762,
+    "wof:lastmodified": 1697133370,
     "wof:name": "CONSTITUTION | Celia Ziyan Cai",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",
