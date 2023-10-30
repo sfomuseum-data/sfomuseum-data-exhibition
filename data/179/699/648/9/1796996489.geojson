@@ -25,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996489,
-    "wof:lastmodified": 1698479073,
+    "wof:lastmodified": 1698652286,
     "wof:name": "San Francisco Opera: A Centennial Celebration",
     "wof:parent_id": 1763588501,
     "wof:placetype": "installation",
