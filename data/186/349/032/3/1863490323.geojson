@@ -25,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1863490323,
-    "wof:lastmodified": 1700901731,
+    "wof:lastmodified": 1701074670,
     "wof:name": "Jonathan Marquis: Downwaste",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",
