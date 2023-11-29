@@ -13,7 +13,7 @@
     "geom:bbox": "-122.388973,37.614601,-122.388973,37.614601",
     "geom:latitude": 37.614601366959555,
     "geom:longitude": -122.38897295514269,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2023-06-04",
     "sfomuseum:date_start": "2022-02-19",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763594997,
-    "wof:lastmodified": 1701247220,
+    "wof:lastmodified": 1701291917,
     "wof:name": "Zimbabwe Stone Sculpture",
     "wof:parent_id": 1763588551,
     "wof:placetype": "installation",

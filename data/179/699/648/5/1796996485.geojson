@@ -13,7 +13,7 @@
     "geom:bbox": "-122.384673,37.612926,-122.384673,37.612926",
     "geom:latitude": 37.61292608946352,
     "geom:longitude": -122.38467290046805,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2023-07-16",
     "sfomuseum:date_start": "2022-06-18",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996485,
-    "wof:lastmodified": 1701247220,
+    "wof:lastmodified": 1701291917,
     "wof:name": "California Modernist Women: Groundbreaking Creativity",
     "wof:parent_id": 1763588505,
     "wof:placetype": "installation",
