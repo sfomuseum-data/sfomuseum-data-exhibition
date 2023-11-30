@@ -15,7 +15,7 @@
     "geom:longitude": -122.38896089727054,
     "mz:is_current": 1,
     "sfo:level": 3,
-    "sfomuseum:date_end": "2024-01-07",
+    "sfomuseum:date_end": "2024-02-18",
     "sfomuseum:date_start": "2023-02-25",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1843,
@@ -104,7 +104,7 @@
       }
     ],
     "wof:id": 1863420875,
-    "wof:lastmodified": 1701247220,
+    "wof:lastmodified": 1701333568,
     "wof:name": "San Francisco Ballet at 90",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

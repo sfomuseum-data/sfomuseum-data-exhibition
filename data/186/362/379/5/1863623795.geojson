@@ -15,7 +15,7 @@
     "geom:longitude": -122.38210800323661,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2024-03-10",
+    "sfomuseum:date_end": "2024-03-31",
     "sfomuseum:date_start": "2023-05-20",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2009,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1863623795,
-    "wof:lastmodified": 1701247221,
+    "wof:lastmodified": 1701333568,
     "wof:name": "Recollections... from the Unknown Museum",
     "wof:parent_id": 1763588487,
     "wof:placetype": "installation",
