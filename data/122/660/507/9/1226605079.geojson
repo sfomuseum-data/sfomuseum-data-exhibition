@@ -25,8 +25,8 @@
     "sfomuseum:exhibition_id": 87,
     "sfomuseum:exhibition_type": "studentart",
     "sfomuseum:gallery_id": [
-      4,
-      1
+      1,
+      4
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
@@ -54,8 +54,21 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384146,
-    "wof:geomhash": "4cd8dbc32463b0ea43d342a6552e4b8a",
+    "wof:geomhash": "3ee5a0c4ccd2e3ee32e1c02797f66fa3",
     "wof:hierarchy": [
+      {
+        "building_id": 1159554803,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1159157881,
+        "installation_id": 1226605079,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159554821
+      },
       {
         "building_id": 1159554803,
         "campus_id": 102527513,
@@ -69,24 +82,11 @@
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554821
-      },
-      {
-        "building_id": 1159554803,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1159157881,
-        "installation_id": 1226605079,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159554821
       }
     ],
     "wof:id": 1226605079,
     "wof:label": "Children's Art: National Institute of Art and Disabilities (1998-09-28 - 1998-11-16)",
-    "wof:lastmodified": 1701971214,
+    "wof:lastmodified": 1702024513,
     "wof:name": "National Institute of Art and Disabilities",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.384469,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.384469,37.61888],[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.384469,37.61888]],"type":"MultiPoint"}
 }
