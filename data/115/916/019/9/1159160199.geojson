@@ -46,10 +46,10 @@
       102087579,
       85922583,
       85688637,
-      1159396333,
-      1159396211,
-      1360516219,
-      1159396163
+      1159396337,
+      1159396297,
+      1360516223,
+      1159396139
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -60,26 +60,26 @@
     "wof:geomhash": "2163e1c051ec96dd3ff523be87f13a93",
     "wof:hierarchy": [
       {
-        "building_id": 1159396333,
+        "building_id": 1159396337,
         "campus_id": 102527513,
-        "concourse_id": 1159396211,
+        "concourse_id": 1159396297,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516219,
+        "enclosure_id": 1360516223,
         "installation_id": 1159160199,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159396163
+        "wing_id": 1159396139
       }
     ],
     "wof:id": 1159160199,
     "wof:is_current": 0,
     "wof:label": "Holger Struppek: California Landscape (2011-05-02 - 2011-07-29)",
-    "wof:lastmodified": 1702283722,
+    "wof:lastmodified": 1702370058,
     "wof:name": "We Have This Moment: Landscapes by Holger Struppek",
-    "wof:parent_id": 1360516219,
+    "wof:parent_id": 1360516223,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
