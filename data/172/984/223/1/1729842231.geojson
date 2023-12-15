@@ -13,7 +13,7 @@
     "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
     "geom:latitude": 37.614512,
     "geom:longitude": -122.387939,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 4,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2000-11-22",
@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1729842231,
-    "wof:lastmodified": 1702629322,
+    "wof:lastmodified": 1702671784,
     "wof:name": "Legends of the Air",
     "wof:parent_id": 1360541569,
     "wof:placetype": "installation",
