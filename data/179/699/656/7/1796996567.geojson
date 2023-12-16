@@ -13,7 +13,7 @@
     "geom:bbox": "-122.384921,37.617924,-122.384921,37.617924",
     "geom:latitude": 37.617923793113434,
     "geom:longitude": -122.3849209067321,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:date_end": "2023-04-23",
     "sfomuseum:date_start": "2022-12-24",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996567,
-    "wof:lastmodified": 1702671784,
+    "wof:lastmodified": 1702715720,
     "wof:name": "Kacper Kowalski: Event Horizon",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",
