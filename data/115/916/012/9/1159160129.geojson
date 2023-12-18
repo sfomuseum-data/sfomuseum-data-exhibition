@@ -44,6 +44,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 21649,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -140,7 +141,7 @@
     "wof:id": 1159160129,
     "wof:is_current": 0,
     "wof:label": "Fashion in Flight: A History of Airline Uniform Design (2016-05-27 - 2017-01-30)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Fashion in Flight: A History of Airline Uniform Design",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

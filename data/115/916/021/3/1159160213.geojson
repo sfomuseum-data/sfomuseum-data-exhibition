@@ -36,6 +36,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 3518,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -87,7 +88,7 @@
     "wof:id": 1159160213,
     "wof:is_current": 0,
     "wof:label": "Children’s Art: Collage Portraits from Parkside Intermediate School (2010-06-01 - 2010-07-30)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Parkside Intermediate School: Collage Portraits",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

@@ -31,6 +31,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24538,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1729859165,
     "wof:label": "Above the Bay: The Aerial Photography of Stanley Page (2020-~05)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Above the Bay: The Aerial Photography of Stanley Page",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",

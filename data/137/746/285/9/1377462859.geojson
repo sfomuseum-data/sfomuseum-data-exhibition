@@ -37,6 +37,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24415,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157335,
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377462859,
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Aluminum: The Miracle Metal of Aviation",
     "wof:parent_id": 1360541667,
     "wof:placetype": "installation",

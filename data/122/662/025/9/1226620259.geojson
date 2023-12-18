@@ -36,6 +36,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 23421,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -69,7 +70,7 @@
     ],
     "wof:id": 1226620259,
     "wof:label": "Kids and Art (2018-01-23 - 2018-04-24)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Kids \u0026 Art Foundation",
     "wof:parent_id": 1159157075,
     "wof:placetype": "installation",

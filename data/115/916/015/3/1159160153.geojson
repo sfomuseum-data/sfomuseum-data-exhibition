@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 3446,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -74,7 +75,7 @@
     "wof:id": 1159160153,
     "wof:is_current": 0,
     "wof:label": "Japanese Ceramics: An Enduring Tradition (2010-09-17 - 2011-04-25)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Japanese Ceramics: An Enduring Tradition",
     "wof:parent_id": 1360516285,
     "wof:placetype": "installation",

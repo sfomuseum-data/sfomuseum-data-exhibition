@@ -36,6 +36,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 21714,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -87,7 +88,7 @@
     "wof:id": 1159160659,
     "wof:is_current": 0,
     "wof:label": "Student Art: Drawbridge (2016-08-01 - 2016-09-09)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "DrawBridge: An Arts Program for Homeless Children:\rEmpowering Through Art",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

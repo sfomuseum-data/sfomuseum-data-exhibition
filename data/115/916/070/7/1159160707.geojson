@@ -41,6 +41,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 23212,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -98,7 +99,7 @@
     "wof:id": 1159160707,
     "wof:is_current": 1,
     "wof:label": "Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection (2017-09-15 - 2019-03-15)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

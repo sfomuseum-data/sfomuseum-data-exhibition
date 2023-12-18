@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 3353,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -74,7 +75,7 @@
     "wof:id": 1159160043,
     "wof:is_current": 0,
     "wof:label": "Scenes from Myths and Daily Life: Ancient Mediterranean Pottery (2009-10-12 - 2010-03-22)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Scenes from Myths and Daily Life: Ancient Mediterranean Pottery",
     "wof:parent_id": 1360516285,
     "wof:placetype": "installation",

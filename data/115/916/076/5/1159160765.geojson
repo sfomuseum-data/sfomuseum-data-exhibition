@@ -40,6 +40,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 23383,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -79,7 +80,7 @@
     "wof:id": 1159160765,
     "wof:is_current": 1,
     "wof:label": "The Automatic Age: Coin-Operated Machines (2017-12-14 - 2018-08-05)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "The Automatic Age: Coin-Operated Machine",
     "wof:parent_id": 1159157037,
     "wof:placetype": "installation",

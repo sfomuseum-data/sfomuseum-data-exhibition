@@ -22,6 +22,7 @@
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 24535,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1729859093,
     "wof:label": "Extra ‘O’! African Barbershop and Hairdressing Signs (2020-~05)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Extra ‘O’! African Barbershop and Hairdressing Signs",
     "wof:parent_id": 1729792769,
     "wof:placetype": "installation",

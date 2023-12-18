@@ -40,6 +40,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 21727,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -77,7 +78,7 @@
     "wof:id": 1159160655,
     "wof:is_current": 0,
     "wof:label": "A Modern Approach: Mid-century Design (2016-08-26 - 2017-04-10)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "A Modern Approach: Mid-Century Design",
     "wof:parent_id": 1360516281,
     "wof:placetype": "installation",

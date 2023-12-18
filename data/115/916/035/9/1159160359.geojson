@@ -38,6 +38,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 3130,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -75,7 +76,7 @@
     "wof:id": 1159160359,
     "wof:is_current": 0,
     "wof:label": "Souvenirs: Tokens of Travel (2013-01-11 - 2013-07-15)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Souvenirs: Tokens of Travel",
     "wof:parent_id": 1360516283,
     "wof:placetype": "installation",

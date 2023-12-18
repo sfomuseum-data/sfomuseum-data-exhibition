@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Kids' Spot",
+    "sfomuseum_www:exhibition_id": 24472,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1863490107,
     "wof:label": "Kids’ Spot: Spirogyrate (2021-11-09)",
-    "wof:lastmodified": 1687250274,
+    "wof:lastmodified": 1702942090,
     "wof:name": "Kids’ Spot: Spirogyrate",
     "wof:parent_id": 1763588527,
     "wof:placetype": "installation",

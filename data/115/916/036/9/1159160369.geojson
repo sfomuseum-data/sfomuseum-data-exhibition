@@ -42,6 +42,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 5093,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -81,7 +82,7 @@
     "wof:id": 1159160369,
     "wof:is_current": 0,
     "wof:label": "Japanese Toys! From Kokeshi to Kaiju (2013-11-01 - 2014-05-12)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Japanese Toys! From Kokeshi to Kaiju",
     "wof:parent_id": 1360516121,
     "wof:placetype": "installation",

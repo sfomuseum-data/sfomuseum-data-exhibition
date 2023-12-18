@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "T2",
     "sfomuseum:type": "Photography",
+    "sfomuseum_www:exhibition_id": 3683,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -74,7 +75,7 @@
     "wof:id": 1159160285,
     "wof:is_current": 0,
     "wof:label": "J Henry Fair: Abstractions of Destruction (2012-06-01 - 2012-08-31)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "J Henry Fair: Abstraction of Destruction",
     "wof:parent_id": 1360516263,
     "wof:placetype": "installation",

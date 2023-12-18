@@ -36,6 +36,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 24065,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -69,7 +70,7 @@
     ],
     "wof:id": 1226620709,
     "wof:label": "Student Art: San Quentin Prison Arts Project (2018-07-26 - 2018-10-25)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "San Quentin Arts in Corrections: Flying Free",
     "wof:parent_id": 1159157937,
     "wof:placetype": "installation",

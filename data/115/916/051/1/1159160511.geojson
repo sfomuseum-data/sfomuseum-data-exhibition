@@ -38,6 +38,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 19276,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -75,7 +76,7 @@
     "wof:id": 1159160511,
     "wof:is_current": 0,
     "wof:label": "A World of Characters: Advertising Icons from the Warren Dotz Collection (2014-06-27 - 2015-01-05)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "A World of Characters: Advertising Icons from the Warren Dotz Collection",
     "wof:parent_id": 1360516271,
     "wof:placetype": "installation",

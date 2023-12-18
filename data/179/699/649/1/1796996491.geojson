@@ -29,6 +29,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24849,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387,
@@ -79,7 +80,7 @@
       }
     ],
     "wof:id": 1796996491,
-    "wof:lastmodified": 1702930992,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Pushing the Envelope: NASA’s Ames Research Center Wind Tunnel Models",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",

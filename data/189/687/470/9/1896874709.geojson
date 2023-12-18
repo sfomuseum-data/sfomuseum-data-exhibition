@@ -29,6 +29,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24949,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387,
@@ -79,7 +80,7 @@
       }
     ],
     "wof:id": 1896874709,
-    "wof:lastmodified": 1702930992,
+    "wof:lastmodified": 1702942091,
     "wof:name": "VX Forever: The Legacy of Virgin America",
     "wof:parent_id": 1729813741,
     "wof:placetype": "installation",

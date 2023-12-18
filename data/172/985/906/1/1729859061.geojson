@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 24428,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1729859061,
     "wof:label": "The Urban School of San Francisco: Our Land: Student Photography (2019-07-23)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "The Urban School of San Francisco: Our Land: Student Photography",
     "wof:parent_id": 1477855831,
     "wof:placetype": "installation",

@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 24422,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -66,7 +67,7 @@
       }
     ],
     "wof:id": 1377096153,
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "San Mateo High School: A World of Possibilities",
     "wof:parent_id": 1159157937,
     "wof:placetype": "installation",

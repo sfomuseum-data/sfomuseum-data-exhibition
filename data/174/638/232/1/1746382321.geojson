@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "Photography",
+    "sfomuseum_www:exhibition_id": 24660,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1746382321,
     "wof:label": "Gary Emrich: All Consumed (2021-05-25)",
-    "wof:lastmodified": 1702930992,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Gary Emrich: All Consumed",
     "wof:parent_id": 1745882477,
     "wof:placetype": "installation",

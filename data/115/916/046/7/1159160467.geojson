@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 5131,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -76,7 +77,7 @@
     "wof:id": 1159160467,
     "wof:is_current": 0,
     "wof:label": "Airline Identity: Marks, Brands and Logos (2013-11-22 - 2014-08-18)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Airline Identity: Marks, Brands and Logos",
     "wof:parent_id": 1360541653,
     "wof:placetype": "installation",

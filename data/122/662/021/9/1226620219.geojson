@@ -40,6 +40,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
+    "sfomuseum_www:exhibition_id": 23927,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1226620219,
     "wof:label": "Photo Alliance | Home (2018-05-08 - 2018-08-14)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Photo Alliance: Home",
     "wof:parent_id": 1159157077,
     "wof:placetype": "installation",

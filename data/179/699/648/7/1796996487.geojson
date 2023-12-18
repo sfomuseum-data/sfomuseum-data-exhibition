@@ -29,6 +29,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24737,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -70,7 +71,7 @@
       }
     ],
     "wof:id": 1796996487,
-    "wof:lastmodified": 1702930992,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Going the Distance",
     "wof:parent_id": 1796989589,
     "wof:placetype": "installation",

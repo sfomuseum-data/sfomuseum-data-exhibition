@@ -42,6 +42,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 3077,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -81,7 +82,7 @@
     "wof:id": 1159160335,
     "wof:is_current": 0,
     "wof:label": "The Art of Recology: The Artist in Residence Program 1990-2013 (2013-03-15 - 2013-10-28)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "The Art of Recology: The Artist in Residence Program 1990-2013",
     "wof:parent_id": 1360516121,
     "wof:placetype": "installation",

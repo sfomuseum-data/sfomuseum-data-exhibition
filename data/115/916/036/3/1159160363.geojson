@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 3085,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -76,7 +77,7 @@
     "wof:id": 1159160363,
     "wof:is_current": 0,
     "wof:label": "Ascent to the Air Age: Aviation Literature for Young Readers, 1910-1950s (2013-03-25 - 2013-09-11)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Ascent to the Air Age: Aviation Literature for Young Readers, 1910-1950s",
     "wof:parent_id": 1360541635,
     "wof:placetype": "installation",

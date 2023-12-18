@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24417,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157335,
@@ -71,7 +72,7 @@
     ],
     "wof:id": 1729859035,
     "wof:label": "Streamlines: Aerodynamic Consumer Designs for the Air Age (2017~)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Streamlines: Aerodynamic Consumer Designs for the Air Age",
     "wof:parent_id": 1360541659,
     "wof:placetype": "installation",

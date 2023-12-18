@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 24463,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855609,
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1729859033,
     "wof:label": "California Studio Craft: Featuring Works from the Forrest L. Merrill Collection (2019-07-23)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "California Studio Craft: Featuring Works from the Forrest L. Merrill Collection",
     "wof:parent_id": 1477855627,
     "wof:placetype": "installation",

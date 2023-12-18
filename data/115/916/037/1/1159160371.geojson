@@ -39,6 +39,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 19210,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160371,
     "wof:is_current": 0,
     "wof:label": "Dual Natures in Ceramics: Eight Contemporary Artists from Korea  (2014-05-16 - 2015-02-23)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Dual Natures in Ceramics: Eight Contemporary Artists from Korea ",
     "wof:parent_id": 1360516119,
     "wof:placetype": "installation",

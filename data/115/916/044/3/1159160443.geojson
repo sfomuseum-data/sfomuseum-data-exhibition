@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "T2",
     "sfomuseum:type": "Photography",
+    "sfomuseum_www:exhibition_id": 19058,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -74,7 +75,7 @@
     "wof:id": 1159160443,
     "wof:is_current": 0,
     "wof:label": "Alice Shaw: The Exalted Landscape (2014-03-03 - 2014-05-30)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Alice Shaw: The Exalted Landscape",
     "wof:parent_id": 1360516261,
     "wof:placetype": "installation",

@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 21789,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -74,7 +75,7 @@
     "wof:id": 1159160663,
     "wof:is_current": 0,
     "wof:label": "Student Art: Jose Ortega Elementary (2016-10-03 - 2016-12-30)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Jose Ortega Elementary School: Petal Power",
     "wof:parent_id": 1360516229,
     "wof:placetype": "installation",

@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
+    "sfomuseum_www:exhibition_id": 24387,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -66,7 +67,7 @@
       }
     ],
     "wof:id": 1376960403,
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "David Shannon Lier: Of Heaven and Earth",
     "wof:parent_id": 1159157063,
     "wof:placetype": "installation",

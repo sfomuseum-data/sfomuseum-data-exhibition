@@ -38,6 +38,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T2",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 3583,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -77,7 +78,7 @@
     "wof:id": 1159160309,
     "wof:is_current": 0,
     "wof:label": "Revolutions Per Minute: The Evolution of the Record (2011-10-07 - 2012-03-26)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Revolutions Per Minute: The Evolution of the Record",
     "wof:parent_id": 1360516259,
     "wof:placetype": "installation",

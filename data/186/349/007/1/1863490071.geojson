@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24701,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1863490071,
     "wof:label": "From Mills Field to SFO (2021-11-09)",
-    "wof:lastmodified": 1687250274,
+    "wof:lastmodified": 1702942090,
     "wof:name": "From Mills Field to SFO",
     "wof:parent_id": 1763588495,
     "wof:placetype": "installation",

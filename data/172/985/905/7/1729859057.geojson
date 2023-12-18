@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 24430,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855927,
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1729859057,
     "wof:label": "The Style of Display: Victorian Pedestals (2019-07-23)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "The Style of Display: Victorian Pedestals",
     "wof:parent_id": 1477855961,
     "wof:placetype": "installation",

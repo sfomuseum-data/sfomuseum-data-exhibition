@@ -28,6 +28,7 @@
     "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24575,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
       }
     ],
     "wof:id": 1729842115,
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "The 1954 San Francisco International Airport Terminal",
     "wof:parent_id": 1745882459,
     "wof:placetype": "installation",

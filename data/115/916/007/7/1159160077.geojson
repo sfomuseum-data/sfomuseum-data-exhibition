@@ -36,6 +36,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 3350,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -87,7 +88,7 @@
     "wof:id": 1159160077,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Artwork from PalCare (2009-12-28 - 2010-01-29)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "PalCare: Youthful Creativity",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

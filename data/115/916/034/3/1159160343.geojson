@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 3723,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -74,7 +75,7 @@
     "wof:id": 1159160343,
     "wof:is_current": 0,
     "wof:label": "European Holiday, Air Tourism to Europe during the Postwar Era (2012-07-05 - 2013-01-28)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "European Holiday: Air Tourism to Europe during the Postwar Era",
     "wof:parent_id": 1360516481,
     "wof:placetype": "installation",

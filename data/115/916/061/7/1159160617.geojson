@@ -42,6 +42,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 21211,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -81,7 +82,7 @@
     "wof:id": 1159160617,
     "wof:is_current": 0,
     "wof:label": "The Nation’s Game: A History of the National Football League (2015-09-18 - 2016-03-07)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "The Nation’s Game: The NFL from the Pro Football Hall of Fame",
     "wof:parent_id": 1360516119,
     "wof:placetype": "installation",

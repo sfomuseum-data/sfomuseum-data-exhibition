@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24651,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -91,7 +92,7 @@
     "wof:id": 1159160123,
     "wof:is_current": 0,
     "wof:label": "China Clipper 75th Anniversary (2010-08-13 - 2011-05-31)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "China Clipper 75th Anniversary / Pan Am’s Parade of Uniforms / To Paradise and Beyond: Trans-Pacific Air Service through Hawai’i",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

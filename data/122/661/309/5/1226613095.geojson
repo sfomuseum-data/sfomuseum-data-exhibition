@@ -36,6 +36,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "SOUTH",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 19049,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -69,7 +70,7 @@
     ],
     "wof:id": 1226613095,
     "wof:label": "Doors (1988-08-01 - 1988-10-31)",
-    "wof:lastmodified": 1702930989,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Doors",
     "wof:parent_id": 1360516237,
     "wof:placetype": "installation",

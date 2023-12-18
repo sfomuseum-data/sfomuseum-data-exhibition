@@ -41,6 +41,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 21427,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160545,
     "wof:is_current": 0,
     "wof:label": "The Allure of Art Nouveau:1890-1914 (2016-02-12 - 2016-08-15)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "The Allure of Art Nouveau: 1890-1914",
     "wof:parent_id": 1360516281,
     "wof:placetype": "installation",

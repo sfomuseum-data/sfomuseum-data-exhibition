@@ -41,6 +41,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 21124,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160585,
     "wof:is_current": 0,
     "wof:label": "I Love You California: A Natural History (2015-07-10 - 2016-01-18)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "I Love You California: A Natural History",
     "wof:parent_id": 1360516271,
     "wof:placetype": "installation",

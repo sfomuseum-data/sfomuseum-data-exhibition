@@ -38,6 +38,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 3114,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -103,7 +104,7 @@
     "wof:id": 1159160331,
     "wof:is_current": 0,
     "wof:label": "Inspired Design: Shaker Furniture from the Benjamin Rose Collection (2013-02-15 - 2013-08-12)",
-    "wof:lastmodified": 1702930990,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Inspired Design: Shaker Furniture from the Benjamin Rose Collection",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

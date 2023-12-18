@@ -33,6 +33,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24497,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855927,
@@ -84,7 +85,7 @@
       }
     ],
     "wof:id": 1495157221,
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Flying the Freedom Birds: Airlines and the Vietnam War",
     "wof:parent_id": 1477855947,
     "wof:placetype": "installation",

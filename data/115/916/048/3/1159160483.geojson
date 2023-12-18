@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 19099,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -76,7 +77,7 @@
     "wof:id": 1159160483,
     "wof:is_current": 0,
     "wof:label": "Flights of the Schwaben (2014-03-26 - 2015-02-02)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Flights of the Schwaben",
     "wof:parent_id": 1360541675,
     "wof:placetype": "installation",

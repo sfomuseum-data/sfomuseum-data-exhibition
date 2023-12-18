@@ -39,6 +39,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal_id": "T2",
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 20435,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160515,
     "wof:is_current": 0,
     "wof:label": "Studio Glass, The Art of Marvin Lipofsky, Richard Marquis, John Lewis and Elin Christopherson (2014-10-10 - 2015-05-11)",
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Studio Glass: The Art of Marvin Lipofsky, Richard Marquis, John Lewis and Elin Christopherson",
     "wof:parent_id": 1360516255,
     "wof:placetype": "installation",

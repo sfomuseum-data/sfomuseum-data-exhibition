@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 24500,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855605,
@@ -82,7 +83,7 @@
       }
     ],
     "wof:id": 1495157313,
-    "wof:lastmodified": 1702930991,
+    "wof:lastmodified": 1702942091,
     "wof:name": "Parks in Focus: Ten Years at Yosemite",
     "wof:parent_id": 1477855663,
     "wof:placetype": "installation",
