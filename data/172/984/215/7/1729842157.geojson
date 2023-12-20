@@ -13,7 +13,7 @@
     "geom:bbox": "-122.381495,37.617655,-122.381495,37.617655",
     "geom:latitude": 37.61765503011678,
     "geom:longitude": -122.3814947421135,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2011-03-22",
@@ -63,7 +63,7 @@
       }
     ],
     "wof:id": 1729842157,
-    "wof:lastmodified": 1703061564,
+    "wof:lastmodified": 1703103753,
     "wof:name": "Kids’ Spot: Butterfly Wall",
     "wof:parent_id": 1360516245,
     "wof:placetype": "installation",

@@ -13,6 +13,7 @@
     "geom:bbox": "-122.385208,37.612686,-122.385208,37.612686",
     "geom:latitude": 37.61268608757595,
     "geom:longitude": -122.38520847545882,
+    "millsfield:count_collection_objects": 56,
     "mz:is_current": 0,
     "sfo:level": -1,
     "sfomuseum:date_end": "2022-04-10",
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1746382279,
-    "wof:lastmodified": 1703061564,
+    "wof:lastmodified": 1703103762,
     "wof:name": "Flight Patterns: Airline Uniforms from the 1960s–70s",
     "wof:parent_id": 1745882463,
     "wof:placetype": "installation",
