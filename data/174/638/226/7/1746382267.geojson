@@ -13,6 +13,7 @@
     "geom:bbox": "-122.388191,37.614417,-122.388191,37.614417",
     "geom:latitude": 37.61441704389456,
     "geom:longitude": -122.38819101441787,
+    "millsfield:count_collection_objects": 1,
     "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2023-09-10",
@@ -80,7 +81,7 @@
       }
     ],
     "wof:id": 1746382267,
-    "wof:lastmodified": 1703061564,
+    "wof:lastmodified": 1703103762,
     "wof:name": "Australian Airliners Across the Pacific",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",

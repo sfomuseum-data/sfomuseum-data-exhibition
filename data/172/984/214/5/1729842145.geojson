@@ -13,6 +13,7 @@
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
     "geom:longitude": -122.37385309950533,
+    "millsfield:count_collection_objects": 1,
     "mz:is_current": 0,
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 95,
@@ -57,7 +58,7 @@
       }
     ],
     "wof:id": 1729842145,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1703103762,
     "wof:name": "Icons of San Francisco\r",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",

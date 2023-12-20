@@ -13,6 +13,7 @@
     "geom:bbox": "-122.387911,37.614502,-122.387911,37.614502",
     "geom:latitude": 37.614502386613836,
     "geom:longitude": -122.3879113760689,
+    "millsfield:count_collection_objects": 21,
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2019-11-07",
@@ -79,7 +80,7 @@
       }
     ],
     "wof:id": 1746480481,
-    "wof:lastmodified": 1703061564,
+    "wof:lastmodified": 1703103762,
     "wof:name": "Aeronautical Society Gala 2019",
     "wof:parent_id": 1477855941,
     "wof:placetype": "installation",
