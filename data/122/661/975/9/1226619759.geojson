@@ -24,8 +24,8 @@
     "sfomuseum:exhibition_id": 784,
     "sfomuseum:exhibition_type": "nonaviation",
     "sfomuseum:gallery_id": [
-      19,
-      18
+      18,
+      19
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
@@ -51,21 +51,8 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1614384146,
-    "wof:geomhash": "cafccd816fd2508040c085642d5954bd",
+    "wof:geomhash": "c1744a684ad5a8e5083251cead2ae8b4",
     "wof:hierarchy": [
-      {
-        "building_id": 1159396319,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516197,
-        "installation_id": 1226619759,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159396107
-      },
       {
         "building_id": 1159396319,
         "campus_id": 102527513,
@@ -78,11 +65,24 @@
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396107
+      },
+      {
+        "building_id": 1159396319,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516197,
+        "installation_id": 1226619759,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396107
       }
     ],
     "wof:id": 1226619759,
     "wof:label": "Mapping  America (2005-02-22 - 2005-08-22)",
-    "wof:lastmodified": 1709022932,
+    "wof:lastmodified": 1709109433,
     "wof:name": "Mapping  America",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.38894152323134,
     37.61602910736223
   ],
-  "geometry": {"coordinates":[[-122.3891310124426,37.61602910736223],[-122.38894152323134,37.61542448763906]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223]],"type":"MultiPoint"}
 }
