@@ -50,9 +50,9 @@
       102087579,
       85922583,
       85688637,
-      1159157271,
-      1159157065,
-      1159396121
+      1159396321,
+      1360516261,
+      1159157325
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -63,25 +63,25 @@
     "wof:geomhash": "1fde841405360310145dc691bbe7eb40",
     "wof:hierarchy": [
       {
-        "building_id": 1159157271,
+        "building_id": 1159396321,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1159157065,
+        "enclosure_id": 1360516261,
         "installation_id": 1159160695,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159396121
+        "wing_id": 1159157325
       }
     ],
     "wof:id": 1159160695,
     "wof:is_current": 0,
     "wof:label": "Edna Bullock: Flea Markets (2017-06-13 - 2017-09-26)",
-    "wof:lastmodified": 1710574384,
+    "wof:lastmodified": 1710833599,
     "wof:name": "Edna Bullock: Flea Markets",
-    "wof:parent_id": 1159157065,
+    "wof:parent_id": 1360516261,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
