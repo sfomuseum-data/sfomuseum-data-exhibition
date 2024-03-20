@@ -8,7 +8,7 @@
     "date:inception_upper": "2023-06-10",
     "edtf:cessation": "2024-02-04",
     "edtf:inception": "2023-06-10",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/clara-barck-welles-arts-crafts-silver",
     "geom:area": 0,
     "geom:bbox": "-122.388973,37.614601,-122.388973,37.614601",
     "geom:latitude": 37.614601366959555,
@@ -22,7 +22,7 @@
     "sfomuseum:gallery_id": [
       85
     ],
-    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 0,
@@ -77,7 +77,7 @@
       }
     ],
     "wof:id": 1863768517,
-    "wof:lastmodified": 1710833600,
+    "wof:lastmodified": 1710919966,
     "wof:name": "A New Woman: Clara Barck Welles’ Influence on Arts and Crafts Silver",
     "wof:parent_id": 1763588551,
     "wof:placetype": "installation",
