@@ -8,7 +8,7 @@
     "date:inception_upper": "2023-09-16",
     "edtf:cessation": "2025-09-21",
     "edtf:inception": "2023-09-16",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/harold-bixby-collection",
     "geom:area": 0,
     "geom:bbox": "-122.388191,37.614417,-122.388191,37.614417",
     "geom:latitude": 37.61441704389456,
@@ -23,7 +23,7 @@
     "sfomuseum:gallery_id": [
       42
     ],
-    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
     "sfomuseum:on_display": 1,
@@ -80,7 +80,7 @@
       }
     ],
     "wof:id": 1880380113,
-    "wof:lastmodified": 1710833600,
+    "wof:lastmodified": 1710919966,
     "wof:name": "Bixby Collection (Photo Show)",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",
