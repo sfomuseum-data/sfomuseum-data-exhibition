@@ -25,7 +25,7 @@
     ],
     "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
-    "sfomuseum:hashtag": "",
+    "sfomuseum:hashtag": "#BixbyCollection",
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
@@ -80,7 +80,7 @@
       }
     ],
     "wof:id": 1880380113,
-    "wof:lastmodified": 1710919966,
+    "wof:lastmodified": 1711041799,
     "wof:name": "Bixby Collection (Photo Show)",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",
