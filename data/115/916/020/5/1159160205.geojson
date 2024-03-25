@@ -25,8 +25,8 @@
     "sfomuseum:exhibition_number": "L2010.27",
     "sfomuseum:exhibition_type": "studentart",
     "sfomuseum:gallery_id": [
-      39,
-      40
+      40,
+      39
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
@@ -56,21 +56,8 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949874,
-    "wof:geomhash": "c4b96e91e04d63ffd7b29130fab44271",
+    "wof:geomhash": "f9fc6cd1592beec1747b3eac36769d8a",
     "wof:hierarchy": [
-      {
-        "building_id": 1159396337,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516435,
-        "installation_id": 1159160205,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159396139
-      },
       {
         "building_id": 1159396337,
         "campus_id": 102527513,
@@ -83,12 +70,25 @@
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396139
+      },
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516435,
+        "installation_id": 1159160205,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396139
       }
     ],
     "wof:id": 1159160205,
     "wof:is_current": 0,
     "wof:label": "Children’s Art: Marin School (2010-10-04 - 2010-11-30)",
-    "wof:lastmodified": 1711179159,
+    "wof:lastmodified": 1711351938,
     "wof:name": "The Marin School: Concrete, Glass, Metal, and Sky: Images of San Francisco Architecture",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -107,5 +107,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345],[-122.385472,37.613926]],"type":"MultiPoint"}
 }
