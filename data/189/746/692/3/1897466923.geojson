@@ -13,6 +13,7 @@
     "geom:bbox": "-122.389019,37.615509,-122.388903,37.615809",
     "geom:latitude": 37.61565856860682,
     "geom:longitude": -122.38896089727054,
+    "millsfield:count_collection_objects": 13,
     "mz:is_current": 1,
     "sfo:level": -1,
     "sfomuseum:date_end": "2025-01-26",
@@ -104,7 +105,7 @@
       }
     ],
     "wof:id": 1897466923,
-    "wof:lastmodified": 1713425688,
+    "wof:lastmodified": 1713468270,
     "wof:name": "A Cut Above: Airplane Models from the SFO Museum Collection ",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
