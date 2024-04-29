@@ -47,10 +47,10 @@
       102087579,
       85922583,
       85688637,
-      1159396337,
-      1159396297,
-      1360516223,
-      1159396139
+      1159396333,
+      1159396211,
+      1360516219,
+      1159396163
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -61,26 +61,26 @@
     "wof:geomhash": "2163e1c051ec96dd3ff523be87f13a93",
     "wof:hierarchy": [
       {
-        "building_id": 1159396337,
+        "building_id": 1159396333,
         "campus_id": 102527513,
-        "concourse_id": 1159396297,
+        "concourse_id": 1159396211,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516223,
+        "enclosure_id": 1360516219,
         "installation_id": 1159160227,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159396139
+        "wing_id": 1159396163
       }
     ],
     "wof:id": 1159160227,
     "wof:is_current": 0,
     "wof:label": "Robert Z. Apte: Antarctica (2011-08-01 - 2011-10-31)",
-    "wof:lastmodified": 1714203586,
+    "wof:lastmodified": 1714376322,
     "wof:name": "Robert Z. Apte: Antarctica",
-    "wof:parent_id": 1360516223,
+    "wof:parent_id": 1360516219,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
