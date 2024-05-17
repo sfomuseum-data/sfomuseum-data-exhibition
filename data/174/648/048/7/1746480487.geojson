@@ -20,8 +20,8 @@
     "sfomuseum:description": "v",
     "sfomuseum:exhibition_id": 1873,
     "sfomuseum:gallery_id": [
-      18,
-      19
+      19,
+      18
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
@@ -49,7 +49,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1634245654,
-    "wof:geomhash": "63b9835c73c471c027fa2ac8d6fa82c9",
+    "wof:geomhash": "4e90c7210a07e3f22d3ffb76d32d32e7",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -58,7 +58,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1745882501,
+        "enclosure_id": 1745882503,
         "installation_id": 1746480487,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
@@ -72,7 +72,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "enclosure_id": 1745882501,
+        "enclosure_id": 1745882503,
         "installation_id": 1746480487,
         "region_id": 85688637,
         "wing_id": 1745882335
@@ -84,7 +84,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1745882503,
+        "enclosure_id": 1745882501,
         "installation_id": 1746480487,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
@@ -98,14 +98,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "enclosure_id": 1745882503,
+        "enclosure_id": 1745882501,
         "installation_id": 1746480487,
         "region_id": 85688637,
         "wing_id": 1745882335
       }
     ],
     "wof:id": 1746480487,
-    "wof:lastmodified": 1715845176,
+    "wof:lastmodified": 1715931589,
     "wof:name": "The Victorian Papered Wall",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -122,5 +122,5 @@
     -122.38891566199469,
     37.61581306005303
   ],
-  "geometry": {"coordinates":[[-122.38891566199469,37.6155132707666],[-122.38903199469699,37.61581306005303]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38903199469699,37.61581306005303],[-122.38891566199469,37.6155132707666]],"type":"MultiPoint"}
 }
