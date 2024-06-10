@@ -14,7 +14,7 @@
     "geom:latitude": 37.61489427207149,
     "geom:longitude": -122.38437920019275,
     "mz:is_current": 0,
-    "sfo:level": 2,
+    "sfo:level": 1,
     "sfomuseum:date_end": "2020-06-21",
     "sfomuseum:date_start": "2020-02-01",
     "sfomuseum:description": "",
@@ -40,47 +40,47 @@
       554784711,
       85688637,
       102085387,
-      1477855605,
-      1477855667,
-      1477855663,
-      1477855657
+      1729792387,
+      1729792483,
+      1729837319,
+      1729792435
     ],
     "wof:country": "US",
     "wof:created": 1614384188,
     "wof:geomhash": "d990ba48d4ca43c1f4ebd16379b1fae9",
     "wof:hierarchy": [
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855667,
+        "concourse_id": 1729792483,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1477855663,
+        "enclosure_id": 1729837319,
         "installation_id": 1729859167,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "wing_id": 1477855657
+        "wing_id": 1729792435
       },
       {
-        "building_id": 1477855605,
+        "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1477855667,
+        "concourse_id": 1729792483,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "enclosure_id": 1477855663,
+        "enclosure_id": 1729837319,
         "installation_id": 1729859167,
         "region_id": 85688637,
-        "wing_id": 1477855657
+        "wing_id": 1729792435
       }
     ],
     "wof:id": 1729859167,
     "wof:label": "Art School of San Francisco Bay’s Manga Drawing Club (2020-~05)",
-    "wof:lastmodified": 1717832330,
+    "wof:lastmodified": 1718005185,
     "wof:name": "Art School of San Francisco Bay’s Manga Drawing Club",
-    "wof:parent_id": 1477855663,
+    "wof:parent_id": 1729837319,
     "wof:placetype": "installation",
     "wof:placetype_alt": [
       "exhibition"
