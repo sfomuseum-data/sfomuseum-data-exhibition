@@ -44,9 +44,9 @@
       102087579,
       85922583,
       85688637,
-      1159554803,
-      1360516487,
-      1159554821
+      1159554801,
+      1159157927,
+      1159554819
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -54,24 +54,24 @@
     "wof:geomhash": "c59a2df96458409db1145dd0066e88ea",
     "wof:hierarchy": [
       {
-        "building_id": 1159554803,
+        "building_id": 1159554801,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516487,
+        "enclosure_id": 1159157927,
         "installation_id": 1226613647,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159554821
+        "wing_id": 1159554819
       }
     ],
     "wof:id": 1226613647,
     "wof:label": "Victorian Architecture of San Francisco (1988-01-16 - 1988-12-31)",
-    "wof:lastmodified": 1718609871,
+    "wof:lastmodified": 1718696494,
     "wof:name": "Victorian Architecture of San Francisco",
-    "wof:parent_id": 1360516487,
+    "wof:parent_id": 1159157927,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
