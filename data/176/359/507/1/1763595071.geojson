@@ -15,7 +15,7 @@
     "geom:longitude": -122.38346599781815,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2024-07-14",
+    "sfomuseum:date_end": "2024-10-27",
     "sfomuseum:date_start": "2021-11-20",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2016,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595071,
-    "wof:lastmodified": 1719387511,
+    "wof:lastmodified": 1719473974,
     "wof:name": "Community / Documentary",
     "wof:parent_id": 1763594985,
     "wof:placetype": "installation",
