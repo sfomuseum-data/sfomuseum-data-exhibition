@@ -47,10 +47,10 @@
       102087579,
       85922583,
       85688637,
-      1159396321,
-      1159396315,
-      1360516137,
-      1159396157
+      1159396333,
+      1159396295,
+      1360516139,
+      1159396141
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -61,26 +61,26 @@
     "wof:geomhash": "b074f108c349c510539bdc52894c4914",
     "wof:hierarchy": [
       {
-        "building_id": 1159396321,
+        "building_id": 1159396333,
         "campus_id": 102527513,
-        "concourse_id": 1159396315,
+        "concourse_id": 1159396295,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516137,
+        "enclosure_id": 1360516139,
         "installation_id": 1159160491,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159396157
+        "wing_id": 1159396141
       }
     ],
     "wof:id": 1159160491,
     "wof:is_current": 0,
     "wof:label": "Alcatraz: The Last Day by Leigh Wiener (2014-09-01 - 2014-11-28)",
-    "wof:lastmodified": 1719646599,
+    "wof:lastmodified": 1719819506,
     "wof:name": "Leigh Wiener: Alcatraz: The Last Day ",
-    "wof:parent_id": 1360516137,
+    "wof:parent_id": 1360516139,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
