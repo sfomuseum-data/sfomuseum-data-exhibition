@@ -49,7 +49,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1632339548,
-    "wof:geomhash": "c45add82ad2a2812c44b7aca2366d2b9",
+    "wof:geomhash": "f10cd94d261efad95e72d43d40cceff7",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -81,7 +81,7 @@
       }
     ],
     "wof:id": 1746382267,
-    "wof:lastmodified": 1720684086,
+    "wof:lastmodified": 1720770235,
     "wof:name": "Australian Airliners Across the Pacific",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",
@@ -96,5 +96,5 @@
     -122.38819101441787,
     37.61441704389456
   ],
-  "geometry": {"coordinates":[[-122.38819101441787,37.61441704389456]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38819101441787,37.61441704389456],[-122.38819101441787,37.61441704389456]],"type":"MultiPoint"}
 }
