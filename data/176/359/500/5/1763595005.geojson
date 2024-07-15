@@ -2,16 +2,18 @@
   "id": 1763595005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-02-06",
     "date:inception_upper": "2021-02-06",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-02-06",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
     "geom:longitude": -122.37385309950533,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": -1,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2021-02-06",
@@ -62,13 +64,15 @@
       }
     ],
     "wof:id": 1763595005,
-    "wof:lastmodified": 1687250274,
+    "wof:lastmodified": 1721081411,
     "wof:name": "Special Exhibit: C3C Lobby",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914632777
+    ],
     "wof:supersedes": []
   },
   "bbox": [

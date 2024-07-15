@@ -1,0 +1,81 @@
+{
+  "id": 1914632777,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.61939390848619,
+    "geom:longitude": -122.37385309950533,
+    "mz:is_current": 1,
+    "sfo:level": -1,
+    "sfomuseum:date_end": "",
+    "sfomuseum:date_start": "2021-02-06",
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 1883,
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": -1,
+    "sfomuseum:type": "Photography",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1721081411,
+    "wof:geomhash": "7b93bfff1f215ea4c5091827f9c025f5",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "installation_id": 1914632777,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "installation_id": 1914632777,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1914632777,
+    "wof:label": "Special Exhibit: C3C Lobby (2024-06-17)",
+    "wof:lastmodified": 1721081411,
+    "wof:name": "Special Exhibit: C3C Lobby",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763595005
+    ]
+  },
+  "bbox": [
+    -122.37385309950533,
+    37.61939390848619,
+    -122.37385309950533,
+    37.61939390848619
+  ],
+  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+}

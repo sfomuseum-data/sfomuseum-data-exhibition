@@ -2,11 +2,11 @@
   "id": 1880380113,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-09-21",
-    "date:cessation_upper": "2025-09-21",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2023-09-16",
     "date:inception_upper": "2023-09-16",
-    "edtf:cessation": "2025-09-21",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2023-09-16",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/harold-bixby-collection",
     "geom:area": 0,
@@ -14,7 +14,7 @@
     "geom:latitude": 37.61441704389456,
     "geom:longitude": -122.38819101441787,
     "millsfield:count_collection_objects": 24,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-09-07",
     "sfomuseum:date_start": "2023-09-16",
@@ -82,13 +82,15 @@
       }
     ],
     "wof:id": 1880380113,
-    "wof:lastmodified": 1721029767,
+    "wof:lastmodified": 1721081411,
     "wof:name": "Bixby Collection (Photo Show)",
     "wof:parent_id": 1914589529,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914632783
+    ],
     "wof:supersedes": []
   },
   "bbox": [

@@ -2,16 +2,18 @@
   "id": 1763595023,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.385111,37.614106,-122.385111,37.614106",
     "geom:latitude": 37.614105592105886,
     "geom:longitude": -122.38511066563744,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2021-10-16",
@@ -71,14 +73,15 @@
       }
     ],
     "wof:id": 1763595023,
-    "wof:lastmodified": 1687250274,
+    "wof:lastmodified": 1721081410,
     "wof:name": "Harvey Milk Sterile Connector",
     "wof:parent_id": 1763594987,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
     "wof:superseded_by": [
-      1763595023
+      1763595023,
+      1914632773
     ],
     "wof:supersedes": []
   },

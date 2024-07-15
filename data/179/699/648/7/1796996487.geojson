@@ -2,18 +2,18 @@
   "id": 1796996487,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-11-12",
-    "date:cessation_upper": "2023-11-12",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2022-05-28",
     "date:inception_upper": "2022-05-28",
-    "edtf:cessation": "2023-11-12",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2022-05-28",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/going-the-distance",
     "geom:area": 0,
     "geom:bbox": "-122.388267,37.614505,-122.388267,37.614505",
     "geom:latitude": 37.61450455828342,
     "geom:longitude": -122.38826746081209,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-12-07",
     "sfomuseum:date_start": "2022-05-28",
@@ -71,13 +71,15 @@
       }
     ],
     "wof:id": 1796996487,
-    "wof:lastmodified": 1721029767,
+    "wof:lastmodified": 1721081413,
     "wof:name": "Going the Distance",
     "wof:parent_id": 1796989589,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914632809
+    ],
     "wof:supersedes": []
   },
   "bbox": [

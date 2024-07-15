@@ -1,0 +1,101 @@
+{
+  "id": 1914632769,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/harold-bixby-collection",
+    "geom:area": 0,
+    "geom:bbox": "-122.388114,37.614436,-122.388114,37.614436",
+    "geom:latitude": 37.614435579369285,
+    "geom:longitude": -122.38811414961698,
+    "millsfield:count_collection_objects": 23,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:date_end": "2025-09-07",
+    "sfomuseum:date_start": "2023-09-23",
+    "sfomuseum:description": "Note: there are two Bixby Collection exhibits; Book Show and AML Photo Show",
+    "sfomuseum:exhibition_id": 1852,
+    "sfomuseum:gallery_id": [
+      31
+    ],
+    "sfomuseum:has_brochure": 1,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "#BixbyCollection",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24924,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914601171,
+      1914600839,
+      1914601135,
+      1914601183,
+      1914600999
+    ],
+    "wof:country": "US",
+    "wof:created": 1721081410,
+    "wof:geomhash": "fe3e6e60565064257d9f9609d0612ed7",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1914601171,
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601135,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1914601183,
+        "installation_id": 1914632769,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1914600999
+      },
+      {
+        "arcade_id": 1914601171,
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601135,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1914601183,
+        "installation_id": 1914632769,
+        "region_id": 85688637,
+        "wing_id": 1914600999
+      }
+    ],
+    "wof:id": 1914632769,
+    "wof:label": "The Harold Bixby Collection: Unlocking an Archival Treasure (2024-06-17)",
+    "wof:lastmodified": 1721081410,
+    "wof:name": "The Harold Bixby Collection: Unlocking an Archival Treasure",
+    "wof:parent_id": 1914601183,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1880431449
+    ]
+  },
+  "bbox": [
+    -122.38811414961698,
+    37.614435579369285,
+    -122.38811414961698,
+    37.614435579369285
+  ],
+  "geometry": {"coordinates":[[-122.38811414961698,37.614435579369285]],"type":"MultiPoint"}
+}
