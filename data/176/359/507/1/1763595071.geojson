@@ -2,18 +2,18 @@
   "id": 1763595071,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2022-12-04",
-    "date:cessation_upper": "2022-12-04",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-20",
     "date:inception_upper": "2021-11-20",
-    "edtf:cessation": "2022-12-04",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-20",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.383466,37.617599,-122.383466,37.617599",
     "geom:latitude": 37.617598890046914,
     "geom:longitude": -122.38346599781815,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2024-10-27",
     "sfomuseum:date_start": "2021-11-20",
@@ -82,7 +82,9 @@
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914632795
+    ],
     "wof:supersedes": []
   },
   "bbox": [
