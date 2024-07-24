@@ -22,7 +22,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "Photography",
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1763595005,
-    "wof:lastmodified": 1721081411,
+    "wof:lastmodified": 1721806815,
     "wof:name": "Special Exhibit: C3C Lobby",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",

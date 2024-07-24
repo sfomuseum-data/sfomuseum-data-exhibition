@@ -13,7 +13,7 @@
     "geom:bbox": "-122.388267,37.614505,-122.388267,37.614505",
     "geom:latitude": 37.61450455828342,
     "geom:longitude": -122.38826746081209,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-12-07",
     "sfomuseum:date_start": "2022-05-28",
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1673044448,
-    "wof:geomhash": "b8e89b6448e92043cbda6e8c86ee5f0c",
+    "wof:geomhash": "1cddf0f11460f6455acdd9101696fbcc",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1796996487,
-    "wof:lastmodified": 1721720527,
+    "wof:lastmodified": 1721806811,
     "wof:name": "Going the Distance",
     "wof:parent_id": 1796989589,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38826746081209,
     37.61450455828342
   ],
-  "geometry": {"coordinates":[[-122.38826746081209,37.61450455828342]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38826746081209,37.61450455828342],[-122.38826746081209,37.61450455828342]],"type":"MultiPoint"}
 }

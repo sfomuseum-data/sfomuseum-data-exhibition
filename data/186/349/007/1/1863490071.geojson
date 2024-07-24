@@ -25,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
@@ -43,13 +43,15 @@
       1763588121,
       1763588165,
       1763588495,
-      1763588123
+      1763588123,
+      1779443981
     ],
     "wof:country": "US",
     "wof:created": 1632339548,
-    "wof:geomhash": "6972014a9f06e3943cbd35d823c7cfaa",
+    "wof:geomhash": "92695dad2a1c0e9bec9c16d89fd21cd5",
     "wof:hierarchy": [
       {
+        "arcade_id": 1779443981,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588165,
@@ -64,6 +66,7 @@
         "wing_id": 1763588123
       },
       {
+        "arcade_id": 1779443981,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588165,
@@ -78,7 +81,7 @@
     ],
     "wof:id": 1863490071,
     "wof:label": "From Mills Field to SFO (2021-11-09)",
-    "wof:lastmodified": 1721081410,
+    "wof:lastmodified": 1721806815,
     "wof:name": "From Mills Field to SFO",
     "wof:parent_id": 1763588495,
     "wof:placetype": "installation",
@@ -97,5 +100,5 @@
     -122.3835114813095,
     37.6173867757363
   ],
-  "geometry": {"coordinates":[[-122.3835114813095,37.6173867757363],[-122.3835114813095,37.6173867757363]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3835114813095,37.6173867757363]],"type":"MultiPoint"}
 }
