@@ -14,7 +14,7 @@
     "geom:latitude": 37.61441704389456,
     "geom:longitude": -122.38819101441787,
     "millsfield:count_collection_objects": 24,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-09-07",
     "sfomuseum:date_start": "2023-09-16",
@@ -82,7 +82,7 @@
       }
     ],
     "wof:id": 1880380113,
-    "wof:lastmodified": 1721806811,
+    "wof:lastmodified": 1721839096,
     "wof:name": "Bixby Collection (Photo Show)",
     "wof:parent_id": 1914589529,
     "wof:placetype": "installation",
