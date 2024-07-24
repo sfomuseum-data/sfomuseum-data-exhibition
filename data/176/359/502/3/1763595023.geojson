@@ -25,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1763595023,
-    "wof:lastmodified": 1721081410,
+    "wof:lastmodified": 1721806815,
     "wof:name": "Harvey Milk Sterile Connector",
     "wof:parent_id": 1763594987,
     "wof:placetype": "installation",

@@ -17,6 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:level": 1,
     "sfomuseum:building_id": "SFO",
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2006-05-08",
@@ -31,7 +32,7 @@
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:terminal_id": "T3",
@@ -59,7 +60,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949828,
-    "wof:geomhash": "604359a02431bd0a29676f4c9f0214f3",
+    "wof:geomhash": "231c69d3a4dcf7f6854550ca33ad8c26",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -91,7 +92,7 @@
     "wof:id": 1863490205,
     "wof:is_current": -1,
     "wof:label": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection (2021-11-09)",
-    "wof:lastmodified": 1721081411,
+    "wof:lastmodified": 1721806815,
     "wof:name": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection",
     "wof:parent_id": 1763588537,
     "wof:placetype": "installation",
@@ -114,5 +115,5 @@
     -122.38803434415398,
     37.61722613139902
   ],
-  "geometry": {"coordinates":[[-122.38803434415398,37.61722613139902],[-122.38803434415398,37.61722613139902]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38803434415398,37.61722613139902]],"type":"MultiPoint"}
 }
