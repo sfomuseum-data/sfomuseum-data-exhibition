@@ -13,7 +13,7 @@
     "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
     "geom:latitude": 37.614635906352255,
     "geom:longitude": -122.3871579788049,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:date_end": "2024-10-27",
     "sfomuseum:date_start": "2024-04-27",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1913928771,
-    "wof:lastmodified": 1721839224,
+    "wof:lastmodified": 1721893127,
     "wof:name": "CCSF Prints: 45 Years of Prints from the Fort Mason Campus",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",
