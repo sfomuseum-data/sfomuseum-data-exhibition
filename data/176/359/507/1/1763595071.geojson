@@ -46,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651003452,
-    "wof:geomhash": "cc95274a687605743826e677c86cefec",
+    "wof:geomhash": "d73f192fa046af92be5920623b8f7318",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595071,
-    "wof:lastmodified": 1721893127,
+    "wof:lastmodified": 1721979615,
     "wof:name": "Community / Documentary",
     "wof:parent_id": 1763594985,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38346599781815,
     37.617598890046914
   ],
-  "geometry": {"coordinates":[[-122.38346599781815,37.617598890046914],[-122.38346599781815,37.617598890046914]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38346599781815,37.617598890046914]],"type":"MultiPoint"}
 }
