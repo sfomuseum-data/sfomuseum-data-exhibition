@@ -48,9 +48,7 @@
       1159396337,
       1360516435,
       1159396139,
-      1159396333,
-      1360516231,
-      1159396163
+      1360516233
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -74,23 +72,23 @@
         "wing_id": 1159396139
       },
       {
-        "building_id": 1159396333,
+        "building_id": 1159396337,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516231,
+        "enclosure_id": 1360516233,
         "installation_id": 1159160223,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "wing_id": 1159396163
+        "wing_id": 1159396139
       }
     ],
     "wof:id": 1159160223,
     "wof:is_current": 0,
     "wof:label": "Children’s Art: The Spirit of Mount Fuji/Reflections on Self-Portraits, Creative Arts Charter School (2011-06-01 - 2011-07-29)",
-    "wof:lastmodified": 1723495140,
+    "wof:lastmodified": 1723571326,
     "wof:name": "Creative Arts Charter School: The Spirit of Mount Fuji ; Reflections on Self-Portraits",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
