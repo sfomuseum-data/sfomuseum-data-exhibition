@@ -12,7 +12,7 @@
     "geom:area": 0,
     "geom:area_square_m": 723.824295,
     "geom:bbox": "-122.389725,37.615424,-122.388942,37.616594",
-    "geom:latitude": 37.61601572584075,
+    "geom:latitude": 37.61601572584074,
     "geom:longitude": -122.38926591369807,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -25,9 +25,9 @@
     "sfomuseum:exhibition_number": "L2003.23",
     "sfomuseum:exhibition_type": "nonaviation",
     "sfomuseum:gallery_id": [
+      19,
       20,
-      18,
-      19
+      18
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
@@ -57,8 +57,21 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949765,
-    "wof:geomhash": "48e927a020f8c0981582c13010864be3",
+    "wof:geomhash": "4e40fdf3bc0fd336ee74ddbc17bbe83f",
     "wof:hierarchy": [
+      {
+        "building_id": 1159396319,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516197,
+        "installation_id": 1159159469,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396107
+      },
       {
         "building_id": 1159396319,
         "campus_id": 102527513,
@@ -84,25 +97,12 @@
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396107
-      },
-      {
-        "building_id": 1159396319,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516197,
-        "installation_id": 1159159469,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159396107
       }
     ],
     "wof:id": 1159159469,
     "wof:is_current": 0,
     "wof:label": "S.S. Normandie (2004-05-18 - 2005-01-24)",
-    "wof:lastmodified": 1724484642,
+    "wof:lastmodified": 1724657438,
     "wof:name": "S.S. Normandie",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -121,5 +121,5 @@
     -122.38894152323134,
     37.61659358252093
   ],
-  "geometry": {"coordinates":[[-122.38972520542025,37.61659358252093],[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3891310124426,37.61602910736223],[-122.38972520542025,37.61659358252093],[-122.38894152323134,37.61542448763906]],"type":"MultiPoint"}
 }
