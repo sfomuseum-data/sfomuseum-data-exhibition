@@ -11,7 +11,7 @@
     "geom:bbox": "-122.382108,37.617417,-122.382108,37.617417",
     "geom:latitude": 37.61741735957677,
     "geom:longitude": -122.38210800323661,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2024-09-22",
     "sfomuseum:date_start": "2023-05-20",
@@ -23,7 +23,7 @@
     "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "#UnknownMuseum",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721081411,
-    "wof:geomhash": "bf862873e946e18617d649c76666341b",
+    "wof:geomhash": "4f79faebde04bb42e715a42ccd95785a",
     "wof:hierarchy": [
       {
         "building_id": 1914600839,
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1914632781,
     "wof:label": "Recollections... from the Unknown Museum (2024-06-17)",
-    "wof:lastmodified": 1721081411,
+    "wof:lastmodified": 1727198266,
     "wof:name": "Recollections... from the Unknown Museum",
     "wof:parent_id": 1914601391,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38210800323661,
     37.61741735957677
   ],
-  "geometry": {"coordinates":[[-122.38210800323661,37.61741735957677]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38210800323661,37.61741735957677],[-122.38210800323661,37.61741735957677]],"type":"MultiPoint"}
 }
