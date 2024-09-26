@@ -15,6 +15,7 @@
     "geom:latitude": 37.614512,
     "geom:longitude": -122.387939,
     "iso:country": "US",
+    "millsfield:count_collection_objects": 2,
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfo:level": 3,
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1377462859,
-    "wof:lastmodified": 1727374452,
+    "wof:lastmodified": 1727392435,
     "wof:name": "Aluminum: The Miracle Metal of Aviation",
     "wof:parent_id": 1360541667,
     "wof:placetype": "installation",

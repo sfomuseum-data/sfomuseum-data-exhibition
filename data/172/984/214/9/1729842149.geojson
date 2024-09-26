@@ -13,6 +13,7 @@
     "geom:bbox": "-122.387970,37.614314,-122.387970,37.614314",
     "geom:latitude": 37.614313674666654,
     "geom:longitude": -122.38796986286737,
+    "millsfield:count_collection_objects": 23,
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2020-11-22",
@@ -80,7 +81,7 @@
       }
     ],
     "wof:id": 1729842149,
-    "wof:lastmodified": 1727374452,
+    "wof:lastmodified": 1727392435,
     "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
     "wof:parent_id": 1477855955,
     "wof:placetype": "installation",
