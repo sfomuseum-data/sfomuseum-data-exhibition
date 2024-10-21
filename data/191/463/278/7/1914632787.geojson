@@ -11,7 +11,7 @@
     "geom:bbox": "-122.389718,37.616529,-122.389718,37.616529",
     "geom:latitude": 37.616528705005116,
     "geom:longitude": -122.38971793359582,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2024-10-20",
     "sfomuseum:date_start": "2023-08-19",
@@ -23,7 +23,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721081411,
-    "wof:geomhash": "7a1b801c5a488a26f4b699e2744aa0a3",
+    "wof:geomhash": "9d6d1f81462d778ac23ed98d9f6fc0c0",
     "wof:hierarchy": [
       {
         "building_id": 1914600839,
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1914632787,
     "wof:label": "The Enduring Spirit of Haitian Metal Sculpture (2024-06-17)",
-    "wof:lastmodified": 1721081411,
+    "wof:lastmodified": 1729495677,
     "wof:name": "The Enduring Spirit of Haitian Metal Sculpture",
     "wof:parent_id": 1914601147,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38971793359582,
     37.616528705005116
   ],
-  "geometry": {"coordinates":[[-122.38971793359582,37.616528705005116]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38971793359582,37.616528705005116],[-122.38971793359582,37.616528705005116]],"type":"MultiPoint"}
 }
