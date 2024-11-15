@@ -15,7 +15,7 @@
     "geom:longitude": -122.38346599781815,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2025-11-30",
+    "sfomuseum:date_end": "2025-11-02",
     "sfomuseum:date_start": "2024-11-02",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2148,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1947254285,
-    "wof:lastmodified": 1731573066,
+    "wof:lastmodified": 1731659476,
     "wof:name": "Wendel White: Schools for the Colored (2024)",
     "wof:parent_id": 1914601395,
     "wof:placetype": "installation",

@@ -8,13 +8,13 @@
     "edtf:inception": "2024-06-17",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/vx-forever",
     "geom:area": 0,
-    "geom:bbox": "-122.388025,37.614552,-122.388025,37.614552",
-    "geom:latitude": 37.61455159013738,
-    "geom:longitude": -122.38802501835971,
+    "geom:bbox": "-122.388145,37.614571,-122.388145,37.614571",
+    "geom:latitude": 37.614570544252,
+    "geom:longitude": -122.38814488455577,
     "millsfield:count_collection_objects": 60,
     "mz:is_current": 1,
     "sfo:level": 3,
-    "sfomuseum:date_end": "2025-11-02",
+    "sfomuseum:date_end": "2025-11-16",
     "sfomuseum:date_start": "2023-12-16",
     "sfomuseum:description": "+",
     "sfomuseum:exhibition_id": 1875,
@@ -47,7 +47,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721081412,
-    "wof:geomhash": "b063ce95be8103d57897670f98642f77",
+    "wof:geomhash": "a3fd09730145359dbef951dc7af2881a",
     "wof:hierarchy": [
       {
         "arcade_id": 1914601171,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1914632803,
     "wof:label": "VX Forever: The Legacy of Virgin America (2024-06-17)",
-    "wof:lastmodified": 1721081412,
+    "wof:lastmodified": 1731659476,
     "wof:name": "VX Forever: The Legacy of Virgin America",
     "wof:parent_id": 1914601179,
     "wof:placetype": "installation",
@@ -92,10 +92,10 @@
     ]
   },
   "bbox": [
-    -122.38802501835971,
-    37.61455159013738,
-    -122.38802501835971,
-    37.61455159013738
+    -122.38814488455577,
+    37.614570544252,
+    -122.38814488455577,
+    37.614570544252
   ],
-  "geometry": {"coordinates":[[-122.38802501835971,37.61455159013738]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38814488455577,37.614570544252],[-122.38814488455577,37.614570544252]],"type":"MultiPoint"}
 }
