@@ -2,18 +2,18 @@
   "id": 1880407801,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-09-21",
-    "date:cessation_upper": "2025-09-21",
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2023-09-16",
     "date:inception_upper": "2023-09-16",
-    "edtf:cessation": "2025-09-21",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2023-09-16",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.388141,37.614571,-122.388141,37.614571",
     "geom:latitude": 37.61457100582541,
     "geom:longitude": -122.38814133127784,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-09-07",
     "sfomuseum:date_start": "2023-09-16",
@@ -73,13 +73,15 @@
       }
     ],
     "wof:id": 1880407801,
-    "wof:lastmodified": 1720684087,
+    "wof:lastmodified": 1731966172,
     "wof:name": "Special Collections Poster: CNAC",
     "wof:parent_id": 1763595187,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305537
+    ],
     "wof:supersedes": []
   },
   "bbox": [

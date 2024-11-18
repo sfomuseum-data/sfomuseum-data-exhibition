@@ -1,0 +1,97 @@
+{
+  "id": 1947305573,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/going-the-distance",
+    "geom:area": 0,
+    "geom:bbox": "-122.388267,37.614505,-122.388267,37.614505",
+    "geom:latitude": 37.61450455828342,
+    "geom:longitude": -122.38826746081209,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:date_end": "2025-12-07",
+    "sfomuseum:date_start": "2022-05-28",
+    "sfomuseum:description": "Wright Whirlwind J5 engine (Patterson)\rCurtiss OXX-6 engine (Patterson)\rMonte Chase propeller\rWings of History propeller",
+    "sfomuseum:exhibition_id": 1874,
+    "sfomuseum:gallery_id": [
+      82
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24737,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304235,
+      1947304067,
+      1947304205,
+      1947304069
+    ],
+    "wof:country": "US",
+    "wof:created": 1731966177,
+    "wof:geomhash": "b8e89b6448e92043cbda6e8c86ee5f0c",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1947304235,
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "installation_id": 1947305573,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1947304069
+      },
+      {
+        "arcade_id": 1947304235,
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "installation_id": 1947305573,
+        "region_id": 85688637,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 1947305573,
+    "wof:label": "Going the Distance (2024-11-05)",
+    "wof:lastmodified": 1731966177,
+    "wof:name": "Going the Distance",
+    "wof:parent_id": 1947304235,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914632809
+    ]
+  },
+  "bbox": [
+    -122.38826746081209,
+    37.61450455828342,
+    -122.38826746081209,
+    37.61450455828342
+  ],
+  "geometry": {"coordinates":[[-122.38826746081209,37.61450455828342]],"type":"MultiPoint"}
+}

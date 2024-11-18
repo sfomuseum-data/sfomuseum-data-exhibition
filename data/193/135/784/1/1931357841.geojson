@@ -2,18 +2,18 @@
   "id": 1931357841,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-06-08",
-    "date:cessation_upper": "2025-06-08",
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-10-26",
     "date:inception_upper": "2024-10-26",
-    "edtf:cessation": "2025-06-08",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-10-26",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.389718,37.616529,-122.389718,37.616529",
     "geom:latitude": 37.616528705005116,
     "geom:longitude": -122.38971793359582,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-06-08",
     "sfomuseum:date_start": "2024-10-26",
@@ -76,13 +76,15 @@
       }
     ],
     "wof:id": 1931357841,
-    "wof:lastmodified": 1731918657,
+    "wof:lastmodified": 1731966177,
     "wof:name": "California Decorative Tile",
     "wof:parent_id": 1914601147,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305575
+    ],
     "wof:supersedes": []
   },
   "bbox": [

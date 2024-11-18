@@ -1,0 +1,96 @@
+{
+  "id": 1947305553,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384620,37.614113,-122.384620,37.614113",
+    "geom:latitude": 37.614113087815774,
+    "geom:longitude": -122.38461961187014,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:date_end": "",
+    "sfomuseum:date_start": "2024-06-15",
+    "sfomuseum:description": "This is an evergreen exhibition with an ongoing timeline.",
+    "sfomuseum:exhibition_id": 2136,
+    "sfomuseum:gallery_id": [
+      76
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:type": "Photography",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304383,
+      1947304393,
+      1947304259
+    ],
+    "wof:country": "US",
+    "wof:created": 1731966174,
+    "wof:geomhash": "2c8f21faa1e7c054af0bacbcf27767f2",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304383,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1947304393,
+        "installation_id": 1947305553,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304383,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1947304393,
+        "installation_id": 1947305553,
+        "region_id": 85688637,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 1947305553,
+    "wof:label": "Flying on Display: Aviation at the Panama-Pacific International Exposition (2024-11-05)",
+    "wof:lastmodified": 1731966174,
+    "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
+    "wof:parent_id": 1947304393,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1930439815
+    ]
+  },
+  "bbox": [
+    -122.38461961187014,
+    37.614113087815774,
+    -122.38461961187014,
+    37.614113087815774
+  ],
+  "geometry": {"coordinates":[[-122.38461961187014,37.614113087815774]],"type":"MultiPoint"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1947305549,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388100,37.617116,-122.388100,37.617116",
+    "geom:latitude": 37.617116154235454,
+    "geom:longitude": -122.38809991573606,
+    "mz:is_current": 1,
+    "sfo:level": 1,
+    "sfomuseum:date_end": "",
+    "sfomuseum:date_start": "2020-08-01",
+    "sfomuseum:description": "Long-term aviation photography exhibit.",
+    "sfomuseum:exhibition_id": 1885,
+    "sfomuseum:gallery_id": [
+      68
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:type": "Aviation",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304579,
+      1947304583,
+      1947304447
+    ],
+    "wof:country": "US",
+    "wof:created": 1731966173,
+    "wof:geomhash": "4d5ea27dc8572d47863e41747d63f53f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304579,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1947304583,
+        "installation_id": 1947305549,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304579,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1947304583,
+        "installation_id": 1947305549,
+        "region_id": 85688637,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 1947305549,
+    "wof:label": "Model Aircraft from the Aviation Collection (2024-11-05)",
+    "wof:lastmodified": 1731966173,
+    "wof:name": "Model Aircraft from the Aviation Collection",
+    "wof:parent_id": 1947304583,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": [
+      "exhibition"
+    ],
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914632771
+    ]
+  },
+  "bbox": [
+    -122.38809991573606,
+    37.617116154235454,
+    -122.38809991573606,
+    37.617116154235454
+  ],
+  "geometry": {"coordinates":[[-122.38809991573606,37.617116154235454],[-122.38809991573606,37.617116154235454]],"type":"MultiPoint"}
+}

@@ -2,18 +2,18 @@
   "id": 1931411063,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-04-27",
-    "date:cessation_upper": "2025-04-27",
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-11-02",
     "date:inception_upper": "2024-11-02",
-    "edtf:cessation": "2025-04-27",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-11-02",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
     "geom:latitude": 37.614635906352255,
     "geom:longitude": -122.3871579788049,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2025-04-27",
     "sfomuseum:date_start": "2024-11-02",
@@ -76,13 +76,15 @@
       }
     ],
     "wof:id": 1931411063,
-    "wof:lastmodified": 1731918657,
+    "wof:lastmodified": 1731966175,
     "wof:name": "Here and Home: Contemporary Photography by Students of the Photography Program at the California College of the Arts",
     "wof:parent_id": 1914601259,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305555
+    ],
     "wof:supersedes": []
   },
   "bbox": [
