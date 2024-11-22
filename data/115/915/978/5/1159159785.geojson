@@ -25,8 +25,8 @@
     "sfomuseum:exhibition_number": "L2006.07",
     "sfomuseum:exhibition_type": "studentart",
     "sfomuseum:gallery_id": [
-      40,
-      39
+      39,
+      40
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
@@ -55,21 +55,8 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949809,
-    "wof:geomhash": "f9fc6cd1592beec1747b3eac36769d8a",
+    "wof:geomhash": "c4b96e91e04d63ffd7b29130fab44271",
     "wof:hierarchy": [
-      {
-        "building_id": 1159396319,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516235,
-        "installation_id": 1159159785,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159396115
-      },
       {
         "building_id": 1159396319,
         "campus_id": 102527513,
@@ -82,12 +69,25 @@
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396115
+      },
+      {
+        "building_id": 1159396319,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516235,
+        "installation_id": 1159159785,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396115
       }
     ],
     "wof:id": 1159159785,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Oasis for Girls (2006-04-01 - 2006-05-31)",
-    "wof:lastmodified": 1731918655,
+    "wof:lastmodified": 1732264539,
     "wof:name": "Oasis for Girls: Studio Oasis",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -106,5 +106,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345],[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
 }
