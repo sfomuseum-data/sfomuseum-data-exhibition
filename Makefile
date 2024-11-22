@@ -1,11 +1,18 @@
 OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 
+CWD=$(shell pwd)
+
+# https://github.com/whosonfirst/go-whosonfirst-exportify#wof-as-featurecollection
+AS_FEATURECOLLECTION=$(shell which wof-as-featurecollection)
+
+current:
+	mkdir -p work
+	$(AS_FEATURECOLLECTION) \
+		-iterator-uri 'repo://?include=properties.mz:is_current=1' \
+		$(CWD) > work/exhibition.geojson
+
 x:
 	wof-exportify -s data -i $(ID)
-
-metafiles:
-	if test ! -d meta; then mkdir meta; fi
-	utils/$(OS)/wof-build-metafiles -out meta .
 
 prune:
 	git gc --aggressive --prune
