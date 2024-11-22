@@ -2,18 +2,18 @@
   "id": 1931132229,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-07-06",
-    "date:cessation_upper": "2025-07-06",
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-09-28",
     "date:inception_upper": "2024-09-28",
-    "edtf:cessation": "2025-07-06",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-09-28",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/san-francisco",
     "geom:area": 0,
     "geom:bbox": "-122.382108,37.617417,-122.382108,37.617417",
     "geom:latitude": 37.61741735957677,
     "geom:longitude": -122.38210800323661,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2025-07-06",
     "sfomuseum:date_start": "2024-09-28",
@@ -76,13 +76,15 @@
       }
     ],
     "wof:id": 1931132229,
-    "wof:lastmodified": 1732264542,
+    "wof:lastmodified": 1732312292,
     "wof:name": "San Francisco: City of the World",
     "wof:parent_id": 1914601391,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305571
+    ],
     "wof:supersedes": []
   },
   "bbox": [

@@ -2,16 +2,18 @@
   "id": 1914632799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.384673,37.612926,-122.384673,37.612926",
     "geom:latitude": 37.61292608946352,
     "geom:longitude": -122.38467290046805,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2025-04-13",
     "sfomuseum:date_start": "2024-05-11",
@@ -75,13 +77,15 @@
     ],
     "wof:id": 1914632799,
     "wof:label": "The Art of the African Instrument (2024-06-17)",
-    "wof:lastmodified": 1721081412,
+    "wof:lastmodified": 1731966176,
     "wof:name": "The Art of the African Instrument",
     "wof:parent_id": 1914601261,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305567
+    ],
     "wof:supersedes": [
       1913928769
     ]

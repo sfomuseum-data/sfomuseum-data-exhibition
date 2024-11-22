@@ -2,16 +2,18 @@
   "id": 1763595003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2021-11-01",
     "date:inception_upper": "2021-11-01",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2021-11-01",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.388036,37.614455,-122.388036,37.614455",
     "geom:latitude": 37.61445519279513,
     "geom:longitude": -122.38803563510608,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2021-11-19",
@@ -77,13 +79,15 @@
       }
     ],
     "wof:id": 1763595003,
-    "wof:lastmodified": 1720684086,
+    "wof:lastmodified": 1731966171,
     "wof:name": "China Clipper (Propeller)",
     "wof:parent_id": 1729813737,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305531
+    ],
     "wof:supersedes": []
   },
   "bbox": [

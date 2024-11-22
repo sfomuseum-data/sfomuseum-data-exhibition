@@ -1,0 +1,96 @@
+{
+  "id": 1947305531,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388036,37.614455,-122.388036,37.614455",
+    "geom:latitude": 37.61445519279513,
+    "geom:longitude": -122.38803563510608,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:date_end": "",
+    "sfomuseum:date_start": "2021-11-19",
+    "sfomuseum:description": "Hamilton Standard 3E 50-97 Constant Speed Propeller, part of the “AML Lobby Pan American Airways” long term exhibit with 3 hanging airline models (see exhibit L2022.08).",
+    "sfomuseum:exhibition_id": 1880,
+    "sfomuseum:gallery_id": [
+      62
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:type": "Aviation",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304235,
+      1947304067,
+      1947304205,
+      1947304069
+    ],
+    "wof:country": "US",
+    "wof:created": 1731966171,
+    "wof:geomhash": "cdff11012b2ab08e3c8bbfc2b8616a72",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1947304235,
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "installation_id": 1947305531,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1947304069
+      },
+      {
+        "arcade_id": 1947304235,
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "installation_id": 1947305531,
+        "region_id": 85688637,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 1947305531,
+    "wof:label": "China Clipper (Propeller) (2024-11-05)",
+    "wof:lastmodified": 1731966171,
+    "wof:name": "China Clipper (Propeller)",
+    "wof:parent_id": 1947304235,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763595003
+    ]
+  },
+  "bbox": [
+    -122.38803563510608,
+    37.61445519279513,
+    -122.38803563510608,
+    37.61445519279513
+  ],
+  "geometry": {"coordinates":[[-122.38803563510608,37.61445519279513]],"type":"MultiPoint"}
+}

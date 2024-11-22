@@ -1,0 +1,101 @@
+{
+  "id": 1947305541,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/vx-forever",
+    "geom:area": 0,
+    "geom:bbox": "-122.388145,37.614571,-122.388145,37.614571",
+    "geom:latitude": 37.614570544252,
+    "geom:longitude": -122.38814488455577,
+    "millsfield:count_collection_objects": 60,
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:date_end": "2025-11-16",
+    "sfomuseum:date_start": "2023-12-16",
+    "sfomuseum:description": "+",
+    "sfomuseum:exhibition_id": 1875,
+    "sfomuseum:gallery_id": [
+      27
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24949,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304235,
+      1947304067,
+      1947304205,
+      1947304253,
+      1947304069
+    ],
+    "wof:country": "US",
+    "wof:created": 1731966172,
+    "wof:geomhash": "a3fd09730145359dbef951dc7af2881a",
+    "wof:hierarchy": [
+      {
+        "arcade_id": 1947304235,
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1947304253,
+        "installation_id": 1947305541,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1947304069
+      },
+      {
+        "arcade_id": 1947304235,
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1947304253,
+        "installation_id": 1947305541,
+        "region_id": 85688637,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 1947305541,
+    "wof:label": "VX Forever: The Legacy of Virgin America (2024-11-05)",
+    "wof:lastmodified": 1731966172,
+    "wof:name": "VX Forever: The Legacy of Virgin America",
+    "wof:parent_id": 1947304253,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914632803
+    ]
+  },
+  "bbox": [
+    -122.38814488455577,
+    37.614570544252,
+    -122.38814488455577,
+    37.614570544252
+  ],
+  "geometry": {"coordinates":[[-122.38814488455577,37.614570544252],[-122.38814488455577,37.614570544252]],"type":"MultiPoint"}
+}

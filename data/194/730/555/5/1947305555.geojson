@@ -1,0 +1,96 @@
+{
+  "id": 1947305555,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
+    "geom:latitude": 37.614635906352255,
+    "geom:longitude": -122.3871579788049,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:date_end": "2025-04-27",
+    "sfomuseum:date_start": "2024-11-02",
+    "sfomuseum:description": "",
+    "sfomuseum:exhibition_id": 2149,
+    "sfomuseum:gallery_id": [
+      79
+    ],
+    "sfomuseum:has_brochure": 0,
+    "sfomuseum:has_catalog": 0,
+    "sfomuseum:hashtag": "",
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "exhibition",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:type": "Student Art",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304261,
+      1947304327,
+      1947304259
+    ],
+    "wof:country": "US",
+    "wof:created": 1731966175,
+    "wof:geomhash": "c87c570dc505cf2a1bf597855c3f752c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1947304327,
+        "installation_id": 1947305555,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304261,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1947304327,
+        "installation_id": 1947305555,
+        "region_id": 85688637,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 1947305555,
+    "wof:label": "Here and Home: Contemporary Photography by Students of the Photography Program at the California College of the Arts (2024-11-05)",
+    "wof:lastmodified": 1731966175,
+    "wof:name": "Here and Home: Contemporary Photography by Students of the Photography Program at the California College of the Arts",
+    "wof:parent_id": 1947304327,
+    "wof:placetype": "installation",
+    "wof:placetype_alt": "exhibition",
+    "wof:repo": "sfomuseum-data-exhibition",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1931411063
+    ]
+  },
+  "bbox": [
+    -122.3871579788049,
+    37.614635906352255,
+    -122.3871579788049,
+    37.614635906352255
+  ],
+  "geometry": {"coordinates":[[-122.3871579788049,37.614635906352255]],"type":"MultiPoint"}
+}

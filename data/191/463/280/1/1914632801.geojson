@@ -2,16 +2,18 @@
   "id": 1914632801,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/heroes-del-brillo",
     "geom:area": 0,
     "geom:bbox": "-122.384921,37.617924,-122.384921,37.617924",
     "geom:latitude": 37.617923793113434,
     "geom:longitude": -122.3849209067321,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2024-12-01",
     "sfomuseum:date_start": "2023-12-02",
@@ -76,13 +78,15 @@
     ],
     "wof:id": 1914632801,
     "wof:label": "Federico Estol: Héroes del Brillo (2024-06-17)",
-    "wof:lastmodified": 1721081412,
+    "wof:lastmodified": 1731966173,
     "wof:name": "Federico Estol: Héroes del Brillo",
     "wof:parent_id": 1914600971,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
     "wof:repo": "sfomuseum-data-exhibition",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305551
+    ],
     "wof:supersedes": [
       1881034255
     ]
