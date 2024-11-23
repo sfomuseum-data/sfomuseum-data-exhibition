@@ -25,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1931132229,
-    "wof:lastmodified": 1732312292,
+    "wof:lastmodified": 1732351072,
     "wof:name": "San Francisco: City of the World",
     "wof:parent_id": 1914601391,
     "wof:placetype": "installation",

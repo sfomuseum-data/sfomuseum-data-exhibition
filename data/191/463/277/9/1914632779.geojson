@@ -26,7 +26,7 @@
     "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 24575,
@@ -48,7 +48,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721081411,
-    "wof:geomhash": "01f6cebabaa56519aa919ab0a461c0c9",
+    "wof:geomhash": "97368f4aa2142ac151f90cb682007674",
     "wof:hierarchy": [
       {
         "arcade_id": 1914601557,
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1914632779,
     "wof:label": "The 1954 San Francisco International Airport Terminal (2024-06-17)",
-    "wof:lastmodified": 1731966175,
+    "wof:lastmodified": 1732351072,
     "wof:name": "The 1954 San Francisco International Airport Terminal",
     "wof:parent_id": 1914601559,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.3833879255378,
     37.617332580454836
   ],
-  "geometry": {"coordinates":[[-122.3833879255378,37.617332580454836],[-122.3833879255378,37.617332580454836]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3833879255378,37.617332580454836]],"type":"MultiPoint"}
 }

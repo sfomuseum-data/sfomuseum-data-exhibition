@@ -25,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "#Spirogyrate",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Kids' Spot",
@@ -47,7 +47,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721081411,
-    "wof:geomhash": "c983168e402add15de2d6dc59697b6c4",
+    "wof:geomhash": "2cac546673ea3dc34e215a66d849a88d",
     "wof:hierarchy": [
       {
         "building_id": 1914600839,
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1914632785,
     "wof:label": "Kids’ Spot: Spirogyrate (2024-06-17)",
-    "wof:lastmodified": 1731966176,
+    "wof:lastmodified": 1732351072,
     "wof:name": "Kids’ Spot: Spirogyrate",
     "wof:parent_id": 1914600939,
     "wof:placetype": "installation",
@@ -99,5 +99,5 @@
     -122.38441465047205,
     37.618784301572546
   ],
-  "geometry": {"coordinates":[[-122.38441465047205,37.618784301572546],[-122.38441465047205,37.618784301572546]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38441465047205,37.618784301572546]],"type":"MultiPoint"}
 }
