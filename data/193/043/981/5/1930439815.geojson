@@ -25,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
@@ -46,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721806814,
-    "wof:geomhash": "2c8f21faa1e7c054af0bacbcf27767f2",
+    "wof:geomhash": "44ce645d8f58e9b7d1071edf994cf45e",
     "wof:hierarchy": [
       {
         "building_id": 1914600839,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1930439815,
-    "wof:lastmodified": 1732312281,
+    "wof:lastmodified": 1732351072,
     "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
     "wof:parent_id": 1914650743,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38461961187014,
     37.614113087815774
   ],
-  "geometry": {"coordinates":[[-122.38461961187014,37.614113087815774]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38461961187014,37.614113087815774],[-122.38461961187014,37.614113087815774]],"type":"MultiPoint"}
 }

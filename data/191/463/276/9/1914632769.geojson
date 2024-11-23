@@ -10,12 +10,12 @@
     "edtf:inception": "2024-06-17",
     "flysfo:url": "https://www.sfomuseum.org/exhibitions/harold-bixby-collection",
     "geom:area": 0,
-    "geom:bbox": "-122.388114,37.614436,-122.388114,37.614436",
-    "geom:latitude": 37.614435579369285,
-    "geom:longitude": -122.38811414961698,
+    "geom:bbox": "-122.387982,37.614486,-122.387942,37.614588",
+    "geom:latitude": 37.61453712252615,
+    "geom:longitude": -122.38796237509719,
     "millsfield:count_collection_objects": 23,
     "mz:is_current": 0,
-    "sfo:level": 3,
+    "sfo:level": 4,
     "sfomuseum:date_end": "2025-09-07",
     "sfomuseum:date_start": "2023-09-23",
     "sfomuseum:description": "Note: there are two Bixby Collection exhibits; Book Show and AML Photo Show",
@@ -26,7 +26,7 @@
     "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "#BixbyCollection",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
@@ -49,7 +49,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721081410,
-    "wof:geomhash": "fe3e6e60565064257d9f9609d0612ed7",
+    "wof:geomhash": "4ede5dd8e1fc43e1ee8a2ed4b0bf9723",
     "wof:hierarchy": [
       {
         "arcade_id": 1914601171,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1914632769,
     "wof:label": "The Harold Bixby Collection: Unlocking an Archival Treasure (2024-06-17)",
-    "wof:lastmodified": 1731966172,
+    "wof:lastmodified": 1732351072,
     "wof:name": "The Harold Bixby Collection: Unlocking an Archival Treasure",
     "wof:parent_id": 1914601183,
     "wof:placetype": "installation",
@@ -96,10 +96,10 @@
     ]
   },
   "bbox": [
-    -122.38811414961698,
-    37.614435579369285,
-    -122.38811414961698,
-    37.614435579369285
+    -122.38798219013238,
+    37.614486,
+    -122.3879425,
+    37.61458836702768
   ],
-  "geometry": {"coordinates":[[-122.38811414961698,37.614435579369285]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38795281025641,37.61451212307692],[-122.3879425,37.614486],[-122.38798219013238,37.61458836702768],[-122.387972,37.614562]],"type":"MultiPoint"}
 }

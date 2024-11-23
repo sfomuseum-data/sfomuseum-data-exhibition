@@ -26,7 +26,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
@@ -49,7 +49,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721081412,
-    "wof:geomhash": "a3fd09730145359dbef951dc7af2881a",
+    "wof:geomhash": "edf139a430a2e61c389ec1cd2c65f8c4",
     "wof:hierarchy": [
       {
         "arcade_id": 1914601171,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1914632803,
     "wof:label": "VX Forever: The Legacy of Virgin America (2024-06-17)",
-    "wof:lastmodified": 1731966172,
+    "wof:lastmodified": 1732351072,
     "wof:name": "VX Forever: The Legacy of Virgin America",
     "wof:parent_id": 1914601179,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.38814488455577,
     37.614570544252
   ],
-  "geometry": {"coordinates":[[-122.38814488455577,37.614570544252],[-122.38814488455577,37.614570544252]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38814488455577,37.614570544252]],"type":"MultiPoint"}
 }
