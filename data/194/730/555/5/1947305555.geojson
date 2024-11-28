@@ -6,7 +6,7 @@
     "date:inception_upper": "2024-11-05",
     "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/here-and-home-contemporary-photography-students-photography-program-california-college",
     "geom:area": 0,
     "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
     "geom:latitude": 37.614635906352255,
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966175,
-    "wof:geomhash": "c87c570dc505cf2a1bf597855c3f752c",
+    "wof:geomhash": "198d3c99564cde551ef593d36565608e",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1947305555,
     "wof:label": "Here and Home: Contemporary Photography by Students of the Photography Program at the California College of the Arts (2024-11-05)",
-    "wof:lastmodified": 1731966175,
+    "wof:lastmodified": 1732782973,
     "wof:name": "Here and Home: Contemporary Photography by Students of the Photography Program at the California College of the Arts",
     "wof:parent_id": 1947304327,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.3871579788049,
     37.614635906352255
   ],
-  "geometry": {"coordinates":[[-122.3871579788049,37.614635906352255]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3871579788049,37.614635906352255],[-122.3871579788049,37.614635906352255]],"type":"MultiPoint"}
 }

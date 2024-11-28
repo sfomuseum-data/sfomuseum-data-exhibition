@@ -6,7 +6,7 @@
     "date:inception_upper": "2024-11-05",
     "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/rosie-riveter",
     "geom:area": 0,
     "geom:bbox": "-122.385157,37.613893,-122.385157,37.613893",
     "geom:latitude": 37.613892603964324,
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966175,
-    "wof:geomhash": "aed012bfe62428ede6cfaafd904041a0",
+    "wof:geomhash": "0b3948ed59c578d0d7fb0a1eda226b1b",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1947305557,
     "wof:label": "Rosie the Riveter: Womanpower in Wartime (2024-11-05)",
-    "wof:lastmodified": 1731966175,
+    "wof:lastmodified": 1732782973,
     "wof:name": "Rosie the Riveter: Womanpower in Wartime",
     "wof:parent_id": 1947304319,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38515721248761,
     37.613892603964324
   ],
-  "geometry": {"coordinates":[[-122.38515721248761,37.613892603964324]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38515721248761,37.613892603964324],[-122.38515721248761,37.613892603964324]],"type":"MultiPoint"}
 }
