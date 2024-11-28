@@ -9,7 +9,7 @@
     "edtf:cessation": "2024-06-17",
     "edtf:deprecated": "2024-08-14",
     "edtf:inception": "2024-04-27",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/45-years-fine-art-printmaking-city-college-san-francisco",
     "geom:area": 0,
     "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
     "geom:latitude": 37.614635906352255,
@@ -77,7 +77,7 @@
       }
     ],
     "wof:id": 1913928771,
-    "wof:lastmodified": 1732696518,
+    "wof:lastmodified": 1732782974,
     "wof:name": "CCSF Prints: 45 Years of Prints from the Fort Mason Campus",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",

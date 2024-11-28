@@ -6,7 +6,7 @@
     "date:inception_upper": "2024-11-05",
     "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/california-decorative-tile",
     "geom:area": 0,
     "geom:bbox": "-122.389718,37.616529,-122.389718,37.616529",
     "geom:latitude": 37.616528705005116,
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966177,
-    "wof:geomhash": "7a1b801c5a488a26f4b699e2744aa0a3",
+    "wof:geomhash": "9d6d1f81462d778ac23ed98d9f6fc0c0",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1947305575,
     "wof:label": "California Decorative Tile (2024-11-05)",
-    "wof:lastmodified": 1731966177,
+    "wof:lastmodified": 1732782973,
     "wof:name": "California Decorative Tile",
     "wof:parent_id": 1947304217,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38971793359582,
     37.616528705005116
   ],
-  "geometry": {"coordinates":[[-122.38971793359582,37.616528705005116]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38971793359582,37.616528705005116],[-122.38971793359582,37.616528705005116]],"type":"MultiPoint"}
 }

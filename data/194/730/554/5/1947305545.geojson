@@ -6,7 +6,7 @@
     "date:inception_upper": "2024-11-05",
     "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/wendel-white-schools-for-the-colored",
     "geom:area": 0,
     "geom:bbox": "-122.383466,37.617599,-122.383466,37.617599",
     "geom:latitude": 37.617598890046914,
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966173,
-    "wof:geomhash": "d73f192fa046af92be5920623b8f7318",
+    "wof:geomhash": "cc95274a687605743826e677c86cefec",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1947305545,
     "wof:label": "Wendel White: Schools for the Colored (2024) (2024-11-05)",
-    "wof:lastmodified": 1731966173,
+    "wof:lastmodified": 1732782973,
     "wof:name": "Wendel White: Schools for the Colored (2024)",
     "wof:parent_id": 1947304635,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38346599781815,
     37.617598890046914
   ],
-  "geometry": {"coordinates":[[-122.38346599781815,37.617598890046914]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38346599781815,37.617598890046914],[-122.38346599781815,37.617598890046914]],"type":"MultiPoint"}
 }

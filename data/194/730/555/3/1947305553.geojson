@@ -6,7 +6,7 @@
     "date:inception_upper": "2024-11-05",
     "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/flying-on-display",
     "geom:area": 0,
     "geom:bbox": "-122.384620,37.614113,-122.384620,37.614113",
     "geom:latitude": 37.614113087815774,
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966174,
-    "wof:geomhash": "2c8f21faa1e7c054af0bacbcf27767f2",
+    "wof:geomhash": "44ce645d8f58e9b7d1071edf994cf45e",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1947305553,
     "wof:label": "Flying on Display: Aviation at the Panama-Pacific International Exposition (2024-11-05)",
-    "wof:lastmodified": 1731966174,
+    "wof:lastmodified": 1732782973,
     "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
     "wof:parent_id": 1947304393,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38461961187014,
     37.614113087815774
   ],
-  "geometry": {"coordinates":[[-122.38461961187014,37.614113087815774]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38461961187014,37.614113087815774],[-122.38461961187014,37.614113087815774]],"type":"MultiPoint"}
 }

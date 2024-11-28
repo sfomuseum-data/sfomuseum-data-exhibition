@@ -8,7 +8,7 @@
     "date:inception_upper": "2022-12-01",
     "edtf:cessation": "2022-12-28",
     "edtf:inception": "2022-12-01",
-    "flysfo:url": "",
+    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/tonys-cakes",
     "geom:area": 0,
     "geom:bbox": "-122.389011,37.616017,-122.389011,37.616017",
     "geom:latitude": 37.616016744082586,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996593,
-    "wof:lastmodified": 1732696517,
+    "wof:lastmodified": 1732782973,
     "wof:name": "Tony’s Cakes",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",
