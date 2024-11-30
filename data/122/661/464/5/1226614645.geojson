@@ -24,8 +24,8 @@
     "sfomuseum:exhibition_id": 549,
     "sfomuseum:exhibition_type": "studentart",
     "sfomuseum:gallery_id": [
-      46,
-      48
+      48,
+      46
     ],
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
@@ -60,7 +60,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516489,
+        "enclosure_id": 1360516487,
         "installation_id": 1226614645,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
@@ -73,7 +73,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516487,
+        "enclosure_id": 1360516489,
         "installation_id": 1226614645,
         "locality_id": 85922583,
         "neighbourhood_id": -1,
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1226614645,
     "wof:label": "Children's Art: San Mateo French American International School (1989-11-21 - 1990-01-08)",
-    "wof:lastmodified": 1732869355,
+    "wof:lastmodified": 1732955863,
     "wof:name": "San Mateo French American International School",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
