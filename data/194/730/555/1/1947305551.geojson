@@ -11,7 +11,7 @@
     "geom:bbox": "-122.384921,37.617924,-122.384921,37.617924",
     "geom:latitude": 37.617923793113434,
     "geom:longitude": -122.3849209067321,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2024-12-01",
     "sfomuseum:date_start": "2023-12-02",
@@ -23,7 +23,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966173,
-    "wof:geomhash": "479516ee048cc0d3a63c59028d12b3f1",
+    "wof:geomhash": "9526fc85a1448f6c76791c52b59f6201",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1947305551,
     "wof:label": "Federico Estol: Héroes del Brillo (2024-11-05)",
-    "wof:lastmodified": 1731966173,
+    "wof:lastmodified": 1733128543,
     "wof:name": "Federico Estol: Héroes del Brillo",
     "wof:parent_id": 1947304567,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.3849209067321,
     37.617923793113434
   ],
-  "geometry": {"coordinates":[[-122.3849209067321,37.617923793113434]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.3849209067321,37.617923793113434],[-122.3849209067321,37.617923793113434]],"type":"MultiPoint"}
 }
