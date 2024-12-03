@@ -9,7 +9,7 @@
     "edtf:cessation": "2019-02-26",
     "edtf:inception": "2018-11-13",
     "flysfo:node": 24274,
-    "flysfo:url": "https://www.flysfo.com/museum/exhibitions/millee-tibbs-air-plains",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/millee-tibbs-air-plains",
     "geom:area": 0,
     "geom:area_square_m": 88.966289,
     "geom:bbox": "-122.385605,37.612580,-122.385605,37.612580",
@@ -74,7 +74,7 @@
       }
     ],
     "wof:id": 1360700675,
-    "wof:lastmodified": 1733128542,
+    "wof:lastmodified": 1733214920,
     "wof:name": "Millee Tibbs: Air/Plains                            ",
     "wof:parent_id": 1159157077,
     "wof:placetype": "installation",

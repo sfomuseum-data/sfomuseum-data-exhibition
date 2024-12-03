@@ -8,7 +8,7 @@
     "date:inception_upper": "2019-03-19",
     "edtf:cessation": "2019-06-25",
     "edtf:inception": "2019-03-19",
-    "flysfo:url": "https://www.flysfo.com/museum/exhibitions/jock-mcdonald-light-water",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/jock-mcdonald-light-water",
     "geom:area": 0,
     "geom:area_square_m": 561.784265,
     "geom:bbox": "-122.384119,37.615457,-122.384119,37.615457",
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1377271549,
-    "wof:lastmodified": 1733128542,
+    "wof:lastmodified": 1733214920,
     "wof:name": "Jock McDonald: The Light of Water",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",

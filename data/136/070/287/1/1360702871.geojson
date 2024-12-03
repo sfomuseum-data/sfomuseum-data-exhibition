@@ -9,7 +9,7 @@
     "edtf:cessation": "2019-03-18",
     "edtf:inception": "2018-12-18",
     "flysfo:node": 24319,
-    "flysfo:url": "https://www.flysfo.com/museum/exhibitions/drew-nikonowicz-world-and-others-it",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/drew-nikonowicz-world-and-others-it",
     "geom:area": 0,
     "geom:area_square_m": 319.866099,
     "geom:bbox": "-122.387515,37.617685,-122.387515,37.617685",
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1360702871,
-    "wof:lastmodified": 1733128542,
+    "wof:lastmodified": 1733214920,
     "wof:name": "Drew Nikonowicz: This World and Others Like It",
     "wof:parent_id": 1159157051,
     "wof:placetype": "installation",

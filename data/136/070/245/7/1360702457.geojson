@@ -9,7 +9,7 @@
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "2018-12-08",
     "flysfo:node": 24310,
-    "flysfo:url": "https://www.flysfo.com/museum/exhibitions/modern-consumer",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style",
     "geom:area": 0,
     "geom:area_square_m": 2123.229928,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
@@ -74,7 +74,7 @@
       }
     ],
     "wof:id": 1360702457,
-    "wof:lastmodified": 1733128542,
+    "wof:lastmodified": 1733214920,
     "wof:name": "The Modern Consumer: 1950s Products and Styles",
     "wof:parent_id": 1159157053,
     "wof:placetype": "installation",

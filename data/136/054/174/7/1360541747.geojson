@@ -9,7 +9,7 @@
     "edtf:cessation": "2019-04-04",
     "edtf:inception": "2018-06-22",
     "flysfo:node": 23976,
-    "flysfo:url": "https://www.flysfo.com/museum/exhibitions/ether",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/ether",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1360541747,
-    "wof:lastmodified": 1733128541,
+    "wof:lastmodified": 1733214920,
     "wof:name": "Into the Ether: Published Works on Ballooning and Atmospheric Studies, 1783–1910",
     "wof:parent_id": 1360541641,
     "wof:placetype": "installation",
