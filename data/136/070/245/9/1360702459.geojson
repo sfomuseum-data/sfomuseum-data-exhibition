@@ -9,7 +9,7 @@
     "edtf:cessation": "2019-03-18",
     "edtf:inception": "2018-12-11",
     "flysfo:node": 24318,
-    "flysfo:url": "https://www.flysfo.com/museum/exhibitions/eric-william-carroll-standard-stars",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/eric-william-carroll-standard-stars",
     "geom:area": 0,
     "geom:area_square_m": 561.784265,
     "geom:bbox": "-122.384119,37.615457,-122.384119,37.615457",
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1360702459,
-    "wof:lastmodified": 1733128542,
+    "wof:lastmodified": 1733214920,
     "wof:name": "Eric William Carroll: Standard Stars",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",

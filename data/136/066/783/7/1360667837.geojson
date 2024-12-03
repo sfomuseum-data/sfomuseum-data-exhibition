@@ -9,7 +9,7 @@
     "edtf:cessation": "2019-05-17",
     "edtf:inception": "2018-10-05",
     "flysfo:node": 24145,
-    "flysfo:url": "https://www.flysfo.com/museum/exhibitions/sterling-renaissance-british-silver-design-1957-2018",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/sterling-renaissance-british-silver-design-1957-2018",
     "geom:area": 0,
     "geom:area_square_m": 1128.729477,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1360667837,
-    "wof:lastmodified": 1733128542,
+    "wof:lastmodified": 1733214920,
     "wof:name": "A Sterling Renaissance: British Silver Design 1957-2018",
     "wof:parent_id": 1159157037,
     "wof:placetype": "installation",
