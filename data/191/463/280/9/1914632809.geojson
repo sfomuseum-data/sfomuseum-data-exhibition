@@ -17,7 +17,7 @@
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-12-07",
     "sfomuseum:date_start": "2022-05-28",
-    "sfomuseum:description": "Wright Whirlwind J5 engine (Patterson)\rCurtiss OXX-6 engine (Patterson)\rMonte Chase propeller\rWings of History propeller",
+    "sfomuseum:description": "Wright Whirlwind J5 engine (Patterson)\rCurtiss OXX-6 engine (Patterson)\rMonte Chase propeller (returned Dec 2024)\rWings of History propeller (returned Dec 2024)\rHiller Aviation Museum propeller\rOakaland Aviation Museum propeller",
     "sfomuseum:exhibition_id": 1874,
     "sfomuseum:gallery_id": [
       82
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1914632809,
     "wof:label": "Going the Distance (2024-06-17)",
-    "wof:lastmodified": 1736238833,
+    "wof:lastmodified": 1736325238,
     "wof:name": "Going the Distance",
     "wof:parent_id": 1914601177,
     "wof:placetype": "installation",
