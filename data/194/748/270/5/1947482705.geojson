@@ -15,7 +15,7 @@
     "geom:longitude": -122.3849209067321,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2025-11-02",
+    "sfomuseum:date_end": "2026-05-10",
     "sfomuseum:date_start": "2024-12-14",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2098,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1947482705,
-    "wof:lastmodified": 1744832551,
+    "wof:lastmodified": 1744875338,
     "wof:name": "Ricardo Alvarado: Capturing a Cultural Legacy",
     "wof:parent_id": 1947304567,
     "wof:placetype": "installation",
