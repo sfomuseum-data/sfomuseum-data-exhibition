@@ -15,7 +15,7 @@
     "geom:longitude": -122.38210800323661,
     "mz:is_current": 0,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2025-07-06",
+    "sfomuseum:date_end": "2025-08-03",
     "sfomuseum:date_start": "2024-09-28",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2101,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1931132229,
-    "wof:lastmodified": 1744832552,
+    "wof:lastmodified": 1744875340,
     "wof:name": "San Francisco: City of the World",
     "wof:parent_id": 1914601391,
     "wof:placetype": "installation",

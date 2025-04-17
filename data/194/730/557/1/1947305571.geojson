@@ -13,7 +13,7 @@
     "geom:longitude": -122.38210800323661,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2025-07-06",
+    "sfomuseum:date_end": "2025-08-03",
     "sfomuseum:date_start": "2024-09-28",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2101,
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966176,
-    "wof:geomhash": "bf862873e946e18617d649c76666341b",
+    "wof:geomhash": "4f79faebde04bb42e715a42ccd95785a",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1947305571,
     "wof:label": "San Francisco: City of the World (2024-11-05)",
-    "wof:lastmodified": 1731966176,
+    "wof:lastmodified": 1744875338,
     "wof:name": "San Francisco: City of the World",
     "wof:parent_id": 1947304639,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38210800323661,
     37.61741735957677
   ],
-  "geometry": {"coordinates":[[-122.38210800323661,37.61741735957677]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38210800323661,37.61741735957677],[-122.38210800323661,37.61741735957677]],"type":"MultiPoint"}
 }
