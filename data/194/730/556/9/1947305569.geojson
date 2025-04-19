@@ -13,7 +13,7 @@
     "geom:longitude": -122.38897295514269,
     "mz:is_current": 1,
     "sfo:level": 3,
-    "sfomuseum:date_end": "2025-08-10",
+    "sfomuseum:date_end": "2026-01-11",
     "sfomuseum:date_start": "2024-01-20",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2102,
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966176,
-    "wof:geomhash": "268ede830d17f5a72a40231f95cd585d",
+    "wof:geomhash": "9daa39720bbf7d12fbea5c10b4d1f4a6",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1947305569,
     "wof:label": "Everyday Elegance in Chinese Ceramics (2024-11-05)",
-    "wof:lastmodified": 1731966176,
+    "wof:lastmodified": 1745048237,
     "wof:name": "Everyday Elegance in Chinese Ceramics",
     "wof:parent_id": 1947304221,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38897295514269,
     37.614601366959555
   ],
-  "geometry": {"coordinates":[[-122.38897295514269,37.614601366959555]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38897295514269,37.614601366959555],[-122.38897295514269,37.614601366959555]],"type":"MultiPoint"}
 }
