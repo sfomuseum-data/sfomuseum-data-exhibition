@@ -29,6 +29,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 25040,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1914600839,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1931357841,
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781115,
     "wof:name": "California Decorative Tile",
     "wof:parent_id": 1914601147,
     "wof:placetype": "installation",

@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 24957,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1947305569,
     "wof:label": "Everyday Elegance in Chinese Ceramics (2024-11-05)",
-    "wof:lastmodified": 1745048237,
+    "wof:lastmodified": 1747781115,
     "wof:name": "Everyday Elegance in Chinese Ceramics",
     "wof:parent_id": 1947304221,
     "wof:placetype": "installation",

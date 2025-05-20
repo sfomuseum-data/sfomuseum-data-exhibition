@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 25003,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1947305557,
     "wof:label": "Rosie the Riveter: Womanpower in Wartime (2024-11-05)",
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781115,
     "wof:name": "Rosie the Riveter: Womanpower in Wartime",
     "wof:parent_id": 1947304319,
     "wof:placetype": "installation",

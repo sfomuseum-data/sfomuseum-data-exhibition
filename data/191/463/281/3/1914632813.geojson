@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 24978,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1914632813,
     "wof:label": "CCSF Prints: 45 Years of Prints from the Fort Mason Campus (2024-06-17)",
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781115,
     "wof:name": "CCSF Prints: 45 Years of Prints from the Fort Mason Campus",
     "wof:parent_id": 1914601259,
     "wof:placetype": "installation",

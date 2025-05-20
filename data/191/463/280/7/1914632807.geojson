@@ -30,6 +30,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24975,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1914632807,
     "wof:label": "Artists of the Airways: Airline Travel Posters from the SFO Museum Collection (2024-06-17)",
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781115,
     "wof:name": "Artists of the Airways: Airline Travel Posters from the SFO Museum Collection",
     "wof:parent_id": 1914601181,
     "wof:placetype": "installation",

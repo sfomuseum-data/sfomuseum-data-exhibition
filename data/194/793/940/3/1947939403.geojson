@@ -30,6 +30,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 25067,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -104,7 +105,7 @@
       }
     ],
     "wof:id": 1947939403,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781115,
     "wof:name": "The AIDS Memorial Quilt",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

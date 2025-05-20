@@ -29,6 +29,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 24963,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -68,7 +69,7 @@
     ],
     "wof:id": 1947305543,
     "wof:label": "A Cut Above: Airplane Models from the SFO Museum Collection  (2024-11-05)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781115,
     "wof:name": "A Cut Above: Airplane Models from the SFO Museum Collection ",
     "wof:parent_id": 1947304067,
     "wof:placetype": "installation",

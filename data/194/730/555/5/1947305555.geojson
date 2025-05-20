@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 25045,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1947305555,
     "wof:label": "Here and Home: Contemporary Photography by Students of the Photography Program at the California College of the Arts (2024-11-05)",
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781115,
     "wof:name": "Here and Home: Contemporary Photography by Students of the Photography Program at the California College of the Arts",
     "wof:parent_id": 1947304327,
     "wof:placetype": "installation",

@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
+    "sfomuseum_www:exhibition_id": 24992,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1947305553,
     "wof:label": "Flying on Display: Aviation at the Panama-Pacific International Exposition (2024-11-05)",
-    "wof:lastmodified": 1732782973,
+    "wof:lastmodified": 1747781115,
     "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
     "wof:parent_id": 1947304393,
     "wof:placetype": "installation",
