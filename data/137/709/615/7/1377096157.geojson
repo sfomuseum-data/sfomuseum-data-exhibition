@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24419,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/karine-laval-heterotopia",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -69,7 +70,7 @@
       }
     ],
     "wof:id": 1377096157,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Karine Laval: Heterotopia",
     "wof:parent_id": 1159157077,
     "wof:placetype": "installation",

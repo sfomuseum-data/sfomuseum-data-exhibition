@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3791,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/oceans-air-scale-models-and-photographs-jim-lund",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160323,
     "wof:is_current": 0,
     "wof:label": "Oceans by Air: Scale Models and Photographs by Jim Lund (2012-01-27 - 2012-08-27)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Oceans by Air: Scale Models and Photographs by Jim Lund",
     "wof:parent_id": 1360541663,
     "wof:placetype": "installation",

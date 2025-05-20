@@ -42,6 +42,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 21962,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/allen-russell-native-american-rodeo",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -81,7 +82,7 @@
     "wof:id": 1159160717,
     "wof:is_current": 0,
     "wof:label": "Allen Russell: Native American Rodeo (2017-02-08 - 2017-05-03)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Allen Russell: Native American Rodeo",
     "wof:parent_id": 1360516217,
     "wof:placetype": "installation",

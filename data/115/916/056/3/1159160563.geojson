@@ -40,6 +40,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 20885,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/philip-hyde-mountains-and-deserts",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -79,7 +80,7 @@
     "wof:id": 1159160563,
     "wof:is_current": 0,
     "wof:label": "Philip Hyde (2015-02-02 - 2015-04-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Philip Hyde: Mountains and Deserts",
     "wof:parent_id": 1360516217,
     "wof:placetype": "installation",

@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 3270,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/michael-ross-road-timbuktu",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160183,
     "wof:is_current": 0,
     "wof:label": "Michael Ross: The Road to Timbuktu (2011-12-01 - 2012-02-29)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Michael Ross: The Road to Timbuktu",
     "wof:parent_id": 1360516139,
     "wof:placetype": "installation",

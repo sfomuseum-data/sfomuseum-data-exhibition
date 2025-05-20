@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3364,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/art-transformation-igbo-masks-ugbozo-ozooha-aga-phoebe-hearst-museum-anthropology",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -75,7 +76,7 @@
     "wof:id": 1159160041,
     "wof:is_current": 0,
     "wof:label": "The Art of Transformation: Igbo Masks by Ugbozo Ozooha-Aga from the Phoebe A. Hearst Museum of Anthropology (2009-04-23 - 2009-11-02)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781755,
     "wof:name": "The Art of Transformation: Igbo Masks by Ugbozo Ozooha-Aga from the Phoebe A. Hearst Museum of Anthropology",
     "wof:parent_id": 1360516187,
     "wof:placetype": "installation",

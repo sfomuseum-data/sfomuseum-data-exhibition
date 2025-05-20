@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3377,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/world-masks-collections-phoebe-hearst-museum-anthropology",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -88,7 +89,7 @@
     "wof:id": 1159160063,
     "wof:is_current": 0,
     "wof:label": "A World of Masks from the Phoebe A. Hearst Museum of Anthropology (2010-11-12 - 2011-03-28)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "A World of Masks from the Phoebe A. Hearst Museum of Anthropology",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

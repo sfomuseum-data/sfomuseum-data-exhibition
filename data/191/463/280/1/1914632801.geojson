@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24943,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/heroes-del-brillo",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -78,7 +79,7 @@
     ],
     "wof:id": 1914632801,
     "wof:label": "Federico Estol: Héroes del Brillo (2024-06-17)",
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Federico Estol: Héroes del Brillo",
     "wof:parent_id": 1914600971,
     "wof:placetype": "installation",

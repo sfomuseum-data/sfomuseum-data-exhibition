@@ -29,6 +29,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 24608,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/pan-american-world-airways-travel-posters",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1729842253,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Pan American World Airways Travel Posters",
     "wof:parent_id": 1729813701,
     "wof:placetype": "installation",

@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3274,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/financing-pan-am-jon-e-krupnick-scripophily-collection",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160311,
     "wof:is_current": 0,
     "wof:label": "Financing Pan Am: The Jon E. Krupnick Scripophily Collection (2011-09-21 - 2012-04-04)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Financing Pan Am: The Jon E. Krupnick Scripophily Collection",
     "wof:parent_id": 1360541635,
     "wof:placetype": "installation",

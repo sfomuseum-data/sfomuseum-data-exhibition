@@ -31,6 +31,7 @@
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24712,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/victorian-papered-wall",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -106,7 +107,7 @@
     ],
     "wof:id": 1796996627,
     "wof:label": "The Victorian Papered Wall (2021-11-09)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "The Victorian Papered Wall",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

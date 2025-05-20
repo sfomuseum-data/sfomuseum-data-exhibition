@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 19111,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/passenger-documented-airline-luggage-labels-bag-tags-and-tickets",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -78,7 +79,7 @@
     "wof:id": 1159160367,
     "wof:is_current": 0,
     "wof:label": "The Passenger Documented: Airline Luggage Labels, Bag Tags, and Tickets (2014-03-26 - 2014-11-26)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "The Passenger Documented: Airline Luggage Labels, Bag Tags, and Tickets",
     "wof:parent_id": 1360541635,
     "wof:placetype": "installation",

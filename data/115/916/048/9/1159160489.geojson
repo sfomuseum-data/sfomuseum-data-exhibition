@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 19777,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/geir-jordahl-circle-life",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     "wof:id": 1159160489,
     "wof:is_current": 0,
     "wof:label": "Circle of Life by Geir Jordahl (2014-08-01 - 2014-10-31)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Geir Jordahl: Circle of Life ",
     "wof:parent_id": 1360516163,
     "wof:placetype": "installation",

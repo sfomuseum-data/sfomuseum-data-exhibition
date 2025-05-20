@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 20772,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/spontaneous-expression-red-poppy-art-house",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -88,7 +89,7 @@
     "wof:id": 1159160561,
     "wof:is_current": 0,
     "wof:label": "Student Art: Red Poppy Art House (2014-12-01 - 2015-01-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Red Poppy Art House: Spontaneous Expression",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

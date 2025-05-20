@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3452,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/sfo-terminal-2-origin-renovation",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -77,7 +78,7 @@
     "wof:id": 1159160259,
     "wof:is_current": 0,
     "wof:label": "SFO Terminal 2: origin/renovation (2011-02-28 - 2012-01-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "SFO Terminal 2: origin | renovation",
     "wof:parent_id": 1360541653,
     "wof:placetype": "installation",

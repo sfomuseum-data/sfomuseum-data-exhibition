@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3083,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/united-we-stand-female-flight-attendant-uniforms-united-airlines",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160379,
     "wof:is_current": 0,
     "wof:label": "United We Stand: United Airlines Uniforms (2013-04-05 - 2013-09-23)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "United We Stand: United Airlines Uniforms",
     "wof:parent_id": 1360541653,
     "wof:placetype": "installation",

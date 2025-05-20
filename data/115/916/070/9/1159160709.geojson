@@ -43,6 +43,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 22180,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/elaine-mayes-it-happened-monterey",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -82,7 +83,7 @@
     "wof:id": 1159160709,
     "wof:is_current": 0,
     "wof:label": "Elaine Mayes: It Happened in Monterey (2017-05-04 - 2017-08-10)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Elaine Mayes: It Happened in Monterey",
     "wof:parent_id": 1360516137,
     "wof:placetype": "installation",

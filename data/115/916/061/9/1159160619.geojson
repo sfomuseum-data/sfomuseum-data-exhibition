@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 24410,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/artspans-youth-open-studios-and-boys-girls-clubs-san-francisco-exploring-inspiration",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -88,7 +89,7 @@
     "wof:id": 1159160619,
     "wof:is_current": 0,
     "wof:label": "Student Art: ArtSpan (2015-08-03 - 2015-09-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781760,
     "wof:name": "ArtSpan’s Youth Open Studios and Boys \u0026 Girls Clubs of San Francisco: Exploring Inspiration",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

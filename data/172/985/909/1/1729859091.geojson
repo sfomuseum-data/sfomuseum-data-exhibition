@@ -40,6 +40,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24310,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -89,7 +90,7 @@
     ],
     "wof:id": 1729859091,
     "wof:label": "The Modern Consumer: 1950s Products and Styles (2019-07-23)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781759,
     "wof:name": "The Modern Consumer: 1950s Products and Styles",
     "wof:parent_id": 1477855725,
     "wof:placetype": "installation",

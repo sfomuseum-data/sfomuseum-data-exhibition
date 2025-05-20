@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "NORTH",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 21745,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/airport-david-levinthal",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159554803,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1226603343,
     "wof:label": "Airport: Photographs by David Levinthal (1996-11-22 - 1997-04-02)",
-    "wof:lastmodified": 1747726354,
+    "wof:lastmodified": 1747781761,
     "wof:name": "Airport: Photographs by David Levinthal",
     "wof:parent_id": 1360516145,
     "wof:placetype": "installation",

@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3264,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/world-examined-microscopes-age-enlightenment-twentieth-century",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -75,7 +76,7 @@
     "wof:id": 1159160307,
     "wof:is_current": 0,
     "wof:label": "A World Examined: Microscopes from the Age of Enlightenment to the Twentieth Century (2011-12-16 - 2012-06-18)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "A World Examined: Microscopes from the Age of Enlightenment to the Twentieth Century",
     "wof:parent_id": 1360516273,
     "wof:placetype": "installation",

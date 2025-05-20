@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 24931,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/finding-home",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1880773883,
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781758,
     "wof:name": "SFSU Student Art: Finding Home",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",

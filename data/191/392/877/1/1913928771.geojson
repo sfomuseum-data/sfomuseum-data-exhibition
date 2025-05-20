@@ -31,6 +31,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 24978,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/45-years-fine-art-printmaking-city-college-san-francisco",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -78,7 +79,7 @@
       }
     ],
     "wof:id": 1913928771,
-    "wof:lastmodified": 1747781115,
+    "wof:lastmodified": 1747781758,
     "wof:name": "CCSF Prints: 45 Years of Prints from the Fort Mason Campus",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",

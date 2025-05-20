@@ -42,6 +42,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 23470,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/antoine-bruy-scrublands",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -81,7 +82,7 @@
     "wof:id": 1159160849,
     "wof:is_current": 1,
     "wof:label": "Antoine Bruy: Scrublands (2018-02-16 - 2018-05-10)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Antoine Bruy: Scrublands",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",

@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 20897,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/fancy-flying-aviation-1915-panama-pacific-international-exposition",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160573,
     "wof:is_current": 0,
     "wof:label": "Fancy Flying: Aviation at the 1915 Panama-Pacific International Exposition (2015-02-06 - 2015-11-16)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Fancy Flying: Aviation at the 1915 Panama-Pacific International Exposition",
     "wof:parent_id": 1360541675,
     "wof:placetype": "installation",

@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 22075,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/convent-stuart-hall-window-world",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -76,7 +77,7 @@
     "wof:id": 1159160729,
     "wof:is_current": 0,
     "wof:label": "Student Art: Stuart Hall (2017-04-06 - 2017-07-11)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Stuart Hall and Convent of the Sacred Heart High School: Window to the World",
     "wof:parent_id": 1360516229,
     "wof:placetype": "installation",

@@ -42,6 +42,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 21865,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/games-chance-gambling-devices-mechanical-age",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -81,7 +82,7 @@
     "wof:id": 1159160681,
     "wof:is_current": 0,
     "wof:label": "Games of Chance: Gambling Devices of the Mechanical Age (2016-12-09 - 2017-06-26)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Games of Chance: Gambling Devices of the Mechanical Age",
     "wof:parent_id": 1360516119,
     "wof:placetype": "installation",

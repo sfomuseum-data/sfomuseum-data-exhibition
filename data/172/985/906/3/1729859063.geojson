@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24582,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/stanley-greene-shadows-change",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -78,7 +79,7 @@
     ],
     "wof:id": 1729859063,
     "wof:label": "Stanley Greene: Shadows of Change (2020-~05)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Stanley Greene: Shadows of Change",
     "wof:parent_id": 1729792777,
     "wof:placetype": "installation",

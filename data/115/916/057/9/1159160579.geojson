@@ -42,6 +42,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 21145,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -79,7 +80,7 @@
     "wof:id": 1159160579,
     "wof:is_current": 0,
     "wof:label": "Mingei: Traditional Japanese Arts  (2015-07-31 - 2016-02-08)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Mingei: Traditional Japanese Arts ",
     "wof:parent_id": 1360516281,
     "wof:placetype": "installation",

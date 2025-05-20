@@ -41,6 +41,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 21447,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/vanessa-marsh-everywhere-all-once",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160567,
     "wof:is_current": 0,
     "wof:label": "Vanessa Marsh (2016-02-03 - 2016-05-04)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Vanessa Marsh: Everywhere All At Once",
     "wof:parent_id": 1360516161,
     "wof:placetype": "installation",

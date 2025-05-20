@@ -41,6 +41,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 23363,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/nick-albertson-one-hundred-count",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -78,7 +79,7 @@
     "wof:id": 1159160767,
     "wof:is_current": 0,
     "wof:label": "Nick Albertson: One Hundred Count (2017-12-05 - 2018-03-13)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Nick Albertson: One Hundred Count",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",

@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 3610,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/rick-chapman-tree",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -78,7 +79,7 @@
     "wof:id": 1159160069,
     "wof:is_current": 0,
     "wof:label": "Rick Chapman:Tree (2011-02-07 - 2011-04-29)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Rick Chapman: Tree",
     "wof:parent_id": 1360516223,
     "wof:placetype": "installation",

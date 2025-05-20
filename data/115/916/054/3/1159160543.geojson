@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 21087,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/catch-our-style-california-regional-airlines-1950s-1980s",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160543,
     "wof:is_current": 0,
     "wof:label": "Catch Our Style: California Regional Airlines (2015-06-12 - 2016-06-06)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Catch Our Style: California Regional Airlines",
     "wof:parent_id": 1360541657,
     "wof:placetype": "installation",

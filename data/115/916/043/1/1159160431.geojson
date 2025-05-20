@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 3116,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/abundance-gratitude-starlight-christian-preschool",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -88,7 +89,7 @@
     "wof:id": 1159160431,
     "wof:is_current": 0,
     "wof:label": "Children’s Art: Star Light Christian Preschool (2013-06-03 - 2013-09-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Starlight Christian Preschool: An Abundance of Gratitude",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

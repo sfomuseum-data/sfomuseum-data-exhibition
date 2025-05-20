@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3366,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/over-top-exploratory-arctic-flights-trans-polar-express-service",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -76,7 +77,7 @@
     "wof:id": 1159160249,
     "wof:is_current": 0,
     "wof:label": "Over the Top: Airline Trans-polar Flight (2010-12-17 - 2011-06-27)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Over the Top: Airline Trans-polar Flight",
     "wof:parent_id": 1360516479,
     "wof:placetype": "installation",

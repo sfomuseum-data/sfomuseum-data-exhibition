@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 23730,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/radio",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -78,7 +79,7 @@
     "wof:id": 1159160853,
     "wof:is_current": 1,
     "wof:label": "On the Radio (2018-03-09 - 2018-11-05)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "On the Radio",
     "wof:parent_id": 1159157053,
     "wof:placetype": "installation",

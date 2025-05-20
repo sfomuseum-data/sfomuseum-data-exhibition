@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24424,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/intriguing-world-insects",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855927,
@@ -84,7 +85,7 @@
     ],
     "wof:id": 1729859163,
     "wof:label": "The Intriguing World of Insects (2019-07-23)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781756,
     "wof:name": "The Intriguing World of Insects",
     "wof:parent_id": 1477855959,
     "wof:placetype": "installation",

@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3684,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/wooden-wonders-early-lockheed-aircraft",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -77,7 +78,7 @@
     "wof:id": 1159160181,
     "wof:is_current": 0,
     "wof:label": "Wooden Wonders: Early Lockheed Aircraft (2012-03-09 - 2012-09-04)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Wooden Wonders: Early Lockheed Aircraft",
     "wof:parent_id": 1360541671,
     "wof:placetype": "installation",

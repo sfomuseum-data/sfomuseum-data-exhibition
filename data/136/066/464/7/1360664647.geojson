@@ -43,6 +43,7 @@
     "sfomuseum:terminal_id": "T2",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24416,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/down-home-music-story-arhoolie-records",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1360664647,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781761,
     "wof:name": "Down-Home Music: The Story of Arhoolie Records",
     "wof:parent_id": 1159157067,
     "wof:placetype": "installation",

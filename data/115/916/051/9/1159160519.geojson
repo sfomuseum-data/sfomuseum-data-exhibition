@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24409,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/when-art-rocked-san-francisco-music-posters",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -103,7 +104,7 @@
     "wof:id": 1159160519,
     "wof:is_current": 0,
     "wof:label": "When Art Rocked: San Francisco Music Posters (2014-09-19 - 2015-03-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "When Art Rocked: San Francisco Music Posters 1966-1971",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 24413,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/peralta-and-hoover-elementary-schools-quilting-peace-mind",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -88,7 +89,7 @@
     "wof:id": 1159160613,
     "wof:is_current": 0,
     "wof:label": "Student Art: Peralta Elementary School (2015-06-01 - 2015-07-31)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Peralta and Hoover Elementary Schools: Quilting Peace of Mind",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

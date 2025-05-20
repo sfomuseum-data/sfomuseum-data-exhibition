@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 23401,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/legend-cnac-china-national-aviation-corporation-1929-1949",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160521,
     "wof:is_current": 0,
     "wof:label": "The Legend of CNAC: China National Aviation Corporation, 1929-1949 (2014-08-22 - 2015-06-08)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781760,
     "wof:name": "The Legend of CNAC: China National Aviation Corporation, 1929-1949",
     "wof:parent_id": 1360541657,
     "wof:placetype": "installation",

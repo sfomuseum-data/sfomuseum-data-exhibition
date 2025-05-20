@@ -45,6 +45,7 @@
     "sfomuseum:terminal_id": "T2",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 23430,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/maneki-neko-japans-beckoning-cat",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -84,7 +85,7 @@
     "wof:id": 1159160649,
     "wof:is_current": 1,
     "wof:label": "Maneki Neko: Japan’s Beckoning Cat (2018-02-02 - 2018-09-10)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Maneki Neko: Japan’s Beckoning Cats",
     "wof:parent_id": 1159157067,
     "wof:placetype": "installation",

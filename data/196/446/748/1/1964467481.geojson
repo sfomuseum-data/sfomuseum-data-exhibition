@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 25093,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/study-familiar-places",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1964467481,
-    "wof:lastmodified": 1747781115,
+    "wof:lastmodified": 1747781759,
     "wof:name": "A Study of Familiar Places: Paintings and Drawings by Students of the Art With Elders Program",
     "wof:parent_id": 1947304327,
     "wof:placetype": "installation",

@@ -31,6 +31,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 24536,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/silent-wings-published-works-gliding-and-soaring-flight",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -81,7 +82,7 @@
       }
     ],
     "wof:id": 1729842149,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781759,
     "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
     "wof:parent_id": 1477855955,
     "wof:placetype": "installation",

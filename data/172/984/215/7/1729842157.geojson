@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Kids' Spot",
     "sfomuseum_www:exhibition_id": 3078,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/kids-spot-butterfly-wall",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1729842157,
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Kids’ Spot: Butterfly Wall",
     "wof:parent_id": 1360516245,
     "wof:placetype": "installation",

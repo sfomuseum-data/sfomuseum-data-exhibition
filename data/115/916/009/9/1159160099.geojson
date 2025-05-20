@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3571,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/tabletop-props-airliner-ashtray-models-collection-anthony-j-lawler",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -75,7 +76,7 @@
     "wof:id": 1159160099,
     "wof:is_current": 0,
     "wof:label": "Tabletop Props: Airliner Ashtray Models from the Collection of Anthony J. Lawler (2010-01-15 - 2010-06-21)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781755,
     "wof:name": "Tabletop Props: Airliner Ashtray Models from the Collection of Anthony J. Lawler",
     "wof:parent_id": 1360516479,
     "wof:placetype": "installation",

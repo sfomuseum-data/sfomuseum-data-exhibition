@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3255,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/moto-bellissima-italian-motorcycles-1950s-and-1960s",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -104,7 +105,7 @@
     "wof:id": 1159160263,
     "wof:is_current": 0,
     "wof:label": "Moto Bellissima: Italian Motorcycles from the 1950s and 1960s (2011-11-04 - 2012-07-16)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Moto Bellissima: Italian Motorcycles from the 1950s and 1960s",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

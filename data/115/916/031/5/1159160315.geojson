@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3263,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/hydration-libation-and-lift-airline-inflight-beverage-service",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -76,7 +77,7 @@
     "wof:id": 1159160315,
     "wof:is_current": 0,
     "wof:label": "Hydration, Libation, and Lift: Airline Inflight Beverage Service (2011-12-09 - 2012-07-09)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Hydration, Libation, and Lift: Airline Inflight Beverage Service",
     "wof:parent_id": 1360516481,
     "wof:placetype": "installation",

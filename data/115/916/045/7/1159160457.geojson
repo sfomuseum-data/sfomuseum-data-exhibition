@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 20787,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/botanical-thoughts-2009-2013-olivia-parker",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160457,
     "wof:is_current": 0,
     "wof:label": "Botanical Thoughts: Olivia Parker (2014-12-01 - 2015-02-27)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Olivia Parker: Botanical Thoughts 2009-2013",
     "wof:parent_id": 1360516137,
     "wof:placetype": "installation",

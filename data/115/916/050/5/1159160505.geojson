@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 19206,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/lindsey-white-matter-fact",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -78,7 +79,7 @@
     "wof:id": 1159160505,
     "wof:is_current": 0,
     "wof:label": "Lindsey White: Matter of Fact (2014-05-06 - 2014-10-08)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Lindsey White: Matter of Fact",
     "wof:parent_id": 1360516219,
     "wof:placetype": "installation",

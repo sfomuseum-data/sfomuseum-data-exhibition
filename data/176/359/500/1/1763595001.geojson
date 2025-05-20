@@ -31,6 +31,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 24673,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/jet-mainliner-miniature-dc-8",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -83,7 +84,7 @@
       }
     ],
     "wof:id": 1763595001,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781761,
     "wof:name": "Jet Mainliner in Miniature: DC-8 Model and Its Conservation",
     "wof:parent_id": 1914589509,
     "wof:placetype": "installation",

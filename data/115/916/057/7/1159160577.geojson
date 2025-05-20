@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 20863,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/join-super-smile-team-thirty-ninth-annual-childrens-poster-contest",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -89,7 +90,7 @@
     "wof:id": 1159160577,
     "wof:is_current": 0,
     "wof:label": "Student Art: Join the Super Smile Team! Thirty-ninth Annual Children’s Poster Contest (2015-02-02 - 2015-05-29)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "San Francisco Dental Society: Join The Super Smile Team! Thirty-ninth Annual Children’s Poster Contest",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

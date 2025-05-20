@@ -31,6 +31,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 24666,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/airmail-down-under",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -83,7 +84,7 @@
       }
     ],
     "wof:id": 1763594993,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781761,
     "wof:name": "Airmail Down Under",
     "wof:parent_id": 1914589513,
     "wof:placetype": "installation",

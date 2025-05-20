@@ -40,6 +40,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 22307,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/flying-main-line-history-united-airlines",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -79,7 +80,7 @@
     "wof:id": 1159160725,
     "wof:is_current": 0,
     "wof:label": "Flying the Main Line: A History of United Airlines (2017-06-23 - 2018-02-26)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Flying the Main Line: A History of United Airlines",
     "wof:parent_id": 1159157053,
     "wof:placetype": "installation",

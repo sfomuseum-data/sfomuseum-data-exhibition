@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 21398,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/laurel-school-looking-back-moving-ahead",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -88,7 +89,7 @@
     "wof:id": 1159160575,
     "wof:is_current": 0,
     "wof:label": "Student Art: Laurel School (2016-02-02 - 2016-03-31)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "The Laurel School: Looking Back, Moving Ahead",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

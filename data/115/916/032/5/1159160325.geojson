@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3729,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/civil-air-transport-asias-airline-distinction",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160325,
     "wof:is_current": 0,
     "wof:label": "Civil Air Transport: Asia’s Airline of Distinction (2012-10-12 - 2013-04-01)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Civil Air Transport: Asia’s Airline of Distinction",
     "wof:parent_id": 1360541653,
     "wof:placetype": "installation",

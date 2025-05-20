@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3060,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/repack-rwanda-origins-evolution-and-global-reach-mountain-bike",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -104,7 +105,7 @@
     "wof:id": 1159160327,
     "wof:is_current": 0,
     "wof:label": "From Repack to Rwanda, The Origins, Evolution and Global Reach of the Mountain Bike (2012-07-16 - 2013-02-11)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "From Repack to Rwanda: The Origins, Evolution and Global Reach of the Mountain Bike",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

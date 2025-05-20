@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 3790,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/noah-beil-mountain-monument",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -78,7 +79,7 @@
     "wof:id": 1159160141,
     "wof:is_current": 0,
     "wof:label": "Noah Beil (2011-03-07 - 2011-05-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Noah Beil: Mountain As Monument",
     "wof:parent_id": 1360516141,
     "wof:placetype": "installation",

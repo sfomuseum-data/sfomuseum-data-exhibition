@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "SOUTH",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 19049,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/doors-entryways-world-cultures",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1226613095,
     "wof:label": "Doors (1988-08-01 - 1988-10-31)",
-    "wof:lastmodified": 1747726355,
+    "wof:lastmodified": 1747781761,
     "wof:name": "Doors",
     "wof:parent_id": 1360516241,
     "wof:placetype": "installation",

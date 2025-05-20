@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 5289,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/sharon-beals-nests",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -78,7 +79,7 @@
     "wof:id": 1159160479,
     "wof:is_current": 0,
     "wof:label": "Sharon Beals, Nests (2014-02-03 - 2014-05-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Sharon Beals: Nests",
     "wof:parent_id": 1360516219,
     "wof:placetype": "installation",

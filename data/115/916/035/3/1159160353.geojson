@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3082,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/douglas-dc-3-legacy-airline-legend",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160353,
     "wof:is_current": 0,
     "wof:label": "The Douglas DC-3: Legacy of an Airline Legend (2013-05-03 - 2013-11-18)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "The Douglas DC-3: Legacy of an Airline Legend",
     "wof:parent_id": 1360541663,
     "wof:placetype": "installation",

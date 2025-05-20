@@ -31,6 +31,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 24885,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/remain-seated-airliner-passenger-chairs",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -83,7 +84,7 @@
       }
     ],
     "wof:id": 1863420877,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781755,
     "wof:name": "Remain Seated: Airliner Passenger Chairs",
     "wof:parent_id": 1914589511,
     "wof:placetype": "installation",

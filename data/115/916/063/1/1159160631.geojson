@@ -42,6 +42,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 23182,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/empowering-threads-textiles-jolom-mayaetik",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -111,7 +112,7 @@
     "wof:id": 1159160631,
     "wof:is_current": 0,
     "wof:label": "Empowering Threads: Textiles of Jolom Mayaetik (2017-08-18 - 2018-04-02)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Empowering Threads: Textiles of Jolom Mayaetik",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

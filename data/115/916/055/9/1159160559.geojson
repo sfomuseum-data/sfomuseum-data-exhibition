@@ -43,6 +43,7 @@
     "sfomuseum:terminal_id": "T2",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 21344,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/potters-life-marguerite-wildenhain-pond-farm",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -82,7 +83,7 @@
     "wof:id": 1159160559,
     "wof:is_current": 0,
     "wof:label": "A Potter’s Life: Marguerite Wildenhain at Pond Farm (2015-12-04 - 2016-10-17)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "A Potter’s Life: Marguerite Wildenhain at Pond Farm",
     "wof:parent_id": 1360516255,
     "wof:placetype": "installation",

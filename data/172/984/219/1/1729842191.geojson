@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Kids' Spot",
     "sfomuseum_www:exhibition_id": 24537,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/kids-spot-san-francisco-bay-area-bird-encounters",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1729842191,
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Kids’ Spot: Bay Area Bird Encounters",
     "wof:parent_id": 1360516253,
     "wof:placetype": "installation",

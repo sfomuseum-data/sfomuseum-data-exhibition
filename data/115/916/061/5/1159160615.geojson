@@ -41,6 +41,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 21283,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/james-henkel-stacks",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160615,
     "wof:is_current": 0,
     "wof:label": "Stacks: James Henkel (2015-11-06 - 2015-12-31)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "James Henkel: Stacks",
     "wof:parent_id": 1360516207,
     "wof:placetype": "installation",

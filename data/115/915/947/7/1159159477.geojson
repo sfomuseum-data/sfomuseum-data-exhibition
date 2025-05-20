@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3724,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/deities-stone-hindu-sculpture-collections-asian-art-museum",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159159477,
     "wof:is_current": 0,
     "wof:label": "Deities in Stone: Hindu Sculpture from the Collections of the Asian Art Museum (2012-08-10 - 2013-02-25)",
-    "wof:lastmodified": 1747726354,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Deities in Stone: Hindu Sculpture from the Collections of the Asian Art Museum",
     "wof:parent_id": 1360516121,
     "wof:placetype": "installation",

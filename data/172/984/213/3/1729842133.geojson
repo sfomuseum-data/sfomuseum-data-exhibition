@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24567,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/pan-american-airways-central-america",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855605,
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1729842133,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Pan American Airways in Central America",
     "wof:parent_id": 1477855821,
     "wof:placetype": "installation",

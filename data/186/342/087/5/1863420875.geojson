@@ -31,6 +31,7 @@
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24875,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/san-francisco-ballet-90",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -105,7 +106,7 @@
       }
     ],
     "wof:id": 1863420875,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781755,
     "wof:name": "San Francisco Ballet at 90",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

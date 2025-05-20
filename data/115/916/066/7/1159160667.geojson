@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 21662,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/terra-cognito-published-works-discovery-aerial-explorers",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160667,
     "wof:is_current": 0,
     "wof:label": "Terra Cognito: Flights of Discovery by Aerial Explorers (2016-06-29 - 2017-03-01)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Terra Cognito: Flights of Discovery by Aerial Explorers",
     "wof:parent_id": 1360541639,
     "wof:placetype": "installation",

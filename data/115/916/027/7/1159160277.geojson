@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3686,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/flight-gear-pilot-equipment-open-cockpit-era",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160277,
     "wof:is_current": 0,
     "wof:label": "Flight Gear, Pilot Equipment from the Open-Cockpit Era (2012-02-03 - 2012-10-09)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Flight Gear: Pilot Equipment from the Open-Cockpit Era",
     "wof:parent_id": 1360541653,
     "wof:placetype": "installation",

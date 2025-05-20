@@ -42,6 +42,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 23197,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/mandy-barker-soup",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -79,7 +80,7 @@
     "wof:id": 1159160757,
     "wof:is_current": 0,
     "wof:label": "Mandy Barker: Soup  (2017-08-29 - 2017-12-05)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Mandy Barker: Soup ",
     "wof:parent_id": 1360516207,
     "wof:placetype": "installation",

@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24916,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/haitian-metal-sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1880159351,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "The Enduring Spirit of Haitian Metal Sculpture",
     "wof:parent_id": 1763588553,
     "wof:placetype": "installation",

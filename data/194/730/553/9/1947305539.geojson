@@ -29,6 +29,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 24924,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/harold-bixby-collection",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1947305539,
     "wof:label": "The Harold Bixby Collection: Unlocking an Archival Treasure (2024-11-05)",
-    "wof:lastmodified": 1731966172,
+    "wof:lastmodified": 1747781759,
     "wof:name": "The Harold Bixby Collection: Unlocking an Archival Treasure",
     "wof:parent_id": 1947304255,
     "wof:placetype": "installation",

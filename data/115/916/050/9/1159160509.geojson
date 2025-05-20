@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 19304,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/radiant-light-artistry-louis-c-tiffany",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -76,7 +77,7 @@
     "wof:id": 1159160509,
     "wof:is_current": 0,
     "wof:label": "A Radiant Light: The Artistry of Louis C. Tiffany (2014-07-18 - 2015-01-26)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "A Radiant Light: The Artistry of Louis C. Tiffany",
     "wof:parent_id": 1360516281,
     "wof:placetype": "installation",

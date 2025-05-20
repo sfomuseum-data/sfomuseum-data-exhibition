@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 21882,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/exploring-techniques-artwork-parkside-intermediate-school",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     "wof:id": 1159160711,
     "wof:is_current": 0,
     "wof:label": "Student Art: Parkside Middle School (2017-01-05 - 2017-04-06)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Parkside Intermediate School: Exploring Techniques: Artwork from Parkside Intermediate School",
     "wof:parent_id": 1360516229,
     "wof:placetype": "installation",

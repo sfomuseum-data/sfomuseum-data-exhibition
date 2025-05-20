@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 3354,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/west-blake-tucker",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -78,7 +79,7 @@
     "wof:id": 1159159909,
     "wof:is_current": 0,
     "wof:label": "Blake Tucker: Into the West (2007-12-06 - 2008-02-27)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Blake Tucker: Into the West",
     "wof:parent_id": 1360516223,
     "wof:placetype": "installation",

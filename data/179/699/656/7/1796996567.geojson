@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24859,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/kacper-kowalski-event-horizon",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1796996567,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Kacper Kowalski: Event Horizon",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",

@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 4951,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/airport-play-commercial-aviation-toys-and-games",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160365,
     "wof:is_current": 0,
     "wof:label": "Airport Play: Commercial Aviation Toys and Games (2013-09-11 - 2014-03-26)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Airport Play: Commercial Aviation Toys and Games",
     "wof:parent_id": 1360541635,
     "wof:placetype": "installation",

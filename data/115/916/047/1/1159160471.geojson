@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 19024,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/lace-sumptuous-history",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -76,7 +77,7 @@
     "wof:id": 1159160471,
     "wof:is_current": 0,
     "wof:label": "Lace: A Sumptuous History (1600s-1900s) (2014-02-07 - 2014-07-14)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Lace: A Sumptuous History (1600s-1900s)",
     "wof:parent_id": 1360516283,
     "wof:placetype": "installation",

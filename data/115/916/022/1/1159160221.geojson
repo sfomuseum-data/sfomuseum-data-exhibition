@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 3745,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/place-memories-and-feelings-photographic-essay-urban-school-san-francisco",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -88,7 +89,7 @@
     "wof:id": 1159160221,
     "wof:is_current": 0,
     "wof:label": "Children’s Art: Urban School, Place as Memories and Feelings - A Photographic Essay (2011-10-03 - 2011-11-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781759,
     "wof:name": "The Urban School of San Francisco: Place as Memories and Feelings: A Photographic Essay",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

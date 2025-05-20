@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 5263,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/turn-weave-fire-and-fold-vessels-forrest-l-merrill-collection",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -76,7 +77,7 @@
     "wof:id": 1159160465,
     "wof:is_current": 0,
     "wof:label": "Turn, Weave, Fire and Fold: Vessels from the Forrest L. Merrill Collection (2014-01-24 - 2014-06-23)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Turn, Weave, Fire and Fold: Vessels from the Forrest L. Merrill Collection",
     "wof:parent_id": 1360516273,
     "wof:placetype": "installation",

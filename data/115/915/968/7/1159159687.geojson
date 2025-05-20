@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24628,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/woven-legacies-basketry-native-north-america",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -75,7 +76,7 @@
     "wof:id": 1159159687,
     "wof:is_current": 0,
     "wof:label": "Woven Legacies: Basketry of Native North America (2009-04-10 - 2009-10-12)",
-    "wof:lastmodified": 1747726355,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Woven Legacies: Basketry of Native North America",
     "wof:parent_id": 1360516285,
     "wof:placetype": "installation",

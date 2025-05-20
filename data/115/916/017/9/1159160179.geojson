@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 25019,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/clone-shanghai-high-rise-architecture-and-remaking-chinas-gateway-world",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -103,7 +104,7 @@
     "wof:id": 1159160179,
     "wof:is_current": 0,
     "wof:label": "Shanghai: High-Rise Architecture and the Remaking of China’s Gateway to the World (2010-04-29 - 2010-10-25)",
-    "wof:lastmodified": 1747781115,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Shanghai: High-Rise Architecture and the Remaking of China’s Gateway to the World",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

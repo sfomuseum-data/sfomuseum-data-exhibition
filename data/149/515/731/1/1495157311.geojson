@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24716,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/tabitha-soren-surface-tension-0",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855605,
@@ -80,7 +81,7 @@
       }
     ],
     "wof:id": 1495157311,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Tabitha Soren: Surface Tension",
     "wof:parent_id": 1477855825,
     "wof:placetype": "installation",

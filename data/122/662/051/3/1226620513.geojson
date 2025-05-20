@@ -41,6 +41,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24060,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/caticons-cat-art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -76,7 +77,7 @@
     ],
     "wof:id": 1226620513,
     "wof:label": "Caticons: The Cat in Art (2018-07-20 - 2019-04-22)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Caticons: The Cat in Art",
     "wof:parent_id": 1159157039,
     "wof:placetype": "installation",

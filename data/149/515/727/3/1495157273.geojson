@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24485,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/jaclyn-wright-two-dimensional-shadow",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855605,
@@ -83,7 +84,7 @@
       }
     ],
     "wof:id": 1495157273,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Jaclyn Wright: The Two-Dimensional Shadow",
     "wof:parent_id": 1729813677,
     "wof:placetype": "installation",

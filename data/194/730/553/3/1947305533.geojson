@@ -29,6 +29,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 24701,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/mills-field-and-san-francisco-airport",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1947305533,
     "wof:label": "From Mills Field to SFO (2024-11-05)",
-    "wof:lastmodified": 1731966171,
+    "wof:lastmodified": 1747781759,
     "wof:name": "From Mills Field to SFO",
     "wof:parent_id": 1947304803,
     "wof:placetype": "installation",

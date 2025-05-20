@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 5114,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/joshua-cripps-californias-sierra-nevada",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160419,
     "wof:is_current": 0,
     "wof:label": "Joshua Cripps: California’s Sierra Nevada (2013-11-01 - 2014-01-31)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Joshua Cripps: California’s Sierra Nevada",
     "wof:parent_id": 1360516219,
     "wof:placetype": "installation",

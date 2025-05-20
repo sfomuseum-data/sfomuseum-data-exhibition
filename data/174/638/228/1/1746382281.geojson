@@ -27,6 +27,7 @@
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24594,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/luca-tombolini-vistas-paradossales",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1746382281,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Luca Tombolini: Vistas Paradossales",
     "wof:parent_id": 1729837321,
     "wof:placetype": "installation",

@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3741,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/postwar-propliners-miniature-models-collection-anthony-j-lawler",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -77,7 +78,7 @@
     "wof:id": 1159160125,
     "wof:is_current": 0,
     "wof:label": "Postwar Propliners in Miniature: Models from the Collection of Anthony J. Lawler (2011-06-03 - 2012-01-23)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781755,
     "wof:name": "Postwar Propliners in Miniature: Models from the Collection of Anthony J. Lawler",
     "wof:parent_id": 1360541663,
     "wof:placetype": "installation",

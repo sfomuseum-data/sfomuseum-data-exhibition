@@ -41,6 +41,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24403,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/camille-seaman-big-cloud",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160627,
     "wof:is_current": 0,
     "wof:label": "Camille Seaman: The Big Cloud (2015-08-03 - 2015-11-01)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Camille Seaman: The Big Cloud",
     "wof:parent_id": 1360516161,
     "wof:placetype": "installation",

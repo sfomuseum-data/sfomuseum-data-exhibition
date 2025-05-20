@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 19126,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/self-expression-through-art-pomeroy-recreation-rehabilitation-center",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -88,7 +89,7 @@
     "wof:id": 1159160531,
     "wof:is_current": 0,
     "wof:label": "Student Art: Pomeroy Recreation and Rehabilitation Center (2014-04-11 - 2014-05-30)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Pomeroy Recreation and Rehabilitation Center: Self Expression through Art",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

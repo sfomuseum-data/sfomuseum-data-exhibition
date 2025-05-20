@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 23123,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/lick-wilmerding-high-school-landmarks-portraits-and-architecture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -76,7 +77,7 @@
     "wof:id": 1159160745,
     "wof:is_current": 0,
     "wof:label": "Lick Wilmerding High School (2017-07-13 - 2017-10-26)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Lick-Wilmerding High School: Landmarks, Portraits, and Architecture",
     "wof:parent_id": 1159157937,
     "wof:placetype": "installation",

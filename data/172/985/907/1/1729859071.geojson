@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24462,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/keliy-anderson-staley-hyphen-americans",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855703,
@@ -84,7 +85,7 @@
     ],
     "wof:id": 1729859071,
     "wof:label": "Keliy Anderson-Staley: [hyphen] Americans (2019-07-23)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781755,
     "wof:name": "Keliy Anderson-Staley: [hyphen] Americans",
     "wof:parent_id": 1477855729,
     "wof:placetype": "installation",

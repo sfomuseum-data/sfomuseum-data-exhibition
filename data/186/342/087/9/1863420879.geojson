@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 24873,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/constitution-celia-ziyan-cai",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1863420879,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781755,
     "wof:name": "CONSTITUTION | Celia Ziyan Cai",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",

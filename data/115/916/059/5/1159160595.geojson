@@ -41,6 +41,7 @@
     "sfomuseum:terminal_id": "T2",
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 21513,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/janet-delaney-soma-now",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160595,
     "wof:is_current": 0,
     "wof:label": "Janet Delaney (2016-03-07 - 2016-05-31)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Janet Delaney: SoMa Now",
     "wof:parent_id": 1360516261,
     "wof:placetype": "installation",

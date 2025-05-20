@@ -43,6 +43,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 21508,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/celebrating-vision-art-and-disability",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -82,7 +83,7 @@
     "wof:id": 1159160591,
     "wof:is_current": 0,
     "wof:label": "Celebrating a Vision: Art \u0026 Disability (2016-03-11 - 2016-12-05)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Celebrating a Vision: Art and Disability",
     "wof:parent_id": 1360516119,
     "wof:placetype": "installation",

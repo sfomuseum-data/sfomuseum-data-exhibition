@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 5147,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/airship-odyssey-zeppelin-and-goodyear-dirigibles",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160169,
     "wof:is_current": 0,
     "wof:label": "Airship Odyssey: The Zeppelin and Goodyear Dirigibles (2013-11-22 - 2014-04-14)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Airship Odyssey: The Zeppelin and Goodyear Dirigibles",
     "wof:parent_id": 1360541663,
     "wof:placetype": "installation",

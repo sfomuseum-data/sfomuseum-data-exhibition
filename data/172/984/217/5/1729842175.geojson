@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24663,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/early-american-motorcycles",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387,
@@ -104,7 +105,7 @@
       }
     ],
     "wof:id": 1729842175,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Early American Motorcycles",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

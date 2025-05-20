@@ -40,6 +40,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 23852,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/isamu-noguchi-inside-and-out",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -90,7 +91,7 @@
     ],
     "wof:id": 1226619815,
     "wof:label": "Isamu Noguchi: Inside and Out (2018-04-13 - 2019-01-14)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781761,
     "wof:name": "Isamu Noguchi: Inside and Out",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

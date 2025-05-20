@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24378,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/clarissa-bonet-city-space",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1729859053,
     "wof:label": "Clarissa Bonet: City Space (2019-07-23)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781755,
     "wof:name": "Clarissa Bonet: City Space",
     "wof:parent_id": 1477855653,
     "wof:placetype": "installation",

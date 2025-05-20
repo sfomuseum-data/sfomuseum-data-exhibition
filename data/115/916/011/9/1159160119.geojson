@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3444,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/pacific-mail-call-jon-e-krupnick-aerophilatelic-collection",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -78,7 +79,7 @@
     "wof:id": 1159160119,
     "wof:is_current": 0,
     "wof:label": "Pacific Mail Call: The Jon E. Krupnick Aerophilatelic Collection (2010-10-06 - 2011-03-09)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Pacific Mail Call: The Jon E. Krupnick Aerophilatelic Collection",
     "wof:parent_id": 1360541633,
     "wof:placetype": "installation",

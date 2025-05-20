@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24401,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/life-and-style-age-art-deco",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -78,7 +79,7 @@
     "wof:id": 1159160525,
     "wof:is_current": 0,
     "wof:label": "Life and Style in the Age of Art Deco (2015-02-27 - 2015-09-14)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Life and Style in the Age of Art Deco",
     "wof:parent_id": 1360516119,
     "wof:placetype": "installation",

@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3553,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/evolution-royal-vision-birth-meissen-porcelain",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -75,7 +76,7 @@
     "wof:id": 1159160117,
     "wof:is_current": 0,
     "wof:label": "Evolution of a Royal Vision: The Birth of Meissen Porcelain (2010-03-26 - 2010-09-13)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Evolution of a Royal Vision: The Birth of Meissen Porcelain",
     "wof:parent_id": 1360516285,
     "wof:placetype": "installation",

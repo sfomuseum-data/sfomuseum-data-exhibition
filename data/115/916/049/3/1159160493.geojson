@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 19242,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/studies-light-ruth-asawa-san-francisco-school-arts",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -88,7 +89,7 @@
     "wof:id": 1159160493,
     "wof:is_current": 0,
     "wof:label": "Student Art: Ruth Asawa San Francisco School of the Arts (2014-06-02 - 2014-08-01)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Ruth Asawa San Francisco School of the Arts: Studies in Light",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

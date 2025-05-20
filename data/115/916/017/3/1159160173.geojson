@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3527,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/hidden-meanings-symbolism-chinese-art-collections-asian-art-museum-san-francisco-chong",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
@@ -78,7 +79,7 @@
     "wof:id": 1159160173,
     "wof:is_current": 0,
     "wof:label": "Hidden Meanings: Symbolism in Chinese Art (2010-05-28 - 2011-01-10)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Hidden Meanings: Symbolism in Chinese Art",
     "wof:parent_id": 1360516123,
     "wof:placetype": "installation",

@@ -40,6 +40,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 19100,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/remain-over-night-airline-sleeper-service-amenities",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -77,7 +78,7 @@
     "wof:id": 1159160453,
     "wof:is_current": 0,
     "wof:label": "Remain Overnight: Airline Personal Hygiene and Comfort Amenities (2014-03-28 - 2014-11-19)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Remain Over Night: Airline Personal Hygiene and Comfort Amenities",
     "wof:parent_id": 1360516481,
     "wof:placetype": "installation",

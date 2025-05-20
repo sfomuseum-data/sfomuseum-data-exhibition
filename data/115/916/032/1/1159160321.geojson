@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "T3",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3640,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/threading-needle-sewing-machine-age",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -78,7 +79,7 @@
     "wof:id": 1159160321,
     "wof:is_current": 0,
     "wof:label": "Threading the Needle: Sewing in the Machine Age (2012-03-02 - 2012-08-06)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Threading the Needle: Sewing in the Machine Age",
     "wof:parent_id": 1360516121,
     "wof:placetype": "installation",

@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 23299,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/parks-focus",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -75,7 +76,7 @@
     "wof:id": 1159160763,
     "wof:is_current": 0,
     "wof:label": "Parks in Focus: Yosemite in Focus (2017-10-24 - 2018-01-23)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Parks in Focus: Yosemite in Focus",
     "wof:parent_id": 1159157075,
     "wof:placetype": "installation",

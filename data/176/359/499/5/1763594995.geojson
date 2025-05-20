@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24759,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/pineapple-pina-philippine-textile",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1763594995,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781761,
     "wof:name": "From Pineapple to Piña: A Philippine Textile Treasure",
     "wof:parent_id": 1763588501,
     "wof:placetype": "installation",

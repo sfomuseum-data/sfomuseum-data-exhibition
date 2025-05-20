@@ -37,6 +37,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24145,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/sterling-renaissance-british-silver-design-1957-2018",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -71,7 +72,7 @@
       }
     ],
     "wof:id": 1360667837,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781761,
     "wof:name": "A Sterling Renaissance: British Silver Design 1957-2018",
     "wof:parent_id": 1159157037,
     "wof:placetype": "installation",

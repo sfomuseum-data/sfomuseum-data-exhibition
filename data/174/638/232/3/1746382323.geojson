@@ -27,6 +27,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 24662,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/impressions-isolation-monoprints-sfsu",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1746382323,
     "wof:label": "Impressions in Isolation: Monoprints from San Francisco State University (2021-05-25)",
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781759,
     "wof:name": "Impressions in Isolation: Monoprints from San Francisco State University",
     "wof:parent_id": 1745882471,
     "wof:placetype": "installation",

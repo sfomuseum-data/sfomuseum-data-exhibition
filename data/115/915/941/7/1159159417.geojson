@@ -38,6 +38,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "Aviation",
     "sfomuseum_www:exhibition_id": 3084,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/china-clipper",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360521569,
@@ -77,7 +78,7 @@
     "wof:id": 1159159417,
     "wof:is_current": 0,
     "wof:label": "Brown, Dwyer (2000-11-20 - 2010-01-29)",
-    "wof:lastmodified": 1747726354,
+    "wof:lastmodified": 1747781758,
     "wof:name": "\"China Clipper:\" Pan American Airways' Route to Asia",
     "wof:parent_id": 1360541633,
     "wof:placetype": "installation",

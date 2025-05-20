@@ -28,6 +28,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 24979,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/african-instruments",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1947305567,
     "wof:label": "The Art of the African Instrument (2024-11-05)",
-    "wof:lastmodified": 1747781115,
+    "wof:lastmodified": 1747781759,
     "wof:name": "The Art of the African Instrument",
     "wof:parent_id": 1947304067,
     "wof:placetype": "installation",

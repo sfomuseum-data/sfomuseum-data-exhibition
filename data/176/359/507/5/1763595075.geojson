@@ -30,6 +30,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 24761,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/marshall-moxom-photography",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1763595075,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781758,
     "wof:name": "Marshall Moxom: Four Views of San Francisco International Airport",
     "wof:parent_id": 1763588515,
     "wof:placetype": "installation",

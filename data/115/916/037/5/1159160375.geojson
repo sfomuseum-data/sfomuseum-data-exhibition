@@ -39,6 +39,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 3115,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/philippine-basketry-luzon-cordillera-fowler-museum-ucla",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -76,7 +77,7 @@
     "wof:id": 1159160375,
     "wof:is_current": 0,
     "wof:label": "Philippine Basketry of the Luzon Cordillera from the Fowler Museum at UCLA (2013-07-19 - 2014-01-26)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781756,
     "wof:name": "Philippine Basketry of the Luzon Cordillera from the Fowler Museum at UCLA",
     "wof:parent_id": 1360516283,
     "wof:placetype": "installation",

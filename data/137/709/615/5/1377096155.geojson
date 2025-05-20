@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Student Art",
     "sfomuseum_www:exhibition_id": 24421,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/peralta-elementary-school-modular-origami",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1377096155,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781760,
     "wof:name": "Peralta Elementary School: Modular Origami",
     "wof:parent_id": 1159157075,
     "wof:placetype": "installation",

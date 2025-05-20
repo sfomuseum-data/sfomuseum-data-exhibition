@@ -42,6 +42,7 @@
     "sfomuseum:terminal_id": "ITB",
     "sfomuseum:type": "NonAviation",
     "sfomuseum_www:exhibition_id": 21383,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/essential-style-vintage-and-antique-purses",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
@@ -79,7 +80,7 @@
     "wof:id": 1159160583,
     "wof:is_current": 0,
     "wof:label": "Essential Style: Antique and Vintage Handbags (2016-01-22 - 2016-07-25)",
-    "wof:lastmodified": 1747726356,
+    "wof:lastmodified": 1747781757,
     "wof:name": "Essential Style: Vintage and Antique Purses",
     "wof:parent_id": 1360516271,
     "wof:placetype": "installation",
