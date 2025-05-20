@@ -8,7 +8,6 @@
     "date:inception_upper": "2020-10-24",
     "edtf:cessation": "2021-02-21",
     "edtf:inception": "2020-10-24",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/amelia-konow-auras",
     "geom:area": 0,
     "geom:bbox": "-122.384119,37.615457,-122.384119,37.615457",
     "geom:latitude": 37.61545711615287,
@@ -78,7 +77,7 @@
       }
     ],
     "wof:id": 1729842117,
-    "wof:lastmodified": 1747781759,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Amelia Konow: Auras",
     "wof:parent_id": 1729837321,
     "wof:placetype": "installation",

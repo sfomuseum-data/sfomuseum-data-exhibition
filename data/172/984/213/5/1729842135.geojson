@@ -8,7 +8,6 @@
     "date:inception_upper": "2020-02-20",
     "edtf:cessation": "2020-03-18",
     "edtf:inception": "2020-02-20",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/woman-me",
     "geom:area": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
     "geom:latitude": 37.61628,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1729842135,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "A Woman Like Me",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

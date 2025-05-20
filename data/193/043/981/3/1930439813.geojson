@@ -8,7 +8,6 @@
     "date:inception_upper": "2024-06-01",
     "edtf:cessation": "2024-06-30",
     "edtf:inception": "2024-06-01",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/marshall-moxom-photography",
     "geom:area": 0,
     "geom:bbox": "-122.384522,37.614844,-122.384522,37.614844",
     "geom:latitude": 37.61484360346892,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1930439813,
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Above SFO: The Aerial Photography of Marshall Moxom",
     "wof:parent_id": 1914650737,
     "wof:placetype": "installation",

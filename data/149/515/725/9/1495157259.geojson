@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-04-03",
     "edtf:cessation": "2019-04-03",
     "edtf:inception": "2019-04-03",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387911,37.614502,-122.387911,37.614502",
@@ -71,7 +70,7 @@
       }
     ],
     "wof:id": 1495157259,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Singapore Airlines 40th Anniversary Dinner",
     "wof:parent_id": 1360541695,
     "wof:placetype": "installation",

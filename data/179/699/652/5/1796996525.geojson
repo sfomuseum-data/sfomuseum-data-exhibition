@@ -8,7 +8,6 @@
     "date:inception_upper": "2022-06-02",
     "edtf:cessation": "2022-06-29",
     "edtf:inception": "2022-06-02",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/unity-mosque",
     "geom:area": 0,
     "geom:bbox": "-122.389011,37.616017,-122.389011,37.616017",
     "geom:latitude": 37.616016744082586,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1796996525,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Unity Mosque",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

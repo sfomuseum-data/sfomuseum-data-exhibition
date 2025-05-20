@@ -8,7 +8,6 @@
     "date:inception_upper": "2005-04-07",
     "edtf:cessation": "2006-04-01",
     "edtf:inception": "2005-04-07",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
@@ -57,7 +56,7 @@
       }
     ],
     "wof:id": 1729842109,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Diebenkorn Prints",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",

@@ -8,8 +8,6 @@
     "date:inception_upper": "2018-10-25",
     "edtf:cessation": "2018-11-21",
     "edtf:inception": "2018-10-25",
-    "flysfo:node": 24233,
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/dia-de-los-muerto",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -69,7 +67,7 @@
       }
     ],
     "wof:id": 1360700729,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Dia de los Muerto",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

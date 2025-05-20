@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-02-28",
     "edtf:cessation": "2019-05-28",
     "edtf:inception": "2019-02-28",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/vanessa-marsh-sun-beneath-sky",
     "geom:area": 0,
     "geom:area_square_m": 397.817241,
     "geom:bbox": "-122.387308,37.620404,-122.387308,37.620404",
@@ -70,7 +69,7 @@
       }
     ],
     "wof:id": 1495157251,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Vanessa Marsh: The Sun Beneath the Sky",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",

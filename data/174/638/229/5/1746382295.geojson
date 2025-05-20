@@ -8,7 +8,6 @@
     "date:inception_upper": "2021-02-13",
     "edtf:cessation": "2021-03-14",
     "edtf:inception": "2021-02-13",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.389089,37.615633,-122.389089,37.615633",
     "geom:latitude": 37.61563285411976,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1746382295,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Special Exhibit: Chinese New Year in San Francisco",
     "wof:parent_id": 1729792789,
     "wof:placetype": "installation",

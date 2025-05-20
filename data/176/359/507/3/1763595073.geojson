@@ -8,7 +8,6 @@
     "date:inception_upper": "2021-11-13",
     "edtf:cessation": "2022-11-06",
     "edtf:inception": "2021-11-13",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.384836,37.617776,-122.384836,37.617776",
     "geom:latitude": 37.61777614067629,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1763595073,
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Harlem of the West",
     "wof:parent_id": 1763594989,
     "wof:placetype": "installation",

@@ -8,7 +8,6 @@
     "date:inception_upper": "2000-02-15",
     "edtf:cessation": "2005-01-01",
     "edtf:inception": "2000-02-15",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
@@ -57,7 +56,7 @@
       }
     ],
     "wof:id": 1729842113,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1747781979,
     "wof:name": "San Francisco at the California State Capitol, Sacramento",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",

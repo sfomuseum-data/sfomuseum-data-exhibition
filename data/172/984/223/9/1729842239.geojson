@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-12-05",
     "edtf:cessation": "2020-01-01",
     "edtf:inception": "2019-12-05",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/turf-fever",
     "geom:area": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
     "geom:latitude": 37.61628,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1729842239,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "TURF Fever",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

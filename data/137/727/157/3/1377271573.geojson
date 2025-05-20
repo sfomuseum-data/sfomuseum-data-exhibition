@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-01-31",
     "edtf:cessation": "2019-02-27",
     "edtf:inception": "2019-01-31",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/contact",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -68,7 +67,7 @@
       }
     ],
     "wof:id": 1377271573,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Contact",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

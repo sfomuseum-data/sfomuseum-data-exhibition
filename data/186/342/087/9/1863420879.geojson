@@ -8,7 +8,6 @@
     "date:inception_upper": "2023-03-04",
     "edtf:cessation": "2023-07-09",
     "edtf:inception": "2023-03-04",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/constitution-celia-ziyan-cai",
     "geom:area": 0,
     "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
     "geom:latitude": 37.614635906352255,
@@ -78,7 +77,7 @@
       }
     ],
     "wof:id": 1863420879,
-    "wof:lastmodified": 1747781755,
+    "wof:lastmodified": 1747781979,
     "wof:name": "CONSTITUTION | Celia Ziyan Cai",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",

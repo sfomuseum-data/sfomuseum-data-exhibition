@@ -8,7 +8,6 @@
     "date:inception_upper": "2023-04-08",
     "edtf:cessation": "2024-03-31",
     "edtf:inception": "2023-04-08",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/remain-seated-airliner-passenger-chairs",
     "geom:area": 0,
     "geom:bbox": "-122.388003,37.614495,-122.388003,37.614495",
     "geom:latitude": 37.61449504184901,
@@ -84,7 +83,7 @@
       }
     ],
     "wof:id": 1863420877,
-    "wof:lastmodified": 1747781755,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Remain Seated: Airliner Passenger Chairs",
     "wof:parent_id": 1914589511,
     "wof:placetype": "installation",

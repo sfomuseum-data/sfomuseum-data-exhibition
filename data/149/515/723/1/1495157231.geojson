@@ -9,7 +9,6 @@
     "edtf:cessation": "2020-04-12",
     "edtf:deprecated": "2023-05-02",
     "edtf:inception": "2019-08-17",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/zuber-art-french-scenic-wallpaper",
     "geom:area": 0,
     "geom:area_square_m": 776.781935,
     "geom:bbox": "-122.389267,37.615424,-122.388942,37.616029",
@@ -140,7 +139,7 @@
       }
     ],
     "wof:id": 1495157231,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Zuber: The Art of French Scenic Wallpaper",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

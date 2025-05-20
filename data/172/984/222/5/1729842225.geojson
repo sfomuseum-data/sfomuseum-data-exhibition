@@ -8,7 +8,6 @@
     "date:inception_upper": "2020-02-13",
     "edtf:cessation": "2020-03-11",
     "edtf:inception": "2020-02-13",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/first-kiss",
     "geom:area": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
     "geom:latitude": 37.61628,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1729842225,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "First Kiss",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

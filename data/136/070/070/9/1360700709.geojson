@@ -8,7 +8,6 @@
     "date:inception_upper": "2018-09-06",
     "edtf:cessation": "2018-10-03",
     "edtf:inception": "2018-09-06",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/welcome-my-life",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -68,7 +67,7 @@
       }
     ],
     "wof:id": 1360700709,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Welcome to My Life",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

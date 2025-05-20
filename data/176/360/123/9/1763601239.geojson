@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "2019-12-01",
     "edtf:inception": "2019-07-23",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
     "geom:latitude": 37.614512,
@@ -74,7 +73,7 @@
       }
     ],
     "wof:id": 1763601239,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Special Collections Poster: Finnair",
     "wof:parent_id": 1763601213,
     "wof:placetype": "installation",

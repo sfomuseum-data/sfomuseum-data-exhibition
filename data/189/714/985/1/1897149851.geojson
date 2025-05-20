@@ -8,7 +8,6 @@
     "date:inception_upper": "2024-01-20",
     "edtf:cessation": "2024-06-17",
     "edtf:inception": "2024-01-20",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/chinese-ceramics",
     "geom:area": 0,
     "geom:bbox": "-122.388973,37.614601,-122.388973,37.614601",
     "geom:latitude": 37.614601366959555,
@@ -78,7 +77,7 @@
       }
     ],
     "wof:id": 1897149851,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Everyday Elegance in Chinese Ceramics",
     "wof:parent_id": 1763588551,
     "wof:placetype": "installation",

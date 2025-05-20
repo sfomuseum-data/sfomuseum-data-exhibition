@@ -8,7 +8,6 @@
     "date:inception_upper": "2018-04-26",
     "edtf:cessation": "2018-05-23",
     "edtf:inception": "2018-04-26",
-    "flysfo:url": "https://www.sfomuseum.org/video-arts/fisherman",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -69,7 +68,7 @@
       }
     ],
     "wof:id": 1360667829,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "The Fisherman",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

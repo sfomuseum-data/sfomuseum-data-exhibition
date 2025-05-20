@@ -8,7 +8,6 @@
     "date:inception_upper": "2022-12-17",
     "edtf:cessation": "2023-11-12",
     "edtf:inception": "2022-12-17",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/supersonic-transport",
     "geom:area": 0,
     "geom:bbox": "-122.388025,37.614552,-122.388025,37.614552",
     "geom:latitude": 37.61455159013738,
@@ -84,7 +83,7 @@
       }
     ],
     "wof:id": 1796996499,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Supersonic Transport: The First Generation",
     "wof:parent_id": 1914589509,
     "wof:placetype": "installation",

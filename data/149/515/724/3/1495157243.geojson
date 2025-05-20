@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-05-07",
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "2019-05-07",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/greenleaf-tk-8-social-justice-posters",
     "geom:area": 0,
     "geom:area_square_m": 467.367672,
     "geom:bbox": "-122.384442,37.614828,-122.384442,37.614828",
@@ -68,7 +67,7 @@
       }
     ],
     "wof:id": 1495157243,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Greenleaf TK–8: Social Justice Posters",
     "wof:parent_id": 1159157075,
     "wof:placetype": "installation",

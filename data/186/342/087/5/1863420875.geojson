@@ -8,7 +8,6 @@
     "date:inception_upper": "2023-02-25",
     "edtf:cessation": "2024-01-07",
     "edtf:inception": "2023-02-25",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/san-francisco-ballet-90",
     "geom:area": 0,
     "geom:bbox": "-122.389019,37.615509,-122.388903,37.615809",
     "geom:latitude": 37.61565856860682,
@@ -106,7 +105,7 @@
       }
     ],
     "wof:id": 1863420875,
-    "wof:lastmodified": 1747781755,
+    "wof:lastmodified": 1747781979,
     "wof:name": "San Francisco Ballet at 90",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

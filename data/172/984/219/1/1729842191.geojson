@@ -8,7 +8,6 @@
     "date:inception_upper": "2011-03-01",
     "edtf:cessation": "2011-03-31",
     "edtf:inception": "2011-03-01",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/kids-spot-san-francisco-bay-area-bird-encounters",
     "geom:area": 0,
     "geom:bbox": "-122.381226,37.617538,-122.381226,37.617538",
     "geom:latitude": 37.61753800404816,
@@ -64,7 +63,7 @@
       }
     ],
     "wof:id": 1729842191,
-    "wof:lastmodified": 1747781760,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Kids’ Spot: Bay Area Bird Encounters",
     "wof:parent_id": 1360516253,
     "wof:placetype": "installation",

@@ -8,7 +8,6 @@
     "date:inception_upper": "2021-11-04",
     "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-11-04",
-    "flysfo:url": "https://www.sfomuseum.org/video-arts/powwow",
     "geom:area": 0,
     "geom:bbox": "-122.389061,37.616015,-122.389061,37.616015",
     "geom:latitude": 37.61601515922952,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1763595035,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Pow Wow (2021-2)",
     "wof:parent_id": 1745882507,
     "wof:placetype": "installation",

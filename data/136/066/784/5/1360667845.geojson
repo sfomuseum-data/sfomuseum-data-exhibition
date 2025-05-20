@@ -8,8 +8,6 @@
     "date:inception_upper": "2018-09-11",
     "edtf:cessation": "2018-12-11",
     "edtf:inception": "2018-09-11",
-    "flysfo:node": 24113,
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/kirk-crippens-gretchen-lemaistre-live-burls",
     "geom:area": 0,
     "geom:area_square_m": 561.784265,
     "geom:bbox": "-122.384119,37.615457,-122.384119,37.615457",
@@ -74,7 +72,7 @@
       }
     ],
     "wof:id": 1360667845,
-    "wof:lastmodified": 1747781761,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Kirk Crippens \u0026 Gretchen LeMaistre: Live Burls",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",

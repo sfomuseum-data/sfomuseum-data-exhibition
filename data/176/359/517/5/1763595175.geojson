@@ -8,7 +8,6 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "2022-05-08",
     "edtf:inception": "2021-11-09",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/arko-datto-rail-diwali",
     "geom:area": 0,
     "geom:bbox": "-122.387401,37.620173,-122.387401,37.620173",
     "geom:latitude": 37.620173005536714,
@@ -79,7 +78,7 @@
       }
     ],
     "wof:id": 1763595175,
-    "wof:lastmodified": 1747781760,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Arko Datto: Rail Diwali",
     "wof:parent_id": 1763588523,
     "wof:placetype": "installation",

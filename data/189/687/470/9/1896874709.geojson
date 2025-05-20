@@ -8,7 +8,6 @@
     "date:inception_upper": "2023-12-16",
     "edtf:cessation": "2024-06-17",
     "edtf:inception": "2023-12-16",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/vx-forever",
     "geom:area": 0,
     "geom:bbox": "-122.388025,37.614552,-122.388025,37.614552",
     "geom:latitude": 37.61455159013738,
@@ -84,7 +83,7 @@
       }
     ],
     "wof:id": 1896874709,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "VX Forever: The Legacy of Virgin America",
     "wof:parent_id": 1914589509,
     "wof:placetype": "installation",

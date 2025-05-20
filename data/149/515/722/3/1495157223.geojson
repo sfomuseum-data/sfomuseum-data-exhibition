@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-04-06",
     "edtf:cessation": "2017~",
     "edtf:inception": "2019-04-06",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
@@ -71,7 +70,7 @@
       }
     ],
     "wof:id": 1495157223,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "By the Book: Airliner Manuals",
     "wof:parent_id": 1360541641,
     "wof:placetype": "installation",

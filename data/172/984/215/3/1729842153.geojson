@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-10-17",
     "edtf:cessation": "2019-11-13",
     "edtf:inception": "2019-10-17",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/emptying-tank",
     "geom:area": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
     "geom:latitude": 37.61628,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1729842153,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Emptying the Tank",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

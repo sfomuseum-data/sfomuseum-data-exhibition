@@ -8,7 +8,6 @@
     "date:inception_upper": "2020-01-01",
     "edtf:cessation": "2020-01-31",
     "edtf:inception": "2020-01-01",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
     "geom:latitude": 37.619087399474104,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1729842209,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Pylon Essay: Fly \u0026 Explore",
     "wof:parent_id": 1477855725,
     "wof:placetype": "installation",

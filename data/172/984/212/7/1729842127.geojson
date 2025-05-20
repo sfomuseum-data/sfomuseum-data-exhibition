@@ -8,7 +8,6 @@
     "date:inception_upper": "2003-10-18",
     "edtf:cessation": "2003-10-18",
     "edtf:inception": "2003-10-18",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
@@ -57,7 +56,7 @@
       }
     ],
     "wof:id": 1729842127,
-    "wof:lastmodified": 1617662666,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Crissy Field Centennial of Flight Celebration",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",

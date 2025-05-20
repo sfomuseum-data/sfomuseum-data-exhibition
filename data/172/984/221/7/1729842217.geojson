@@ -8,7 +8,6 @@
     "date:inception_upper": "2020-04-01",
     "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-04-01",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/harvey-milk-messenger-hope",
     "geom:area": 0,
     "geom:bbox": "-122.384374,37.613193,-122.384374,37.613193",
     "geom:latitude": 37.613193362839176,
@@ -41,7 +40,7 @@
       }
     ],
     "wof:id": 1729842217,
-    "wof:lastmodified": 1747781757,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Harvey Milk: Messenger of Hope",
     "wof:parent_id": 1729813693,
     "wof:placetype": "installation",

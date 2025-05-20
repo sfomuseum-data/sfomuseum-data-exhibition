@@ -8,7 +8,6 @@
     "date:inception_upper": "2017-05-10",
     "edtf:cessation": "2017-06-06",
     "edtf:inception": "2017-05-10",
-    "flysfo:url": "https://www.sfomuseum.org/video-arts/powwow",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -68,7 +67,7 @@
       }
     ],
     "wof:id": 1360667833,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "POW WOW",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

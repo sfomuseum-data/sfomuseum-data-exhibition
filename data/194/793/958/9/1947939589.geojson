@@ -8,7 +8,6 @@
     "date:inception_upper": "2022-05-01",
     "edtf:cessation": "2022-05-31",
     "edtf:inception": "2022-05-01",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387956,37.614285,-122.387956,37.614285",
     "geom:latitude": 37.61428515730374,
@@ -82,7 +81,7 @@
       }
     ],
     "wof:id": 1947939589,
-    "wof:lastmodified": 1747726358,
+    "wof:lastmodified": 1747781979,
     "wof:name": "AML Lobby Pan American Airways ",
     "wof:parent_id": 1914589551,
     "wof:placetype": "installation",

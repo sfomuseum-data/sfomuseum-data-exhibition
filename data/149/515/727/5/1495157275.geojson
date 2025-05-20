@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-09-14",
     "edtf:cessation": "2020-01-06",
     "edtf:inception": "2019-09-14",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 781.898465,
     "geom:bbox": "-122.388534,37.616891,-122.388534,37.616891",
@@ -79,7 +78,7 @@
       }
     ],
     "wof:id": 1495157275,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Gateway High School: The Treehouse: A Sanctuary",
     "wof:parent_id": 1477855831,
     "wof:placetype": "installation",

@@ -8,7 +8,6 @@
     "date:inception_upper": "2020-05-02",
     "edtf:cessation": "2020-10-18",
     "edtf:inception": "2020-05-02",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/treehouse-sanctuary",
     "geom:area": 0,
     "geom:bbox": "-122.385068,37.611778,-122.385068,37.611778",
     "geom:latitude": 37.61177834167635,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1746382283,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Gateway High School: The Treehouse: A Sanctuary",
     "wof:parent_id": 1729813697,
     "wof:placetype": "installation",

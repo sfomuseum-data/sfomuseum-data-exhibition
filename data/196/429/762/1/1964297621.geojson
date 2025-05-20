@@ -8,7 +8,6 @@
     "date:inception_upper": "2025-04-19",
     "edtf:cessation": "2026-06-07",
     "edtf:inception": "2025-04-19",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.385092,37.612132,-122.385092,37.612132",
     "geom:latitude": 37.61213224985321,
@@ -78,7 +77,7 @@
       }
     ],
     "wof:id": 1964297621,
-    "wof:lastmodified": 1747781759,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Portable Craft: Chinese Woven Baskets and Containers",
     "wof:parent_id": 1947304329,
     "wof:placetype": "installation",

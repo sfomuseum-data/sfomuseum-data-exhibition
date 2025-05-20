@@ -8,7 +8,6 @@
     "date:inception_upper": "2022-10-15",
     "edtf:cessation": "2022-12-04",
     "edtf:inception": "2022-10-15",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387193,37.619103,-122.387193,37.619103",
     "geom:latitude": 37.619102719725085,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1796996555,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Hooked on Helping: SFO MVP’s Welcome Blanket",
     "wof:parent_id": 1763588519,
     "wof:placetype": "installation",

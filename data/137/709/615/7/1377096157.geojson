@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-02-25",
     "edtf:cessation": "2019-07-15",
     "edtf:inception": "2019-02-25",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/karine-laval-heterotopia",
     "geom:area": 0,
     "geom:area_square_m": 88.966289,
     "geom:bbox": "-122.385605,37.612580,-122.385605,37.612580",
@@ -70,7 +69,7 @@
       }
     ],
     "wof:id": 1377096157,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Karine Laval: Heterotopia",
     "wof:parent_id": 1159157077,
     "wof:placetype": "installation",

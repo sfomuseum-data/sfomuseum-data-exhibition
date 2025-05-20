@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-06-01",
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "2019-06-01",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/keliy-anderson-staley-hyphen-americans",
     "geom:area": 0,
     "geom:area_square_m": 397.817241,
     "geom:bbox": "-122.387308,37.620404,-122.387308,37.620404",
@@ -70,7 +69,7 @@
       }
     ],
     "wof:id": 1495157249,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Keliy Anderson-Staley: [hyphen] Americans",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",

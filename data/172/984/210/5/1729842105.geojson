@@ -8,7 +8,6 @@
     "date:inception_upper": "2020-10-31",
     "edtf:cessation": "2021-07-18",
     "edtf:inception": "2020-10-31",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/surfs-up-instrumental-rock",
     "geom:area": 0,
     "geom:bbox": "-122.382112,37.617421,-122.382112,37.617421",
     "geom:latitude": 37.617421155555235,
@@ -77,7 +76,7 @@
       }
     ],
     "wof:id": 1729842105,
-    "wof:lastmodified": 1747781759,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Surf’s Up! Instrumental Rock n’ Roll",
     "wof:parent_id": 1729792769,
     "wof:placetype": "installation",

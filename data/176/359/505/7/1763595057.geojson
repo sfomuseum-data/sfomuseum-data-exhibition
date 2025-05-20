@@ -8,7 +8,6 @@
     "date:inception_upper": "2021-12-30",
     "edtf:cessation": "2022-02-02",
     "edtf:inception": "2021-12-30",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/life-miniature",
     "geom:area": 0,
     "geom:bbox": "-122.389011,37.616017,-122.389011,37.616017",
     "geom:latitude": 37.616016744082586,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1763595057,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Life in Miniature ",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

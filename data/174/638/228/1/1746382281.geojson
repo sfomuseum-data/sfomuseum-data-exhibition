@@ -8,7 +8,6 @@
     "date:inception_upper": "2020-03-07",
     "edtf:cessation": "2020-10-18",
     "edtf:inception": "2020-03-07",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/luca-tombolini-vistas-paradossales",
     "geom:area": 0,
     "geom:bbox": "-122.384119,37.615457,-122.384119,37.615457",
     "geom:latitude": 37.61545711615287,
@@ -75,7 +74,7 @@
       }
     ],
     "wof:id": 1746382281,
-    "wof:lastmodified": 1747781759,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Luca Tombolini: Vistas Paradossales",
     "wof:parent_id": 1729837321,
     "wof:placetype": "installation",

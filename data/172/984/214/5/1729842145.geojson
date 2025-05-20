@@ -8,7 +8,6 @@
     "date:inception_upper": "1999-01-05",
     "edtf:cessation": "1999-09-21",
     "edtf:inception": "1999-01-05",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
@@ -58,7 +57,7 @@
       }
     ],
     "wof:id": 1729842145,
-    "wof:lastmodified": 1703103762,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Icons of San Francisco\r",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",

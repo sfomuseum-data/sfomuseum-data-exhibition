@@ -8,7 +8,6 @@
     "date:inception_upper": "2021-05-28",
     "edtf:cessation": "2021-10-24",
     "edtf:inception": "2021-05-28",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.383466,37.617599,-122.383466,37.617599",
     "geom:latitude": 37.617598890046914,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1763595021,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Kadish Gallery Temporary Loan",
     "wof:parent_id": 1763594985,
     "wof:placetype": "installation",

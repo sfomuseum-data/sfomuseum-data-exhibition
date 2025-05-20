@@ -8,7 +8,6 @@
     "date:inception_upper": "2024-04-06",
     "edtf:cessation": "2024-06-17",
     "edtf:inception": "2024-04-06",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/airline-travel-posters",
     "geom:area": 0,
     "geom:bbox": "-122.388003,37.614495,-122.388003,37.614495",
     "geom:latitude": 37.61449504184901,
@@ -84,7 +83,7 @@
       }
     ],
     "wof:id": 1897823425,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Artists of the Airways: Airline Travel Posters from the SFO Museum Collection",
     "wof:parent_id": 1914589511,
     "wof:placetype": "installation",

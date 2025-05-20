@@ -8,7 +8,6 @@
     "date:inception_upper": "2022-09-01",
     "edtf:cessation": "2022-09-28",
     "edtf:inception": "2022-09-01",
-    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/recit-de-soi",
     "geom:area": 0,
     "geom:bbox": "-122.389011,37.616017,-122.389011,37.616017",
     "geom:latitude": 37.616016744082586,
@@ -76,7 +75,7 @@
       }
     ],
     "wof:id": 1796996563,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Récit De Soi",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

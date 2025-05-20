@@ -8,7 +8,6 @@
     "date:inception_upper": "2016-09-09",
     "edtf:cessation": "2014~",
     "edtf:inception": "2016-09-09",
-    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.384786,37.614336,-122.384786,37.614336",
     "geom:latitude": 37.614336211275,
@@ -60,7 +59,7 @@
       }
     ],
     "wof:id": 1729842125,
-    "wof:lastmodified": 1747726357,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Kids’ Spot: Redwood Forest",
     "wof:parent_id": 1360516247,
     "wof:placetype": "installation",

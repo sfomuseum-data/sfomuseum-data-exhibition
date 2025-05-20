@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-09-28",
     "edtf:cessation": "2020-06-21",
     "edtf:inception": "2019-09-28",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/flying-freedom-birds",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387696,37.614350,-122.387696,37.614350",
@@ -87,7 +86,7 @@
       }
     ],
     "wof:id": 1495157221,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "Flying the Freedom Birds: Airlines and the Vietnam War",
     "wof:parent_id": 1477855947,
     "wof:placetype": "installation",

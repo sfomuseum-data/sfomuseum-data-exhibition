@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-02-14",
     "edtf:cessation": "2019-05-09",
     "edtf:inception": "2019-02-14",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/san-mateo-high-school-world-possibilities",
     "geom:area": 0,
     "geom:area_square_m": 781.898465,
     "geom:bbox": "-122.388532,37.616901,-122.388532,37.616901",
@@ -68,7 +67,7 @@
       }
     ],
     "wof:id": 1377096153,
-    "wof:lastmodified": 1747781760,
+    "wof:lastmodified": 1747781979,
     "wof:name": "San Mateo High School: A World of Possibilities",
     "wof:parent_id": 1159157937,
     "wof:placetype": "installation",

@@ -8,7 +8,6 @@
     "date:inception_upper": "2019-05-09",
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "2019-05-09",
-    "flysfo:url": "https://www.sfomuseum.org/exhibitions/our-land-photographs-students-urban-school-san-francisco",
     "geom:area": 0,
     "geom:area_square_m": 781.898465,
     "geom:bbox": "-122.388532,37.616901,-122.388532,37.616901",
@@ -68,7 +67,7 @@
       }
     ],
     "wof:id": 1495157269,
-    "wof:lastmodified": 1747781758,
+    "wof:lastmodified": 1747781979,
     "wof:name": "The Urban School of San Francisco: Our Land: Student Photography",
     "wof:parent_id": 1159157937,
     "wof:placetype": "installation",
