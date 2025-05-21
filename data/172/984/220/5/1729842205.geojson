@@ -8,6 +8,7 @@
     "date:inception_upper": "2020-02-01",
     "edtf:cessation": "2020-~05",
     "edtf:inception": "2020-02-01",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/art-school-san-francisco-bays-manga-drawing-club",
     "geom:area": 0,
     "geom:bbox": "-122.384379,37.614894,-122.384379,37.614894",
     "geom:latitude": 37.61489427207149,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1729842205,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Art School of San Francisco Bay’s Manga Drawing Club",
     "wof:parent_id": 1477855663,
     "wof:placetype": "installation",

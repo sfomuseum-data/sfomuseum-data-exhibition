@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-12-26",
     "edtf:cessation": "2020-01-22",
     "edtf:inception": "2019-12-26",
+    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/year-along-geostationary-orbit",
     "geom:area": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
     "geom:latitude": 37.61628,
@@ -75,7 +76,7 @@
       }
     ],
     "wof:id": 1729842223,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "A Year along the Geostationary Orbit",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",

@@ -8,6 +8,7 @@
     "date:inception_upper": "2020-03-09",
     "edtf:cessation": "2020-08-23",
     "edtf:inception": "2020-03-09",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/pan-american-world-airways-travel-posters",
     "geom:area": 0,
     "geom:bbox": "-122.383524,37.617391,-122.383524,37.617391",
     "geom:latitude": 37.61739068236336,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1729842253,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Pan American World Airways Travel Posters",
     "wof:parent_id": 1729813701,
     "wof:placetype": "installation",

@@ -8,6 +8,7 @@
     "date:inception_upper": "2022-04-30",
     "edtf:cessation": "2022-08-22",
     "edtf:inception": "2022-04-30",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/first-flights-early-women-aviators-and-their-aircraft",
     "geom:area": 0,
     "geom:bbox": "-122.387193,37.619103,-122.387193,37.619103",
     "geom:latitude": 37.619102719725085,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1796996503,
-    "wof:lastmodified": 1747781978,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Pylon Essay: First Flights: Early Women Aviators and Their Aircraft",
     "wof:parent_id": 1763588519,
     "wof:placetype": "installation",

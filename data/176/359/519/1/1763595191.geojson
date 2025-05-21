@@ -8,6 +8,7 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "2022-04-03",
     "edtf:inception": "2021-11-09",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/tabitha-soren-surface-tension-0",
     "geom:area": 0,
     "geom:bbox": "-122.384921,37.617924,-122.384921,37.617924",
     "geom:latitude": 37.617923793113434,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1763595191,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Tabitha Soren: Surface Tension (2021)",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",

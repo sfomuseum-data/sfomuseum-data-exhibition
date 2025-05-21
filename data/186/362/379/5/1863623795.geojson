@@ -8,6 +8,7 @@
     "date:inception_upper": "2023-05-06",
     "edtf:cessation": "2024-06-17",
     "edtf:inception": "2023-05-06",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/unknown-museum",
     "geom:area": 0,
     "geom:bbox": "-122.382108,37.617417,-122.382108,37.617417",
     "geom:latitude": 37.61741735957677,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1863623795,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Recollections... from the Unknown Museum",
     "wof:parent_id": 1763588487,
     "wof:placetype": "installation",

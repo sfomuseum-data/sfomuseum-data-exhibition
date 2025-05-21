@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-10-05",
     "edtf:cessation": "2020-01-29",
     "edtf:inception": "2019-10-05",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/wynn-bullock-color-light-abstractions",
     "geom:area": 0,
     "geom:bbox": "-122.387308,37.620404,-122.387308,37.620404",
     "geom:latitude": 37.62040377299203,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1729842169,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Wynn Bullock: Color Light Abstractions",
     "wof:parent_id": 1477855729,
     "wof:placetype": "installation",

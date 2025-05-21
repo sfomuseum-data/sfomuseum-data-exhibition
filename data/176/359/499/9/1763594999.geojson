@@ -8,6 +8,7 @@
     "date:inception_upper": "2021-12-11",
     "edtf:cessation": "2022-12-18",
     "edtf:inception": "2021-12-11",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/flying-southern-cross-route",
     "geom:area": 0,
     "geom:bbox": "-122.388003,37.614495,-122.388003,37.614495",
     "geom:latitude": 37.61449504184901,
@@ -83,7 +84,7 @@
       }
     ],
     "wof:id": 1763594999,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Flying the Southern Cross Route: Seventy-five Years of Australian Commercial Air Service to North America",
     "wof:parent_id": 1914589511,
     "wof:placetype": "installation",

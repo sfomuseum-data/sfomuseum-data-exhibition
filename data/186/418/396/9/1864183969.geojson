@@ -8,6 +8,7 @@
     "date:inception_upper": "2023-07-22",
     "edtf:cessation": "2024-05-05",
     "edtf:inception": "2023-07-22",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/june-schwarcz-unconventional-enamels",
     "geom:area": 0,
     "geom:bbox": "-122.384673,37.612926,-122.384673,37.612926",
     "geom:latitude": 37.61292608946352,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1864183969,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "June Schwarcz: Unconventional Enamels ",
     "wof:parent_id": 1763588505,
     "wof:placetype": "installation",

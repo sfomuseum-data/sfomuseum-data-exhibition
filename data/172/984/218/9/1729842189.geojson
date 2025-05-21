@@ -8,6 +8,7 @@
     "date:inception_upper": "2020-07-11",
     "edtf:cessation": "2020-12-13",
     "edtf:inception": "2020-07-11",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/eclectic-taste-victorian-silver-plate",
     "geom:area": 0,
     "geom:bbox": "-122.384879,37.612777,-122.384879,37.612777",
     "geom:latitude": 37.61277678323716,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1729842189,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Eclectic Taste: Victorian Silver Plate",
     "wof:parent_id": 1729837315,
     "wof:placetype": "installation",

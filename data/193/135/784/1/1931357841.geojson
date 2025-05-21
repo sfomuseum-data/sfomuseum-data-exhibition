@@ -8,6 +8,7 @@
     "date:inception_upper": "2024-10-26",
     "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-10-26",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/california-decorative-tile",
     "geom:area": 0,
     "geom:bbox": "-122.389718,37.616529,-122.389718,37.616529",
     "geom:latitude": 37.616528705005116,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1931357841,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812853,
     "wof:name": "California Decorative Tile",
     "wof:parent_id": 1914601147,
     "wof:placetype": "installation",

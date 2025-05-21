@@ -8,6 +8,7 @@
     "date:inception_upper": "2022-04-16",
     "edtf:cessation": "2022-11-13",
     "edtf:inception": "2022-04-16",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/pineapple-pina-philippine-textile",
     "geom:area": 0,
     "geom:bbox": "-122.385157,37.613893,-122.385157,37.613893",
     "geom:latitude": 37.613892603964324,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1763594995,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "From Pineapple to Piña: A Philippine Textile Treasure",
     "wof:parent_id": 1763588501,
     "wof:placetype": "installation",

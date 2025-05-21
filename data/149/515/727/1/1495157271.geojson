@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-08-01",
     "edtf:cessation": "2019-12-04",
     "edtf:inception": "2019-08-01",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/alejandro-duran-washed",
     "geom:area": 0,
     "geom:area_square_m": 319.866099,
     "geom:bbox": "-122.387651,37.617807,-122.387651,37.617807",
@@ -80,7 +81,7 @@
       }
     ],
     "wof:id": 1495157271,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Alejandro Duran: Washed Up",
     "wof:parent_id": 1477855821,
     "wof:placetype": "installation",

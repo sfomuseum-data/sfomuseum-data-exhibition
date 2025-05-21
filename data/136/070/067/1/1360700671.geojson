@@ -8,6 +8,7 @@
     "date:inception_upper": "2018-11-06",
     "edtf:cessation": "2019-02-26",
     "edtf:inception": "2018-11-06",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/michael-light-sidereal-rift",
     "geom:area": 0,
     "geom:area_square_m": 397.817241,
     "geom:bbox": "-122.387308,37.620404,-122.387308,37.620404",
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1360700671,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Michael Light: Sidereal Rift",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",
