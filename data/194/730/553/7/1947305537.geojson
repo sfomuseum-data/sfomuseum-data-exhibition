@@ -6,10 +6,11 @@
     "date:inception_upper": "2024-11-05",
     "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.388141,37.614571,-122.388141,37.614571",
-    "geom:latitude": 37.61457100582541,
-    "geom:longitude": -122.38814133127784,
+    "geom:bbox": "-122.388145,37.614571,-122.388145,37.614571",
+    "geom:latitude": 37.614570544252,
+    "geom:longitude": -122.38814488455577,
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-09-07",
@@ -44,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966172,
-    "wof:geomhash": "2dbb474ed80924d28713ca468622720c",
+    "wof:geomhash": "a3fd09730145359dbef951dc7af2881a",
     "wof:hierarchy": [
       {
         "arcade_id": 1947304235,
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1947305537,
     "wof:label": "Special Collections Poster: CNAC (2024-11-05)",
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812853,
     "wof:name": "Special Collections Poster: CNAC",
     "wof:parent_id": 1947304253,
     "wof:placetype": "installation",
@@ -89,10 +90,10 @@
     ]
   },
   "bbox": [
-    -122.38814133127784,
-    37.61457100582541,
-    -122.38814133127784,
-    37.61457100582541
+    -122.38814488455577,
+    37.614570544252,
+    -122.38814488455577,
+    37.614570544252
   ],
-  "geometry": {"coordinates":[[-122.38814133127784,37.61457100582541]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38814488455577,37.614570544252],[-122.38814488455577,37.614570544252]],"type":"MultiPoint"}
 }

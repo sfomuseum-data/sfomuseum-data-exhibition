@@ -8,6 +8,7 @@
     "date:inception_upper": "2024-03-02",
     "edtf:cessation": "2024-06-17",
     "edtf:inception": "2024-03-02",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/cut-above-airplane-models",
     "geom:area": 0,
     "geom:bbox": "-122.389019,37.615509,-122.388903,37.615809",
     "geom:latitude": 37.61565856860682,
@@ -106,7 +107,7 @@
       }
     ],
     "wof:id": 1897466923,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "A Cut Above: Airplane Models from the SFO Museum Collection ",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

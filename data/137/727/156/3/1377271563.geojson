@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-02-21",
     "edtf:cessation": "2019-03-20",
     "edtf:inception": "2019-02-21",
+    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/another-kind-girl",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1377271563,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Another Kind of Girl",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

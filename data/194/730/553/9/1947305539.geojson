@@ -6,10 +6,11 @@
     "date:inception_upper": "2024-11-05",
     "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/harold-bixby-collection",
     "geom:area": 0,
-    "geom:bbox": "-122.388114,37.614436,-122.388114,37.614436",
-    "geom:latitude": 37.614435579369285,
-    "geom:longitude": -122.38811414961698,
+    "geom:bbox": "-122.388090,37.614435,-122.388090,37.614435",
+    "geom:latitude": 37.61443520331251,
+    "geom:longitude": -122.38809021334434,
     "millsfield:count_collection_objects": 23,
     "mz:is_current": 1,
     "sfo:level": 3,
@@ -47,7 +48,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731966172,
-    "wof:geomhash": "fe3e6e60565064257d9f9609d0612ed7",
+    "wof:geomhash": "d5c39a967c9769ef4e5bd85a00a45f80",
     "wof:hierarchy": [
       {
         "arcade_id": 1947304235,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1947305539,
     "wof:label": "The Harold Bixby Collection: Unlocking an Archival Treasure (2024-11-05)",
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "The Harold Bixby Collection: Unlocking an Archival Treasure",
     "wof:parent_id": 1947304255,
     "wof:placetype": "installation",
@@ -92,10 +93,10 @@
     ]
   },
   "bbox": [
-    -122.38811414961698,
-    37.614435579369285,
-    -122.38811414961698,
-    37.614435579369285
+    -122.38809021334434,
+    37.61443520331251,
+    -122.38809021334434,
+    37.61443520331251
   ],
-  "geometry": {"coordinates":[[-122.38811414961698,37.614435579369285]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.38809021334434,37.61443520331251],[-122.38809021334434,37.61443520331251]],"type":"MultiPoint"}
 }

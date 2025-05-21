@@ -8,6 +8,7 @@
     "date:inception_upper": "2018-11-22",
     "edtf:cessation": "2018-12-19",
     "edtf:inception": "2018-11-22",
+    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/am-i-paris",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1376812937,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Am I Paris?",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

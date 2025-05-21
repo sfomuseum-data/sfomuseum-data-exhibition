@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-12-07",
     "edtf:cessation": "2021-03-07",
     "edtf:inception": "2019-12-07",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387797,37.614357,-122.387797,37.614357",
     "geom:latitude": 37.61435718833335,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 1729842233,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Special Collections Poster: Inman Bros. Flying Circus",
     "wof:parent_id": 1729813685,
     "wof:placetype": "installation",

@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-12-01",
     "edtf:cessation": "2019-12-31",
     "edtf:inception": "2019-12-01",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/pan-american-airways-central-america",
     "geom:area": 0,
     "geom:bbox": "-122.387651,37.617807,-122.387651,37.617807",
     "geom:latitude": 37.617806617631246,
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1729842133,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Pan American Airways in Central America",
     "wof:parent_id": 1477855821,
     "wof:placetype": "installation",

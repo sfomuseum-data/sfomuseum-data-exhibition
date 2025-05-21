@@ -8,6 +8,7 @@
     "date:inception_upper": "2021-12-18",
     "edtf:cessation": "2023-01-08",
     "edtf:inception": "2021-12-18",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/jet-mainliner-miniature-dc-8",
     "geom:area": 0,
     "geom:bbox": "-122.388025,37.614552,-122.388025,37.614552",
     "geom:latitude": 37.61455159013738,
@@ -83,7 +84,7 @@
       }
     ],
     "wof:id": 1763595001,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Jet Mainliner in Miniature: DC-8 Model and Its Conservation",
     "wof:parent_id": 1914589509,
     "wof:placetype": "installation",

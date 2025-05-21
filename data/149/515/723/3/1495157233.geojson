@@ -8,6 +8,7 @@
     "date:inception_upper": "2018-10-23",
     "edtf:cessation": "2019-02-14",
     "edtf:inception": "2018-10-23",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/twenty-five-years-first-exposures",
     "geom:area": 0,
     "geom:area_square_m": 781.898465,
     "geom:bbox": "-122.388532,37.616901,-122.388532,37.616901",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1495157233,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "First Exposures: Twenty-Five Years of First Exposures",
     "wof:parent_id": 1159157937,
     "wof:placetype": "installation",

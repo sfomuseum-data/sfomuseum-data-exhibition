@@ -8,6 +8,7 @@
     "date:inception_upper": "2020-06-27",
     "edtf:cessation": "2020-11-08",
     "edtf:inception": "2020-06-27",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/rj-waters-golden-gate-park",
     "geom:area": 0,
     "geom:bbox": "-122.387416,37.620174,-122.387416,37.620174",
     "geom:latitude": 37.620173704195516,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1729842151,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "R.J. Waters: Golden Gate Park",
     "wof:parent_id": 1729792777,
     "wof:placetype": "installation",

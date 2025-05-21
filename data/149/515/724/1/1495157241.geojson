@@ -8,6 +8,7 @@
     "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-11-02",
     "edtf:inception": "2018-10-31",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
@@ -69,7 +70,7 @@
       }
     ],
     "wof:id": 1495157241,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Aeronautical Society Gala 2018",
     "wof:parent_id": 1360541667,
     "wof:placetype": "installation",

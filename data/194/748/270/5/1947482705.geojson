@@ -8,6 +8,7 @@
     "date:inception_upper": "2024-12-14",
     "edtf:cessation": "2025-11-02",
     "edtf:inception": "2024-12-14",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.384921,37.617924,-122.384921,37.617924",
     "geom:latitude": 37.617923793113434,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1947482705,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812853,
     "wof:name": "Ricardo Alvarado: Capturing a Cultural Legacy",
     "wof:parent_id": 1947304567,
     "wof:placetype": "installation",

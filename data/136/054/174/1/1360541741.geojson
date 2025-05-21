@@ -8,6 +8,7 @@
     "date:inception_upper": "2006-11-29",
     "edtf:cessation": "2007-04-30",
     "edtf:inception": "2006-11-29",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
@@ -69,7 +70,7 @@
       }
     ],
     "wof:id": 1360541741,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812851,
     "wof:name": "For Your Comfort: A Survey of Passenger Amenities for Airline Travel",
     "wof:parent_id": 1360541633,
     "wof:placetype": "installation",

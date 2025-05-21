@@ -8,6 +8,7 @@
     "date:inception_upper": "2025-05-10",
     "edtf:cessation": "2026-04-05",
     "edtf:inception": "2025-05-10",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387158,37.614636,-122.387158,37.614636",
     "geom:latitude": 37.614635906352255,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1964467481,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812853,
     "wof:name": "A Study of Familiar Places: Paintings and Drawings by Students of the Art With Elders Program",
     "wof:parent_id": 1947304327,
     "wof:placetype": "installation",

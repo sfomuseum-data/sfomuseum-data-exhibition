@@ -9,6 +9,7 @@
     "edtf:cessation": "2007-12-05",
     "edtf:deprecated": "2018-10-18",
     "edtf:inception": "2007-10-01",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 83.495225,
     "geom:bbox": "-122.384814,37.617787,-122.384814,37.617787",
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1360667789,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812851,
     "wof:name": "Leo Holub: Artists in their Studios",
     "wof:parent_id": 1360521555,
     "wof:placetype": "installation",

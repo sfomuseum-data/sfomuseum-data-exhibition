@@ -8,6 +8,7 @@
     "date:inception_upper": "2018-09-13",
     "edtf:cessation": "2018-12-13",
     "edtf:inception": "2018-09-13",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/noritaka-minami-california-city-california",
     "geom:area": 0,
     "geom:area_square_m": 319.866099,
     "geom:bbox": "-122.387515,37.617685,-122.387515,37.617685",
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 1360541749,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Noritaka Minami: California City, California",
     "wof:parent_id": 1159157051,
     "wof:placetype": "installation",

@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-03-14",
     "edtf:cessation": "2019-04-10",
     "edtf:inception": "2019-03-14",
+    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/garbage-story",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1377271569,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "A Garbage Story",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

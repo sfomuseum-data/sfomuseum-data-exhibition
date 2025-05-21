@@ -8,6 +8,7 @@
     "date:inception_upper": "2023-04-27",
     "edtf:cessation": "2023-05-31",
     "edtf:inception": "2023-04-27",
+    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/winning-america",
     "geom:area": 0,
     "geom:bbox": "-122.389011,37.616017,-122.389011,37.616017",
     "geom:latitude": 37.616016744082586,
@@ -75,7 +76,7 @@
       }
     ],
     "wof:id": 1930590699,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812853,
     "wof:name": "Winning in America",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

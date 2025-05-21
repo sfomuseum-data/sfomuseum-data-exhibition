@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-09-17",
     "edtf:cessation": "2019-10-25",
     "edtf:inception": "2019-09-17",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/flying-display-aviation-panama-pacific-international-exposition",
     "geom:area": 0,
     "geom:area_square_m": 83.495225,
     "geom:bbox": "-122.384814,37.617787,-122.384814,37.617787",
@@ -81,7 +82,7 @@
       }
     ],
     "wof:id": 1495157299,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
     "wof:parent_id": 1477855653,
     "wof:placetype": "installation",

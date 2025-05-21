@@ -8,6 +8,7 @@
     "date:inception_upper": "2022-08-04",
     "edtf:cessation": "2022-08-31",
     "edtf:inception": "2022-08-04",
+    "flysfo:url": "https://www.sfomuseum.org/programs/video-arts/ver-ponte-ahi",
     "geom:area": 0,
     "geom:bbox": "-122.389011,37.616017,-122.389011,37.616017",
     "geom:latitude": 37.616016744082586,
@@ -75,7 +76,7 @@
       }
     ],
     "wof:id": 1796996545,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812853,
     "wof:name": "A ver ponte ahi",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",

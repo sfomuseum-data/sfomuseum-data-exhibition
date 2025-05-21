@@ -8,6 +8,7 @@
     "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-06-27",
     "edtf:inception": "2018-05-31",
+    "flysfo:url": "https://www.sfomuseum.org/video-arts/azul-turquesa",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1360700677,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Azul Turquesa",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",

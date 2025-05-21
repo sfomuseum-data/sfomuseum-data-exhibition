@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-09-10",
     "edtf:cessation": "2020-01-28",
     "edtf:inception": "2019-09-10",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/parks-focus-ten-years-yosemite",
     "geom:area": 0,
     "geom:area_square_m": 467.367672,
     "geom:bbox": "-122.384379,37.614894,-122.384379,37.614894",
@@ -83,7 +84,7 @@
       }
     ],
     "wof:id": 1495157313,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Parks in Focus: Ten Years at Yosemite",
     "wof:parent_id": 1477855663,
     "wof:placetype": "installation",

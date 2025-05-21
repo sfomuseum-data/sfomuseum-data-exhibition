@@ -8,6 +8,7 @@
     "date:inception_upper": "2014-01-07",
     "edtf:cessation": "2017~",
     "edtf:inception": "2014-01-07",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/kids-spot-spirogyrate",
     "geom:area": 0,
     "geom:bbox": "-122.384454,37.618670,-122.384454,37.618670",
     "geom:latitude": 37.61866960803538,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1729842155,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812853,
     "wof:name": "Kids’ Spot: Spirogyrate",
     "wof:parent_id": 1360516117,
     "wof:placetype": "installation",

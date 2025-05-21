@@ -8,6 +8,7 @@
     "date:inception_upper": "2022-10-22",
     "edtf:cessation": "2023-07-09",
     "edtf:inception": "2022-10-22",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/airline-meal-service",
     "geom:area": 0,
     "geom:bbox": "-122.389718,37.616529,-122.389718,37.616529",
     "geom:latitude": 37.616528705005116,
@@ -78,7 +79,7 @@
       }
     ],
     "wof:id": 1796996505,
-    "wof:lastmodified": 1747781978,
+    "wof:lastmodified": 1747812852,
     "wof:name": "More than a Meal: Airline Meal Service Sets, 1960s–80s",
     "wof:parent_id": 1763588553,
     "wof:placetype": "installation",

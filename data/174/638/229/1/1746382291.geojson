@@ -8,6 +8,7 @@
     "date:inception_upper": "2021-07-03",
     "edtf:cessation": "2022-02-27",
     "edtf:inception": "2021-07-03",
+    "flysfo:url": "https://www.sfomuseum.org/exhibitions/aleksey-kondratyev-ice-fishers",
     "geom:area": 0,
     "geom:bbox": "-122.384119,37.615457,-122.384119,37.615457",
     "geom:latitude": 37.61545711615287,
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1746382291,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "Aleksey Kondratyev: Ice Fishers",
     "wof:parent_id": 1745882477,
     "wof:placetype": "installation",

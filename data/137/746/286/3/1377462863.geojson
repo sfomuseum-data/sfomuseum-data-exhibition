@@ -8,6 +8,7 @@
     "date:inception_upper": "2019-03-16",
     "edtf:cessation": "2017~",
     "edtf:inception": "2019-03-16",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
@@ -70,7 +71,7 @@
       }
     ],
     "wof:id": 1377462863,
-    "wof:lastmodified": 1747781979,
+    "wof:lastmodified": 1747812852,
     "wof:name": "American Airliner Cockpits: 1925–1975",
     "wof:parent_id": 1360541677,
     "wof:placetype": "installation",
