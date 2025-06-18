@@ -29,6 +29,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 25097,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/preston-singletary-raven-visits-sfo",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 1964859541,
-    "wof:lastmodified": 1750232578,
+    "wof:lastmodified": 1750277218,
     "wof:name": "Preston Singletary: Raven Visits SFO",
     "wof:parent_id": 1947304217,
     "wof:placetype": "installation",
