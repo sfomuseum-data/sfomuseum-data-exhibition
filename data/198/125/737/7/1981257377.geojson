@@ -29,6 +29,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 25114,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/telephone-retrospective",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 1981257377,
-    "wof:lastmodified": 1756800430,
+    "wof:lastmodified": 1756838945,
     "wof:name": "Give Me a Ring: A Telephone Retrospective",
     "wof:parent_id": 1947304639,
     "wof:placetype": "installation",
@@ -91,5 +93,5 @@
     -122.38210800323661,
     37.61741735957677
   ],
-  "geometry": {"coordinates":[[-122.38210800323661,37.61741735957677]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38210800323661,37.61741735957677]]}
 }

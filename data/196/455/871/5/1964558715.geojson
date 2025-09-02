@@ -29,7 +29,7 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "NonAviation",
-    "sfomuseum_www:exhibition_id": 25094,
+    "sfomuseum_www:exhibition_id": 25115,
     "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/women-afrofuturism",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1964558715,
-    "wof:lastmodified": 1756800430,
+    "wof:lastmodified": 1756838944,
     "wof:name": "Women of Afrofuturism",
     "wof:parent_id": 1947304319,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38515721248761,
     37.613892603964324
   ],
-  "geometry": {"coordinates":[[-122.38515721248761,37.613892603964324]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38515721248761,37.613892603964324]]}
 }

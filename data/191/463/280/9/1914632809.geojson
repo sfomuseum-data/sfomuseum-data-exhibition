@@ -29,8 +29,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
-    "sfomuseum_www:exhibition_id": 24737,
-    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/going-the-distance",
+    "sfomuseum_www:exhibition_id": 25113,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/going-distance-endurance-aircraft-engines-and-propellers-1910s-and-20s",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1914632809,
     "wof:label": "Going the Distance (2024-06-17)",
-    "wof:lastmodified": 1756800431,
+    "wof:lastmodified": 1756838942,
     "wof:name": "Going the Distance",
     "wof:parent_id": 1914601177,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.3882744230715,
     37.61453995502804
   ],
-  "geometry": {"coordinates":[[-122.3882744230715,37.61453995502804]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3882744230715,37.61453995502804]]}
 }

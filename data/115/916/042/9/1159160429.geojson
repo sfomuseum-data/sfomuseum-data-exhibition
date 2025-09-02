@@ -36,8 +36,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:terminal_id": "T1",
     "sfomuseum:type": "Student Art",
-    "sfomuseum_www:exhibition_id": 5039,
-    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/student-art-creative-exploration-through-painting-and-drawing",
+    "sfomuseum_www:exhibition_id": 5038,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/student-photography-means-expression",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
@@ -89,7 +89,7 @@
     "wof:id": 1159160429,
     "wof:is_current": 0,
     "wof:label": "Children’s Art: San Francisco University High School (2013-10-01 - 2013-11-29)",
-    "wof:lastmodified": 1756800428,
+    "wof:lastmodified": 1756838890,
     "wof:name": "San Francisco University High School: Photography: A Means of Expression ; Creative Exploration Through Painting and Drawing",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -108,5 +108,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]]}
 }
