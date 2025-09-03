@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1981257377,
-    "wof:lastmodified": 1756838945,
+    "wof:lastmodified": 1756886771,
     "wof:name": "Give Me a Ring: A Telephone Retrospective",
     "wof:parent_id": 1947304639,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38210800323661,
     37.61741735957677
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.38210800323661,37.61741735957677]]}
+  "geometry": {"coordinates":[[-122.38210800323661,37.61741735957677]],"type":"MultiPoint"}
 }

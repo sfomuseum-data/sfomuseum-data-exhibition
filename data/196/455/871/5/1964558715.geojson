@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1964558715,
-    "wof:lastmodified": 1756838944,
+    "wof:lastmodified": 1756886772,
     "wof:name": "Women of Afrofuturism",
     "wof:parent_id": 1947304319,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38515721248761,
     37.613892603964324
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.38515721248761,37.613892603964324]]}
+  "geometry": {"coordinates":[[-122.38515721248761,37.613892603964324]],"type":"MultiPoint"}
 }
