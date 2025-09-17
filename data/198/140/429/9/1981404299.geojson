@@ -11,7 +11,7 @@
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.61939390848619,
     "geom:longitude": -122.37385309950533,
-    "millsfield:count_collection_objects": 11,
+    "millsfield:count_collection_objects": 28,
     "mz:is_current": 1,
     "sfo:level": -1,
     "sfomuseum:date_end": "",
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1981404299,
-    "wof:lastmodified": 1758008139,
+    "wof:lastmodified": 1758094536,
     "wof:name": "Special Exhibit: C3C Executive Office Graphics",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
