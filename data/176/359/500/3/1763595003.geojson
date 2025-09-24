@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1763595003,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "China Clipper (Propeller)",
     "wof:parent_id": 1729813737,
     "wof:placetype": "installation",
@@ -96,5 +96,5 @@
     -122.38803563510608,
     37.61445519279513
   ],
-  "geometry": {"coordinates":[[-122.38803563510608,37.61445519279513],[-122.38803563510608,37.61445519279513]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38803563510608,37.61445519279513],[-122.38803563510608,37.61445519279513]]}
 }

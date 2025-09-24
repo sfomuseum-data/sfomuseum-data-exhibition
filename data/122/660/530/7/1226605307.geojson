@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226605307,
     "wof:label": "Toys from the Attic (2000-02-25 - 2000-09-20)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Toys from the Attic",
     "wof:parent_id": 1159157883,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

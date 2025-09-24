@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1746480489,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Pylon Essay: From Kezar to Candlestick: The Photography of Frank Rippon ",
     "wof:parent_id": 1745882479,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38719319835137,
     37.61910271972509
   ],
-  "geometry": {"coordinates":[[-122.38719319835137,37.61910271972509],[-122.38719319835137,37.61910271972509]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719319835137,37.61910271972509],[-122.38719319835137,37.61910271972509]]}
 }

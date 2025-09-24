@@ -83,7 +83,7 @@
     ],
     "wof:id": 1226614745,
     "wof:label": "Children's Art: San Francisco School District Children's Festival (1990-06-25 - 1990-08-06)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "San Francisco School District Children's Festival",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.386898,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]]}
 }

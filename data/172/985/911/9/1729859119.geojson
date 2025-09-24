@@ -1,5 +1,5 @@
 {
-  "id": 1159159801,
+  "id": 1729859119,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2011-01-01",
@@ -76,7 +76,7 @@
     "wof:id": 1729859119,
     "wof:is_current": 0,
     "wof:label": "Pan Am: Legacy of a Leader (2006~)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Pan Am: Legacy of a Leader",
     "wof:parent_id": 1360541661,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

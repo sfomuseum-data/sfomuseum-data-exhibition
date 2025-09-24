@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1863566481,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Notre Dame Belmont: The Luggage Project",
     "wof:parent_id": 1763588503,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.3871579788049,
     37.614635906352255
   ],
-  "geometry": {"coordinates":[[-122.3871579788049,37.614635906352255]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3871579788049,37.614635906352255]]}
 }

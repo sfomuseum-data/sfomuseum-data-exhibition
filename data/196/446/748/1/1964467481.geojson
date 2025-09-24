@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1964467481,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "A Study of Familiar Places: Paintings and Drawings by Students of the Art With Elders Program",
     "wof:parent_id": 1947304327,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.3871579788049,
     37.614635906352255
   ],
-  "geometry": {"coordinates":[[-122.3871579788049,37.614635906352255]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3871579788049,37.614635906352255]]}
 }

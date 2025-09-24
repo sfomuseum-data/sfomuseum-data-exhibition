@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226615425,
     "wof:label": "The Monuments of Mexico (1991-06-01 - 1991-06-15)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "The Monuments of Mexico",
     "wof:parent_id": 1360516145,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

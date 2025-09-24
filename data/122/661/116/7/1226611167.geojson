@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226611167,
     "wof:label": "John Gutmann, San Francisco 1930-1950 (1990-09-01 - 1990-10-01)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700023,
     "wof:name": "John Gutmann, San Francisco 1930-1950",
     "wof:parent_id": 1360516145,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

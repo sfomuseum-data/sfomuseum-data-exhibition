@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1729842205,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Art School of San Francisco Bay’s Manga Drawing Club",
     "wof:parent_id": 1477855663,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.38437920019275,
     37.61489427207149
   ],
-  "geometry": {"coordinates":[[-122.38437920019275,37.61489427207149]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38437920019275,37.61489427207149]]}
 }

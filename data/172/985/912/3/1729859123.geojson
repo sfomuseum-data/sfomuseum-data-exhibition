@@ -1,5 +1,5 @@
 {
-  "id": 1495157243,
+  "id": 1729859123,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-05-01",
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1729859123,
     "wof:label": "Greenleaf TK–8: Social Justice Posters (2019-07-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Greenleaf TK–8: Social Justice Posters",
     "wof:parent_id": 1477855663,
     "wof:placetype": "installation",
@@ -103,5 +103,5 @@
     -122.38437920019275,
     37.61489427207149
   ],
-  "geometry": {"coordinates":[[-122.38437920019275,37.61489427207149]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38437920019275,37.61489427207149]]}
 }

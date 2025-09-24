@@ -72,7 +72,7 @@
       }
     ],
     "wof:id": 1796996487,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Going the Distance",
     "wof:parent_id": 1796989589,
     "wof:placetype": "installation",
@@ -89,5 +89,5 @@
     -122.38826746081209,
     37.61450455828342
   ],
-  "geometry": {"coordinates":[[-122.38826746081209,37.61450455828342],[-122.38826746081209,37.61450455828342]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38826746081209,37.61450455828342],[-122.38826746081209,37.61450455828342]]}
 }

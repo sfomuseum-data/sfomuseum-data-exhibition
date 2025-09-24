@@ -1,5 +1,5 @@
 {
-  "id": 1729842235,
+  "id": 1763601239,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2019-12-01",
@@ -74,7 +74,7 @@
       }
     ],
     "wof:id": 1763601239,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Special Collections Poster: Finnair",
     "wof:parent_id": 1763601213,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

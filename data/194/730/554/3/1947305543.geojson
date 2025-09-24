@@ -70,7 +70,7 @@
     ],
     "wof:id": 1947305543,
     "wof:label": "A Cut Above: Airplane Models from the SFO Museum Collection  (2024-11-05)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "A Cut Above: Airplane Models from the SFO Museum Collection ",
     "wof:parent_id": 1947304067,
     "wof:placetype": "installation",
@@ -87,5 +87,5 @@
     -122.38890259474638,
     37.61580856483965
   ],
-  "geometry": {"coordinates":[[-122.38890259474638,37.61550857237398],[-122.38901919979469,37.61580856483965]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38890259474638,37.61550857237398],[-122.38901919979469,37.61580856483965]]}
 }

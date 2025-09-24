@@ -83,7 +83,7 @@
     ],
     "wof:id": 1914632767,
     "wof:label": "From Mills Field to SFO (2024-06-17)",
-    "wof:lastmodified": 1758612833,
+    "wof:lastmodified": 1758700031,
     "wof:name": "From Mills Field to SFO",
     "wof:parent_id": 1914601561,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.3835114813095,
     37.6173867757363
   ],
-  "geometry": {"coordinates":[[-122.3835114813095,37.6173867757363]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3835114813095,37.6173867757363]]}
 }

@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1746382281,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Luca Tombolini: Vistas Paradossales",
     "wof:parent_id": 1729837321,
     "wof:placetype": "installation",
@@ -90,5 +90,5 @@
     -122.3841194237983,
     37.61545711615287
   ],
-  "geometry": {"coordinates":[[-122.3841194237983,37.61545711615287],[-122.3841194237983,37.61545711615287]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3841194237983,37.61545711615287],[-122.3841194237983,37.61545711615287]]}
 }

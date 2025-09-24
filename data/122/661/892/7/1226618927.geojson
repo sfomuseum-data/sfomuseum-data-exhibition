@@ -68,7 +68,7 @@
     ],
     "wof:id": 1226618927,
     "wof:label": "Family Farm (2005-12-13 - 2006-03-27)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Family Farm",
     "wof:parent_id": 1360521557,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.38274,
     37.617227
   ],
-  "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38274,37.617227]]}
 }

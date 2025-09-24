@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595041,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Swift Current: A Native American Cowboy (2021)",
     "wof:parent_id": 1745882507,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38906143130441,
     37.61601515922952
   ],
-  "geometry": {"coordinates":[[-122.38906143130441,37.61601515922952]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38906143130441,37.61601515922952]]}
 }

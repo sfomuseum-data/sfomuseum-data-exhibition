@@ -1,5 +1,5 @@
 {
-  "id": 1729842149,
+  "id": 1729859037,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2020-05-01",
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1729859037,
     "wof:label": "On Silent Wings: Published Works on Gliding and Soaring Flight (2020-~05)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "On Silent Wings: Published Works on Gliding and Soaring Flight",
     "wof:parent_id": 1729813745,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38811414961698,
     37.614435579369285
   ],
-  "geometry": {"coordinates":[[-122.38811414961698,37.614435579369285],[-122.38811414961698,37.614435579369285]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38811414961698,37.614435579369285],[-122.38811414961698,37.614435579369285]]}
 }

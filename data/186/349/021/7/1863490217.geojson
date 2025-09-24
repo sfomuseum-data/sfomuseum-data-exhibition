@@ -1,5 +1,5 @@
 {
-  "id": 1360521609,
+  "id": 1863490217,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-05-01",
@@ -90,7 +90,7 @@
     "wof:id": 1863490217,
     "wof:is_current": 0,
     "wof:label": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection (2019-07-23)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Masterworks by Edward Chavez: The Nut Tree Restaurant and Airfield Model Aircraft Collection",
     "wof:parent_id": 1863481157,
     "wof:placetype": "installation",
@@ -113,5 +113,5 @@
     -122.38853215754116,
     37.61690119253437
   ],
-  "geometry": {"coordinates":[[-122.38853215754116,37.61690119253437]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38853215754116,37.61690119253437]]}
 }

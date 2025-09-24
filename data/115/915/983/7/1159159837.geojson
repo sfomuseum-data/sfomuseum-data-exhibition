@@ -74,7 +74,7 @@
     "wof:id": 1159159837,
     "wof:is_current": 0,
     "wof:label": "Made In China: A Visual Feast of Color and Design (2006-07-26 - 2007-01-22)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Made In China: A Visual Feast of Color and Design",
     "wof:parent_id": 1360516285,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38972520542025,
     37.61659358252093
   ],
-  "geometry": {"coordinates":[[-122.38972520542025,37.61659358252093]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38972520542025,37.61659358252093]]}
 }

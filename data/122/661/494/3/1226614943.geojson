@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226614943,
     "wof:label": "Photo Documentation of Bay Area Proms by LIz Ferran (1990-05-15 - 1990-08-30)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Photo Documentation of Bay Area Proms by LIz Ferran",
     "wof:parent_id": 1360516145,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

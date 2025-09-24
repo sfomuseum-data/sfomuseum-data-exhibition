@@ -1,5 +1,5 @@
 {
-  "id": 1159159705,
+  "id": 1729859117,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2011-01-01",
@@ -76,7 +76,7 @@
     "wof:id": 1729859117,
     "wof:is_current": 0,
     "wof:label": "Flying Boats of the Pacific: Photographs by Clyde Sunderland (2006~)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Flying Boats of the Pacific: Photographs by Clyde Sunderland",
     "wof:parent_id": 1360541669,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

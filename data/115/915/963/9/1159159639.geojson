@@ -77,7 +77,7 @@
     "wof:id": 1159159639,
     "wof:is_current": 0,
     "wof:label": "Balloons (2005-04-15 - 2005-09-15)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Balloons",
     "wof:parent_id": 1360541567,
     "wof:placetype": "installation",
@@ -96,5 +96,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

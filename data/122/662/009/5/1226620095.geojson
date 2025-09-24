@@ -75,7 +75,7 @@
     ],
     "wof:id": 1226620095,
     "wof:label": "Bob Cornelis: Carta I (2017-01-04 - 2017-05-02)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Bob Cornelis: Carta I",
     "wof:parent_id": 1360516137,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

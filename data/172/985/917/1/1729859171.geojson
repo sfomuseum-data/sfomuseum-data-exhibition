@@ -1,5 +1,5 @@
 {
-  "id": 1226618809,
+  "id": 1729859171,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2011-01-01",
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1729859171,
     "wof:label": "Museum Posters (2006~)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Museum Posters",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.38274,
     37.61778741781103
   ],
-  "geometry": {"coordinates":[[-122.38481416647545,37.61778741781103],[-122.38274,37.617227]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38481416647545,37.61778741781103],[-122.38274,37.617227]]}
 }

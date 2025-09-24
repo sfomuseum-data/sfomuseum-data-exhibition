@@ -84,7 +84,7 @@
     ],
     "wof:id": 1226614465,
     "wof:label": "Children's Art: Children's Post Cards (1989-08-22 - 1989-10-02)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Children's Post Cards",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.386898,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]]}
 }

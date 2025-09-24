@@ -74,7 +74,7 @@
       }
     ],
     "wof:id": 1360667841,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Xiaoxiao Xu: Aeronautics in the Backyard",
     "wof:parent_id": 1159157077,
     "wof:placetype": "installation",
@@ -90,5 +90,5 @@
     -122.38560464919266,
     37.612579503649634
   ],
-  "geometry": {"coordinates":[[-122.38560464919266,37.612579503649634]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38560464919266,37.612579503649634]]}
 }

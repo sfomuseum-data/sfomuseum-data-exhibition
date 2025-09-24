@@ -62,7 +62,7 @@
       }
     ],
     "wof:id": 1729842231,
-    "wof:lastmodified": 1758612833,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Legends of the Air",
     "wof:parent_id": 1360541569,
     "wof:placetype": "installation",
@@ -79,5 +79,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

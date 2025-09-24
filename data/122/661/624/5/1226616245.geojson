@@ -83,7 +83,7 @@
     ],
     "wof:id": 1226616245,
     "wof:label": "Children's Art: Mount Zion Hospital Art for Recovery (1990-08-01 - 1990-09-01)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "UCSF Mount Zion Hospital: Art for Recovery",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.386898,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]]}
 }

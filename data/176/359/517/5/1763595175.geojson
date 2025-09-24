@@ -1,5 +1,5 @@
 {
-  "id": 1763595029,
+  "id": 1763595175,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2022-05-08",
@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1763595175,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Arko Datto: Rail Diwali",
     "wof:parent_id": 1763588523,
     "wof:placetype": "installation",
@@ -96,5 +96,5 @@
     -122.38740094564245,
     37.620173005536714
   ],
-  "geometry": {"coordinates":[[-122.38740094564245,37.620173005536714]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38740094564245,37.620173005536714]]}
 }

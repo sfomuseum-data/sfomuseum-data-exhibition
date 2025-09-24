@@ -78,7 +78,7 @@
     "wof:id": 1159160227,
     "wof:is_current": 0,
     "wof:label": "Robert Z. Apte: Antarctica (2011-08-01 - 2011-10-31)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Robert Z. Apte: Antarctica",
     "wof:parent_id": 1360516223,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.38560462151302,
     37.612579621116986
   ],
-  "geometry": {"coordinates":[[-122.38560462151302,37.612579621116986]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38560462151302,37.612579621116986]]}
 }

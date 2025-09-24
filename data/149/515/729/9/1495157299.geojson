@@ -82,7 +82,7 @@
       }
     ],
     "wof:id": 1495157299,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
     "wof:parent_id": 1477855653,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.3848138298103,
     37.61778735663957
   ],
-  "geometry": {"coordinates":[[-122.3848138298103,37.61778735663957]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3848138298103,37.61778735663957]]}
 }

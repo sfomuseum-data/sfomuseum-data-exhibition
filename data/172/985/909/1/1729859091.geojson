@@ -1,5 +1,5 @@
 {
-  "id": 1360702457,
+  "id": 1729859091,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-05-01",
@@ -89,7 +89,7 @@
     ],
     "wof:id": 1729859091,
     "wof:label": "The Modern Consumer: 1950s Products and Styles (2019-07-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "The Modern Consumer: 1950s Products and Styles",
     "wof:parent_id": 1477855725,
     "wof:placetype": "installation",
@@ -107,5 +107,5 @@
     -122.3871972492055,
     37.619087399474104
   ],
-  "geometry": {"coordinates":[[-122.3871972492055,37.619087399474104]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3871972492055,37.619087399474104]]}
 }

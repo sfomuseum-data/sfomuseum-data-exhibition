@@ -68,7 +68,7 @@
     ],
     "wof:id": 1226605775,
     "wof:label": "From the Forest Floor to the Living Room Floor: Certified Wood (2000-07-24 - 2001-03-14)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "From the Forest Floor to the Living Room Floor: Certified Wood",
     "wof:parent_id": 1360521553,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.38481416647545,
     37.61778741781103
   ],
-  "geometry": {"coordinates":[[-122.38481416647545,37.61778741781103]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38481416647545,37.61778741781103]]}
 }

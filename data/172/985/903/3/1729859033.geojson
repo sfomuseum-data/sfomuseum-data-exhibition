@@ -1,5 +1,5 @@
 {
-  "id": 1495157225,
+  "id": 1729859033,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-05-01",
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1729859033,
     "wof:label": "California Studio Craft: Featuring Works from the Forrest L. Merrill Collection (2019-07-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "California Studio Craft: Featuring Works from the Forrest L. Merrill Collection",
     "wof:parent_id": 1477855627,
     "wof:placetype": "installation",
@@ -103,5 +103,5 @@
     -122.38271164883223,
     37.6174220145607
   ],
-  "geometry": {"coordinates":[[-122.38271164883223,37.6174220145607]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38271164883223,37.6174220145607]]}
 }

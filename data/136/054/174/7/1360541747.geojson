@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1360541747,
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Into the Ether: Published Works on Ballooning and Atmospheric Studies, 1783–1910",
     "wof:parent_id": 1360541641,
     "wof:placetype": "installation",
@@ -94,5 +94,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

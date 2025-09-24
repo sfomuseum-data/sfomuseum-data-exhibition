@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226610987,
     "wof:label": "A Century of Vintage Toys (1991-12-20 - 1992-03-30)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700023,
     "wof:name": "A Century of Vintage Toys",
     "wof:parent_id": 1360516127,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

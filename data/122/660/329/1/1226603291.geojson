@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226603291,
     "wof:label": "Magical Menagerie: Carousel Animals and Memorabilia, 1850-1920 (1996-10-07 - 1997-04-15)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Magical Menagerie: Carousel Animals and Memorabilia, 1850-1920",
     "wof:parent_id": 1360516127,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

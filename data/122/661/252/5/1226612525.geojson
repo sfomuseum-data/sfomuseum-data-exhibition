@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226612525,
     "wof:label": "Japanese Production Design (1987-01-01 - 1987-05-12)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Japanese Production Design",
     "wof:parent_id": 1360516267,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.38481416647545,
     37.61778741781103
   ],
-  "geometry": {"coordinates":[[-122.38481416647545,37.61778741781103]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38481416647545,37.61778741781103]]}
 }

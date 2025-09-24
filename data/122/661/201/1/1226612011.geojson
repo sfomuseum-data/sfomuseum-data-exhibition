@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226612011,
     "wof:label": "Artist's Furniture: New Dimensions and Statements in Design (1982-06-21 - 1982-08-05)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Artist's Furniture: New Dimensions and Statements in Design",
     "wof:parent_id": 1360516133,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

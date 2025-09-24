@@ -83,7 +83,7 @@
       }
     ],
     "wof:id": 1796996491,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Pushing the Envelope: NASA’s Ames Research Center Wind Tunnel Models",
     "wof:parent_id": 1914589529,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.38819101441787,
     37.61441704389456
   ],
-  "geometry": {"coordinates":[[-122.38819101441787,37.61441704389456]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38819101441787,37.61441704389456]]}
 }

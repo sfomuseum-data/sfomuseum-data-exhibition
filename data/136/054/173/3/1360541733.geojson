@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1360541733,
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Flight in Literature I",
     "wof:parent_id": 1360541567,
     "wof:placetype": "installation",
@@ -86,5 +86,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

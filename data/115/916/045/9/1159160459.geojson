@@ -76,7 +76,7 @@
     "wof:id": 1159160459,
     "wof:is_current": 0,
     "wof:label": "Matt O’Brien (2013-11-04 - 2014-01-31)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Matthew James O’Brien: Back to the Ranch",
     "wof:parent_id": 1360516163,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38751545660425,
     37.61768511229672
   ],
-  "geometry": {"coordinates":[[-122.38751545660425,37.61768511229672]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38751545660425,37.61768511229672]]}
 }

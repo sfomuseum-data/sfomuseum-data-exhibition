@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1377271549,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Jock McDonald: The Light of Water",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.38411942369108,
     37.6154571162206
   ],
-  "geometry": {"coordinates":[[-122.38411942369108,37.6154571162206]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38411942369108,37.6154571162206]]}
 }

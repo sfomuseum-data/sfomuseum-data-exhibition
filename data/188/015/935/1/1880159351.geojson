@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1880159351,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "The Enduring Spirit of Haitian Metal Sculpture",
     "wof:parent_id": 1763588553,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38971793359582,
     37.616528705005116
   ],
-  "geometry": {"coordinates":[[-122.38971793359582,37.616528705005116]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38971793359582,37.616528705005116]]}
 }

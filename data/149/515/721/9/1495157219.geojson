@@ -87,7 +87,7 @@
       }
     ],
     "wof:id": 1495157219,
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Widebody: The Launch of the Jumbojets in the Early 1970s",
     "wof:parent_id": 1477855949,
     "wof:placetype": "installation",
@@ -103,5 +103,5 @@
     -122.38771606556722,
     37.61438704894156
   ],
-  "geometry": {"coordinates":[[-122.38771606556722,37.61438704894156],[-122.38771606556722,37.61438704894156]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38771606556722,37.61438704894156],[-122.38771606556722,37.61438704894156]]}
 }

@@ -79,7 +79,7 @@
     "wof:id": 1159160133,
     "wof:is_current": 0,
     "wof:label": "Pirkle Jones: A Life of Photography (2010-06-07 - 2010-08-30)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Pirkle Jones: A Life of Photography",
     "wof:parent_id": 1360516141,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

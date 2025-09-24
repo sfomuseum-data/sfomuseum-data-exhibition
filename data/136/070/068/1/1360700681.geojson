@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1360700681,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "My Name is Harvey Milk",
     "wof:parent_id": 1159157939,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.388951,
     37.61628
   ],
-  "geometry": {"coordinates":[[-122.388951,37.61628]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.388951,37.61628]]}
 }

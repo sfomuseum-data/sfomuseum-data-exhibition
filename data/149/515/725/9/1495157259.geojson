@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1495157259,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Singapore Airlines 40th Anniversary Dinner",
     "wof:parent_id": 1360541695,
     "wof:placetype": "installation",
@@ -87,5 +87,5 @@
     -122.3879113760689,
     37.614502386613836
   ],
-  "geometry": {"coordinates":[[-122.3879113760689,37.614502386613836]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3879113760689,37.614502386613836]]}
 }

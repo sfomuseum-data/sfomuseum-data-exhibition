@@ -77,7 +77,7 @@
     "wof:id": 1159159467,
     "wof:is_current": 0,
     "wof:label": "Goosedale Aviation Models (2000-04-25 - 2006-01-01)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Goosedale Aviation Models",
     "wof:parent_id": 1360516157,
     "wof:placetype": "installation",
@@ -96,5 +96,5 @@
     -122.38749588292009,
     37.61992999943579
   ],
-  "geometry": {"coordinates":[[-122.38749588292009,37.61992999943579]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38749588292009,37.61992999943579]]}
 }

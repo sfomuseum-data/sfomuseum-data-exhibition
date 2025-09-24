@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226603881,
     "wof:label": "Historic and Contemporary Glass Art (1996-05-01 - 1997-01-13)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Historic and Contemporary Glass Art",
     "wof:parent_id": 1159157885,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.381408,
     37.617597
   ],
-  "geometry": {"coordinates":[[-122.381408,37.617597]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.381408,37.617597]]}
 }

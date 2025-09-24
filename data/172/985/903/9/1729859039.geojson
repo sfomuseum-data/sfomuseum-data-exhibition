@@ -1,5 +1,5 @@
 {
-  "id": 1729842125,
+  "id": 1729859039,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2017-01-01",
@@ -61,7 +61,7 @@
     ],
     "wof:id": 1729859039,
     "wof:label": "Kids’ Spot: Redwood Forest (2014~)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Kids’ Spot: Redwood Forest",
     "wof:parent_id": 1360516247,
     "wof:placetype": "installation",
@@ -80,5 +80,5 @@
     -122.38478634711926,
     37.614336211275
   ],
-  "geometry": {"coordinates":[[-122.38478634711926,37.614336211275]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38478634711926,37.614336211275]]}
 }

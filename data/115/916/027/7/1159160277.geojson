@@ -79,7 +79,7 @@
     "wof:id": 1159160277,
     "wof:is_current": 0,
     "wof:label": "Flight Gear, Pilot Equipment from the Open-Cockpit Era (2012-02-03 - 2012-10-09)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Flight Gear: Pilot Equipment from the Open-Cockpit Era",
     "wof:parent_id": 1360541653,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

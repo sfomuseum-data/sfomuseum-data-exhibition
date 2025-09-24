@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226607107,
     "wof:label": "Indonesian Puppets/World of Wayang (1991-01-15 - 1991-02-27)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Indonesian Puppets/World of Wayang",
     "wof:parent_id": 1360516265,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.38481416647545,
     37.61778741781103
   ],
-  "geometry": {"coordinates":[[-122.38481416647545,37.61778741781103]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38481416647545,37.61778741781103]]}
 }

@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1729842151,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "R.J. Waters: Golden Gate Park",
     "wof:parent_id": 1729792777,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38741555362547,
     37.620173704195516
   ],
-  "geometry": {"coordinates":[[-122.38741555362547,37.620173704195516]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38741555362547,37.620173704195516]]}
 }

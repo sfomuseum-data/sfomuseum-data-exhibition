@@ -106,7 +106,7 @@
       }
     ],
     "wof:id": 1947939403,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700029,
     "wof:name": "The AIDS Memorial Quilt",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -121,5 +121,5 @@
     -122.38890259474638,
     37.61580856483965
   ],
-  "geometry": {"coordinates":[[-122.38901919979469,37.61580856483965],[-122.38890259474638,37.61550857237398]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38901919979469,37.61580856483965],[-122.38890259474638,37.61550857237398]]}
 }

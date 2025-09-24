@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1863623795,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Recollections... from the Unknown Museum",
     "wof:parent_id": 1763588487,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38210800323661,
     37.61741735957677
   ],
-  "geometry": {"coordinates":[[-122.38210800323661,37.61741735957677]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38210800323661,37.61741735957677]]}
 }

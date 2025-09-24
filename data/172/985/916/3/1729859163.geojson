@@ -1,5 +1,5 @@
 {
-  "id": 1495157235,
+  "id": 1729859163,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-05-01",
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1729859163,
     "wof:label": "The Intriguing World of Insects (2019-07-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "The Intriguing World of Insects",
     "wof:parent_id": 1477855959,
     "wof:placetype": "installation",
@@ -103,5 +103,5 @@
     -122.38902001837015,
     37.61453294852966
   ],
-  "geometry": {"coordinates":[[-122.38902001837015,37.61453294852966]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38902001837015,37.61453294852966]]}
 }

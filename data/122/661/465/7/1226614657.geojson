@@ -83,7 +83,7 @@
     ],
     "wof:id": 1226614657,
     "wof:label": "Children's Art: Student League of San Francisco (1990-01-09 - 1990-02-19)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Student League of San Francisco",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.386898,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]]}
 }

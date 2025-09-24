@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1495157251,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Vanessa Marsh: The Sun Beneath the Sky",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",
@@ -86,5 +86,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

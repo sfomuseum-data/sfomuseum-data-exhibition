@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1729842189,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Eclectic Taste: Victorian Silver Plate",
     "wof:parent_id": 1729837315,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38487887460676,
     37.61277678323716
   ],
-  "geometry": {"coordinates":[[-122.38487887460676,37.61277678323716]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38487887460676,37.61277678323716]]}
 }

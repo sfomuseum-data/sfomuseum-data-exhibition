@@ -68,7 +68,7 @@
     ],
     "wof:id": 1226604945,
     "wof:label": "African Shields (2000-09-08 - 2001-04-16)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "African Shields",
     "wof:parent_id": 1360521557,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.38274,
     37.617227
   ],
-  "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38274,37.617227]]}
 }

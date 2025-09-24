@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226606119,
     "wof:label": "Salt and Pepper Shakers (1993-06-16 - 1993-08-30)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Salt and Pepper Shakers",
     "wof:parent_id": 1159157883,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

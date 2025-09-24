@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1729842159,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Kieler Woche Posters",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.37385309950533,
     37.61939390848619
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.37385309950533,37.61939390848619]}
 }

@@ -74,7 +74,7 @@
     "wof:id": 1159159431,
     "wof:is_current": 0,
     "wof:label": "Masks of Java and Bali: Dance, Drama, and Culture (2001-05-30 - 2001-11-13)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Masks of Java and Bali: Dance, Drama, and Culture",
     "wof:parent_id": 1360516443,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

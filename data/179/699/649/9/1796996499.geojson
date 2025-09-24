@@ -84,7 +84,7 @@
       }
     ],
     "wof:id": 1796996499,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Supersonic Transport: The First Generation",
     "wof:parent_id": 1914589509,
     "wof:placetype": "installation",
@@ -99,5 +99,5 @@
     -122.38802501835971,
     37.61455159013738
   ],
-  "geometry": {"coordinates":[[-122.38802501835971,37.61455159013738]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38802501835971,37.61455159013738]]}
 }

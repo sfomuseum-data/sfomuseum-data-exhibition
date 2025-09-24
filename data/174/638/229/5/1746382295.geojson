@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1746382295,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Special Exhibit: Chinese New Year in San Francisco",
     "wof:parent_id": 1729792789,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38908930707562,
     37.61563285411976
   ],
-  "geometry": {"coordinates":[[-122.38908930707562,37.61563285411976]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38908930707562,37.61563285411976]]}
 }

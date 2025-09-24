@@ -73,7 +73,7 @@
     "wof:id": 1159160007,
     "wof:is_current": 0,
     "wof:label": "Brent Townshend: Looking Up (2008-11-26 - 2009-02-06)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Brent Townshend: Looking Up",
     "wof:parent_id": 1360521555,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38481416647545,
     37.61778741781103
   ],
-  "geometry": {"coordinates":[[-122.38481416647545,37.61778741781103]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38481416647545,37.61778741781103]]}
 }

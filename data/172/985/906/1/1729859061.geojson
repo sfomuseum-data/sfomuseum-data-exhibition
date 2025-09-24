@@ -1,5 +1,5 @@
 {
-  "id": 1495157269,
+  "id": 1729859061,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-05-01",
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1729859061,
     "wof:label": "The Urban School of San Francisco: Our Land: Student Photography (2019-07-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "The Urban School of San Francisco: Our Land: Student Photography",
     "wof:parent_id": 1477855831,
     "wof:placetype": "installation",
@@ -100,5 +100,5 @@
     -122.38853385581962,
     37.61689110703526
   ],
-  "geometry": {"coordinates":[[-122.38853385581962,37.61689110703526]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38853385581962,37.61689110703526]]}
 }

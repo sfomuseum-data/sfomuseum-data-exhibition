@@ -87,7 +87,7 @@
     "wof:id": 1159159997,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Peralta Elementary School (2008-10-01 - 2008-11-30)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Peralta Elementary School: Delightful Quilts",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -106,5 +106,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]]}
 }

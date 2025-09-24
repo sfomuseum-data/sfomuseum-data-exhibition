@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1729842157,
-    "wof:lastmodified": 1758612833,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Kids’ Spot: Butterfly Wall",
     "wof:parent_id": 1360516245,
     "wof:placetype": "installation",
@@ -81,5 +81,5 @@
     -122.3814947421135,
     37.61765503011678
   ],
-  "geometry": {"coordinates":[[-122.3814947421135,37.61765503011678]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3814947421135,37.61765503011678]]}
 }

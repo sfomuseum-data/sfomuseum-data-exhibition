@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1360667837,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "A Sterling Renaissance: British Silver Design 1957-2018",
     "wof:parent_id": 1159157037,
     "wof:placetype": "installation",
@@ -87,5 +87,5 @@
     -122.38972520542025,
     37.61659358252093
   ],
-  "geometry": {"coordinates":[[-122.38972520542025,37.61659358252093]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38972520542025,37.61659358252093]]}
 }

@@ -74,7 +74,7 @@
     ],
     "wof:id": 1226620381,
     "wof:label": "Corey Arnold: Aleutian Dreams (2018-05-10 - 2018-08-16)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Corey Arnold: Aleutian Dreams",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",
@@ -90,5 +90,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

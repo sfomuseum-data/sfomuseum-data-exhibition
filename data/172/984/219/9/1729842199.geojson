@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1729842199,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Stanley Greene: Shadows of Change",
     "wof:parent_id": 1477855729,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

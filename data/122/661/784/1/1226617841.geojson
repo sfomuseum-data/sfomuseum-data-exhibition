@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226617841,
     "wof:label": "Japan: Kimono, Mingei, and Swords (1984-10-10 - 1984-11-25)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Japan: Kimono, Mingei, and Swords",
     "wof:parent_id": 1360516129,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

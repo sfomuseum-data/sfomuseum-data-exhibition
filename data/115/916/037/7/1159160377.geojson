@@ -102,7 +102,7 @@
     "wof:id": 1159160377,
     "wof:is_current": 0,
     "wof:label": "Doors: Entryways to World Culture (2014-03-07 - 2014-09-22)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Doors: Entryways to World Culture",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -121,5 +121,5 @@
     -122.38894152323134,
     37.61602910736223
   ],
-  "geometry": {"coordinates":[[-122.3891310124426,37.61602910736223],[-122.38894152323134,37.61542448763906],[-122.38926704301338,37.61564469738159]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3891310124426,37.61602910736223],[-122.38894152323134,37.61542448763906],[-122.38926704301338,37.61564469738159]]}
 }

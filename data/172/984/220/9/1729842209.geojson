@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1729842209,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Pylon Essay: Fly \u0026 Explore",
     "wof:parent_id": 1477855725,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.3871972492055,
     37.619087399474104
   ],
-  "geometry": {"coordinates":[[-122.3871972492055,37.619087399474104]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3871972492055,37.619087399474104]]}
 }

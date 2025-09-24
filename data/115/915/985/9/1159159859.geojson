@@ -77,7 +77,7 @@
     "wof:id": 1159159859,
     "wof:is_current": 0,
     "wof:label": "Power Lines: Stefan Kirkeby (2006-11-21 - 2007-01-29)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Stefan Kirkeby: Power Lines",
     "wof:parent_id": 1360516141,
     "wof:placetype": "installation",
@@ -96,5 +96,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

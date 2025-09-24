@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1796996485,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "California Modernist Women: Groundbreaking Creativity",
     "wof:parent_id": 1763588505,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38467290046805,
     37.61292608946352
   ],
-  "geometry": {"coordinates":[[-122.38467290046805,37.61292608946352]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38467290046805,37.61292608946352]]}
 }

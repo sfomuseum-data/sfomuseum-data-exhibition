@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226611777,
     "wof:label": "Vietnam Veterans: Face to Face (1996-06-01 - 1996-06-30)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Vietnam Veterans: Face to Face",
     "wof:parent_id": 1360516145,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

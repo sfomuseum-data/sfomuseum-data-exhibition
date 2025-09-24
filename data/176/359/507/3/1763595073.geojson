@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595073,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Harlem of the West",
     "wof:parent_id": 1763594989,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38483628191317,
     37.61777614067629
   ],
-  "geometry": {"coordinates":[[-122.38483628191317,37.61777614067629]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38483628191317,37.61777614067629]]}
 }

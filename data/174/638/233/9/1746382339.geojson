@@ -1,5 +1,5 @@
 {
-  "id": 1729842205,
+  "id": 1746382339,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-06-21",
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1746382339,
     "wof:label": "Art School of San Francisco Bay’s Manga Drawing Club (2020-~05)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Art School of San Francisco Bay’s Manga Drawing Club",
     "wof:parent_id": 1729837319,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.38437920019275,
     37.61489427207149
   ],
-  "geometry": {"coordinates":[[-122.38437920019275,37.61489427207149]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38437920019275,37.61489427207149]]}
 }

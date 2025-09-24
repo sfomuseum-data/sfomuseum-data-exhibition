@@ -83,7 +83,7 @@
     ],
     "wof:id": 1226614723,
     "wof:label": "Children's Art: James Denman Middle School of the Arts (1990-02-20 - 1990-04-02)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "James Denman Middle School of the Arts",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.386898,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]]}
 }

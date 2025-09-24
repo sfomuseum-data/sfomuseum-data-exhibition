@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1796996581,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Ma’s House",
     "wof:parent_id": 1763588549,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38901058368137,
     37.616016744082586
   ],
-  "geometry": {"coordinates":[[-122.38901058368137,37.616016744082586]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38901058368137,37.616016744082586]]}
 }

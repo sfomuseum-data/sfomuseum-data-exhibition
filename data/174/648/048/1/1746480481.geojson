@@ -80,7 +80,7 @@
       }
     ],
     "wof:id": 1746480481,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Aeronautical Society Gala 2019",
     "wof:parent_id": 1477855941,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.3879113760689,
     37.614502386613836
   ],
-  "geometry": {"coordinates":[[-122.3879113760689,37.614502386613836]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3879113760689,37.614502386613836]]}
 }

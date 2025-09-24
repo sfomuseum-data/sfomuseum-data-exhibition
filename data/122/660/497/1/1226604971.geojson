@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226604971,
     "wof:label": "Product Imaging: The Art of Advertising (2001-11-14 - 2002-03-30)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Product Imaging: The Art of Advertising",
     "wof:parent_id": 1360516443,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

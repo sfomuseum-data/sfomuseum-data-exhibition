@@ -1,5 +1,5 @@
 {
-  "id": 1226604743,
+  "id": 1729859081,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2000-01-01",
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1729859081,
     "wof:label": "Kids' Spot II (2006~)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Kids' Spot II: Exploratorium",
     "wof:parent_id": 1360392589,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.39008706282495,
     37.62086428382005
   ],
-  "geometry": {"coordinates":[[-122.39008706282495,37.62086428382005]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.39008706282495,37.62086428382005]]}
 }

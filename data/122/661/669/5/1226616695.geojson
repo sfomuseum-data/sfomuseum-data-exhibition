@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226616695,
     "wof:label": "Espresso (1994-09-15 - 1994-11-30)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Espresso",
     "wof:parent_id": 1159157883,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

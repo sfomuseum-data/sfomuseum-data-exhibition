@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 1360702871,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Drew Nikonowicz: This World and Others Like It",
     "wof:parent_id": 1159157051,
     "wof:placetype": "installation",
@@ -87,5 +87,5 @@
     -122.38751545660425,
     37.61768511229672
   ],
-  "geometry": {"coordinates":[[-122.38751545660425,37.61768511229672]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38751545660425,37.61768511229672]]}
 }

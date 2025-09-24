@@ -82,7 +82,7 @@
       }
     ],
     "wof:id": 1495157327,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Native",
     "wof:parent_id": 1477855957,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.388951,
     37.61628
   ],
-  "geometry": {"coordinates":[[-122.388951,37.61628]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.388951,37.61628]]}
 }

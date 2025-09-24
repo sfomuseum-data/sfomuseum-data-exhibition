@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1763595075,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Marshall Moxom: Four Views of San Francisco International Airport",
     "wof:parent_id": 1763588515,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38385859134475,
     37.61555253244348
   ],
-  "geometry": {"coordinates":[[-122.38385859134475,37.61555253244348]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38385859134475,37.61555253244348]]}
 }

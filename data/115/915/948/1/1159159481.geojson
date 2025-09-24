@@ -74,7 +74,7 @@
     "wof:id": 1159159481,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Children's Art Show V (2001-11-01 - 2002-06-01)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Children's Art Show V",
     "wof:parent_id": 1360516235,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38444211236417,37.614828422481345]]}
 }

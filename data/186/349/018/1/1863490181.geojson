@@ -1,5 +1,5 @@
 {
-  "id": 1729842143,
+  "id": 1863490181,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2024-06-17",
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1863490181,
     "wof:label": "Model Aircraft from the Aviation Collection (2021-11-09)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Model Aircraft from the Aviation Collection",
     "wof:parent_id": 1763588535,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.38809991573606,
     37.617116154235454
   ],
-  "geometry": {"coordinates":[[-122.38809991573606,37.617116154235454]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38809991573606,37.617116154235454]]}
 }

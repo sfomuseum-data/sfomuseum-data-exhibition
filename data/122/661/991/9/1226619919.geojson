@@ -74,7 +74,7 @@
     ],
     "wof:id": 1226619919,
     "wof:label": "From Kezar to Candlestick: The Photography of Frank Rippon (2015-09-18 - 2016-03-06)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "From Kezar to Candlestick: The Photography of Frank Rippon",
     "wof:parent_id": 1360516119,
     "wof:placetype": "installation",
@@ -90,5 +90,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }
