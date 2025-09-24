@@ -1,5 +1,5 @@
 {
-  "id": 1495157249,
+  "id": 1729859071,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-05-01",
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1729859071,
     "wof:label": "Keliy Anderson-Staley: [hyphen] Americans (2019-07-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Keliy Anderson-Staley: [hyphen] Americans",
     "wof:parent_id": 1477855729,
     "wof:placetype": "installation",
@@ -103,5 +103,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

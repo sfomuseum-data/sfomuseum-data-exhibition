@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1763595005,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Special Exhibit: C3C Lobby",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
@@ -81,5 +81,5 @@
     -122.37385309950533,
     37.61939390848619
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.37385309950533,37.61939390848619]}
 }

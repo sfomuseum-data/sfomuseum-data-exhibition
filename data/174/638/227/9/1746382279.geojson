@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1746382279,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Flight Patterns: Airline Uniforms from the 1960s–70s",
     "wof:parent_id": 1745882463,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38520847545882,
     37.61268608757595
   ],
-  "geometry": {"coordinates":[[-122.38520847545882,37.61268608757595],[-122.38520847545882,37.61268608757595]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38520847545882,37.61268608757595],[-122.38520847545882,37.61268608757595]]}
 }

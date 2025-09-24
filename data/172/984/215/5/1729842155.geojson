@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1729842155,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Kids’ Spot: Spirogyrate",
     "wof:parent_id": 1360516117,
     "wof:placetype": "installation",
@@ -83,5 +83,5 @@
     -122.38445430994034,
     37.61866960803538
   ],
-  "geometry": {"coordinates":[[-122.38445430994034,37.61866960803538]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38445430994034,37.61866960803538]]}
 }

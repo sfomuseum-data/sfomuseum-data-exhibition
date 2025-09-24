@@ -76,7 +76,7 @@
     "wof:id": 1159159407,
     "wof:is_current": 0,
     "wof:label": "About Time (1996-07-01 - 1997-02-10)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "About Time",
     "wof:parent_id": 1360392591,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.39008706282495,
     37.62086428382005
   ],
-  "geometry": {"coordinates":[[-122.39008706282495,37.62086428382005]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.39008706282495,37.62086428382005]]}
 }

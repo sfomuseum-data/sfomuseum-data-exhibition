@@ -82,7 +82,7 @@
     ],
     "wof:id": 1226618995,
     "wof:label": "Five Centuries of Swedish Silver (2006-01-13 - 2006-08-07)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Five Centuries of Swedish Silver",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -100,5 +100,5 @@
     -122.38901990349568,
     37.61659358252093
   ],
-  "geometry": {"coordinates":[[-122.38901990349568,37.61453299582842],[-122.38972520542025,37.61659358252093]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38901990349568,37.61453299582842],[-122.38972520542025,37.61659358252093]]}
 }

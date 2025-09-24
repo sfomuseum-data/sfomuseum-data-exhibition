@@ -76,7 +76,7 @@
     "wof:id": 1159159515,
     "wof:is_current": 0,
     "wof:label": "Flight of the Crane: Japan Air Lines Travel Posters (2003-03-21 - 2004-01-15)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Flight of the Crane: Japan Air Lines Travel Posters",
     "wof:parent_id": 1360541563,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

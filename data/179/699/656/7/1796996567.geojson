@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1796996567,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Kacper Kowalski: Event Horizon",
     "wof:parent_id": 1763595139,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.3849209067321,
     37.617923793113434
   ],
-  "geometry": {"coordinates":[[-122.3849209067321,37.617923793113434]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3849209067321,37.617923793113434]]}
 }

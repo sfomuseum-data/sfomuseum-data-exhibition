@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226611101,
     "wof:label": "Seas, Lakes, and Rivers: An Exhibition of American Art Forms (1994-04-01 - 1994-09-15)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Seas, Lakes, and Rivers: An Exhibition of American Art Forms",
     "wof:parent_id": 1360516127,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1964297621,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Portable Craft: Chinese Woven Baskets and Containers",
     "wof:parent_id": 1947304329,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38509193828816,
     37.61213224985321
   ],
-  "geometry": {"coordinates":[[-122.38509193828816,37.61213224985321]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38509193828816,37.61213224985321]]}
 }

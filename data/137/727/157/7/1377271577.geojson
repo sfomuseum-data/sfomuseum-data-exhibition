@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1377271577,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Philip Cheung: The Central Pacific ",
     "wof:parent_id": 1159157051,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.38751545660425,
     37.61768511229672
   ],
-  "geometry": {"coordinates":[[-122.38751545660425,37.61768511229672]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38751545660425,37.61768511229672]]}
 }

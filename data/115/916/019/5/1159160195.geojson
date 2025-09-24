@@ -75,7 +75,7 @@
     "wof:id": 1159160195,
     "wof:is_current": 0,
     "wof:label": "How Freight Flies: A Legacy of Air Cargo Carriers (2010-06-25 - 2010-12-17)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700026,
     "wof:name": "How Freight Flies: A Legacy of Air Cargo Carriers",
     "wof:parent_id": 1360516479,
     "wof:placetype": "installation",
@@ -94,5 +94,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

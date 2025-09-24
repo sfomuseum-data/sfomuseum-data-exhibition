@@ -78,7 +78,7 @@
     "wof:id": 1159160603,
     "wof:is_current": 1,
     "wof:label": "American Folk Art: An Enduring Legacy (2017-11-17 - 2018-07-09)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "American Folk Art: An Enduring Legacy",
     "wof:parent_id": 1159157039,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.38901990349568,
     37.61453299582842
   ],
-  "geometry": {"coordinates":[[-122.38901990349568,37.61453299582842]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38901990349568,37.61453299582842]]}
 }

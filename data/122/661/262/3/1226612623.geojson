@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226612623,
     "wof:label": "The Right Foot Show (1987-10-05 - 1988-01-15)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "The Right Foot Show",
     "wof:parent_id": 1360516129,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

@@ -68,7 +68,7 @@
     ],
     "wof:id": 1226618837,
     "wof:label": "Vintage Entertainment: Glass Plates and Stereoview Photographs (2005-05-05 - 2005-08-23)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Vintage Entertainment: Glass Plates and Stereoview Photographs",
     "wof:parent_id": 1360521557,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.38274,
     37.617227
   ],
-  "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38274,37.617227]]}
 }

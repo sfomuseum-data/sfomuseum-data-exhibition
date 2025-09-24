@@ -41,7 +41,7 @@
       }
     ],
     "wof:id": 1729842217,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Harvey Milk: Messenger of Hope",
     "wof:parent_id": 1729813693,
     "wof:placetype": "installation",
@@ -58,5 +58,5 @@
     -122.38437419609423,
     37.613193362839176
   ],
-  "geometry": {"coordinates":[[-122.38437419609423,37.613193362839176]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38437419609423,37.613193362839176]]}
 }

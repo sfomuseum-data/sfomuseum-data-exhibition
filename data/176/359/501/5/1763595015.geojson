@@ -80,7 +80,7 @@
       }
     ],
     "wof:id": 1763595015,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Special Collections Poster: Qantas Airways",
     "wof:parent_id": 1729813685,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38779703838323,
     37.61435718833335
   ],
-  "geometry": {"coordinates":[[-122.38779703838323,37.61435718833335],[-122.38779703838323,37.61435718833335]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38779703838323,37.61435718833335],[-122.38779703838323,37.61435718833335]]}
 }

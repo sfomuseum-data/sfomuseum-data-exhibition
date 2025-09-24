@@ -83,7 +83,7 @@
     ],
     "wof:id": 1914632769,
     "wof:label": "The Harold Bixby Collection: Unlocking an Archival Treasure (2024-06-17)",
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "The Harold Bixby Collection: Unlocking an Archival Treasure",
     "wof:parent_id": 1914601183,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.3879425,
     37.61458836702768
   ],
-  "geometry": {"coordinates":[[-122.38795281025641,37.61451212307692],[-122.3879425,37.614486],[-122.38798219013238,37.61458836702768],[-122.387972,37.614562]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38795281025641,37.61451212307692],[-122.3879425,37.614486],[-122.38798219013238,37.61458836702768],[-122.387972,37.614562]]}
 }

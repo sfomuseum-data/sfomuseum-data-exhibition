@@ -1,5 +1,5 @@
 {
-  "id": 1495157239,
+  "id": 1729859057,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2020-05-01",
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1729859057,
     "wof:label": "The Style of Display: Victorian Pedestals (2019-07-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "The Style of Display: Victorian Pedestals",
     "wof:parent_id": 1477855961,
     "wof:placetype": "installation",
@@ -103,5 +103,5 @@
     -122.38972520542025,
     37.61659358252093
   ],
-  "geometry": {"coordinates":[[-122.38972520542025,37.61659358252093]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38972520542025,37.61659358252093]]}
 }

@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1763594995,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "From Pineapple to Piña: A Philippine Textile Treasure",
     "wof:parent_id": 1763588501,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38515721248761,
     37.613892603964324
   ],
-  "geometry": {"coordinates":[[-122.38515721248761,37.613892603964324]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38515721248761,37.613892603964324]]}
 }

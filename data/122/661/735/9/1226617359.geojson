@@ -86,7 +86,7 @@
     ],
     "wof:id": 1226617359,
     "wof:label": "Children's Art: French American School (1996-12-12 - 1997-01-22)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "French American School",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.384469,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.384469,37.61888]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.384469,37.61888]]}
 }

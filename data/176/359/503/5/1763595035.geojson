@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595035,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Pow Wow (2021-2)",
     "wof:parent_id": 1745882507,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38906143130441,
     37.61601515922952
   ],
-  "geometry": {"coordinates":[[-122.38906143130441,37.61601515922952]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38906143130441,37.61601515922952]]}
 }

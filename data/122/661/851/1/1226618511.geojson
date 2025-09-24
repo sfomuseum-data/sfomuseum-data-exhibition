@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226618511,
     "wof:label": "Traditional Crafts of East Africa (1989-09-01 - 1990-01-01)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Traditional Crafts of East Africa",
     "wof:parent_id": 1360516265,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.38481416647545,
     37.61778741781103
   ],
-  "geometry": {"coordinates":[[-122.38481416647545,37.61778741781103]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38481416647545,37.61778741781103]]}
 }

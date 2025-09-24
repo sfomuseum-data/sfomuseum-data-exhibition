@@ -1,5 +1,5 @@
 {
-  "id": 1729842199,
+  "id": 1746382335,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2021-05-25",
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1746382335,
     "wof:label": "Stanley Greene: Shadows of Change (2021-05-25)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Stanley Greene: Shadows of Change",
     "wof:parent_id": 1745882483,
     "wof:placetype": "installation",
@@ -94,5 +94,5 @@
     -122.38741555362547,
     37.620173704195516
   ],
-  "geometry": {"coordinates":[[-122.38741555362547,37.620173704195516],[-122.38741555362547,37.620173704195516]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38741555362547,37.620173704195516],[-122.38741555362547,37.620173704195516]]}
 }

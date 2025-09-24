@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1763595013,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Pylon Essay: Tuskegee Airmen: Red Tails at Ramitelli 1945",
     "wof:parent_id": 1763588519,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38719319835137,
     37.619102719725085
   ],
-  "geometry": {"coordinates":[[-122.38719319835137,37.619102719725085]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719319835137,37.619102719725085]]}
 }

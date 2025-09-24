@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226620739,
     "wof:label": "Student Art: Root Division (2018-07-24 - 2018-10-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Root Division: My Two Homes",
     "wof:parent_id": 1159157075,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38444211236417,37.614828422481345]]}
 }

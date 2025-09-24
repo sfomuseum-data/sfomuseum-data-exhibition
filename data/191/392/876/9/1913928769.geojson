@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1913928769,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "The Art of the African Instrument",
     "wof:parent_id": 1763588505,
     "wof:placetype": "installation",
@@ -96,5 +96,5 @@
     -122.38467290046805,
     37.61292608946352
   ],
-  "geometry": {"coordinates":[[-122.38467290046805,37.61292608946352]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38467290046805,37.61292608946352]]}
 }

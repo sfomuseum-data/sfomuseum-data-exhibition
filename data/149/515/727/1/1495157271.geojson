@@ -81,7 +81,7 @@
       }
     ],
     "wof:id": 1495157271,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Alejandro Duran: Washed Up",
     "wof:parent_id": 1477855821,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.38765054099173,
     37.617806617631246
   ],
-  "geometry": {"coordinates":[[-122.38765054099173,37.617806617631246]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38765054099173,37.617806617631246]]}
 }

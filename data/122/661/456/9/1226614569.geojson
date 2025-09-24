@@ -82,7 +82,7 @@
     ],
     "wof:id": 1226614569,
     "wof:label": "Children's Art: FAMSF Education Program (1989-10-03 - 1989-11-20)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "FAMSF Education Program",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -100,5 +100,5 @@
     -122.386898,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.386898,37.61903]]}
 }

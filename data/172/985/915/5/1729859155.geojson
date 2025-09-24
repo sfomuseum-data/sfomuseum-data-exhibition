@@ -1,5 +1,5 @@
 {
-  "id": 1159159975,
+  "id": 1729859155,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2014-01-01",
@@ -76,7 +76,7 @@
     "wof:id": 1729859155,
     "wof:is_current": -1,
     "wof:label": "Wright Whirlwind J-5 Engine with Hub (2011~)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Wright Whirlwind J-5 Engine with Hub",
     "wof:parent_id": 1360541689,
     "wof:placetype": "installation",
@@ -99,5 +99,5 @@
     -122.3879113760689,
     37.614502386613836
   ],
-  "geometry": {"coordinates":[[-122.3879113760689,37.614502386613836]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3879113760689,37.614502386613836]]}
 }

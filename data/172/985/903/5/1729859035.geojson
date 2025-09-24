@@ -1,5 +1,5 @@
 {
-  "id": 1377462865,
+  "id": 1729859035,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2019-07-23",
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1729859035,
     "wof:label": "Streamlines: Aerodynamic Consumer Designs for the Air Age (2017~)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Streamlines: Aerodynamic Consumer Designs for the Air Age",
     "wof:parent_id": 1360541659,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

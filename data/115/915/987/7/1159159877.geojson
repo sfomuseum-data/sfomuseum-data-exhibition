@@ -76,7 +76,7 @@
     "wof:id": 1159159877,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Identity: New Work from Youth Education Program (2007-02-02 - 2007-04-05)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Root Division: Identity: New Work from Youth Education Program",
     "wof:parent_id": 1360516233,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38444211236417,37.614828422481345]]}
 }

@@ -83,7 +83,7 @@
     ],
     "wof:id": 1226616735,
     "wof:label": "San Francisco Ballet at Seventy-Five (2007-10-29 - 2008-06-15)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "San Francisco Ballet at Seventy-Five",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.38894152323134,
     37.61602910736223
   ],
-  "geometry": {"coordinates":[[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223]]}
 }

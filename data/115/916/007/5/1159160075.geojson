@@ -74,7 +74,7 @@
     "wof:id": 1159160075,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Artwork from Root Division (2009-10-05 - 2009-11-30)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Root Division: Family Portraits: Drawings, Paintings, and Collage",
     "wof:parent_id": 1360516233,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38444211236417,37.614828422481345]]}
 }

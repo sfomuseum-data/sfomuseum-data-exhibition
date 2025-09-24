@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226605575,
     "wof:label": "Chez le coiffeur (2000-09-27 - 2001-02-12)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Chez le coiffeur",
     "wof:parent_id": 1360516477,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

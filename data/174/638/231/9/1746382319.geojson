@@ -1,5 +1,5 @@
 {
-  "id": 1746382297,
+  "id": 1746382319,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2021-05-25",
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1746382319,
     "wof:label": "Pylon Essay: The American Motorcycle Girls (2021-05-25)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Pylon Essay: The American Motorcycle Girls",
     "wof:parent_id": 1745882479,
     "wof:placetype": "installation",
@@ -94,5 +94,5 @@
     -122.38719319835137,
     37.61910271972509
   ],
-  "geometry": {"coordinates":[[-122.38719319835137,37.61910271972509],[-122.38719319835137,37.61910271972509]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719319835137,37.61910271972509],[-122.38719319835137,37.61910271972509]]}
 }

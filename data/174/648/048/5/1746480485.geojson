@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1746480485,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Marvin Lipofsky: International Studio Glass",
     "wof:parent_id": 1746403233,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38965212381375,
     37.6165546529427
   ],
-  "geometry": {"coordinates":[[-122.38965212381375,37.6165546529427],[-122.38965212381375,37.6165546529427]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38965212381375,37.6165546529427],[-122.38965212381375,37.6165546529427]]}
 }

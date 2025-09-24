@@ -86,7 +86,7 @@
     ],
     "wof:id": 1226604001,
     "wof:label": "Children's Art: Creativity Explored 4 (1997-03-04 - 1997-05-29)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Creativity Explored",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.384469,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.384469,37.61888]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.384469,37.61888]]}
 }

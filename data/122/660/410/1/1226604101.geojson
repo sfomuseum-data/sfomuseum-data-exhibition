@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226604101,
     "wof:label": "Office Design: Then and Now (1997-08-01 - 1998-04-17)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Office Design: Then and Now",
     "wof:parent_id": 1159157869,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

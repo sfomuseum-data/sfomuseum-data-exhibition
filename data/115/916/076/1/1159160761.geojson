@@ -82,7 +82,7 @@
     "wof:id": 1159160761,
     "wof:is_current": 1,
     "wof:label": "Alonzo King Lines Ballet (2018-02-15 - 2018-05-08)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "RJ Muna: Alonzo King LINES Ballet",
     "wof:parent_id": 1159157077,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.38560464919266,
     37.612579503649634
   ],
-  "geometry": {"coordinates":[[-122.38560464919266,37.612579503649634]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38560464919266,37.612579503649634]]}
 }

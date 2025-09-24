@@ -81,7 +81,7 @@
     "wof:id": 1159160765,
     "wof:is_current": 1,
     "wof:label": "The Automatic Age: Coin-Operated Machines (2017-12-14 - 2018-08-05)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "The Automatic Age: Coin-Operated Machine",
     "wof:parent_id": 1159157037,
     "wof:placetype": "installation",
@@ -100,5 +100,5 @@
     -122.38972520542025,
     37.61659358252093
   ],
-  "geometry": {"coordinates":[[-122.38972520542025,37.61659358252093]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38972520542025,37.61659358252093]]}
 }

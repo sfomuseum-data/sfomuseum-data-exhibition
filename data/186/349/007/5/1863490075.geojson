@@ -1,5 +1,5 @@
 {
-  "id": 1729842115,
+  "id": 1863490075,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2024-06-17",
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1863490075,
     "wof:label": "The 1954 San Francisco International Airport Terminal (2021-11-09)",
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "The 1954 San Francisco International Airport Terminal",
     "wof:parent_id": 1763588491,
     "wof:placetype": "installation",
@@ -103,5 +103,5 @@
     -122.3833879255378,
     37.617332580454836
   ],
-  "geometry": {"coordinates":[[-122.3833879255378,37.617332580454836]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3833879255378,37.617332580454836]]}
 }

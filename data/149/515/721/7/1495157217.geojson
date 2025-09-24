@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1495157217,
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Building for Space Travel",
     "wof:parent_id": 1360541563,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

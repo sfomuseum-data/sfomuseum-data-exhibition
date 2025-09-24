@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1763595033,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Zuber: Views of North America",
     "wof:parent_id": 1763594989,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38483628191317,
     37.61777614067629
   ],
-  "geometry": {"coordinates":[[-122.38483628191317,37.61777614067629]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38483628191317,37.61777614067629]]}
 }

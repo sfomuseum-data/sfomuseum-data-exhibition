@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226611139,
     "wof:label": "Cuisine: In the Kitchen, On the Table (1995-09-05 - 1996-02-28)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Cuisine: In the Kitchen, On the Table",
     "wof:parent_id": 1360516127,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

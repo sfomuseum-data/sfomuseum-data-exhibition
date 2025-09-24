@@ -73,7 +73,7 @@
     "wof:id": 1159159917,
     "wof:is_current": 0,
     "wof:label": "Steven Brock: Peru, India, and China (2007-07-18 - 2007-09-15)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Steven Brock: Peru, India, and China",
     "wof:parent_id": 1360521559,
     "wof:placetype": "installation",
@@ -92,5 +92,5 @@
     -122.38274,
     37.617227
   ],
-  "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38274,37.617227]]}
 }

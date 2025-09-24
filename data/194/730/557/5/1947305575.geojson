@@ -77,7 +77,7 @@
     ],
     "wof:id": 1947305575,
     "wof:label": "California Decorative Tile (2024-11-05)",
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "California Decorative Tile",
     "wof:parent_id": 1947304217,
     "wof:placetype": "installation",
@@ -94,5 +94,5 @@
     -122.38971793359582,
     37.616528705005116
   ],
-  "geometry": {"coordinates":[[-122.38971793359582,37.616528705005116],[-122.38971793359582,37.616528705005116]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38971793359582,37.616528705005116],[-122.38971793359582,37.616528705005116]]}
 }

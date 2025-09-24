@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226612847,
     "wof:label": "Bay Area Fashion Accessories (1987-09-01 - 1987-09-24)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Bay Area Fashion Accessories",
     "wof:parent_id": 1159157923,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

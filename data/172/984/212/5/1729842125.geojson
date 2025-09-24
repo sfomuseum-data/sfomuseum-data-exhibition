@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1729842125,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Kids’ Spot: Redwood Forest",
     "wof:parent_id": 1360516247,
     "wof:placetype": "installation",
@@ -79,5 +79,5 @@
     -122.38478634711926,
     37.614336211275
   ],
-  "geometry": {"coordinates":[[-122.38478634711926,37.614336211275]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38478634711926,37.614336211275]]}
 }

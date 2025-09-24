@@ -88,7 +88,7 @@
       }
     ],
     "wof:id": 1495157237,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Above the Bay: The Aerial Photography of Stanley Page",
     "wof:parent_id": 1477855943,
     "wof:placetype": "installation",
@@ -106,5 +106,5 @@
     -122.38801717827252,
     37.61427924119855
   ],
-  "geometry": {"coordinates":[[-122.38801717827252,37.61427924119855]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38801717827252,37.61427924119855]]}
 }

@@ -83,7 +83,7 @@
     ],
     "wof:id": 1226619101,
     "wof:label": "Bali and Java: Art and Folk Traditions (2006-11-09 - 2007-03-26)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "Bali and Java: Folk Art and Tradition",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.38894152323134,
     37.61602910736223
   ],
-  "geometry": {"coordinates":[[-122.3891310124426,37.61602910736223],[-122.38894152323134,37.61542448763906]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3891310124426,37.61602910736223],[-122.38894152323134,37.61542448763906]]}
 }

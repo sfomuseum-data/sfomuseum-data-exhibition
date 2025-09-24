@@ -76,7 +76,7 @@
     "wof:id": 1159159961,
     "wof:is_current": 0,
     "wof:label": "The Lockheed Constellation (2007-11-26 - 2008-03-11)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700026,
     "wof:name": "The Lockheed Constellation",
     "wof:parent_id": 1360541615,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

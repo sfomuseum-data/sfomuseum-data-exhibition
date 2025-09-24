@@ -75,7 +75,7 @@
     ],
     "wof:id": 1226604743,
     "wof:label": "Kids' Spot II (1998-10-01 - None)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Kids' Spot II: Exploratorium",
     "wof:parent_id": 1360392591,
     "wof:placetype": "installation",
@@ -96,5 +96,5 @@
     -122.39008706282495,
     37.62086428382005
   ],
-  "geometry": {"coordinates":[[-122.39008706282495,37.62086428382005]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.39008706282495,37.62086428382005]]}
 }

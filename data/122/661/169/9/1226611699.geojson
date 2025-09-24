@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226611699,
     "wof:label": "Roald Amundsen: The Spirit of Exploration (1995-12-01 - 1996-01-15)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Roald Amundsen: The Spirit of Exploration",
     "wof:parent_id": 1360516145,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

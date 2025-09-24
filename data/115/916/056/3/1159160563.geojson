@@ -79,7 +79,7 @@
     "wof:id": 1159160563,
     "wof:is_current": 0,
     "wof:label": "Philip Hyde (2015-02-02 - 2015-04-30)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Philip Hyde: Mountains and Deserts",
     "wof:parent_id": 1360516217,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.38560462151302,
     37.612579621116986
   ],
-  "geometry": {"coordinates":[[-122.38560462151302,37.612579621116986]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38560462151302,37.612579621116986]]}
 }

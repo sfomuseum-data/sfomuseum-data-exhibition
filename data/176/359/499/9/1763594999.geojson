@@ -84,7 +84,7 @@
       }
     ],
     "wof:id": 1763594999,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Flying the Southern Cross Route: Seventy-five Years of Australian Commercial Air Service to North America",
     "wof:parent_id": 1914589511,
     "wof:placetype": "installation",
@@ -99,5 +99,5 @@
     -122.38800316685777,
     37.61449504184901
   ],
-  "geometry": {"coordinates":[[-122.38800316685777,37.61449504184901]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38800316685777,37.61449504184901]]}
 }

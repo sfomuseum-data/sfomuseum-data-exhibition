@@ -79,7 +79,7 @@
     "wof:id": 1159160321,
     "wof:is_current": 0,
     "wof:label": "Threading the Needle: Sewing in the Machine Age (2012-03-02 - 2012-08-06)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Threading the Needle: Sewing in the Machine Age",
     "wof:parent_id": 1360516121,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

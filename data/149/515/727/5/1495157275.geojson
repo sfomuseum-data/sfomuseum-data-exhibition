@@ -79,7 +79,7 @@
       }
     ],
     "wof:id": 1495157275,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Gateway High School: The Treehouse: A Sanctuary",
     "wof:parent_id": 1477855831,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38853385581962,
     37.61689110703526
   ],
-  "geometry": {"coordinates":[[-122.38853385581962,37.61689110703526]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38853385581962,37.61689110703526]]}
 }

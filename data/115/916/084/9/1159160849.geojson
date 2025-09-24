@@ -82,7 +82,7 @@
     "wof:id": 1159160849,
     "wof:is_current": 1,
     "wof:label": "Antoine Bruy: Scrublands (2018-02-16 - 2018-05-10)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Antoine Bruy: Scrublands",
     "wof:parent_id": 1159157057,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.38730757726586,
     37.62040377299203
   ],
-  "geometry": {"coordinates":[[-122.38730757726586,37.62040377299203]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38730757726586,37.62040377299203]]}
 }

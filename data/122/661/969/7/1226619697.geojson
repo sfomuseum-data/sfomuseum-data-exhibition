@@ -68,7 +68,7 @@
     ],
     "wof:id": 1226619697,
     "wof:label": "San Francisco Ethnic Dance (2008-06-03 - 2008-09-05)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700026,
     "wof:name": "R.J. Muna: 30th Anniversary San Francisco Ethnic Dance Festival",
     "wof:parent_id": 1360521559,
     "wof:placetype": "installation",
@@ -84,5 +84,5 @@
     -122.38274,
     37.617227
   ],
-  "geometry": {"coordinates":[[-122.38274,37.617227]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38274,37.617227]]}
 }

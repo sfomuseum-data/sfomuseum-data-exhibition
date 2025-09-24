@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226606829,
     "wof:label": "Redwood Empire (1994-03-01 - 1994-04-30)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Redwood Empire",
     "wof:parent_id": 1159157877,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

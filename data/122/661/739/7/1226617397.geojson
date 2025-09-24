@@ -72,7 +72,7 @@
     ],
     "wof:id": 1226617397,
     "wof:label": "Carousel Animals from Golden Gate Park Carousel (1982-02-14 - 1982-05-15)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Carousel Animals from Golden Gate Park Carousel",
     "wof:parent_id": 1360516133,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38719725366178,
     37.61908725586695
   ],
-  "geometry": {"coordinates":[[-122.38719725366178,37.61908725586695]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719725366178,37.61908725586695]]}
 }

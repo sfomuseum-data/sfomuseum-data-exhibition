@@ -85,7 +85,7 @@
     "wof:id": 1159160649,
     "wof:is_current": 1,
     "wof:label": "Maneki Neko: Japan’s Beckoning Cat (2018-02-02 - 2018-09-10)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Maneki Neko: Japan’s Beckoning Cats",
     "wof:parent_id": 1159157067,
     "wof:placetype": "installation",
@@ -104,5 +104,5 @@
     -122.38271164883223,
     37.6174220145607
   ],
-  "geometry": {"coordinates":[[-122.38271164883223,37.6174220145607]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38271164883223,37.6174220145607]]}
 }

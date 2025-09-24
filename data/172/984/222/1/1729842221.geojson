@@ -59,7 +59,7 @@
       }
     ],
     "wof:id": 1729842221,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "The Continuous Thread: Celebrating Our Interwoven Histories, Identities and Contributions",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
@@ -76,5 +76,5 @@
     -122.37385309950533,
     37.61939390848619
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.37385309950533,37.61939390848619]}
 }

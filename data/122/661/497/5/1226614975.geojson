@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226614975,
     "wof:label": "Historic San Francisco photographs from San Francisco Collections (1990-08-07 - 1990-10-01)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Historic San Francisco photographs from San Francisco Collections",
     "wof:parent_id": 1360516487,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.386898,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903]]}
 }

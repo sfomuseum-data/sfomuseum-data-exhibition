@@ -68,7 +68,7 @@
       }
     ],
     "wof:id": 1495157243,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Greenleaf TK–8: Social Justice Posters",
     "wof:parent_id": 1159157075,
     "wof:placetype": "installation",
@@ -86,5 +86,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38444211236417,37.614828422481345]]}
 }

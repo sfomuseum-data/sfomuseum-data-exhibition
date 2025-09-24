@@ -1,5 +1,5 @@
 {
-  "id": 1729842155,
+  "id": 1863490107,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2024-06-17",
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1863490107,
     "wof:label": "Kids’ Spot: Spirogyrate (2021-11-09)",
-    "wof:lastmodified": 1758612833,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Kids’ Spot: Spirogyrate",
     "wof:parent_id": 1763588527,
     "wof:placetype": "installation",
@@ -100,5 +100,5 @@
     -122.38441465047205,
     37.618784301572546
   ],
-  "geometry": {"coordinates":[[-122.38441465047205,37.618784301572546]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38441465047205,37.618784301572546]]}
 }

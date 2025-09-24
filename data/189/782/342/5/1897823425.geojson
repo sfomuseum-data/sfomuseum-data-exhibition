@@ -84,7 +84,7 @@
       }
     ],
     "wof:id": 1897823425,
-    "wof:lastmodified": 1758612833,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Artists of the Airways: Airline Travel Posters from the SFO Museum Collection",
     "wof:parent_id": 1914589511,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.38800316685777,
     37.61449504184901
   ],
-  "geometry": {"coordinates":[[-122.38800316685777,37.61449504184901]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38800316685777,37.61449504184901]]}
 }

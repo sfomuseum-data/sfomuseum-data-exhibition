@@ -79,7 +79,7 @@
     "wof:id": 1159160861,
     "wof:is_current": 1,
     "wof:label": "Thomas Jackson: Emergent Behavior (2018-03-13 - 2018-06-12)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Thomas Jackson: Emergent Behavior",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.38411942369108,
     37.6154571162206
   ],
-  "geometry": {"coordinates":[[-122.38411942369108,37.6154571162206]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38411942369108,37.6154571162206]]}
 }

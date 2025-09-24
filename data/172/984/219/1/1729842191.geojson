@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1729842191,
-    "wof:lastmodified": 1758612833,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Kids’ Spot: Bay Area Bird Encounters",
     "wof:parent_id": 1360516253,
     "wof:placetype": "installation",
@@ -81,5 +81,5 @@
     -122.3812258897383,
     37.61753800404816
   ],
-  "geometry": {"coordinates":[[-122.3812258897383,37.61753800404816]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3812258897383,37.61753800404816]]}
 }

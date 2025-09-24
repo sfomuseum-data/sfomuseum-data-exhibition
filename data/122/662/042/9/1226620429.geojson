@@ -71,7 +71,7 @@
     ],
     "wof:id": 1226620429,
     "wof:label": "Laura Skinner: Experimental (2018-06-12 - 2018-09-11)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Laura Skinner: Experimental",
     "wof:parent_id": 1159157073,
     "wof:placetype": "installation",
@@ -87,5 +87,5 @@
     -122.38411942369108,
     37.6154571162206
   ],
-  "geometry": {"coordinates":[[-122.38411942369108,37.6154571162206]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38411942369108,37.6154571162206]]}
 }

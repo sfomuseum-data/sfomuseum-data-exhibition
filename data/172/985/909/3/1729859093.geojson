@@ -1,5 +1,5 @@
 {
-  "id": 1729842185,
+  "id": 1729859093,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2020-05-01",
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1729859093,
     "wof:label": "Extra ‘O’! African Barbershop and Hairdressing Signs (2020-~05)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Extra ‘O’! African Barbershop and Hairdressing Signs",
     "wof:parent_id": 1729792769,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38211197705529,
     37.617421155555235
   ],
-  "geometry": {"coordinates":[[-122.38211197705529,37.617421155555235],[-122.38211197705529,37.617421155555235]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38211197705529,37.617421155555235],[-122.38211197705529,37.617421155555235]]}
 }

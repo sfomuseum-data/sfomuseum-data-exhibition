@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1796996503,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "Pylon Essay: First Flights: Early Women Aviators and Their Aircraft",
     "wof:parent_id": 1763588519,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38719319835137,
     37.619102719725085
   ],
-  "geometry": {"coordinates":[[-122.38719319835137,37.619102719725085]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719319835137,37.619102719725085]]}
 }

@@ -1,5 +1,5 @@
 {
-  "id": 1159159805,
+  "id": 1729859069,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2010-01-29",
@@ -77,7 +77,7 @@
     "wof:id": 1729859069,
     "wof:is_current": 0,
     "wof:label": "PAA: China Clipper (2006~)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "PAA: China Clipper",
     "wof:parent_id": 1360541643,
     "wof:placetype": "installation",
@@ -98,5 +98,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

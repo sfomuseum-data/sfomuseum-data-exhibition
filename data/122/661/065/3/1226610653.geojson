@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226610653,
     "wof:label": "Children's Art: Town School for Boys (1996-01-15 - 1996-02-21)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700023,
     "wof:name": "Town School for Boys",
     "wof:parent_id": 1159157881,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.386898,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903]]}
 }

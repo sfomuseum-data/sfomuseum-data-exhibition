@@ -1,5 +1,5 @@
 {
-  "id": 1495157245,
+  "id": 1729859053,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2019-10-28",
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1729859053,
     "wof:label": "Clarissa Bonet: City Space (2019-07-23)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Clarissa Bonet: City Space",
     "wof:parent_id": 1477855653,
     "wof:placetype": "installation",
@@ -100,5 +100,5 @@
     -122.3848138298103,
     37.61778735663957
   ],
-  "geometry": {"coordinates":[[-122.3848138298103,37.61778735663957]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3848138298103,37.61778735663957]]}
 }

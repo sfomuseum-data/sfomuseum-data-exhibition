@@ -76,7 +76,7 @@
     "wof:id": 1159159421,
     "wof:is_current": 0,
     "wof:label": "Romance of Early Air Travel (2000-11-20 - 2002-01-07)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "Romance of Early Air Travel",
     "wof:parent_id": 1360541557,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

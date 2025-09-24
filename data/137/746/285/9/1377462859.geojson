@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1377462859,
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Aluminum: The Miracle Metal of Aviation",
     "wof:parent_id": 1360541667,
     "wof:placetype": "installation",
@@ -94,5 +94,5 @@
     -122.387939,
     37.614512
   ],
-  "geometry": {"coordinates":[[-122.387939,37.614512]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.387939,37.614512]]}
 }

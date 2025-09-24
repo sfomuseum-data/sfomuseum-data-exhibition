@@ -1,5 +1,5 @@
 {
-  "id": 1495157237,
+  "id": 1729859165,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2020-05-01",
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1729859165,
     "wof:label": "Above the Bay: The Aerial Photography of Stanley Page (2020-~05)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Above the Bay: The Aerial Photography of Stanley Page",
     "wof:parent_id": 1729813735,
     "wof:placetype": "installation",
@@ -104,5 +104,5 @@
     -122.38819101441787,
     37.61441704389456
   ],
-  "geometry": {"coordinates":[[-122.38819101441787,37.61441704389456],[-122.38819101441787,37.61441704389456]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38819101441787,37.61441704389456],[-122.38819101441787,37.61441704389456]]}
 }

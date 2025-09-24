@@ -1,5 +1,5 @@
 {
-  "id": 1746382299,
+  "id": 1863466805,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2021-11-09",
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1863466805,
     "wof:label": "Harvey Milk Temporary Concession Walls (2021-11-09)",
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Harvey Milk Temporary Concession Walls",
     "wof:parent_id": 1763588499,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38630763829786,
     37.614287042553194
   ],
-  "geometry": {"coordinates":[[-122.38630763829786,37.614287042553194],[-122.38630763829786,37.614287042553194]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38630763829786,37.614287042553194],[-122.38630763829786,37.614287042553194]]}
 }

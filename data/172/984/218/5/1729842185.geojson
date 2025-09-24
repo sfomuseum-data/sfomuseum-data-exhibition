@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1729842185,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Extra ‘O’! African Barbershop and Hairdressing Signs",
     "wof:parent_id": 1477855627,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.38271164883223,
     37.6174220145607
   ],
-  "geometry": {"coordinates":[[-122.38271164883223,37.6174220145607]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38271164883223,37.6174220145607]]}
 }

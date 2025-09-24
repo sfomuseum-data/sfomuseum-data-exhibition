@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1360541749,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "Noritaka Minami: California City, California",
     "wof:parent_id": 1159157051,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38751545660425,
     37.61768511229672
   ],
-  "geometry": {"coordinates":[[-122.38751545660425,37.61768511229672]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38751545660425,37.61768511229672]]}
 }

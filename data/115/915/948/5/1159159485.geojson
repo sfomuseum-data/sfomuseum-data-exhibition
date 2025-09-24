@@ -87,7 +87,7 @@
     "wof:id": 1159159485,
     "wof:is_current": 0,
     "wof:label": "An Evolution of Form: The American Chair (2002-04-22 - 2002-11-12)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700023,
     "wof:name": "An Evolution of Form: The American Chair",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -106,5 +106,5 @@
     -122.38894152323134,
     37.61602910736223
   ],
-  "geometry": {"coordinates":[[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223]]}
 }

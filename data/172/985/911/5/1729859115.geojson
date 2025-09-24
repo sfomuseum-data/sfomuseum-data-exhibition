@@ -1,5 +1,5 @@
 {
-  "id": 1360521605,
+  "id": 1729859115,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2017-01-01",
@@ -79,7 +79,7 @@
     "wof:id": 1729859115,
     "wof:is_current": 0,
     "wof:label": "Airplane Models from the Goosedale Collection, 1915-1950 (2014~)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Airplane Models from the Goosedale Collection, 1915-1950",
     "wof:parent_id": 1360516151,
     "wof:placetype": "installation",
@@ -100,5 +100,5 @@
     -122.38749588292009,
     37.61992999943579
   ],
-  "geometry": {"coordinates":[[-122.38749588292009,37.61992999943579]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38749588292009,37.61992999943579]]}
 }

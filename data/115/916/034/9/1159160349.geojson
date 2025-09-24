@@ -104,7 +104,7 @@
     "wof:id": 1159160349,
     "wof:is_current": 0,
     "wof:label": "America’s Cup, Sailing for International Sport’s Greatest Trophy 1851-1937 (2013-08-20 - 2014-03-03)",
-    "wof:lastmodified": 1758612830,
+    "wof:lastmodified": 1758700026,
     "wof:name": "America’s Cup: Sailing for International Sport’s Greatest Trophy 1851-1937",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -123,5 +123,5 @@
     -122.38894152323134,
     37.61602910736223
   ],
-  "geometry": {"coordinates":[[-122.3891310124426,37.61602910736223],[-122.38894152323134,37.61542448763906],[-122.38926704301338,37.61564469738159]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3891310124426,37.61602910736223],[-122.38894152323134,37.61542448763906],[-122.38926704301338,37.61564469738159]]}
 }

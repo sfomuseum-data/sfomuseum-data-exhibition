@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226604775,
     "wof:label": "The Museum of Packaging Antiquities (1997-11-17 - 1998-08-01)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "The Museum of Packaging Antiquities",
     "wof:parent_id": 1159157883,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926]]}
 }

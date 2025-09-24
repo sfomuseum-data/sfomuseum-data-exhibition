@@ -74,7 +74,7 @@
       }
     ],
     "wof:id": 1360700675,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Millee Tibbs: Air/Plains                            ",
     "wof:parent_id": 1159157077,
     "wof:placetype": "installation",
@@ -90,5 +90,5 @@
     -122.38560464919266,
     37.612579503649634
   ],
-  "geometry": {"coordinates":[[-122.38560464919266,37.612579503649634]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38560464919266,37.612579503649634]]}
 }

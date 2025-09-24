@@ -72,7 +72,7 @@
     ],
     "wof:id": 1914632773,
     "wof:label": "Harvey Milk Sterile Connector (2024-06-17)",
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "Harvey Milk Sterile Connector",
     "wof:parent_id": 1914601309,
     "wof:placetype": "installation",
@@ -91,5 +91,5 @@
     -122.38511066563744,
     37.614105592105886
   ],
-  "geometry": {"coordinates":[[-122.38511066563744,37.614105592105886]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38511066563744,37.614105592105886]]}
 }

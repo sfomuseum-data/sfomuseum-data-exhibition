@@ -87,7 +87,7 @@
     "wof:id": 1159159993,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Christian Community Schools (2008-08-01 - 2008-09-30)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700026,
     "wof:name": "Christian Community Schools",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -106,5 +106,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]]}
 }

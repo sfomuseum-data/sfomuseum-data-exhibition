@@ -83,7 +83,7 @@
     ],
     "wof:id": 1226612041,
     "wof:label": "Navajo Weavings (1983-07-13 - 1984-01-01)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Navajo Weavings",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.38274,
     37.61778741781103
   ],
-  "geometry": {"coordinates":[[-122.38481416647545,37.61778741781103],[-122.38274,37.617227]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38481416647545,37.61778741781103],[-122.38274,37.617227]]}
 }

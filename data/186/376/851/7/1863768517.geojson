@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1863768517,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700029,
     "wof:name": "A New Woman: Clara Barck Welles’ Influence on Arts and Crafts Silver",
     "wof:parent_id": 1763588551,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38897295514269,
     37.614601366959555
   ],
-  "geometry": {"coordinates":[[-122.38897295514269,37.614601366959555]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38897295514269,37.614601366959555]]}
 }

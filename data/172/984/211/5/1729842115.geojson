@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1729842115,
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "The 1954 San Francisco International Airport Terminal",
     "wof:parent_id": 1745882459,
     "wof:placetype": "installation",
@@ -97,5 +97,5 @@
     -122.38340108065063,
     37.617337537490705
   ],
-  "geometry": {"coordinates":[[-122.38340108065063,37.617337537490705]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38340108065063,37.617337537490705]]}
 }

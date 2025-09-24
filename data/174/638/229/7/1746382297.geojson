@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1746382297,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700028,
     "wof:name": "Pylon Essay: The American Motorcycle Girls",
     "wof:parent_id": 1729792771,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38719319835137,
     37.61910271972509
   ],
-  "geometry": {"coordinates":[[-122.38719319835137,37.61910271972509]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38719319835137,37.61910271972509]]}
 }

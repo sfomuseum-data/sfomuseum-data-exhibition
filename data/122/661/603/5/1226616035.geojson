@@ -69,7 +69,7 @@
     ],
     "wof:id": 1226616035,
     "wof:label": "Italian Photography: Roberto Gerometta (1991-06-01 - 1991-07-31)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Italian Photography: Roberto Gerometta",
     "wof:parent_id": 1360516171,
     "wof:placetype": "installation",
@@ -85,5 +85,5 @@
     -122.38751545660425,
     37.61768511229672
   ],
-  "geometry": {"coordinates":[[-122.38751545660425,37.61768511229672]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38751545660425,37.61768511229672]]}
 }

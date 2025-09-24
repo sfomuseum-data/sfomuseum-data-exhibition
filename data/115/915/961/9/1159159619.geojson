@@ -74,7 +74,7 @@
     "wof:id": 1159159619,
     "wof:is_current": 0,
     "wof:label": "Children's Art: Wish Art (2003-02-07 - 2003-03-30)",
-    "wof:lastmodified": 1758612828,
+    "wof:lastmodified": 1758700024,
     "wof:name": "Make-A-Wish Foundation: Wish Art",
     "wof:parent_id": 1360516235,
     "wof:placetype": "installation",
@@ -93,5 +93,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38444211236417,37.614828422481345]]}
 }

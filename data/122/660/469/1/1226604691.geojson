@@ -86,7 +86,7 @@
     ],
     "wof:id": 1226604691,
     "wof:label": "Children's Art: The Convent of The Sacred Heart Elementary, San Francisco (1997-10-15 - 1997-11-30)",
-    "wof:lastmodified": 1758612827,
+    "wof:lastmodified": 1758700022,
     "wof:name": "The Convent of The Sacred Heart Elementary School",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -102,5 +102,5 @@
     -122.384469,
     37.61903
   ],
-  "geometry": {"coordinates":[[-122.386898,37.61903],[-122.384469,37.61888]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.386898,37.61903],[-122.384469,37.61888]]}
 }

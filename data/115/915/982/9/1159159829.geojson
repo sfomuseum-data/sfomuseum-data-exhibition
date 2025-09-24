@@ -87,7 +87,7 @@
     "wof:id": 1159159829,
     "wof:is_current": 0,
     "wof:label": "Children's Art: The Art of Beets: From DooF - A Food Show for Kids and the Risse Community School (2006-10-01 - 2006-11-30)",
-    "wof:lastmodified": 1758612829,
+    "wof:lastmodified": 1758700025,
     "wof:name": "DooF: A Food Show for Kids and the Rise Community School: The Art of Beets",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -106,5 +106,5 @@
     -122.38444211236417,
     37.614828422481345
   ],
-  "geometry": {"coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385472,37.613926],[-122.38444211236417,37.614828422481345]]}
 }

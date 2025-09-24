@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1495157225,
-    "wof:lastmodified": 1758612831,
+    "wof:lastmodified": 1758700027,
     "wof:name": "California Studio Craft: Featuring Works from the Forrest L. Merrill Collection",
     "wof:parent_id": 1159157067,
     "wof:placetype": "installation",
@@ -88,5 +88,5 @@
     -122.38271164883223,
     37.6174220145607
   ],
-  "geometry": {"coordinates":[[-122.38271164883223,37.6174220145607]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38271164883223,37.6174220145607]]}
 }

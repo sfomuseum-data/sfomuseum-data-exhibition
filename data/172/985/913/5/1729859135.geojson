@@ -1,5 +1,5 @@
 {
-  "id": 1159159695,
+  "id": 1729859135,
   "type": "Feature",
   "properties": {
     "date:cessation_lower": "2011-01-01",
@@ -76,7 +76,7 @@
     "wof:id": 1729859135,
     "wof:is_current": -1,
     "wof:label": "San Francisco International Airport Schedule Board (2006~)",
-    "wof:lastmodified": 1758612832,
+    "wof:lastmodified": 1758700031,
     "wof:name": "San Francisco International Airport Schedule Board",
     "wof:parent_id": 1360541687,
     "wof:placetype": "installation",
@@ -99,5 +99,5 @@
     -122.3879113760689,
     37.614502386613836
   ],
-  "geometry": {"coordinates":[[-122.3879113760689,37.614502386613836]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3879113760689,37.614502386613836]]}
 }
