@@ -28,7 +28,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
-    "sfomuseum:type": "",
+    "sfomuseum:type": "Photography",
     "sfomuseum_www:exhibition_id": 25046,
     "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/wendel-white-schools-for-the-colored",
     "src:geom": "sfomuseum",
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1947254285,
-    "wof:lastmodified": 1760687377,
+    "wof:lastmodified": 1760773720,
     "wof:name": "Wendel White: Schools for the Colored (2024)",
     "wof:parent_id": 1914601395,
     "wof:placetype": "installation",
