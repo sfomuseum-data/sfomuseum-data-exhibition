@@ -13,7 +13,7 @@
     "geom:bbox": "-122.384620,37.614113,-122.384620,37.614113",
     "geom:latitude": 37.614113087815774,
     "geom:longitude": -122.38461961187014,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "",
     "sfomuseum:date_start": "2024-06-15",
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1930439815,
-    "wof:lastmodified": 1761637582,
+    "wof:lastmodified": 1761692512,
     "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
     "wof:parent_id": 1914650743,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38461961187014,
     37.614113087815774
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.38461961187014,37.614113087815774],[-122.38461961187014,37.614113087815774]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38462,37.614113],[-122.38462,37.614113]]}
 }
