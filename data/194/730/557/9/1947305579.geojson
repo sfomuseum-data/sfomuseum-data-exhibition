@@ -12,7 +12,7 @@
     "geom:latitude": 37.61449504184901,
     "geom:longitude": -122.38800316685777,
     "millsfield:count_collection_objects": 24,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-10-05",
     "sfomuseum:date_start": "2024-04-06",
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1947305579,
     "wof:label": "Artists of the Airways: Airline Travel Posters from the SFO Museum Collection (2024-11-05)",
-    "wof:lastmodified": 1761637582,
+    "wof:lastmodified": 1761692724,
     "wof:name": "Artists of the Airways: Airline Travel Posters from the SFO Museum Collection",
     "wof:parent_id": 1947304235,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38800316685777,
     37.61449504184901
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.38800316685777,37.61449504184901]]}
+  "geometry": {"coordinates":[[-122.38800316685777,37.61449504184901]],"type":"MultiPoint"}
 }
