@@ -13,7 +13,7 @@
     "geom:bbox": "-122.385157,37.613893,-122.385157,37.613893",
     "geom:latitude": 37.613892603964324,
     "geom:longitude": -122.38515721248761,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:date_end": "2025-05-11",
     "sfomuseum:date_start": "2024-07-20",
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1914663671,
-    "wof:lastmodified": 1761637582,
+    "wof:lastmodified": 1761692558,
     "wof:name": "Rosie the Riveter: Womanpower in Wartime",
     "wof:parent_id": 1914601263,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38515721248761,
     37.613892603964324
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.38515721248761,37.613892603964324]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.385157,37.613893]]}
 }
