@@ -11,7 +11,7 @@
     "geom:bbox": "-122.388145,37.614571,-122.388145,37.614571",
     "geom:latitude": 37.614570544252,
     "geom:longitude": -122.38814488455577,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-09-07",
     "sfomuseum:date_start": "2023-09-16",
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1947305537,
     "wof:label": "Special Collections Poster: CNAC (2024-11-05)",
-    "wof:lastmodified": 1761692724,
+    "wof:lastmodified": 1761724064,
     "wof:name": "Special Collections Poster: CNAC",
     "wof:parent_id": 1947304253,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38814488455577,
     37.614570544252
   ],
-  "geometry": {"coordinates":[[-122.38814488455577,37.614570544252],[-122.38814488455577,37.614570544252]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38814488455577,37.614570544252],[-122.38814488455577,37.614570544252]]}
 }
