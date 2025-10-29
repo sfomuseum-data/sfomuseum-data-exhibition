@@ -13,7 +13,7 @@
     "geom:bbox": "-122.388274,37.614540,-122.388274,37.614540",
     "geom:latitude": 37.61453995502804,
     "geom:longitude": -122.3882744230715,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:date_end": "2025-12-07",
     "sfomuseum:date_start": "2022-05-28",
@@ -25,7 +25,7 @@
     "sfomuseum:has_brochure": 0,
     "sfomuseum:has_catalog": 0,
     "sfomuseum:hashtag": "",
-    "sfomuseum:on_display": 0,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1914632809,
     "wof:label": "Going the Distance (2024-06-17)",
-    "wof:lastmodified": 1761692724,
+    "wof:lastmodified": 1761724064,
     "wof:name": "Going the Distance",
     "wof:parent_id": 1914601177,
     "wof:placetype": "installation",
@@ -101,5 +101,5 @@
     -122.3882744230715,
     37.61453995502804
   ],
-  "geometry": {"coordinates":[[-122.3882744230715,37.61453995502804]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.3882744230715,37.61453995502804]]}
 }
