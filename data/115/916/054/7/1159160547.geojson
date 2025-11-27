@@ -12,7 +12,7 @@
     "geom:area": 0,
     "geom:area_square_m": 776.781935,
     "geom:bbox": "-122.389267,37.614512,-122.387939,37.616029",
-    "geom:latitude": 37.615402573095714,
+    "geom:latitude": 37.61540257309572,
     "geom:longitude": -122.38881964467183,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -25,10 +25,10 @@
     "sfomuseum:exhibition_number": "L2014.26",
     "sfomuseum:exhibition_type": "nonaviation",
     "sfomuseum:gallery_id": [
+      59,
       18,
       19,
-      27,
-      59
+      27
     ],
     "sfomuseum:has_brochure": 1,
     "sfomuseum:has_catalog": 0,
@@ -63,8 +63,21 @@
     ],
     "wof:country": "US",
     "wof:created": 1522949915,
-    "wof:geomhash": "4fc2e2228d3add2c52725b6a11a99c80",
+    "wof:geomhash": "3f305999f9dffc8b3c518ff7798b5922",
     "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516199,
+        "installation_id": 1159160547,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      },
       {
         "building_id": 1159396321,
         "campus_id": 102527513,
@@ -104,25 +117,12 @@
         "region_id": 85688637,
         "venue_id": 1360521563,
         "wing_id": 1159396153
-      },
-      {
-        "building_id": 1159396321,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516199,
-        "installation_id": 1159160547,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159396153
       }
     ],
     "wof:id": 1159160547,
     "wof:is_current": 0,
     "wof:label": "The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition (2015-04-03 - 2015-11-02)",
-    "wof:lastmodified": 1764146371,
+    "wof:lastmodified": 1764232714,
     "wof:name": "The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition",
     "wof:parent_id": -4,
     "wof:placetype": "installation",
@@ -141,5 +141,5 @@
     -122.387939,
     37.61602910736223
   ],
-  "geometry": {"type":"MultiPoint","coordinates":[[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223],[-122.387939,37.614512],[-122.38926704301338,37.61564469738159]]}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38926704301338,37.61564469738159],[-122.38894152323134,37.61542448763906],[-122.3891310124426,37.61602910736223],[-122.387939,37.614512]]}
 }
