@@ -13,9 +13,9 @@
     "geom:longitude": -122.38461961187014,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "",
+    "sfomuseum:date_end": "2026-07-26",
     "sfomuseum:date_start": "2024-06-15",
-    "sfomuseum:description": "This is an evergreen exhibition with an ongoing timeline.",
+    "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2136,
     "sfomuseum:gallery_id": [
       76
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1947305553,
     "wof:label": "Flying on Display: Aviation at the Panama-Pacific International Exposition (2024-11-05)",
-    "wof:lastmodified": 1747812853,
+    "wof:lastmodified": 1767901980,
     "wof:name": "Flying on Display: Aviation at the Panama-Pacific International Exposition",
     "wof:parent_id": 1947304393,
     "wof:placetype": "installation",
@@ -94,5 +94,5 @@
     -122.38461961187014,
     37.614113087815774
   ],
-  "geometry": {"coordinates":[[-122.38461961187014,37.614113087815774],[-122.38461961187014,37.614113087815774]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38461961187014,37.614113087815774],[-122.38461961187014,37.614113087815774]]}
 }
