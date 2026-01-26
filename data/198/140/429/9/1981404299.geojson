@@ -65,8 +65,8 @@
       }
     ],
     "wof:id": 1981404299,
-    "wof:lastmodified": 1758094536,
-    "wof:name": "Special Exhibit: C3C Executive Office Graphics",
+    "wof:lastmodified": 1769451631,
+    "wof:name": "Special Exhibit: C3C Executive Office Graphics, Phase 1",
     "wof:parent_id": 1729828959,
     "wof:placetype": "installation",
     "wof:placetype_alt": "exhibition",
@@ -80,5 +80,5 @@
     -122.37385309950533,
     37.61939390848619
   ],
-  "geometry": {"coordinates":[-122.37385309950533,37.61939390848619],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.37385309950533,37.61939390848619]}
 }
