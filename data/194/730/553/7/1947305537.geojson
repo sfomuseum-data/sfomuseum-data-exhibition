@@ -78,7 +78,7 @@
     ],
     "wof:id": 1947305537,
     "wof:label": "Special Collections Poster: CNAC (2024-11-05)",
-    "wof:lastmodified": 1771874389,
+    "wof:lastmodified": 1771922289,
     "wof:name": "Special Collections Poster: CNAC",
     "wof:parent_id": 1947304253,
     "wof:placetype": "installation",
@@ -95,5 +95,5 @@
     -122.38814488455577,
     37.614570544252
   ],
-  "geometry": {"coordinates":[[-122.38814488455577,37.614570544252],[-122.38814488455577,37.614570544252]],"type":"MultiPoint"}
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.38814488455577,37.614570544252],[-122.38814488455577,37.614570544252]]}
 }
