@@ -13,7 +13,7 @@
     "geom:bbox": "-122.388025,37.614552,-122.388025,37.614552",
     "geom:latitude": 37.61455159013738,
     "geom:longitude": -122.38802501835971,
-    "millsfield:count_collection_objects": 24,
+    "millsfield:count_collection_objects": 27,
     "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:date_end": "2023-12-10",
@@ -84,7 +84,7 @@
       }
     ],
     "wof:id": 1796996499,
-    "wof:lastmodified": 1776325112,
+    "wof:lastmodified": 1776415947,
     "wof:name": "Supersonic Transport: The First Generation",
     "wof:parent_id": 1914589509,
     "wof:placetype": "installation",
