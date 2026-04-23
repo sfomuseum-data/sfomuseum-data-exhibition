@@ -29,6 +29,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 25152,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/indoor-eden-victorian-jardinieres",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 2014861669,
-    "wof:lastmodified": 1776934865,
+    "wof:lastmodified": 1776975041,
     "wof:name": "Indoor Eden: Victorian Jardinières",
     "wof:parent_id": 1947304221,
     "wof:placetype": "installation",

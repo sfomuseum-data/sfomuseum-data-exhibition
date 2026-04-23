@@ -29,6 +29,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 25167,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/slow-burn-undergraduate-photography-california-college-arts",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 2015352407,
-    "wof:lastmodified": 1776934865,
+    "wof:lastmodified": 1776975042,
     "wof:name": "Slow Burn: Undergraduate Photography at California College of the Arts",
     "wof:parent_id": 1947304425,
     "wof:placetype": "installation",

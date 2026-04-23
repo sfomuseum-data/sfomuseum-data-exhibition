@@ -30,6 +30,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": -1,
     "sfomuseum:type": "NonAviation",
+    "sfomuseum_www:exhibition_id": 25160,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/lowrider-bikes-familia-y-cultura",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -104,7 +106,7 @@
       }
     ],
     "wof:id": 2015292221,
-    "wof:lastmodified": 1776934865,
+    "wof:lastmodified": 1776975041,
     "wof:name": "Lowrider Bikes: Familia y Cultura",
     "wof:parent_id": -4,
     "wof:placetype": "installation",

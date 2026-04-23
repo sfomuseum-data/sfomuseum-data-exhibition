@@ -29,6 +29,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 1,
     "sfomuseum:type": "Student Art",
+    "sfomuseum_www:exhibition_id": 25168,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/shared-impressions-printmaking-laney-college",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 2015352409,
-    "wof:lastmodified": 1776934865,
+    "wof:lastmodified": 1776975042,
     "wof:name": "Shared Impressions: Printmaking from Laney College",
     "wof:parent_id": 1947304327,
     "wof:placetype": "installation",
