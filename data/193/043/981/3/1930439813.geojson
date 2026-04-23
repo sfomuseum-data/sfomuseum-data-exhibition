@@ -15,7 +15,7 @@
     "geom:longitude": -122.38452224765126,
     "mz:is_current": 0,
     "sfo:level": 2,
-    "sfomuseum:date_end": "",
+    "sfomuseum:date_end": "2026-04-19",
     "sfomuseum:date_start": "2024-06-15",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2135,
@@ -76,7 +76,7 @@
       }
     ],
     "wof:id": 1930439813,
-    "wof:lastmodified": 1776848395,
+    "wof:lastmodified": 1776934865,
     "wof:name": "Above SFO: The Aerial Photography of Marshall Moxom",
     "wof:parent_id": 1914650737,
     "wof:placetype": "installation",
