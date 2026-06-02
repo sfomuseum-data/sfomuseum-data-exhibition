@@ -15,7 +15,7 @@
     "geom:longitude": -122.38210800323661,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2026-08-16",
+    "sfomuseum:date_end": "2026-08-30",
     "sfomuseum:date_start": "2025-08-30",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 1902,
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1981257377,
-    "wof:lastmodified": 1780299042,
+    "wof:lastmodified": 1780385425,
     "wof:name": "Give Me a Ring: A Telephone Retrospective",
     "wof:parent_id": 1947304639,
     "wof:placetype": "installation",

@@ -15,7 +15,7 @@
     "geom:longitude": -122.38515721248761,
     "mz:is_current": 1,
     "sfo:level": 2,
-    "sfomuseum:date_end": "2026-09-27",
+    "sfomuseum:date_end": "2026-10-18",
     "sfomuseum:date_start": "2025-05-17",
     "sfomuseum:description": "",
     "sfomuseum:exhibition_id": 2107,
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1964558715,
-    "wof:lastmodified": 1780299043,
+    "wof:lastmodified": 1780385426,
     "wof:name": "Women of Afrofuturism",
     "wof:parent_id": 1947304319,
     "wof:placetype": "installation",
