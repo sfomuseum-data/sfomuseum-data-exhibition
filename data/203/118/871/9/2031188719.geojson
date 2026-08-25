@@ -30,6 +30,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Aviation",
+    "sfomuseum_www:exhibition_id": 25174,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/destination-san-francisco",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304235,
@@ -80,7 +82,7 @@
       }
     ],
     "wof:id": 2031188719,
-    "wof:lastmodified": 1780990277,
+    "wof:lastmodified": 1787688085,
     "wof:name": "Destination: San Francisco",
     "wof:parent_id": 1947304247,
     "wof:placetype": "installation",

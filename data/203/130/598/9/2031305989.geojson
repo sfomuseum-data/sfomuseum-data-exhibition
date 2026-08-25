@@ -29,6 +29,8 @@
     "sfomuseum:placetype": "exhibition",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "Photography",
+    "sfomuseum_www:exhibition_id": 25176,
+    "sfomuseum_www:exhibition_url": "https://www.sfomuseum.org/exhibitions/eric-ruby-kamper-sweet-kamper",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1947304067,
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 2031305989,
-    "wof:lastmodified": 1780990277,
+    "wof:lastmodified": 1787688085,
     "wof:name": "Eric Ruby: Kamper Sweet Kamper",
     "wof:parent_id": 1947304567,
     "wof:placetype": "installation",
